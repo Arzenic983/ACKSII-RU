@@ -1,0 +1,12 @@
+{
+  "name": "acksii-ru",
+  "private": true,
+  "description": "Markdown rendering for the ACKS II Russian translation project",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "marked": "17.0.5"
+  }
+}

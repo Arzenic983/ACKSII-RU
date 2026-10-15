@@ -1,0 +1,37 @@
+{
+  "source_count": 315,
+  "target_count": 315,
+  "ids_and_order_equal": true,
+  "duplicate_ids": [],
+  "missing_ids": [],
+  "unexpected_ids": [],
+  "numeric_token_mismatches": [],
+  "formatting_mismatches": [],
+  "untranslated_latin_tokens": [
+    {
+      "id": "rr.p0055.b010",
+      "words": [
+        "II"
+      ]
+    },
+    {
+      "id": "rr.p0055.b013",
+      "words": [
+        "III"
+      ]
+    },
+    {
+      "id": "rr.p0056.b003",
+      "words": [
+        "IV"
+      ]
+    },
+    {
+      "id": "rr.p0056.b006",
+      "words": [
+        "V"
+      ]
+    }
+  ],
+  "empty_translations": []
+}

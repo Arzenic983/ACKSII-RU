@@ -1,0 +1,32 @@
+{
+  "00 Начало.md": {
+    "russian_letters_unchanged": true,
+    "unit_ids_unchanged": true,
+    "english_subtitles": 41,
+    "english_term_labels": 340
+  },
+  "01 Персонажи.md": {
+    "russian_letters_unchanged": true,
+    "unit_ids_unchanged": true,
+    "english_subtitles": 77,
+    "english_term_labels": 311
+  },
+  "02 Классы.md": {
+    "russian_letters_unchanged": true,
+    "unit_ids_unchanged": true,
+    "english_subtitles": 589,
+    "english_term_labels": 4221
+  },
+  "ACKS II — Начало и главы 1–2.md": {
+    "russian_letters_unchanged": true,
+    "unit_ids_unchanged": true,
+    "english_subtitles": 708,
+    "english_term_labels": 4872
+  },
+  "Примечания редактора.md": {
+    "russian_letters_unchanged": true,
+    "unit_ids_unchanged": true,
+    "english_subtitles": 1,
+    "english_term_labels": 107
+  }
+}

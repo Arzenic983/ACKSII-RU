@@ -1,0 +1,6063 @@
+[
+  {
+    "id": 1,
+    "term_en": "Judge",
+    "term_ru": "Арбитр",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Judge - Арбитр. ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.17",
+    "variants": [],
+    "aliases": [
+      "Judge"
+    ]
+  },
+  {
+    "id": 2,
+    "term_en": "Attributes",
+    "term_ru": "Атрибуты",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Attributes - Атрибуты",
+    "source_id": "glossary_docx",
+    "source_locator": "body.18",
+    "variants": [],
+    "aliases": [
+      "Attributes"
+    ]
+  },
+  {
+    "id": 3,
+    "term_en": "Proficiencies",
+    "term_ru": "Навыки",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Proficiencies - Навыки",
+    "source_id": "glossary_docx",
+    "source_locator": "body.19",
+    "variants": [],
+    "aliases": [
+      "Proficiencies"
+    ]
+  },
+  {
+    "id": 4,
+    "term_en": "Class powers",
+    "term_ru": "классовые способности",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Class powers - классовые способности",
+    "source_id": "glossary_docx",
+    "source_locator": "body.20",
+    "variants": [],
+    "aliases": [
+      "Class powers"
+    ]
+  },
+  {
+    "id": 5,
+    "term_en": "Armor Class (AC)",
+    "term_ru": "Класс брони",
+    "abbreviation_ru": "КБ",
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Armor Class (AC) - Класс брони (КБ)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.21",
+    "variants": [],
+    "aliases": [
+      "Armor Class",
+      "Armor Class (AC)"
+    ]
+  },
+  {
+    "id": 6,
+    "term_en": "Stone",
+    "term_ru": "Стоун",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Stone - Стоун",
+    "source_id": "glossary_docx",
+    "source_locator": "body.22",
+    "variants": [],
+    "aliases": [
+      "Stone"
+    ]
+  },
+  {
+    "id": 7,
+    "term_en": "Hit Dice",
+    "term_ru": "Кости Здоровья",
+    "abbreviation_ru": "КЗ",
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Hit Dice - Кости Здоровья (КЗ)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.23",
+    "variants": [],
+    "aliases": [
+      "Hit Dice"
+    ]
+  },
+  {
+    "id": 8,
+    "term_en": "Hit Points",
+    "term_ru": "Очки Здоровья",
+    "abbreviation_ru": "ОЗ",
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Hit Points - хиты(какие нахуй хиты у нас или хит дайс это хд и хиты это хп или всё на русском) Очки Здоровья (ОЗ)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.24",
+    "variants": [],
+    "aliases": [
+      "Hit Points"
+    ]
+  },
+  {
+    "id": 9,
+    "term_en": "PC",
+    "term_ru": "ПИ",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "PC - ПИ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.25",
+    "variants": [],
+    "aliases": [
+      "PC"
+    ]
+  },
+  {
+    "id": 10,
+    "term_en": "NPC",
+    "term_ru": "НИП",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "NPC - НИП ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.26",
+    "variants": [],
+    "aliases": [
+      "NPC"
+    ]
+  },
+  {
+    "id": 11,
+    "term_en": "Exp",
+    "term_ru": "Опыт",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Exp - Опыт",
+    "source_id": "glossary_docx",
+    "source_locator": "body.27",
+    "variants": [],
+    "aliases": [
+      "Exp"
+    ]
+  },
+  {
+    "id": 12,
+    "term_en": "Mercantile Ventures",
+    "term_ru": "коммерческая деятельность",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Mercantile Ventures - коммерческая деятельность",
+    "source_id": "glossary_docx",
+    "source_locator": "body.28",
+    "variants": [],
+    "aliases": [
+      "Mercantile Ventures"
+    ]
+  },
+  {
+    "id": 13,
+    "term_en": "Arcane power",
+    "term_ru": "Магическая сила",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Arcane power - Магическая сила",
+    "source_id": "glossary_docx",
+    "source_locator": "body.29",
+    "variants": [],
+    "aliases": [
+      "Arcane power"
+    ]
+  },
+  {
+    "id": 14,
+    "term_en": "Hex",
+    "term_ru": "гекс",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Hex - гекс",
+    "source_id": "glossary_docx",
+    "source_locator": "body.30",
+    "variants": [],
+    "aliases": [
+      "Hex"
+    ]
+  },
+  {
+    "id": 15,
+    "term_en": "Populating",
+    "term_ru": "популяция",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Populating - популяция ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.31",
+    "variants": [],
+    "aliases": [
+      "Populating"
+    ]
+  },
+  {
+    "id": 16,
+    "term_en": "Strength (STR)",
+    "term_ru": "Сила",
+    "abbreviation_ru": "СИЛ",
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Strength (STR) - Сила (СИЛ)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.32",
+    "variants": [],
+    "aliases": [
+      "Strength",
+      "Strength (STR)"
+    ]
+  },
+  {
+    "id": 17,
+    "term_en": "Intellect (INT)",
+    "term_ru": "Интеллект",
+    "abbreviation_ru": "ИНТ",
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Intellect (INT) - Интеллект (ИНТ)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.33",
+    "variants": [],
+    "aliases": [
+      "Intellect",
+      "Intellect (INT)"
+    ]
+  },
+  {
+    "id": 18,
+    "term_en": "Will (WIL)",
+    "term_ru": "Воля",
+    "abbreviation_ru": "ВОЛ",
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Will (WIL) - Воля (ВОЛ)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.34",
+    "variants": [],
+    "aliases": [
+      "Will",
+      "Will (WIL)"
+    ]
+  },
+  {
+    "id": 19,
+    "term_en": "Constitution (CON)",
+    "term_ru": "Телосложение",
+    "abbreviation_ru": "ТЕЛ",
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Constitution (CON) - Телосложение (ТЕЛ)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.35",
+    "variants": [],
+    "aliases": [
+      "Constitution",
+      "Constitution (CON)"
+    ]
+  },
+  {
+    "id": 20,
+    "term_en": "Dexterity (DEX)",
+    "term_ru": "Ловкость",
+    "abbreviation_ru": "ЛОВ",
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Dexterity (DEX) - Ловкость (ЛОВ)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.36",
+    "variants": [],
+    "aliases": [
+      "Dexterity",
+      "Dexterity (DEX)"
+    ]
+  },
+  {
+    "id": 21,
+    "term_en": "Charisma (CHA)",
+    "term_ru": "Харизма",
+    "abbreviation_ru": "ХАР",
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Charisma (CHA) - Харизма (ХАР)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.37",
+    "variants": [],
+    "aliases": [
+      "Charisma",
+      "Charisma (CHA)"
+    ]
+  },
+  {
+    "id": 22,
+    "term_en": "Longbowman",
+    "term_ru": "стрелок",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Longbowman - стрелок/стрелки",
+    "source_id": "glossary_docx",
+    "source_locator": "body.38",
+    "variants": [
+      "стрелки"
+    ],
+    "aliases": [
+      "Longbowman"
+    ]
+  },
+  {
+    "id": 23,
+    "term_en": "Equipment",
+    "term_ru": "Снаряжение",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Equipment  - Снаряжение",
+    "source_id": "glossary_docx",
+    "source_locator": "body.39",
+    "variants": [],
+    "aliases": [
+      "Equipment"
+    ]
+  },
+  {
+    "id": 24,
+    "term_en": "equip",
+    "term_ru": "снарядить",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "equip - снарядить",
+    "source_id": "glossary_docx",
+    "source_locator": "body.40",
+    "variants": [],
+    "aliases": [
+      "equip"
+    ]
+  },
+  {
+    "id": 25,
+    "term_en": "party",
+    "term_ru": "группа",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "party - группа",
+    "source_id": "glossary_docx",
+    "source_locator": "body.41",
+    "variants": [],
+    "aliases": [
+      "party"
+    ]
+  },
+  {
+    "id": 26,
+    "term_en": "adventurers",
+    "term_ru": "авантюристы, искатели приключений",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "adventurers - авантюристы, искатели приключений",
+    "source_id": "glossary_docx",
+    "source_locator": "body.42",
+    "variants": [],
+    "aliases": [
+      "adventurers"
+    ]
+  },
+  {
+    "id": 27,
+    "term_en": "party formation/ marching",
+    "term_ru": "Боевой / походный порядок",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "party formation/ marching - Боевой / походный порядок",
+    "source_id": "glossary_docx",
+    "source_locator": "body.43",
+    "variants": [],
+    "aliases": [
+      "party formation/ marching"
+    ]
+  },
+  {
+    "id": 28,
+    "term_en": "secret doors",
+    "term_ru": "секретные двери",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "secret doors - секретные двери",
+    "source_id": "glossary_docx",
+    "source_locator": "body.44",
+    "variants": [],
+    "aliases": [
+      "secret doors"
+    ]
+  },
+  {
+    "id": 29,
+    "term_en": "Hunting and Foraging",
+    "term_ru": "охота и собирательство",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Hunting and Foraging - охота и собирательство",
+    "source_id": "glossary_docx",
+    "source_locator": "body.45",
+    "variants": [],
+    "aliases": [
+      "Hunting and Foraging"
+    ]
+  },
+  {
+    "id": 30,
+    "term_en": "Wild",
+    "term_ru": "дикие земли",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Wild - дикие земли",
+    "source_id": "glossary_docx",
+    "source_locator": "body.46",
+    "variants": [],
+    "aliases": [
+      "Wild"
+    ]
+  },
+  {
+    "id": 31,
+    "term_en": "Evasion",
+    "term_ru": "Избегание",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Evasion - Избегание",
+    "source_id": "glossary_docx",
+    "source_locator": "body.47",
+    "variants": [],
+    "aliases": [
+      "Evasion"
+    ]
+  },
+  {
+    "id": 32,
+    "term_en": "Simulating / simulation",
+    "term_ru": "Симуляция",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Simulating / simulation - Симуляция/Симулирование",
+    "source_id": "glossary_docx",
+    "source_locator": "body.48",
+    "variants": [
+      "Симулирование"
+    ],
+    "aliases": [
+      "Simulating / simulation"
+    ]
+  },
+  {
+    "id": 33,
+    "term_en": "Reactions",
+    "term_ru": "Реакция",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Reactions - Реакция",
+    "source_id": "glossary_docx",
+    "source_locator": "body.49",
+    "variants": [],
+    "aliases": [
+      "Reactions"
+    ]
+  },
+  {
+    "id": 34,
+    "term_en": "round",
+    "term_ru": "Раунд",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "round - Раунд",
+    "source_id": "glossary_docx",
+    "source_locator": "body.50",
+    "variants": [],
+    "aliases": [
+      "round"
+    ]
+  },
+  {
+    "id": 35,
+    "term_en": "initiative segment",
+    "term_ru": "сегмент инициативы",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "initiative segment - сегмент инициативы",
+    "source_id": "glossary_docx",
+    "source_locator": "body.51",
+    "variants": [],
+    "aliases": [
+      "initiative segment"
+    ]
+  },
+  {
+    "id": 36,
+    "term_en": "retreat",
+    "term_ru": "отступление",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "retreat - отступление",
+    "source_id": "glossary_docx",
+    "source_locator": "body.52",
+    "variants": [],
+    "aliases": [
+      "retreat"
+    ]
+  },
+  {
+    "id": 37,
+    "term_en": "withdraw",
+    "term_ru": "отход",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "withdraw - отход",
+    "source_id": "glossary_docx",
+    "source_locator": "body.53",
+    "variants": [],
+    "aliases": [
+      "withdraw"
+    ]
+  },
+  {
+    "id": 38,
+    "term_en": "Readied to Attack/combat action",
+    "term_ru": "подготовленная атака / боевое действие",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Readied to Attack/combat action - подготовленная атака / боевое действие",
+    "source_id": "glossary_docx",
+    "source_locator": "body.54",
+    "variants": [],
+    "aliases": [
+      "Readied to Attack/combat action"
+    ]
+  },
+  {
+    "id": 39,
+    "term_en": "initiative number",
+    "term_ru": "номер инициативы",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "initiative number - номер инициативы",
+    "source_id": "glossary_docx",
+    "source_locator": "body.55",
+    "variants": [],
+    "aliases": [
+      "initiative number"
+    ]
+  },
+  {
+    "id": 40,
+    "term_en": "March",
+    "term_ru": "маршировать",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "March - маршировать",
+    "source_id": "glossary_docx",
+    "source_locator": "body.56",
+    "variants": [],
+    "aliases": [
+      "March"
+    ]
+  },
+  {
+    "id": 41,
+    "term_en": "take cover",
+    "term_ru": "укрыться",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "take cover - укрыться",
+    "source_id": "glossary_docx",
+    "source_locator": "body.57",
+    "variants": [],
+    "aliases": [
+      "take cover"
+    ]
+  },
+  {
+    "id": 42,
+    "term_en": "Escape",
+    "term_ru": "побег",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Escape - побег",
+    "source_id": "glossary_docx",
+    "source_locator": "body.58",
+    "variants": [],
+    "aliases": [
+      "Escape"
+    ]
+  },
+  {
+    "id": 43,
+    "term_en": "To hit",
+    "term_ru": "бросок атаки",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "To hit - бросок атаки",
+    "source_id": "glossary_docx",
+    "source_locator": "body.59",
+    "variants": [],
+    "aliases": [
+      "To hit"
+    ]
+  },
+  {
+    "id": 44,
+    "term_en": "attack sequence",
+    "term_ru": "последовательность атак",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "attack sequence - последовательность атак",
+    "source_id": "glossary_docx",
+    "source_locator": "body.60",
+    "variants": [],
+    "aliases": [
+      "attack sequence"
+    ]
+  },
+  {
+    "id": 45,
+    "term_en": "missile",
+    "term_ru": "дальнобойный",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "missile - дальнобойный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.61",
+    "variants": [],
+    "aliases": [
+      "missile"
+    ]
+  },
+  {
+    "id": 46,
+    "term_en": "line of sight",
+    "term_ru": "линия видимости",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "line of sight - линия видимости",
+    "source_id": "glossary_docx",
+    "source_locator": "body.62",
+    "variants": [],
+    "aliases": [
+      "line of sight"
+    ]
+  },
+  {
+    "id": 47,
+    "term_en": "range",
+    "term_ru": "радиус действия",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "range - радиус действия",
+    "source_id": "glossary_docx",
+    "source_locator": "body.63",
+    "variants": [],
+    "aliases": [
+      "range"
+    ]
+  },
+  {
+    "id": 48,
+    "term_en": "Unholy, Holy",
+    "term_ru": "Проклятая, Святая",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Unholy, Holy - Проклятая, Святая",
+    "source_id": "glossary_docx",
+    "source_locator": "body.64",
+    "variants": [],
+    "aliases": [
+      "Unholy, Holy"
+    ]
+  },
+  {
+    "id": 49,
+    "term_en": "extraordinary (damage)",
+    "term_ru": "Особый",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "user_confirmed",
+    "raw_entry": "extraordinary (damage) - Особый (урон)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.65",
+    "variants": [],
+    "aliases": [
+      "extraordinary (damage)"
+    ]
+  },
+  {
+    "id": 50,
+    "term_en": "Resistance",
+    "term_ru": "устойчивость",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Resistance - устойчивость",
+    "source_id": "glossary_docx",
+    "source_locator": "body.66",
+    "variants": [],
+    "aliases": [
+      "Resistance"
+    ]
+  },
+  {
+    "id": 51,
+    "term_en": "enchanted",
+    "term_ru": "заколдованный, зачарованный",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "enchanted - заколдованный, зачарованный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.67",
+    "variants": [],
+    "aliases": [
+      "enchanted"
+    ]
+  },
+  {
+    "id": 52,
+    "term_en": "Fear",
+    "term_ru": "страх",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Fear - страх ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.68",
+    "variants": [],
+    "aliases": [
+      "Fear"
+    ]
+  },
+  {
+    "id": 53,
+    "term_en": "Halt",
+    "term_ru": "остановка",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Halt - остановка (?)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.69",
+    "variants": [],
+    "aliases": [
+      "Halt"
+    ]
+  },
+  {
+    "id": 54,
+    "term_en": "Spell-like",
+    "term_ru": "подобный заклинанию",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Spell-like - подобный заклинанию",
+    "source_id": "glossary_docx",
+    "source_locator": "body.70",
+    "variants": [],
+    "aliases": [
+      "Spell-like"
+    ]
+  },
+  {
+    "id": 55,
+    "term_en": "concentration",
+    "term_ru": "концентрация",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "concentration - концентрация",
+    "source_id": "glossary_docx",
+    "source_locator": "body.71",
+    "variants": [],
+    "aliases": [
+      "concentration"
+    ]
+  },
+  {
+    "id": 56,
+    "term_en": "a second-rank combatant’s",
+    "term_ru": "боец второго ряда",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "a second-rank combatant’s - боец второго ряда",
+    "source_id": "glossary_docx",
+    "source_locator": "body.72",
+    "variants": [],
+    "aliases": [
+      "a second-rank combatant’s"
+    ]
+  },
+  {
+    "id": 57,
+    "term_en": "Lance",
+    "term_ru": "кавалерийское копье",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Lance - кавалерийское копье",
+    "source_id": "glossary_docx",
+    "source_locator": "body.73",
+    "variants": [],
+    "aliases": [
+      "Lance"
+    ]
+  },
+  {
+    "id": 58,
+    "term_en": "noiseleness",
+    "term_ru": "бесшумный",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "noiseleness - бесшумный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.74",
+    "variants": [],
+    "aliases": [
+      "noiseleness"
+    ]
+  },
+  {
+    "id": 59,
+    "term_en": "Staff",
+    "term_ru": "посох",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Staff - посох",
+    "source_id": "glossary_docx",
+    "source_locator": "body.75",
+    "variants": [],
+    "aliases": [
+      "Staff"
+    ]
+  },
+  {
+    "id": 60,
+    "term_en": "Rod",
+    "term_ru": "жезл",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Rod - жезл",
+    "source_id": "glossary_docx",
+    "source_locator": "body.76",
+    "variants": [],
+    "aliases": [
+      "Rod"
+    ]
+  },
+  {
+    "id": 61,
+    "term_en": "Wand",
+    "term_ru": "волшебная палочка",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Wand - волшебная палочка?",
+    "source_id": "glossary_docx",
+    "source_locator": "body.77",
+    "variants": [],
+    "aliases": [
+      "Wand"
+    ]
+  },
+  {
+    "id": 62,
+    "term_en": "flail",
+    "term_ru": "цеп",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "flail - цеп",
+    "source_id": "glossary_docx",
+    "source_locator": "body.78",
+    "variants": [],
+    "aliases": [
+      "flail"
+    ]
+  },
+  {
+    "id": 63,
+    "term_en": "Polearm",
+    "term_ru": "древковое",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Polearm - древковое (оружие. Имеется ввиду что это может быть любое оружие, алебарды копья, глефы и прочее)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.79",
+    "variants": [],
+    "aliases": [
+      "Polearm"
+    ]
+  },
+  {
+    "id": 64,
+    "term_en": "Hide",
+    "term_ru": "прятаться",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Hide - прятаться",
+    "source_id": "glossary_docx",
+    "source_locator": "body.80",
+    "variants": [],
+    "aliases": [
+      "Hide"
+    ]
+  },
+  {
+    "id": 65,
+    "term_en": "optional",
+    "term_ru": "опциональное правило",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "optional - опциональное правило",
+    "source_id": "glossary_docx",
+    "source_locator": "body.82",
+    "variants": [],
+    "aliases": [
+      "optional"
+    ]
+  },
+  {
+    "id": 66,
+    "term_en": "Full Round Actions",
+    "term_ru": "действие полного раунда",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Full Round Actions - действие полного раунда",
+    "source_id": "glossary_docx",
+    "source_locator": "body.83",
+    "variants": [],
+    "aliases": [
+      "Full Round Actions"
+    ]
+  },
+  {
+    "id": 67,
+    "term_en": "Movement Actions",
+    "term_ru": "действие движения",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Movement Actions - действие движения",
+    "source_id": "glossary_docx",
+    "source_locator": "body.84",
+    "variants": [],
+    "aliases": [
+      "Movement Actions"
+    ]
+  },
+  {
+    "id": 68,
+    "term_en": "Combat Actions",
+    "term_ru": "боевое действие",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Combat Actions - боевое действие",
+    "source_id": "glossary_docx",
+    "source_locator": "body.85",
+    "variants": [],
+    "aliases": [
+      "Combat Actions"
+    ]
+  },
+  {
+    "id": 69,
+    "term_en": "Cast a spell",
+    "term_ru": "Произносить заклинание",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Cast a spell - Произносить заклинание",
+    "source_id": "glossary_docx",
+    "source_locator": "body.87",
+    "variants": [],
+    "aliases": [
+      "Cast a spell"
+    ]
+  },
+  {
+    "id": 70,
+    "term_en": "Ready or loosen a shield",
+    "term_ru": "поднять или опустить щит",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Ready or loosen a shield - поднять или опустить щит",
+    "source_id": "glossary_docx",
+    "source_locator": "body.89",
+    "variants": [],
+    "aliases": [
+      "Ready or loosen a shield"
+    ]
+  },
+  {
+    "id": 71,
+    "term_en": "Ready Action",
+    "term_ru": "подготовить действие",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Ready Action - подготовить действие",
+    "source_id": "glossary_docx",
+    "source_locator": "body.90",
+    "variants": [],
+    "aliases": [
+      "Ready Action"
+    ]
+  },
+  {
+    "id": 72,
+    "term_en": "vehicle",
+    "term_ru": "транспортные средства, Транспорт",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "vehicle - транспортные средства, Транспорт",
+    "source_id": "glossary_docx",
+    "source_locator": "body.91",
+    "variants": [],
+    "aliases": [
+      "vehicle"
+    ]
+  },
+  {
+    "id": 73,
+    "term_en": "mount",
+    "term_ru": "ездовое животное",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "mount - ездовое животное",
+    "source_id": "glossary_docx",
+    "source_locator": "body.92",
+    "variants": [],
+    "aliases": [
+      "mount"
+    ]
+  },
+  {
+    "id": 74,
+    "term_en": "Mortal Wounds",
+    "term_ru": "смертельные раны",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Mortal Wounds - смертельные раны",
+    "source_id": "glossary_docx",
+    "source_locator": "body.93",
+    "variants": [],
+    "aliases": [
+      "Mortal Wounds"
+    ]
+  },
+  {
+    "id": 75,
+    "term_en": "permanent wound",
+    "term_ru": "необратимые раны",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "permanent wound - необратимые раны",
+    "source_id": "glossary_docx",
+    "source_locator": "body.94",
+    "variants": [],
+    "aliases": [
+      "permanent wound"
+    ]
+  },
+  {
+    "id": 76,
+    "term_en": "Tampering with Mortality",
+    "term_ru": "игра со смертью",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Tampering with Mortality - игра со смертью",
+    "source_id": "glossary_docx",
+    "source_locator": "body.95",
+    "variants": [],
+    "aliases": [
+      "Tampering with Mortality"
+    ]
+  },
+  {
+    "id": 77,
+    "term_en": "nonlethal",
+    "term_ru": "Нелетальный",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "nonlethal - Нелетальный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.97",
+    "variants": [],
+    "aliases": [
+      "nonlethal"
+    ]
+  },
+  {
+    "id": 78,
+    "term_en": "lay on hands",
+    "term_ru": "возложение рук",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "lay on hands - возложение рук",
+    "source_id": "glossary_docx",
+    "source_locator": "body.99",
+    "variants": [],
+    "aliases": [
+      "lay on hands"
+    ]
+  },
+  {
+    "id": 79,
+    "term_en": "Countercharge",
+    "term_ru": "противодействие натиску",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Countercharge - противодействие натиску",
+    "source_id": "glossary_docx",
+    "source_locator": "body.100",
+    "variants": [],
+    "aliases": [
+      "Countercharge"
+    ]
+  },
+  {
+    "id": 80,
+    "term_en": "Horsetail",
+    "term_ru": "Хвощ",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Horsetail - Хвощ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.101",
+    "variants": [],
+    "aliases": [
+      "Horsetail"
+    ]
+  },
+  {
+    "id": 81,
+    "term_en": "proselytizing",
+    "term_ru": "проповедование",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "proselytizing - проповедование",
+    "source_id": "glossary_docx",
+    "source_locator": "body.102",
+    "variants": [],
+    "aliases": [
+      "proselytizing"
+    ]
+  },
+  {
+    "id": 82,
+    "term_en": "Caster",
+    "term_ru": "заклинатель",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Caster - заклинатель",
+    "source_id": "glossary_docx",
+    "source_locator": "body.103",
+    "variants": [],
+    "aliases": [
+      "Caster"
+    ]
+  },
+  {
+    "id": 83,
+    "term_en": "Encumbrance",
+    "term_ru": "Нагрузка",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Encumbrance - Нагрузка",
+    "source_id": "glossary_docx",
+    "source_locator": "body.105",
+    "variants": [],
+    "aliases": [
+      "Encumbrance"
+    ]
+  },
+  {
+    "id": 84,
+    "term_en": "alignment",
+    "term_ru": "Мировоззрение",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "alignment - Мировоззрение",
+    "source_id": "glossary_docx",
+    "source_locator": "body.106",
+    "variants": [],
+    "aliases": [
+      "alignment"
+    ]
+  },
+  {
+    "id": 85,
+    "term_en": "Order, lawful",
+    "term_ru": "порядочное",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Order, lawful - порядочное",
+    "source_id": "glossary_docx",
+    "source_locator": "body.107",
+    "variants": [],
+    "aliases": [
+      "Order, lawful"
+    ]
+  },
+  {
+    "id": 86,
+    "term_en": "Chaos",
+    "term_ru": "хаотичное",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Chaos - хаотичное",
+    "source_id": "glossary_docx",
+    "source_locator": "body.108",
+    "variants": [],
+    "aliases": [
+      "Chaos"
+    ]
+  },
+  {
+    "id": 87,
+    "term_en": "Hijinks",
+    "term_ru": "Происки",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Hijinks - Происки",
+    "source_id": "glossary_docx",
+    "source_locator": "body.110",
+    "variants": [],
+    "aliases": [
+      "Hijinks"
+    ]
+  },
+  {
+    "id": 88,
+    "term_en": "DELVES",
+    "term_ru": "Вылазки",
+    "abbreviation_ru": null,
+    "category": "Авантюрные предприятия",
+    "status": "project_glossary",
+    "raw_entry": "DELVES - Вылазки",
+    "source_id": "glossary_docx",
+    "source_locator": "body.113",
+    "variants": [],
+    "aliases": [
+      "DELVES"
+    ]
+  },
+  {
+    "id": 89,
+    "term_en": "EXPEDITIONS",
+    "term_ru": "Экспедиции",
+    "abbreviation_ru": null,
+    "category": "Авантюрные предприятия",
+    "status": "project_glossary",
+    "raw_entry": "EXPEDITIONS - Экспедиции",
+    "source_id": "glossary_docx",
+    "source_locator": "body.114",
+    "variants": [],
+    "aliases": [
+      "EXPEDITIONS"
+    ]
+  },
+  {
+    "id": 90,
+    "term_en": "VOYAGES",
+    "term_ru": "Плавания",
+    "abbreviation_ru": null,
+    "category": "Авантюрные предприятия",
+    "status": "project_glossary",
+    "raw_entry": "VOYAGES - Плавания",
+    "source_id": "glossary_docx",
+    "source_locator": "body.115",
+    "variants": [],
+    "aliases": [
+      "VOYAGES"
+    ]
+  },
+  {
+    "id": 91,
+    "term_en": "ENCOUNTERS",
+    "term_ru": "Столкновения",
+    "abbreviation_ru": null,
+    "category": "Авантюрные предприятия",
+    "status": "project_glossary",
+    "raw_entry": "ENCOUNTERS - Столкновения",
+    "source_id": "glossary_docx",
+    "source_locator": "body.116",
+    "variants": [],
+    "aliases": [
+      "ENCOUNTERS"
+    ]
+  },
+  {
+    "id": 92,
+    "term_en": "Youth",
+    "term_ru": "Юность",
+    "abbreviation_ru": null,
+    "category": "Возрасты",
+    "status": "project_glossary",
+    "raw_entry": "Youth - Юность",
+    "source_id": "glossary_docx",
+    "source_locator": "body.119",
+    "variants": [],
+    "aliases": [
+      "Youth"
+    ]
+  },
+  {
+    "id": 93,
+    "term_en": "Adult",
+    "term_ru": "Взрослый",
+    "abbreviation_ru": null,
+    "category": "Возрасты",
+    "status": "project_glossary",
+    "raw_entry": "Adult - Взрослый",
+    "source_id": "glossary_docx",
+    "source_locator": "body.120",
+    "variants": [],
+    "aliases": [
+      "Adult"
+    ]
+  },
+  {
+    "id": 94,
+    "term_en": "Middle Aged",
+    "term_ru": "Средний возраст",
+    "abbreviation_ru": null,
+    "category": "Возрасты",
+    "status": "project_glossary",
+    "raw_entry": "Middle Aged - Средний возраст",
+    "source_id": "glossary_docx",
+    "source_locator": "body.121",
+    "variants": [],
+    "aliases": [
+      "Middle Aged"
+    ]
+  },
+  {
+    "id": 95,
+    "term_en": "Old",
+    "term_ru": "Старый",
+    "abbreviation_ru": null,
+    "category": "Возрасты",
+    "status": "project_glossary",
+    "raw_entry": "Old - Старый",
+    "source_id": "glossary_docx",
+    "source_locator": "body.122",
+    "variants": [],
+    "aliases": [
+      "Old"
+    ]
+  },
+  {
+    "id": 96,
+    "term_en": "Ancient",
+    "term_ru": "Древний",
+    "abbreviation_ru": null,
+    "category": "Возрасты",
+    "status": "project_glossary",
+    "raw_entry": "Ancient - Древний",
+    "source_id": "glossary_docx",
+    "source_locator": "body.123",
+    "variants": [],
+    "aliases": [
+      "Ancient"
+    ]
+  },
+  {
+    "id": 97,
+    "term_en": "dedicated activities",
+    "term_ru": "Целенаправленная деятельность",
+    "abbreviation_ru": null,
+    "category": "Типы (активности) деятельности",
+    "status": "project_glossary",
+    "raw_entry": "dedicated activities - Целенаправленная деятельность",
+    "source_id": "glossary_docx",
+    "source_locator": "body.126",
+    "variants": [],
+    "aliases": [
+      "dedicated activities"
+    ]
+  },
+  {
+    "id": 98,
+    "term_en": "ancillary activities",
+    "term_ru": "Вспомогательная деятельность",
+    "abbreviation_ru": null,
+    "category": "Типы (активности) деятельности",
+    "status": "project_glossary",
+    "raw_entry": "ancillary activities - Вспомогательная деятельность",
+    "source_id": "glossary_docx",
+    "source_locator": "body.127",
+    "variants": [],
+    "aliases": [
+      "ancillary activities"
+    ]
+  },
+  {
+    "id": 99,
+    "term_en": "incidental activities",
+    "term_ru": "Несущественная деятельность",
+    "abbreviation_ru": null,
+    "category": "Типы (активности) деятельности",
+    "status": "project_glossary",
+    "raw_entry": "incidental activities - Несущественная деятельность",
+    "source_id": "glossary_docx",
+    "source_locator": "body.128",
+    "variants": [],
+    "aliases": [
+      "incidental activities"
+    ]
+  },
+  {
+    "id": 100,
+    "term_en": "strenuous activities",
+    "term_ru": "Утомительная деятельность",
+    "abbreviation_ru": null,
+    "category": "Типы (активности) деятельности",
+    "status": "project_glossary",
+    "raw_entry": "strenuous activities - Утомительная деятельность",
+    "source_id": "glossary_docx",
+    "source_locator": "body.129",
+    "variants": [],
+    "aliases": [
+      "strenuous activities"
+    ]
+  },
+  {
+    "id": 101,
+    "term_en": "mercantile activity",
+    "term_ru": "Коммерческая активность",
+    "abbreviation_ru": null,
+    "category": "Типы (активности) деятельности",
+    "status": "project_glossary",
+    "raw_entry": "mercantile activity - Коммерческая активность",
+    "source_id": "glossary_docx",
+    "source_locator": "body.130",
+    "variants": [],
+    "aliases": [
+      "mercantile activity"
+    ]
+  },
+  {
+    "id": 102,
+    "term_en": "Assassin",
+    "term_ru": "Ассасин",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Assassin - Ассасин",
+    "source_id": "glossary_docx",
+    "source_locator": "body.136",
+    "variants": [],
+    "aliases": [
+      "Assassin"
+    ]
+  },
+  {
+    "id": 103,
+    "term_en": "Barbarian",
+    "term_ru": "Варвар",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Barbarian - Варвар",
+    "source_id": "glossary_docx",
+    "source_locator": "body.137",
+    "variants": [],
+    "aliases": [
+      "Barbarian"
+    ]
+  },
+  {
+    "id": 104,
+    "term_en": "Bard",
+    "term_ru": "Бард",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Bard - Бард",
+    "source_id": "glossary_docx",
+    "source_locator": "body.138",
+    "variants": [],
+    "aliases": [
+      "Bard"
+    ]
+  },
+  {
+    "id": 105,
+    "term_en": "Bladedancer",
+    "term_ru": "Дева клинков",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Bladedancer - Дева клинков",
+    "source_id": "glossary_docx",
+    "source_locator": "body.139",
+    "variants": [],
+    "aliases": [
+      "Bladedancer"
+    ]
+  },
+  {
+    "id": 106,
+    "term_en": "Crusader",
+    "term_ru": "Крестоносец",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Crusader - Крестоносец ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.140",
+    "variants": [],
+    "aliases": [
+      "Crusader"
+    ]
+  },
+  {
+    "id": 107,
+    "term_en": "Explorer",
+    "term_ru": "Исследователь",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Explorer - Исследователь",
+    "source_id": "glossary_docx",
+    "source_locator": "body.141",
+    "variants": [],
+    "aliases": [
+      "Explorer"
+    ]
+  },
+  {
+    "id": 108,
+    "term_en": "Fighter",
+    "term_ru": "Воин",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Fighter - Воин",
+    "source_id": "glossary_docx",
+    "source_locator": "body.142",
+    "variants": [],
+    "aliases": [
+      "Fighter"
+    ]
+  },
+  {
+    "id": 109,
+    "term_en": "Mage",
+    "term_ru": "Маг",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Mage - Маг",
+    "source_id": "glossary_docx",
+    "source_locator": "body.143",
+    "variants": [],
+    "aliases": [
+      "Mage"
+    ]
+  },
+  {
+    "id": 110,
+    "term_en": "Paladin",
+    "term_ru": "Паладин",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Paladin - Паладин",
+    "source_id": "glossary_docx",
+    "source_locator": "body.144",
+    "variants": [],
+    "aliases": [
+      "Paladin"
+    ]
+  },
+  {
+    "id": 111,
+    "term_en": "Priestess",
+    "term_ru": "Жрица",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Priestess - Жрица ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.145",
+    "variants": [],
+    "aliases": [
+      "Priestess"
+    ]
+  },
+  {
+    "id": 112,
+    "term_en": "Thief",
+    "term_ru": "Вор",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Thief - Вор",
+    "source_id": "glossary_docx",
+    "source_locator": "body.146",
+    "variants": [],
+    "aliases": [
+      "Thief"
+    ]
+  },
+  {
+    "id": 113,
+    "term_en": "Shaman",
+    "term_ru": "Шаман",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Shaman - Шаман",
+    "source_id": "glossary_docx",
+    "source_locator": "body.147",
+    "variants": [],
+    "aliases": [
+      "Shaman"
+    ]
+  },
+  {
+    "id": 114,
+    "term_en": "Venturer",
+    "term_ru": "Торговец",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Venturer - Торговец",
+    "source_id": "glossary_docx",
+    "source_locator": "body.148",
+    "variants": [],
+    "aliases": [
+      "Venturer"
+    ]
+  },
+  {
+    "id": 115,
+    "term_en": "Warlock",
+    "term_ru": "Колдун",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Warlock - Колдун",
+    "source_id": "glossary_docx",
+    "source_locator": "body.149",
+    "variants": [],
+    "aliases": [
+      "Warlock"
+    ]
+  },
+  {
+    "id": 116,
+    "term_en": "Witch",
+    "term_ru": "Ведьма",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Witch - Ведьма / Ворожей",
+    "source_id": "glossary_docx",
+    "source_locator": "body.150",
+    "variants": [
+      "Ворожей"
+    ],
+    "aliases": [
+      "Witch"
+    ]
+  },
+  {
+    "id": 117,
+    "term_en": "Dwarven Vaultguard",
+    "term_ru": "Дварфийский страж убежищ",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Dwarven Vaultguard - Дварфийский страж убежищ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.152",
+    "variants": [],
+    "aliases": [
+      "Dwarven Vaultguard"
+    ]
+  },
+  {
+    "id": 118,
+    "term_en": "Dwarven Craftpriest",
+    "term_ru": "Дварфийский мастер-жрец",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Dwarven Craftpriest - Дварфийский мастер-жрец",
+    "source_id": "glossary_docx",
+    "source_locator": "body.153",
+    "variants": [],
+    "aliases": [
+      "Dwarven Craftpriest"
+    ]
+  },
+  {
+    "id": 119,
+    "term_en": "Elven nightblade",
+    "term_ru": "Эльфийский ночной клинок",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Elven nightblade - Эльфийский ночной клинок",
+    "source_id": "glossary_docx",
+    "source_locator": "body.154",
+    "variants": [],
+    "aliases": [
+      "Elven nightblade"
+    ]
+  },
+  {
+    "id": 120,
+    "term_en": "Elven spellswords",
+    "term_ru": "Эльфийский мечник-чародей",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Elven spellswords - Эльфийский мечник-чародей",
+    "source_id": "glossary_docx",
+    "source_locator": "body.155",
+    "variants": [],
+    "aliases": [
+      "Elven Spellsword",
+      "Elven spellswords"
+    ]
+  },
+  {
+    "id": 121,
+    "term_en": "Nobiran wonderworker",
+    "term_ru": "Нобирийский чудотворцец",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Nobiran wonderworker - Нобирийский чудотворцец?",
+    "source_id": "glossary_docx",
+    "source_locator": "body.156",
+    "variants": [],
+    "aliases": [
+      "Nobiran wonderworker"
+    ]
+  },
+  {
+    "id": 122,
+    "term_en": "Zaharan ruinguard",
+    "term_ru": "Захарийский страж руин",
+    "abbreviation_ru": null,
+    "category": "Классы",
+    "status": "project_glossary",
+    "raw_entry": "Zaharan ruinguard - Захарийский страж руин?",
+    "source_id": "glossary_docx",
+    "source_locator": "body.158",
+    "variants": [],
+    "aliases": [
+      "Zaharan ruinguard"
+    ]
+  },
+  {
+    "id": 123,
+    "term_en": "Searching",
+    "term_ru": "поиск",
+    "abbreviation_ru": null,
+    "category": "Class Power Способности класса (стартовые и дополнительные)",
+    "status": "project_glossary",
+    "raw_entry": "Searching - поиск ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.162",
+    "variants": [],
+    "aliases": [
+      "Searching"
+    ]
+  },
+  {
+    "id": 124,
+    "term_en": "Lockpicking",
+    "term_ru": "взлом",
+    "abbreviation_ru": null,
+    "category": "Class Power Способности класса (стартовые и дополнительные)",
+    "status": "project_glossary",
+    "raw_entry": "Lockpicking - взлом",
+    "source_id": "glossary_docx",
+    "source_locator": "body.163",
+    "variants": [],
+    "aliases": [
+      "Lockpicking"
+    ]
+  },
+  {
+    "id": 125,
+    "term_en": "Listening",
+    "term_ru": "подслушивание",
+    "abbreviation_ru": null,
+    "category": "Class Power Способности класса (стартовые и дополнительные)",
+    "status": "project_glossary",
+    "raw_entry": "Listening - подслушивание ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.164",
+    "variants": [],
+    "aliases": [
+      "Listening"
+    ]
+  },
+  {
+    "id": 126,
+    "term_en": "Avoid surprise",
+    "term_ru": "раунд внезапности",
+    "abbreviation_ru": null,
+    "category": "Class Power Способности класса (стартовые и дополнительные)",
+    "status": "project_glossary",
+    "raw_entry": "Avoid surprise - раунд внезапности",
+    "source_id": "glossary_docx",
+    "source_locator": "body.165",
+    "variants": [],
+    "aliases": [
+      "Avoid surprise"
+    ]
+  },
+  {
+    "id": 127,
+    "term_en": "Graceful Fighting",
+    "term_ru": "грациозный бой",
+    "abbreviation_ru": null,
+    "category": "Class Power Способности класса (стартовые и дополнительные)",
+    "status": "project_glossary",
+    "raw_entry": "Graceful Fighting - грациозный бой",
+    "source_id": "glossary_docx",
+    "source_locator": "body.166",
+    "variants": [],
+    "aliases": [
+      "Graceful Fighting"
+    ]
+  },
+  {
+    "id": 128,
+    "term_en": "Paralysis",
+    "term_ru": "от паралича",
+    "abbreviation_ru": null,
+    "category": "Saving throw - Спасбросок",
+    "status": "project_glossary",
+    "raw_entry": "Paralysis - от паралича",
+    "source_id": "glossary_docx",
+    "source_locator": "body.169",
+    "variants": [],
+    "aliases": [
+      "Paralysis"
+    ]
+  },
+  {
+    "id": 129,
+    "term_en": "Death",
+    "term_ru": "от смерти",
+    "abbreviation_ru": null,
+    "category": "Saving throw - Спасбросок",
+    "status": "project_glossary",
+    "raw_entry": "Death - от смерти",
+    "source_id": "glossary_docx",
+    "source_locator": "body.170",
+    "variants": [],
+    "aliases": [
+      "Death"
+    ]
+  },
+  {
+    "id": 130,
+    "term_en": "Blast",
+    "term_ru": "от разрушений",
+    "abbreviation_ru": null,
+    "category": "Saving throw - Спасбросок",
+    "status": "project_glossary",
+    "raw_entry": "Blast - от разрушений",
+    "source_id": "glossary_docx",
+    "source_locator": "body.171",
+    "variants": [],
+    "aliases": [
+      "Blast"
+    ]
+  },
+  {
+    "id": 131,
+    "term_en": "Implements",
+    "term_ru": "от артефактов",
+    "abbreviation_ru": null,
+    "category": "Saving throw - Спасбросок",
+    "status": "project_glossary",
+    "raw_entry": "Implements - от артефактов (от магических инструментов)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.172",
+    "variants": [],
+    "aliases": [
+      "Implements"
+    ]
+  },
+  {
+    "id": 132,
+    "term_en": "Spells",
+    "term_ru": "от заклинаний",
+    "abbreviation_ru": null,
+    "category": "Saving throw - Спасбросок",
+    "status": "project_glossary",
+    "raw_entry": "Spells - от заклинаний",
+    "source_id": "glossary_docx",
+    "source_locator": "body.173",
+    "variants": [],
+    "aliases": [
+      "Spells"
+    ]
+  },
+  {
+    "id": 133,
+    "term_en": "Realm",
+    "term_ru": "Владение",
+    "abbreviation_ru": null,
+    "category": "Места",
+    "status": "project_glossary",
+    "raw_entry": "Realm - Владение",
+    "source_id": "glossary_docx",
+    "source_locator": "body.176",
+    "variants": [],
+    "aliases": [
+      "Realm"
+    ]
+  },
+  {
+    "id": 134,
+    "term_en": "Domain",
+    "term_ru": "Домен",
+    "abbreviation_ru": null,
+    "category": "Места",
+    "status": "project_glossary",
+    "raw_entry": "Domain - Домен",
+    "source_id": "glossary_docx",
+    "source_locator": "body.177",
+    "variants": [],
+    "aliases": [
+      "Domain"
+    ]
+  },
+  {
+    "id": 135,
+    "term_en": "Hideout",
+    "term_ru": "Укрытие",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Hideout - Укрытие",
+    "source_id": "glossary_docx",
+    "source_locator": "body.182",
+    "variants": [],
+    "aliases": [
+      "Hideout"
+    ]
+  },
+  {
+    "id": 136,
+    "term_en": "Vault",
+    "term_ru": "Убежище",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Vault - Убежище",
+    "source_id": "glossary_docx",
+    "source_locator": "body.183",
+    "variants": [],
+    "aliases": [
+      "Vault"
+    ]
+  },
+  {
+    "id": 137,
+    "term_en": "Lair",
+    "term_ru": "Логово",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Lair - Логово",
+    "source_id": "glossary_docx",
+    "source_locator": "body.184",
+    "variants": [],
+    "aliases": [
+      "Lair"
+    ]
+  },
+  {
+    "id": 138,
+    "term_en": "Fastness",
+    "term_ru": "Оплот",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Fastness - Оплот",
+    "source_id": "glossary_docx",
+    "source_locator": "body.184",
+    "variants": [],
+    "aliases": [
+      "Fastness"
+    ]
+  },
+  {
+    "id": 139,
+    "term_en": "Sanctum",
+    "term_ru": "Санктум",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Sanctum - Санктум",
+    "source_id": "glossary_docx",
+    "source_locator": "body.184",
+    "variants": [],
+    "aliases": [
+      "Sanctum"
+    ]
+  },
+  {
+    "id": 140,
+    "term_en": "Dungeon",
+    "term_ru": "Подземелья",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Dungeon - Подземелья",
+    "source_id": "glossary_docx",
+    "source_locator": "body.185",
+    "variants": [],
+    "aliases": [
+      "Dungeon"
+    ]
+  },
+  {
+    "id": 141,
+    "term_en": "Cloister",
+    "term_ru": "Монастырь",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Cloister - Монастырь",
+    "source_id": "glossary_docx",
+    "source_locator": "body.186",
+    "variants": [],
+    "aliases": [
+      "Cloister"
+    ]
+  },
+  {
+    "id": 142,
+    "term_en": "Castle",
+    "term_ru": "Замок",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Castle - Замок",
+    "source_id": "glossary_docx",
+    "source_locator": "body.187",
+    "variants": [],
+    "aliases": [
+      "Castle"
+    ]
+  },
+  {
+    "id": 143,
+    "term_en": "Chieftain Hall",
+    "term_ru": "Зал вождей",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Chieftain Hall - Зал вождей",
+    "source_id": "glossary_docx",
+    "source_locator": "body.188",
+    "variants": [],
+    "aliases": [
+      "Chieftain Hall"
+    ]
+  },
+  {
+    "id": 144,
+    "term_en": "Great Hall",
+    "term_ru": "Большой зал",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Great Hall - Большой зал",
+    "source_id": "glossary_docx",
+    "source_locator": "body.189",
+    "variants": [],
+    "aliases": [
+      "Great Hall"
+    ]
+  },
+  {
+    "id": 145,
+    "term_en": "Fortress",
+    "term_ru": "Крепость",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Fortress - Крепость",
+    "source_id": "glossary_docx",
+    "source_locator": "body.189",
+    "variants": [],
+    "aliases": [
+      "Fortress"
+    ]
+  },
+  {
+    "id": 146,
+    "term_en": "Medicine Lodge",
+    "term_ru": "Капище",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Medicine Lodge - Капище??",
+    "source_id": "glossary_docx",
+    "source_locator": "body.189",
+    "variants": [],
+    "aliases": [
+      "Medicine Lodge"
+    ]
+  },
+  {
+    "id": 147,
+    "term_en": "Cottage",
+    "term_ru": "Изба",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Cottage - Изба",
+    "source_id": "glossary_docx",
+    "source_locator": "body.189",
+    "variants": [],
+    "aliases": [
+      "Cottage"
+    ]
+  },
+  {
+    "id": 148,
+    "term_en": "Guildhouse",
+    "term_ru": "Торговый дом",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Guildhouse - Торговый дом",
+    "source_id": "glossary_docx",
+    "source_locator": "body.189",
+    "variants": [],
+    "aliases": [
+      "Guildhouse"
+    ]
+  },
+  {
+    "id": 149,
+    "term_en": "Dark Fortress",
+    "term_ru": "Тёмная крепость",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Dark Fortress - Тёмная крепость",
+    "source_id": "glossary_docx",
+    "source_locator": "body.189",
+    "variants": [],
+    "aliases": [
+      "Dark Fortress"
+    ]
+  },
+  {
+    "id": 150,
+    "term_en": "Border Fort",
+    "term_ru": "Пограничный форт",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Border Fort - Пограничный форт",
+    "source_id": "glossary_docx",
+    "source_locator": "body.189",
+    "variants": [],
+    "aliases": [
+      "Border Fort"
+    ]
+  },
+  {
+    "id": 151,
+    "term_en": "Fortified Church",
+    "term_ru": "Укреплённая церковь",
+    "abbreviation_ru": null,
+    "category": "Крепости",
+    "status": "project_glossary",
+    "raw_entry": "Fortified Church  - Укреплённая церковь",
+    "source_id": "glossary_docx",
+    "source_locator": "body.189",
+    "variants": [],
+    "aliases": [
+      "Fortified Church"
+    ]
+  },
+  {
+    "id": 152,
+    "term_en": "Auran (Empire)",
+    "term_ru": "Ауранская",
+    "abbreviation_ru": null,
+    "category": "Топонимы",
+    "status": "project_glossary",
+    "raw_entry": "Auran (Empire) - Ауранская (Империя)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.192",
+    "variants": [],
+    "aliases": [
+      "Auran (Empire)",
+      "Auran Empire"
+    ]
+  },
+  {
+    "id": 153,
+    "term_en": "Jutland (coast)",
+    "term_ru": "Ютландское",
+    "abbreviation_ru": null,
+    "category": "Топонимы",
+    "status": "project_glossary",
+    "raw_entry": "Jutland (coast) - Ютландское (побережье)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.193",
+    "variants": [],
+    "aliases": [
+      "Jutland (coast)",
+      "Jutland Coast"
+    ]
+  },
+  {
+    "id": 154,
+    "term_en": "Skysos",
+    "term_ru": "Скизия",
+    "abbreviation_ru": null,
+    "category": "Топонимы",
+    "status": "project_glossary",
+    "raw_entry": "Skysos - Скизия - название страны. Скизийский - прилагательное. Скизийцы  - название народа.",
+    "source_id": "glossary_docx",
+    "source_locator": "body.194",
+    "variants": [],
+    "aliases": [
+      "Skysos"
+    ]
+  },
+  {
+    "id": 155,
+    "term_en": "Ivory Kingdoms",
+    "term_ru": "Королевства слоновой кости",
+    "abbreviation_ru": null,
+    "category": "Топонимы",
+    "status": "project_glossary",
+    "raw_entry": "Ivory Kingdoms - Королевства слоновой кости",
+    "source_id": "glossary_docx",
+    "source_locator": "body.195",
+    "variants": [],
+    "aliases": [
+      "Ivory Kingdoms"
+    ]
+  },
+  {
+    "id": 156,
+    "term_en": "Clear",
+    "term_ru": "Равнины",
+    "abbreviation_ru": null,
+    "category": "Terrain types Типы местности ",
+    "status": "project_glossary",
+    "raw_entry": "Clear - Равнины",
+    "source_id": "glossary_docx",
+    "source_locator": "body.199",
+    "variants": [],
+    "aliases": [
+      "Clear"
+    ]
+  },
+  {
+    "id": 157,
+    "term_en": "Grass",
+    "term_ru": "Поля",
+    "abbreviation_ru": null,
+    "category": "Terrain types Типы местности ",
+    "status": "project_glossary",
+    "raw_entry": "Grass - Поля",
+    "source_id": "glossary_docx",
+    "source_locator": "body.200",
+    "variants": [],
+    "aliases": [
+      "Grass"
+    ]
+  },
+  {
+    "id": 158,
+    "term_en": "Scrub",
+    "term_ru": "Саванна",
+    "abbreviation_ru": null,
+    "category": "Terrain types Типы местности ",
+    "status": "project_glossary",
+    "raw_entry": "Scrub - Саванна",
+    "source_id": "glossary_docx",
+    "source_locator": "body.201",
+    "variants": [],
+    "aliases": [
+      "Scrub"
+    ]
+  },
+  {
+    "id": 159,
+    "term_en": "Hills",
+    "term_ru": "Холмы",
+    "abbreviation_ru": null,
+    "category": "Terrain types Типы местности ",
+    "status": "project_glossary",
+    "raw_entry": "Hills - Холмы",
+    "source_id": "glossary_docx",
+    "source_locator": "body.201",
+    "variants": [],
+    "aliases": [
+      "Hills"
+    ]
+  },
+  {
+    "id": 160,
+    "term_en": "Barren",
+    "term_ru": "Степь",
+    "abbreviation_ru": null,
+    "category": "Terrain types Типы местности ",
+    "status": "project_glossary",
+    "raw_entry": "Barren - Степь",
+    "source_id": "glossary_docx",
+    "source_locator": "body.201",
+    "variants": [],
+    "aliases": [
+      "Barren"
+    ]
+  },
+  {
+    "id": 161,
+    "term_en": "Desert",
+    "term_ru": "Пустыня",
+    "abbreviation_ru": null,
+    "category": "Terrain types Типы местности ",
+    "status": "project_glossary",
+    "raw_entry": "Desert - Пустыня",
+    "source_id": "glossary_docx",
+    "source_locator": "body.201",
+    "variants": [],
+    "aliases": [
+      "Desert"
+    ]
+  },
+  {
+    "id": 162,
+    "term_en": "Mountains",
+    "term_ru": "Горы",
+    "abbreviation_ru": null,
+    "category": "Terrain types Типы местности ",
+    "status": "project_glossary",
+    "raw_entry": "Mountains - Горы",
+    "source_id": "glossary_docx",
+    "source_locator": "body.201",
+    "variants": [],
+    "aliases": [
+      "Mountains"
+    ]
+  },
+  {
+    "id": 163,
+    "term_en": "Woods",
+    "term_ru": "Лес",
+    "abbreviation_ru": null,
+    "category": "Terrain types Типы местности ",
+    "status": "project_glossary",
+    "raw_entry": "Woods - Лес",
+    "source_id": "glossary_docx",
+    "source_locator": "body.201",
+    "variants": [],
+    "aliases": [
+      "Woods"
+    ]
+  },
+  {
+    "id": 164,
+    "term_en": "Swamp",
+    "term_ru": "Болота",
+    "abbreviation_ru": null,
+    "category": "Terrain types Типы местности ",
+    "status": "project_glossary",
+    "raw_entry": "Swamp - Болота",
+    "source_id": "glossary_docx",
+    "source_locator": "body.201",
+    "variants": [],
+    "aliases": [
+      "Swamp"
+    ]
+  },
+  {
+    "id": 165,
+    "term_en": "Jugnle",
+    "term_ru": "Джунгли",
+    "abbreviation_ru": null,
+    "category": "Terrain types Типы местности ",
+    "status": "project_glossary",
+    "raw_entry": "Jugnle - Джунгли",
+    "source_id": "glossary_docx",
+    "source_locator": "body.201",
+    "variants": [],
+    "aliases": [
+      "Jugnle"
+    ]
+  },
+  {
+    "id": 166,
+    "term_en": "Apprentice",
+    "term_ru": "ученик",
+    "abbreviation_ru": null,
+    "category": "Наёмники и прочие типы",
+    "status": "project_glossary",
+    "raw_entry": "Apprentice - ученик",
+    "source_id": "glossary_docx",
+    "source_locator": "body.203",
+    "variants": [],
+    "aliases": [
+      "Apprentice"
+    ]
+  },
+  {
+    "id": 167,
+    "term_en": "Companion",
+    "term_ru": "компаньон",
+    "abbreviation_ru": null,
+    "category": "Наёмники и прочие типы",
+    "status": "project_glossary",
+    "raw_entry": "Companion - компаньон",
+    "source_id": "glossary_docx",
+    "source_locator": "body.204",
+    "variants": [],
+    "aliases": [
+      "Companion"
+    ]
+  },
+  {
+    "id": 168,
+    "term_en": "Military troops",
+    "term_ru": "военные",
+    "abbreviation_ru": null,
+    "category": "Наёмники и прочие типы",
+    "status": "project_glossary",
+    "raw_entry": "Military troops - военные",
+    "source_id": "glossary_docx",
+    "source_locator": "body.205",
+    "variants": [],
+    "aliases": [
+      "Military troops"
+    ]
+  },
+  {
+    "id": 169,
+    "term_en": "Syndicate Members",
+    "term_ru": "члены синдиката",
+    "abbreviation_ru": null,
+    "category": "Наёмники и прочие типы",
+    "status": "project_glossary",
+    "raw_entry": "Syndicate Members - члены синдиката",
+    "source_id": "glossary_docx",
+    "source_locator": "body.206",
+    "variants": [],
+    "aliases": [
+      "Syndicate Members"
+    ]
+  },
+  {
+    "id": 170,
+    "term_en": "Cleave",
+    "term_ru": "рассечение",
+    "abbreviation_ru": null,
+    "category": "Особенности",
+    "status": "project_glossary",
+    "raw_entry": "Cleave - рассечение",
+    "source_id": "glossary_docx",
+    "source_locator": "body.209",
+    "variants": [],
+    "aliases": [
+      "Cleave"
+    ]
+  },
+  {
+    "id": 171,
+    "term_en": "Backstab",
+    "term_ru": "Удар в спину",
+    "abbreviation_ru": null,
+    "category": "Особенности",
+    "status": "project_glossary",
+    "raw_entry": "Backstab - Удар в спину",
+    "source_id": "glossary_docx",
+    "source_locator": "body.210",
+    "variants": [],
+    "aliases": [
+      "Backstab"
+    ]
+  },
+  {
+    "id": 172,
+    "term_en": "Traversing",
+    "term_ru": "прорывание",
+    "abbreviation_ru": null,
+    "category": "Особенности",
+    "status": "project_glossary",
+    "raw_entry": "Traversing - прорывание",
+    "source_id": "glossary_docx",
+    "source_locator": "body.211",
+    "variants": [],
+    "aliases": [
+      "Traversing"
+    ]
+  },
+  {
+    "id": 173,
+    "term_en": "Shadowy senses",
+    "term_ru": "теневое чутье",
+    "abbreviation_ru": null,
+    "category": "Особенности",
+    "status": "project_glossary",
+    "raw_entry": "Shadowy senses - теневое чутье",
+    "source_id": "glossary_docx",
+    "source_locator": "body.212",
+    "variants": [],
+    "aliases": [
+      "Shadowy senses"
+    ]
+  },
+  {
+    "id": 174,
+    "term_en": "Lightless vision",
+    "term_ru": "тёмное зрение",
+    "abbreviation_ru": null,
+    "category": "Особенности",
+    "status": "project_glossary",
+    "raw_entry": "Lightless vision - тёмное зрение",
+    "source_id": "glossary_docx",
+    "source_locator": "body.213",
+    "variants": [],
+    "aliases": [
+      "Lightless vision"
+    ]
+  },
+  {
+    "id": 175,
+    "term_en": "Rebuke undead",
+    "term_ru": "Изгнание нежити",
+    "abbreviation_ru": null,
+    "category": "Особенности",
+    "status": "project_glossary",
+    "raw_entry": "Rebuke undead - Изгнание нежити",
+    "source_id": "glossary_docx",
+    "source_locator": "body.214",
+    "variants": [],
+    "aliases": [
+      "Rebuke undead"
+    ]
+  },
+  {
+    "id": 176,
+    "term_en": "Manual of Arms",
+    "term_ru": "военная подготовка",
+    "abbreviation_ru": null,
+    "category": "Особенности",
+    "status": "project_glossary",
+    "raw_entry": "Manual of Arms - военная подготовка",
+    "source_id": "glossary_docx",
+    "source_locator": "body.215",
+    "variants": [],
+    "aliases": [
+      "Manual of Arms"
+    ]
+  },
+  {
+    "id": 177,
+    "term_en": "Adventuring",
+    "term_ru": "Авантюризм",
+    "abbreviation_ru": null,
+    "category": "Особенности",
+    "status": "project_glossary",
+    "raw_entry": "Adventuring - Авантюризм",
+    "source_id": "glossary_docx",
+    "source_locator": "body.216",
+    "variants": [],
+    "aliases": [
+      "Adventuring"
+    ]
+  },
+  {
+    "id": 178,
+    "term_en": "Ambushing",
+    "term_ru": "Засада",
+    "abbreviation_ru": null,
+    "category": "Особенности",
+    "status": "project_glossary",
+    "raw_entry": "Ambushing - Засада (там по смыслу вообще не засада - внезапный удар или удар исподтишка)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.217",
+    "variants": [],
+    "aliases": [
+      "Ambushing"
+    ]
+  },
+  {
+    "id": 179,
+    "term_en": "Battlefield Prowess",
+    "term_ru": "Боевая доблесть",
+    "abbreviation_ru": null,
+    "category": "Особенности",
+    "status": "project_glossary",
+    "raw_entry": "Battlefield Prowess - Боевая доблесть",
+    "source_id": "glossary_docx",
+    "source_locator": "body.218",
+    "variants": [],
+    "aliases": [
+      "Battlefield Prowess"
+    ]
+  },
+  {
+    "id": 180,
+    "term_en": "Animal Reflexes",
+    "term_ru": "Животные инстинкты",
+    "abbreviation_ru": null,
+    "category": "Особенности",
+    "status": "project_glossary",
+    "raw_entry": "Animal Reflexes - Животные инстинкты ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.219",
+    "variants": [],
+    "aliases": [
+      "Animal Reflexes"
+    ]
+  },
+  {
+    "id": 181,
+    "term_en": "small",
+    "term_ru": "малый",
+    "abbreviation_ru": null,
+    "category": "Размер",
+    "status": "project_glossary",
+    "raw_entry": "small - малый",
+    "source_id": "glossary_docx",
+    "source_locator": "body.223",
+    "variants": [],
+    "aliases": [
+      "small"
+    ]
+  },
+  {
+    "id": 182,
+    "term_en": "tiny",
+    "term_ru": "крошечный",
+    "abbreviation_ru": null,
+    "category": "Размер",
+    "status": "project_glossary",
+    "raw_entry": "tiny - крошечный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.224",
+    "variants": [],
+    "aliases": [
+      "tiny"
+    ]
+  },
+  {
+    "id": 183,
+    "term_en": "Large",
+    "term_ru": "Большие",
+    "abbreviation_ru": null,
+    "category": "Размер",
+    "status": "project_glossary",
+    "raw_entry": "Large - Большие",
+    "source_id": "glossary_docx",
+    "source_locator": "body.225",
+    "variants": [],
+    "aliases": [
+      "Large"
+    ]
+  },
+  {
+    "id": 184,
+    "term_en": "huge",
+    "term_ru": "Огромные",
+    "abbreviation_ru": null,
+    "category": "Размер",
+    "status": "project_glossary",
+    "raw_entry": "huge - Огромные",
+    "source_id": "glossary_docx",
+    "source_locator": "body.226",
+    "variants": [],
+    "aliases": [
+      "huge"
+    ]
+  },
+  {
+    "id": 185,
+    "term_en": "gigantic",
+    "term_ru": "Гигантский",
+    "abbreviation_ru": null,
+    "category": "Размер",
+    "status": "project_glossary",
+    "raw_entry": "gigantic - Гигантский",
+    "source_id": "glossary_docx",
+    "source_locator": "body.227",
+    "variants": [],
+    "aliases": [
+      "gigantic"
+    ]
+  },
+  {
+    "id": 186,
+    "term_en": "colossal",
+    "term_ru": "Колоссальные",
+    "abbreviation_ru": null,
+    "category": "Размер",
+    "status": "project_glossary",
+    "raw_entry": "colossal - Колоссальные",
+    "source_id": "glossary_docx",
+    "source_locator": "body.228",
+    "variants": [],
+    "aliases": [
+      "colossal"
+    ]
+  },
+  {
+    "id": 187,
+    "term_en": "Venturers",
+    "term_ru": "Купцы",
+    "abbreviation_ru": null,
+    "category": "НПС",
+    "status": "project_glossary",
+    "raw_entry": "Venturers - Купцы",
+    "source_id": "glossary_docx",
+    "source_locator": "body.230",
+    "variants": [],
+    "aliases": [
+      "Venturers"
+    ]
+  },
+  {
+    "id": 188,
+    "term_en": "Hireling",
+    "term_ru": "Спутник",
+    "abbreviation_ru": null,
+    "category": "НПС",
+    "status": "project_glossary",
+    "raw_entry": "Hireling - Спутник",
+    "source_id": "glossary_docx",
+    "source_locator": "body.231",
+    "variants": [],
+    "aliases": [
+      "Hireling"
+    ]
+  },
+  {
+    "id": 189,
+    "term_en": "Henchmen",
+    "term_ru": "Приспешник",
+    "abbreviation_ru": null,
+    "category": "НПС",
+    "status": "project_glossary",
+    "raw_entry": "Henchmen - Приспешник",
+    "source_id": "glossary_docx",
+    "source_locator": "body.232",
+    "variants": [],
+    "aliases": [
+      "Henchmen"
+    ]
+  },
+  {
+    "id": 190,
+    "term_en": "Mercenary",
+    "term_ru": "Наемник",
+    "abbreviation_ru": null,
+    "category": "НПС",
+    "status": "project_glossary",
+    "raw_entry": "Mercenary - Наемник",
+    "source_id": "glossary_docx",
+    "source_locator": "body.233",
+    "variants": [],
+    "aliases": [
+      "Mercenary"
+    ]
+  },
+  {
+    "id": 191,
+    "term_en": "Specialist",
+    "term_ru": "специалист",
+    "abbreviation_ru": null,
+    "category": "НПС",
+    "status": "project_glossary",
+    "raw_entry": "Specialist - специалист",
+    "source_id": "glossary_docx",
+    "source_locator": "body.234",
+    "variants": [],
+    "aliases": [
+      "Specialist"
+    ]
+  },
+  {
+    "id": 192,
+    "term_en": "Studious Spellcasters",
+    "term_ru": "Учёные заклинатели",
+    "abbreviation_ru": null,
+    "category": "НПС",
+    "status": "project_glossary",
+    "raw_entry": "Studious Spellcasters - Учёные заклинатели",
+    "source_id": "glossary_docx",
+    "source_locator": "body.235",
+    "variants": [],
+    "aliases": [
+      "Studious Spellcasters"
+    ]
+  },
+  {
+    "id": 193,
+    "term_en": "Sell-sword / Man-at-arms",
+    "term_ru": "Наёмник",
+    "abbreviation_ru": null,
+    "category": "НПС",
+    "status": "project_glossary",
+    "raw_entry": "Sell-sword / Man-at-arms - Наёмник",
+    "source_id": "glossary_docx",
+    "source_locator": "body.236",
+    "variants": [],
+    "aliases": [
+      "Sell-sword / Man-at-arms"
+    ]
+  },
+  {
+    "id": 194,
+    "term_en": "Swordmaster",
+    "term_ru": "Мастер меча",
+    "abbreviation_ru": null,
+    "category": "НПС",
+    "status": "project_glossary",
+    "raw_entry": "Swordmaster - Мастер меча",
+    "source_id": "glossary_docx",
+    "source_locator": "body.237",
+    "variants": [],
+    "aliases": [
+      "Swordmaster"
+    ]
+  },
+  {
+    "id": 195,
+    "term_en": "Oozes",
+    "term_ru": "слизь",
+    "abbreviation_ru": null,
+    "category": "Название существ",
+    "status": "project_glossary",
+    "raw_entry": "Oozes - слизь",
+    "source_id": "glossary_docx",
+    "source_locator": "body.239",
+    "variants": [],
+    "aliases": [
+      "Oozes"
+    ]
+  },
+  {
+    "id": 196,
+    "term_en": "Incarnations",
+    "term_ru": "воплощения",
+    "abbreviation_ru": null,
+    "category": "Название существ",
+    "status": "project_glossary",
+    "raw_entry": "Incarnations - воплощения",
+    "source_id": "glossary_docx",
+    "source_locator": "body.240",
+    "variants": [],
+    "aliases": [
+      "Incarnations"
+    ]
+  },
+  {
+    "id": 197,
+    "term_en": "Vermin",
+    "term_ru": "вредители",
+    "abbreviation_ru": null,
+    "category": "Название существ",
+    "status": "project_glossary",
+    "raw_entry": "Vermin - вредители",
+    "source_id": "glossary_docx",
+    "source_locator": "body.241",
+    "variants": [],
+    "aliases": [
+      "Vermin"
+    ]
+  },
+  {
+    "id": 198,
+    "term_en": "Ravila",
+    "term_ru": "Равила",
+    "abbreviation_ru": null,
+    "category": "Имена",
+    "status": "project_glossary",
+    "raw_entry": "Ravila - Равила",
+    "source_id": "glossary_docx",
+    "source_locator": "body.243",
+    "variants": [],
+    "aliases": [
+      "Ravila"
+    ]
+  },
+  {
+    "id": 199,
+    "term_en": "Augilar",
+    "term_ru": "Огилар",
+    "abbreviation_ru": null,
+    "category": "Имена",
+    "status": "project_glossary",
+    "raw_entry": "Augilar - Огилар",
+    "source_id": "glossary_docx",
+    "source_locator": "body.244",
+    "variants": [],
+    "aliases": [
+      "Augilar"
+    ]
+  },
+  {
+    "id": 200,
+    "term_en": "Skandara",
+    "term_ru": "Скандара",
+    "abbreviation_ru": null,
+    "category": "Имена",
+    "status": "project_glossary",
+    "raw_entry": "Skandara - Скандара",
+    "source_id": "glossary_docx",
+    "source_locator": "body.245",
+    "variants": [],
+    "aliases": [
+      "Skandara"
+    ]
+  },
+  {
+    "id": 201,
+    "term_en": "Orm",
+    "term_ru": "Орм",
+    "abbreviation_ru": null,
+    "category": "Имена",
+    "status": "project_glossary",
+    "raw_entry": "Orm - Орм",
+    "source_id": "glossary_docx",
+    "source_locator": "body.246",
+    "variants": [],
+    "aliases": [
+      "Orm"
+    ]
+  },
+  {
+    "id": 202,
+    "term_en": "Quintus",
+    "term_ru": "Квинт",
+    "abbreviation_ru": null,
+    "category": "Имена",
+    "status": "project_glossary",
+    "raw_entry": "Quintus - Квинт",
+    "source_id": "glossary_docx",
+    "source_locator": "body.247",
+    "variants": [],
+    "aliases": [
+      "Quintus"
+    ]
+  },
+  {
+    "id": 203,
+    "term_en": "Norden",
+    "term_ru": "Норден",
+    "abbreviation_ru": null,
+    "category": "Имена",
+    "status": "project_glossary",
+    "raw_entry": "Norden - Норден",
+    "source_id": "glossary_docx",
+    "source_locator": "body.248",
+    "variants": [],
+    "aliases": [
+      "Norden"
+    ]
+  },
+  {
+    "id": 204,
+    "term_en": "Athelstan",
+    "term_ru": "Этельстан",
+    "abbreviation_ru": null,
+    "category": "Имена",
+    "status": "project_glossary",
+    "raw_entry": "Athelstan - Этельстан",
+    "source_id": "glossary_docx",
+    "source_locator": "body.249",
+    "variants": [],
+    "aliases": [
+      "Athelstan"
+    ]
+  },
+  {
+    "id": 205,
+    "term_en": "Marcus",
+    "term_ru": "Маркус",
+    "abbreviation_ru": null,
+    "category": "Имена",
+    "status": "project_glossary",
+    "raw_entry": "Marcus - Маркус",
+    "source_id": "glossary_docx",
+    "source_locator": "body.250",
+    "variants": [],
+    "aliases": [
+      "Marcus"
+    ]
+  },
+  {
+    "id": 206,
+    "term_en": "Balbus",
+    "term_ru": "Бальбус",
+    "abbreviation_ru": null,
+    "category": "Имена",
+    "status": "project_glossary",
+    "raw_entry": "Balbus - Бальбус",
+    "source_id": "glossary_docx",
+    "source_locator": "body.251",
+    "variants": [],
+    "aliases": [
+      "Balbus"
+    ]
+  },
+  {
+    "id": 207,
+    "term_en": "Adventuring",
+    "term_ru": "Авантюризм",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Adventuring (O) - Авантюризм",
+    "source_id": "glossary_docx",
+    "source_locator": "body.253",
+    "variants": [],
+    "aliases": [
+      "Adventuring"
+    ]
+  },
+  {
+    "id": 208,
+    "term_en": "Acrobatics",
+    "term_ru": "Акробатика",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Acrobatics - Акробатика",
+    "source_id": "glossary_docx",
+    "source_locator": "body.254",
+    "variants": [],
+    "aliases": [
+      "Acrobatics"
+    ]
+  },
+  {
+    "id": 209,
+    "term_en": "Alchemy",
+    "term_ru": "Алхимия",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Alchemy (G) - Алхимия",
+    "source_id": "glossary_docx",
+    "source_locator": "body.255",
+    "variants": [],
+    "aliases": [
+      "Alchemy"
+    ]
+  },
+  {
+    "id": 210,
+    "term_en": "Alertness",
+    "term_ru": "Внимательность",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Alertness - Внимательность",
+    "source_id": "glossary_docx",
+    "source_locator": "body.256",
+    "variants": [],
+    "aliases": [
+      "Alertness"
+    ]
+  },
+  {
+    "id": 211,
+    "term_en": "Ambushing",
+    "term_ru": "Засада",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Ambushing - Засада",
+    "source_id": "glossary_docx",
+    "source_locator": "body.257",
+    "variants": [],
+    "aliases": [
+      "Ambushing"
+    ]
+  },
+  {
+    "id": 212,
+    "term_en": "Animal Husbandry",
+    "term_ru": "Уход за животными",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Animal Husbandry (G) - Уход за животными",
+    "source_id": "glossary_docx",
+    "source_locator": "body.258",
+    "variants": [],
+    "aliases": [
+      "Animal Husbandry"
+    ]
+  },
+  {
+    "id": 213,
+    "term_en": "Animal Reflexes",
+    "term_ru": "Животные инстинкты",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Animal Reflexes - Животные инстинкты",
+    "source_id": "glossary_docx",
+    "source_locator": "body.259",
+    "variants": [],
+    "aliases": [
+      "Animal Reflexes"
+    ]
+  },
+  {
+    "id": 214,
+    "term_en": "Animal Training",
+    "term_ru": "Дрессировка",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Animal Training (G) - Дрессировка",
+    "source_id": "glossary_docx",
+    "source_locator": "body.260",
+    "variants": [],
+    "aliases": [
+      "Animal Training"
+    ]
+  },
+  {
+    "id": 215,
+    "term_en": "Arcane Dabbling",
+    "term_ru": "Основы магии",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Arcane Dabbling - Основы магии",
+    "source_id": "glossary_docx",
+    "source_locator": "body.261",
+    "variants": [],
+    "aliases": [
+      "Arcane Dabbling"
+    ]
+  },
+  {
+    "id": 216,
+    "term_en": "Armor Training",
+    "term_ru": "Тренировка в доспехах",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Armor Training - Тренировка в доспехах",
+    "source_id": "glossary_docx",
+    "source_locator": "body.262",
+    "variants": [],
+    "aliases": [
+      "Armor Training"
+    ]
+  },
+  {
+    "id": 217,
+    "term_en": "Art/Craft",
+    "term_ru": "Искусство/Ремесло",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Art/Craft (G) - Искусство/Ремесло",
+    "source_id": "glossary_docx",
+    "source_locator": "body.263",
+    "variants": [],
+    "aliases": [
+      "Art/Craft"
+    ]
+  },
+  {
+    "id": 218,
+    "term_en": "Backstabbing",
+    "term_ru": "Удар в спину",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Backstabbing - Удар в спину",
+    "source_id": "glossary_docx",
+    "source_locator": "body.264",
+    "variants": [],
+    "aliases": [
+      "Backstabbing"
+    ]
+  },
+  {
+    "id": 219,
+    "term_en": "Bargaining",
+    "term_ru": "Торг",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Bargaining (G) - Торг",
+    "source_id": "glossary_docx",
+    "source_locator": "body.265",
+    "variants": [],
+    "aliases": [
+      "Bargaining"
+    ]
+  },
+  {
+    "id": 220,
+    "term_en": "Battle Magic",
+    "term_ru": "Боевая магия",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Battle Magic - Боевая магия",
+    "source_id": "glossary_docx",
+    "source_locator": "body.266",
+    "variants": [],
+    "aliases": [
+      "Battle Magic"
+    ]
+  },
+  {
+    "id": 221,
+    "term_en": "Beast Friendship",
+    "term_ru": "Дружба с животными",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Beast Friendship - Дружба с животными",
+    "source_id": "glossary_docx",
+    "source_locator": "body.267",
+    "variants": [],
+    "aliases": [
+      "Beast Friendship"
+    ]
+  },
+  {
+    "id": 222,
+    "term_en": "Berserkergang",
+    "term_ru": "Берсерк",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Berserkergang - Берсерк",
+    "source_id": "glossary_docx",
+    "source_locator": "body.268",
+    "variants": [],
+    "aliases": [
+      "Berserkergang"
+    ]
+  },
+  {
+    "id": 223,
+    "term_en": "Black Lore of Zahar",
+    "term_ru": "Темные знания Захарийцев",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Black Lore of Zahar - Темные знания Захарийцев",
+    "source_id": "glossary_docx",
+    "source_locator": "body.269",
+    "variants": [],
+    "aliases": [
+      "Black Lore of Zahar"
+    ]
+  },
+  {
+    "id": 224,
+    "term_en": "Blind Fighting",
+    "term_ru": "Бой вслепую",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Blind Fighting - Бой вслепую",
+    "source_id": "glossary_docx",
+    "source_locator": "body.270",
+    "variants": [],
+    "aliases": [
+      "Blind Fighting"
+    ]
+  },
+  {
+    "id": 225,
+    "term_en": "Bribery",
+    "term_ru": "Подкуп",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Bribery - Подкуп",
+    "source_id": "glossary_docx",
+    "source_locator": "body.271",
+    "variants": [],
+    "aliases": [
+      "Bribery"
+    ]
+  },
+  {
+    "id": 226,
+    "term_en": "Bright Lore of Aura",
+    "term_ru": "Светлые знания Ауры",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Bright Lore of Aura - Светлые знания Ауры",
+    "source_id": "glossary_docx",
+    "source_locator": "body.272",
+    "variants": [],
+    "aliases": [
+      "Bright Lore of Aura"
+    ]
+  },
+  {
+    "id": 227,
+    "term_en": "Cat Burglary",
+    "term_ru": "Кошачья грация",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Cat Burglary - Кошачья грация",
+    "source_id": "glossary_docx",
+    "source_locator": "body.273",
+    "variants": [],
+    "aliases": [
+      "Cat Burglary"
+    ]
+  },
+  {
+    "id": 228,
+    "term_en": "Caving",
+    "term_ru": "Исследователь подземелий",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Caving (G) - Исследователь подземелий",
+    "source_id": "glossary_docx",
+    "source_locator": "body.274",
+    "variants": [],
+    "aliases": [
+      "Caving"
+    ]
+  },
+  {
+    "id": 229,
+    "term_en": "Climbing",
+    "term_ru": "Лазание",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Climbing - Лазание",
+    "source_id": "glossary_docx",
+    "source_locator": "body.275",
+    "variants": [],
+    "aliases": [
+      "Climbing"
+    ]
+  },
+  {
+    "id": 230,
+    "term_en": "Collegiate Wizardry",
+    "term_ru": "Школа магии",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Collegiate Wizardry (G) - Школа магии",
+    "source_id": "glossary_docx",
+    "source_locator": "body.276",
+    "variants": [],
+    "aliases": [
+      "Collegiate Wizardry"
+    ]
+  },
+  {
+    "id": 231,
+    "term_en": "Combat Ferocity",
+    "term_ru": "Боевая свирепость",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Combat Ferocity - Боевая свирепость",
+    "source_id": "glossary_docx",
+    "source_locator": "body.277",
+    "variants": [],
+    "aliases": [
+      "Combat Ferocity"
+    ]
+  },
+  {
+    "id": 232,
+    "term_en": "Combat Reflexes",
+    "term_ru": "Боевые рефлексы",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Combat Reflexes - Боевые рефлексы",
+    "source_id": "glossary_docx",
+    "source_locator": "body.278",
+    "variants": [],
+    "aliases": [
+      "Combat Reflexes"
+    ]
+  },
+  {
+    "id": 233,
+    "term_en": "Combat Trickery",
+    "term_ru": "Боевая хитрость",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Combat Trickery - Боевая хитрость",
+    "source_id": "glossary_docx",
+    "source_locator": "body.279",
+    "variants": [],
+    "aliases": [
+      "Combat Trickery"
+    ]
+  },
+  {
+    "id": 234,
+    "term_en": "Command",
+    "term_ru": "Командование",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Command - Командование",
+    "source_id": "glossary_docx",
+    "source_locator": "body.280",
+    "variants": [],
+    "aliases": [
+      "Command"
+    ]
+  },
+  {
+    "id": 235,
+    "term_en": "Contemplation",
+    "term_ru": "Созерцание",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Contemplation - Созерцание",
+    "source_id": "glossary_docx",
+    "source_locator": "body.281",
+    "variants": [],
+    "aliases": [
+      "Contemplation"
+    ]
+  },
+  {
+    "id": 236,
+    "term_en": "Contortionism",
+    "term_ru": "Гибкость",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Contortionism - Гибкость",
+    "source_id": "glossary_docx",
+    "source_locator": "body.282",
+    "variants": [],
+    "aliases": [
+      "Contortionism"
+    ]
+  },
+  {
+    "id": 237,
+    "term_en": "Counterspelling",
+    "term_ru": "Рассеивание магии",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Counterspelling - Рассеивание магии",
+    "source_id": "glossary_docx",
+    "source_locator": "body.283",
+    "variants": [],
+    "aliases": [
+      "Counterspelling"
+    ]
+  },
+  {
+    "id": 238,
+    "term_en": "Craft (locksmithing)",
+    "term_ru": "Изготовление отмычек",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Craft (locksmithing) - Изготовление отмычек",
+    "source_id": "glossary_docx",
+    "source_locator": "body.284",
+    "variants": [],
+    "aliases": [
+      "Craft (locksmithing)"
+    ]
+  },
+  {
+    "id": 239,
+    "term_en": "Deciphering",
+    "term_ru": "Дешифрирование",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Deciphering - Дешифрирование",
+    "source_id": "glossary_docx",
+    "source_locator": "body.285",
+    "variants": [],
+    "aliases": [
+      "Deciphering"
+    ]
+  },
+  {
+    "id": 240,
+    "term_en": "Diplomacy",
+    "term_ru": "Дипломатия",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Diplomacy (G) - Дипломатия",
+    "source_id": "glossary_docx",
+    "source_locator": "body.286",
+    "variants": [],
+    "aliases": [
+      "Diplomacy"
+    ]
+  },
+  {
+    "id": 241,
+    "term_en": "Disguise",
+    "term_ru": "Маскировка",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Disguise (G) - Маскировка",
+    "source_id": "glossary_docx",
+    "source_locator": "body.287",
+    "variants": [],
+    "aliases": [
+      "Disguise"
+    ]
+  },
+  {
+    "id": 242,
+    "term_en": "Divine Blessing",
+    "term_ru": "Божественное благословение",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Divine Blessing - Божественное благословение",
+    "source_id": "glossary_docx",
+    "source_locator": "body.288",
+    "variants": [],
+    "aliases": [
+      "Divine Blessing"
+    ]
+  },
+  {
+    "id": 243,
+    "term_en": "Divine Health",
+    "term_ru": "Божественное здоровье",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Divine Health - Божественное здоровье",
+    "source_id": "glossary_docx",
+    "source_locator": "body.289",
+    "variants": [],
+    "aliases": [
+      "Divine Health"
+    ]
+  },
+  {
+    "id": 244,
+    "term_en": "Driving",
+    "term_ru": "Возничий",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Driving (G) - Возничий",
+    "source_id": "glossary_docx",
+    "source_locator": "body.290",
+    "variants": [],
+    "aliases": [
+      "Driving"
+    ]
+  },
+  {
+    "id": 245,
+    "term_en": "Dungeonbashing Expertise",
+    "term_ru": "Эксперт выбивания дверей",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Dungeonbashing Expertise - Эксперт выбивания дверей",
+    "source_id": "glossary_docx",
+    "source_locator": "body.291",
+    "variants": [],
+    "aliases": [
+      "Dungeonbashing Expertise"
+    ]
+  },
+  {
+    "id": 246,
+    "term_en": "Dwarven Brewing",
+    "term_ru": "Дварфийское пивоварение",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Dwarven Brewing - Дварфийское пивоварение",
+    "source_id": "glossary_docx",
+    "source_locator": "body.292",
+    "variants": [],
+    "aliases": [
+      "Dwarven Brewing"
+    ]
+  },
+  {
+    "id": 247,
+    "term_en": "Eavesdropping",
+    "term_ru": "Чутье",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Eavesdropping - Чутье",
+    "source_id": "glossary_docx",
+    "source_locator": "body.293",
+    "variants": [],
+    "aliases": [
+      "Eavesdropping"
+    ]
+  },
+  {
+    "id": 248,
+    "term_en": "Elementalism",
+    "term_ru": "Элементализм",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Elementalism - Элементализм",
+    "source_id": "glossary_docx",
+    "source_locator": "body.294",
+    "variants": [],
+    "aliases": [
+      "Elementalism"
+    ]
+  },
+  {
+    "id": 249,
+    "term_en": "Elven Bloodline",
+    "term_ru": "Эльфийская кровь",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Elven Bloodline - Эльфийская кровь",
+    "source_id": "glossary_docx",
+    "source_locator": "body.295",
+    "variants": [],
+    "aliases": [
+      "Elven Bloodline"
+    ]
+  },
+  {
+    "id": 250,
+    "term_en": "Endurance",
+    "term_ru": "Стойкость",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Endurance (G) - Стойкость",
+    "source_id": "glossary_docx",
+    "source_locator": "body.296",
+    "variants": [],
+    "aliases": [
+      "Endurance"
+    ]
+  },
+  {
+    "id": 251,
+    "term_en": "Engineering",
+    "term_ru": "Инженерное дело",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Engineering (G) - Инженерное дело",
+    "source_id": "glossary_docx",
+    "source_locator": "body.297",
+    "variants": [],
+    "aliases": [
+      "Engineering"
+    ]
+  },
+  {
+    "id": 252,
+    "term_en": "Expanded Repertoire",
+    "term_ru": "Расширенный репертуар",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Expanded Repertoire - Расширенный репертуар",
+    "source_id": "glossary_docx",
+    "source_locator": "body.298",
+    "variants": [],
+    "aliases": [
+      "Expanded Repertoire"
+    ]
+  },
+  {
+    "id": 253,
+    "term_en": "Experimenting",
+    "term_ru": "Экспериментаторство",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Experimenting - Экспериментаторство",
+    "source_id": "glossary_docx",
+    "source_locator": "body.299",
+    "variants": [],
+    "aliases": [
+      "Experimenting"
+    ]
+  },
+  {
+    "id": 254,
+    "term_en": "Expert Bargaining",
+    "term_ru": "Торговый эксперт",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Expert Bargaining - Торговый эксперт",
+    "source_id": "glossary_docx",
+    "source_locator": "body.300",
+    "variants": [],
+    "aliases": [
+      "Expert Bargaining"
+    ]
+  },
+  {
+    "id": 255,
+    "term_en": "Expert Traveling",
+    "term_ru": "Эксперт путешествий",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Expert Traveling - Эксперт путешествий",
+    "source_id": "glossary_docx",
+    "source_locator": "body.301",
+    "variants": [],
+    "aliases": [
+      "Expert Traveling"
+    ]
+  },
+  {
+    "id": 256,
+    "term_en": "Familiar",
+    "term_ru": "Фамильяр",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Familiar - Фамильяр",
+    "source_id": "glossary_docx",
+    "source_locator": "body.302",
+    "variants": [],
+    "aliases": [
+      "Familiar"
+    ]
+  },
+  {
+    "id": 257,
+    "term_en": "Fighting Style Specialization",
+    "term_ru": "Специализация на боевом стиле",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Fighting Style Specialization - Специализация на боевом стиле?",
+    "source_id": "glossary_docx",
+    "source_locator": "body.303",
+    "variants": [],
+    "aliases": [
+      "Fighting Style Specialization"
+    ]
+  },
+  {
+    "id": 258,
+    "term_en": "Folkways",
+    "term_ru": "Фольклор",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Folkways (G) - Фольклор",
+    "source_id": "glossary_docx",
+    "source_locator": "body.304",
+    "variants": [],
+    "aliases": [
+      "Folkways"
+    ]
+  },
+  {
+    "id": 259,
+    "term_en": "Gambling",
+    "term_ru": "Азартные игры",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Gambling (G) - Азартные игры ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.305",
+    "variants": [],
+    "aliases": [
+      "Gambling"
+    ]
+  },
+  {
+    "id": 260,
+    "term_en": "Goblin-Slaying",
+    "term_ru": "Убийца гоблинов",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Goblin-Slaying - Убийца гоблинов",
+    "source_id": "glossary_docx",
+    "source_locator": "body.306",
+    "variants": [],
+    "aliases": [
+      "Goblin-Slaying"
+    ]
+  },
+  {
+    "id": 261,
+    "term_en": "Healing",
+    "term_ru": "Целительство",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Healing (G) - Целительство",
+    "source_id": "glossary_docx",
+    "source_locator": "body.307",
+    "variants": [],
+    "aliases": [
+      "Healing"
+    ]
+  },
+  {
+    "id": 262,
+    "term_en": "Illusion Resistance",
+    "term_ru": "Устойчивость к иллюзиям",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Illusion Resistance - Устойчивость к иллюзиям",
+    "source_id": "glossary_docx",
+    "source_locator": "body.308",
+    "variants": [],
+    "aliases": [
+      "Illusion Resistance"
+    ]
+  },
+  {
+    "id": 263,
+    "term_en": "Intimidation",
+    "term_ru": "Запугивание",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Intimidation (G) - Запугивание",
+    "source_id": "glossary_docx",
+    "source_locator": "body.309",
+    "variants": [],
+    "aliases": [
+      "Intimidation"
+    ]
+  },
+  {
+    "id": 264,
+    "term_en": "Kin-Slaying",
+    "term_ru": "Убийца родичей",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Kin-Slaying - Убийца родичей",
+    "source_id": "glossary_docx",
+    "source_locator": "body.310",
+    "variants": [],
+    "aliases": [
+      "Kin-Slaying"
+    ]
+  },
+  {
+    "id": 265,
+    "term_en": "Knowledge",
+    "term_ru": "Знания",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Knowledge (G) - Знания",
+    "source_id": "glossary_docx",
+    "source_locator": "body.311",
+    "variants": [],
+    "aliases": [
+      "Knowledge"
+    ]
+  },
+  {
+    "id": 266,
+    "term_en": "Labor",
+    "term_ru": "Труд",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Labor (G) - Труд",
+    "source_id": "glossary_docx",
+    "source_locator": "body.312",
+    "variants": [],
+    "aliases": [
+      "Labor"
+    ]
+  },
+  {
+    "id": 267,
+    "term_en": "Land Surveying",
+    "term_ru": "Геодезия",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Land Surveying - Геодезия",
+    "source_id": "glossary_docx",
+    "source_locator": "body.313",
+    "variants": [],
+    "aliases": [
+      "Land Surveying"
+    ]
+  },
+  {
+    "id": 268,
+    "term_en": "Language",
+    "term_ru": "Язык",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Language (G) - Язык",
+    "source_id": "glossary_docx",
+    "source_locator": "body.314",
+    "variants": [],
+    "aliases": [
+      "Language"
+    ]
+  },
+  {
+    "id": 269,
+    "term_en": "Laying on Hands",
+    "term_ru": "Возложение рук",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Laying on Hands - Возложение рук",
+    "source_id": "glossary_docx",
+    "source_locator": "body.315",
+    "variants": [],
+    "aliases": [
+      "Laying on Hands"
+    ]
+  },
+  {
+    "id": 270,
+    "term_en": "Leadership",
+    "term_ru": "Лидерство",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Leadership (G) - Лидерство",
+    "source_id": "glossary_docx",
+    "source_locator": "body.316",
+    "variants": [],
+    "aliases": [
+      "Leadership"
+    ]
+  },
+  {
+    "id": 271,
+    "term_en": "Lip Reading",
+    "term_ru": "Чтение по губам",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Lip Reading (G) - Чтение по губам",
+    "source_id": "glossary_docx",
+    "source_locator": "body.317",
+    "variants": [],
+    "aliases": [
+      "Lip Reading"
+    ]
+  },
+  {
+    "id": 272,
+    "term_en": "Listening",
+    "term_ru": "Подслушивание",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Listening - Подслушивание",
+    "source_id": "glossary_docx",
+    "source_locator": "body.318",
+    "variants": [],
+    "aliases": [
+      "Listening"
+    ]
+  },
+  {
+    "id": 273,
+    "term_en": "Lockpicking Expertise",
+    "term_ru": "Мастерство взлома",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Lockpicking Expertise - Мастерство взлома",
+    "source_id": "glossary_docx",
+    "source_locator": "body.319",
+    "variants": [],
+    "aliases": [
+      "Lockpicking Expertise"
+    ]
+  },
+  {
+    "id": 274,
+    "term_en": "Loremastery",
+    "term_ru": "Мифография",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "user_confirmed",
+    "raw_entry": "Loremastery - Мифография",
+    "source_id": "glossary_docx",
+    "source_locator": "body.320",
+    "variants": [],
+    "aliases": [
+      "Loremastery"
+    ]
+  },
+  {
+    "id": 275,
+    "term_en": "Magical Engineering",
+    "term_ru": "Магическая Инженерия",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Magical Engineering - Магическая Инженерия",
+    "source_id": "glossary_docx",
+    "source_locator": "body.321",
+    "variants": [],
+    "aliases": [
+      "Magical Engineering"
+    ]
+  },
+  {
+    "id": 276,
+    "term_en": "Magical Music",
+    "term_ru": "Волшебное музицирование",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Magical Music - Волшебное музицирование",
+    "source_id": "glossary_docx",
+    "source_locator": "body.322",
+    "variants": [],
+    "aliases": [
+      "Magical Music"
+    ]
+  },
+  {
+    "id": 277,
+    "term_en": "Manual of Arms",
+    "term_ru": "Военная подготовка",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Manual of Arms (G) - Военная подготовка",
+    "source_id": "glossary_docx",
+    "source_locator": "body.323",
+    "variants": [],
+    "aliases": [
+      "Manual of Arms"
+    ]
+  },
+  {
+    "id": 278,
+    "term_en": "Mapping",
+    "term_ru": "Картография",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Mapping (G) - Картография",
+    "source_id": "glossary_docx",
+    "source_locator": "body.324",
+    "variants": [],
+    "aliases": [
+      "Mapping"
+    ]
+  },
+  {
+    "id": 279,
+    "term_en": "Martial Training",
+    "term_ru": "Боевая подготовка",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Martial Training - Боевая подготовка",
+    "source_id": "glossary_docx",
+    "source_locator": "body.325",
+    "variants": [],
+    "aliases": [
+      "Martial Training"
+    ]
+  },
+  {
+    "id": 280,
+    "term_en": "Mastery of Conjuration & Summoning",
+    "term_ru": "Мастерство колдовства и призыва",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Mastery of Conjuration & Summoning - Мастерство колдовства и призыва",
+    "source_id": "glossary_docx",
+    "source_locator": "body.326",
+    "variants": [],
+    "aliases": [
+      "Mastery of Conjuration & Summoning"
+    ]
+  },
+  {
+    "id": 281,
+    "term_en": "Mastery of Enchantments & Illusions",
+    "term_ru": "Мастерство зачарования и иллюзий",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Mastery of Enchantments & Illusions - Мастерство зачарования и иллюзий",
+    "source_id": "glossary_docx",
+    "source_locator": "body.327",
+    "variants": [],
+    "aliases": [
+      "Mastery of Enchantments & Illusions"
+    ]
+  },
+  {
+    "id": 282,
+    "term_en": "Mercantile Network",
+    "term_ru": "Торговая сеть",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Mercantile Network - Торговая сеть",
+    "source_id": "glossary_docx",
+    "source_locator": "body.328",
+    "variants": [],
+    "aliases": [
+      "Mercantile Network"
+    ]
+  },
+  {
+    "id": 283,
+    "term_en": "Military Strategy",
+    "term_ru": "Военная стратегия",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Military Strategy (G) - Военная стратегия",
+    "source_id": "glossary_docx",
+    "source_locator": "body.329",
+    "variants": [],
+    "aliases": [
+      "Military Strategy"
+    ]
+  },
+  {
+    "id": 284,
+    "term_en": "Mimicry",
+    "term_ru": "Мимикрия",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Mimicry (G) - Мимикрия",
+    "source_id": "glossary_docx",
+    "source_locator": "body.330",
+    "variants": [],
+    "aliases": [
+      "Mimicry"
+    ]
+  },
+  {
+    "id": 285,
+    "term_en": "Mountaineering",
+    "term_ru": "Альпинизм",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Mountaineering (G) - Альпинизм",
+    "source_id": "glossary_docx",
+    "source_locator": "body.331",
+    "variants": [],
+    "aliases": [
+      "Mountaineering"
+    ]
+  },
+  {
+    "id": 286,
+    "term_en": "Mounted Combat",
+    "term_ru": "Бой верхом",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Mounted Combat - Бой верхом",
+    "source_id": "glossary_docx",
+    "source_locator": "body.332",
+    "variants": [],
+    "aliases": [
+      "Mounted Combat"
+    ]
+  },
+  {
+    "id": 287,
+    "term_en": "Multilingual",
+    "term_ru": "Полиглот",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Multilingual - Полиглот",
+    "source_id": "glossary_docx",
+    "source_locator": "body.333",
+    "variants": [],
+    "aliases": [
+      "Multilingual"
+    ]
+  },
+  {
+    "id": 288,
+    "term_en": "Mystic Aura",
+    "term_ru": "Мистическая аура",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Mystic Aura -Мистическая аура ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.334",
+    "variants": [],
+    "aliases": [
+      "Mystic Aura"
+    ]
+  },
+  {
+    "id": 289,
+    "term_en": "Natural Stealth",
+    "term_ru": "Природная скрытность",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Natural Stealth - Природная скрытность",
+    "source_id": "glossary_docx",
+    "source_locator": "body.335",
+    "variants": [],
+    "aliases": [
+      "Natural Stealth"
+    ]
+  },
+  {
+    "id": 290,
+    "term_en": "Naturalism",
+    "term_ru": "Природоведение",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "user_confirmed",
+    "raw_entry": "Naturalism (G) - Природоведение",
+    "source_id": "glossary_docx",
+    "source_locator": "body.336",
+    "variants": [],
+    "aliases": [
+      "Naturalism"
+    ]
+  },
+  {
+    "id": 291,
+    "term_en": "Navigation",
+    "term_ru": "Навигация",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Navigation - Навигация",
+    "source_id": "glossary_docx",
+    "source_locator": "body.337",
+    "variants": [],
+    "aliases": [
+      "Navigation"
+    ]
+  },
+  {
+    "id": 292,
+    "term_en": "Overrun",
+    "term_ru": "Пробиться",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Overrun - Пробиться",
+    "source_id": "glossary_docx",
+    "source_locator": "body.338",
+    "variants": [],
+    "aliases": [
+      "Overrun"
+    ]
+  },
+  {
+    "id": 293,
+    "term_en": "Pathfinding",
+    "term_ru": "Поиск пути",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Pathfinding - Поиск пути",
+    "source_id": "glossary_docx",
+    "source_locator": "body.339",
+    "variants": [],
+    "aliases": [
+      "Pathfinding"
+    ]
+  },
+  {
+    "id": 294,
+    "term_en": "Passing Without Trace",
+    "term_ru": "Проход без следа",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Passing Without Trace - Проход без следа",
+    "source_id": "glossary_docx",
+    "source_locator": "body.340",
+    "variants": [],
+    "aliases": [
+      "Passing Without Trace"
+    ]
+  },
+  {
+    "id": 295,
+    "term_en": "Performance",
+    "term_ru": "Выступление",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Performance (G) - Выступление",
+    "source_id": "glossary_docx",
+    "source_locator": "body.341",
+    "variants": [],
+    "aliases": [
+      "Performance"
+    ]
+  },
+  {
+    "id": 296,
+    "term_en": "Pickpocketing",
+    "term_ru": "Карманные кражи",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Pickpocketing - Карманные кражи",
+    "source_id": "glossary_docx",
+    "source_locator": "body.342",
+    "variants": [],
+    "aliases": [
+      "Pickpocketing"
+    ]
+  },
+  {
+    "id": 297,
+    "term_en": "Poisoning",
+    "term_ru": "Знание ядов",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Poisoning - Знание ядов",
+    "source_id": "glossary_docx",
+    "source_locator": "body.343",
+    "variants": [],
+    "aliases": [
+      "Poisoning"
+    ]
+  },
+  {
+    "id": 298,
+    "term_en": "Precise Shooting",
+    "term_ru": "Точная стрельба",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Precise Shooting - Точная стрельба",
+    "source_id": "glossary_docx",
+    "source_locator": "body.344",
+    "variants": [],
+    "aliases": [
+      "Precise Shooting"
+    ]
+  },
+  {
+    "id": 299,
+    "term_en": "Prestidigitation",
+    "term_ru": "Фокусничество",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Prestidigitation - Фокусничество? (нет такого слова, Волшебные фокусы, просто Фокусы, или Фокусник)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.345",
+    "variants": [],
+    "aliases": [
+      "Prestidigitation"
+    ]
+  },
+  {
+    "id": 300,
+    "term_en": "Profession",
+    "term_ru": "Профессия",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Profession (G) - Профессия?",
+    "source_id": "glossary_docx",
+    "source_locator": "body.346",
+    "variants": [],
+    "aliases": [
+      "Profession"
+    ]
+  },
+  {
+    "id": 301,
+    "term_en": "Prophecy",
+    "term_ru": "Пророчество",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Prophecy - Пророчество",
+    "source_id": "glossary_docx",
+    "source_locator": "body.347",
+    "variants": [],
+    "aliases": [
+      "Prophecy"
+    ]
+  },
+  {
+    "id": 302,
+    "term_en": "Prospecting",
+    "term_ru": "Геолог",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Prospecting - Геолог",
+    "source_id": "glossary_docx",
+    "source_locator": "body.348",
+    "variants": [],
+    "aliases": [
+      "Prospecting"
+    ]
+  },
+  {
+    "id": 303,
+    "term_en": "Quiet Magic",
+    "term_ru": "Тихая магия",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Quiet Magic - Тихая магия",
+    "source_id": "glossary_docx",
+    "source_locator": "body.349",
+    "variants": [],
+    "aliases": [
+      "Quiet Magic"
+    ]
+  },
+  {
+    "id": 304,
+    "term_en": "Reliquarianism",
+    "term_ru": "Реликварианизм",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Reliquarianism - Реликварианизм (нет такого слова, Почитание реликвий)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.350",
+    "variants": [],
+    "aliases": [
+      "Reliquarianism"
+    ]
+  },
+  {
+    "id": 305,
+    "term_en": "Revelry",
+    "term_ru": "Гуляка",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Revelry (G) - Гуляка",
+    "source_id": "glossary_docx",
+    "source_locator": "body.351",
+    "variants": [],
+    "aliases": [
+      "Revelry"
+    ]
+  },
+  {
+    "id": 306,
+    "term_en": "Riding",
+    "term_ru": "Верховая езда",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Riding (G) -Верховая езда",
+    "source_id": "glossary_docx",
+    "source_locator": "body.352",
+    "variants": [],
+    "aliases": [
+      "Riding"
+    ]
+  },
+  {
+    "id": 307,
+    "term_en": "Righteous Rebuke",
+    "term_ru": "Праведное изгнание",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Righteous Rebuke - Праведное изгнание",
+    "source_id": "glossary_docx",
+    "source_locator": "body.353",
+    "variants": [],
+    "aliases": [
+      "Righteous Rebuke"
+    ]
+  },
+  {
+    "id": 308,
+    "term_en": "Running",
+    "term_ru": "Бегун",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Running - Бегун",
+    "source_id": "glossary_docx",
+    "source_locator": "body.354",
+    "variants": [],
+    "aliases": [
+      "Running"
+    ]
+  },
+  {
+    "id": 309,
+    "term_en": "Rowing",
+    "term_ru": "Гребля",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Rowing - Гребля",
+    "source_id": "glossary_docx",
+    "source_locator": "body.355",
+    "variants": [],
+    "aliases": [
+      "Rowing"
+    ]
+  },
+  {
+    "id": 310,
+    "term_en": "Rumormongering",
+    "term_ru": "Распускание слухов",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Rumormongering - Распускание слухов",
+    "source_id": "glossary_docx",
+    "source_locator": "body.356",
+    "variants": [],
+    "aliases": [
+      "Rumormongering"
+    ]
+  },
+  {
+    "id": 311,
+    "term_en": "Sailing",
+    "term_ru": "Хождение под парусом",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Sailing - Хождение под парусом",
+    "source_id": "glossary_docx",
+    "source_locator": "body.357",
+    "variants": [],
+    "aliases": [
+      "Sailing"
+    ]
+  },
+  {
+    "id": 312,
+    "term_en": "Scrollreading",
+    "term_ru": "Чтение свитков",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Scrollreading - Чтение свитков",
+    "source_id": "glossary_docx",
+    "source_locator": "body.358",
+    "variants": [],
+    "aliases": [
+      "Scrollreading"
+    ]
+  },
+  {
+    "id": 313,
+    "term_en": "Seafaring",
+    "term_ru": "Мореплавание",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Seafaring (G) - Мореплавание",
+    "source_id": "glossary_docx",
+    "source_locator": "body.359",
+    "variants": [],
+    "aliases": [
+      "Seafaring"
+    ]
+  },
+  {
+    "id": 314,
+    "term_en": "Seduction",
+    "term_ru": "Соблазнение",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Seduction (G) - Соблазнение  ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.360",
+    "variants": [],
+    "aliases": [
+      "Seduction"
+    ]
+  },
+  {
+    "id": 315,
+    "term_en": "Sensing Evil",
+    "term_ru": "Чувство зла",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Sensing Evil - Чувство зла",
+    "source_id": "glossary_docx",
+    "source_locator": "body.361",
+    "variants": [],
+    "aliases": [
+      "Sensing Evil"
+    ]
+  },
+  {
+    "id": 316,
+    "term_en": "Sensing Good",
+    "term_ru": "Чувство добра",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Sensing Good - Чувство добра",
+    "source_id": "glossary_docx",
+    "source_locator": "body.362",
+    "variants": [],
+    "aliases": [
+      "Sensing Good"
+    ]
+  },
+  {
+    "id": 317,
+    "term_en": "Sensing Power",
+    "term_ru": "Чувство силы",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Sensing Power - Чувство силы",
+    "source_id": "glossary_docx",
+    "source_locator": "body.363",
+    "variants": [],
+    "aliases": [
+      "Sensing Power"
+    ]
+  },
+  {
+    "id": 318,
+    "term_en": "Shadowy Senses",
+    "term_ru": "Теневые чувства",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Shadowy Senses - Теневые чувства",
+    "source_id": "glossary_docx",
+    "source_locator": "body.364",
+    "variants": [],
+    "aliases": [
+      "Shadowy Senses"
+    ]
+  },
+  {
+    "id": 319,
+    "term_en": "Siege Engineering",
+    "term_ru": "Осадное дело",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Siege Engineering (G) - Осадное дело",
+    "source_id": "glossary_docx",
+    "source_locator": "body.365",
+    "variants": [],
+    "aliases": [
+      "Siege Engineering"
+    ]
+  },
+  {
+    "id": 320,
+    "term_en": "Signaling",
+    "term_ru": "Сигналы",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Signaling (G) - Сигналы?",
+    "source_id": "glossary_docx",
+    "source_locator": "body.366",
+    "variants": [],
+    "aliases": [
+      "Signaling"
+    ]
+  },
+  {
+    "id": 321,
+    "term_en": "Skirmishing",
+    "term_ru": "Бей и беги",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Skirmishing - Бей и беги",
+    "source_id": "glossary_docx",
+    "source_locator": "body.367",
+    "variants": [],
+    "aliases": [
+      "Skirmishing"
+    ]
+  },
+  {
+    "id": 322,
+    "term_en": "Skulking",
+    "term_ru": "Поиск укрытий",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Skulking - Поиск укрытий",
+    "source_id": "glossary_docx",
+    "source_locator": "body.368",
+    "variants": [],
+    "aliases": [
+      "Skulking"
+    ]
+  },
+  {
+    "id": 323,
+    "term_en": "Sneaking",
+    "term_ru": "Подкрадывание",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Sneaking - Подкрадывание",
+    "source_id": "glossary_docx",
+    "source_locator": "body.369",
+    "variants": [],
+    "aliases": [
+      "Sneaking"
+    ]
+  },
+  {
+    "id": 324,
+    "term_en": "Sniping",
+    "term_ru": "Подготовка снайпера",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Sniping - Подготовка снайпера",
+    "source_id": "glossary_docx",
+    "source_locator": "body.370",
+    "variants": [],
+    "aliases": [
+      "Sniping"
+    ]
+  },
+  {
+    "id": 325,
+    "term_en": "Soothsaying",
+    "term_ru": "Гадание",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Soothsaying - Гадание",
+    "source_id": "glossary_docx",
+    "source_locator": "body.371",
+    "variants": [],
+    "aliases": [
+      "Soothsaying"
+    ]
+  },
+  {
+    "id": 326,
+    "term_en": "Streetwise",
+    "term_ru": "Знание улиц",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Streetwise (G) - Знание улиц",
+    "source_id": "glossary_docx",
+    "source_locator": "body.372",
+    "variants": [],
+    "aliases": [
+      "Streetwise"
+    ]
+  },
+  {
+    "id": 327,
+    "term_en": "Sunder",
+    "term_ru": "Разделение",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Sunder - Разделение",
+    "source_id": "glossary_docx",
+    "source_locator": "body.373",
+    "variants": [],
+    "aliases": [
+      "Sunder"
+    ]
+  },
+  {
+    "id": 328,
+    "term_en": "Survival",
+    "term_ru": "Выживание",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Survival (G) - Выживание",
+    "source_id": "glossary_docx",
+    "source_locator": "body.374",
+    "variants": [],
+    "aliases": [
+      "Survival"
+    ]
+  },
+  {
+    "id": 329,
+    "term_en": "Swashbuckling",
+    "term_ru": "Бравада",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Swashbuckling - Бравада",
+    "source_id": "glossary_docx",
+    "source_locator": "body.375",
+    "variants": [],
+    "aliases": [
+      "Swashbuckling"
+    ]
+  },
+  {
+    "id": 330,
+    "term_en": "Swimming",
+    "term_ru": "Плавание",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Swimming (G) - Плавание",
+    "source_id": "glossary_docx",
+    "source_locator": "body.376",
+    "variants": [],
+    "aliases": [
+      "Swimming"
+    ]
+  },
+  {
+    "id": 331,
+    "term_en": "Syncretism",
+    "term_ru": "Синкретизм",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Syncretism - Синкретизм",
+    "source_id": "glossary_docx",
+    "source_locator": "body.377",
+    "variants": [],
+    "aliases": [
+      "Syncretism"
+    ]
+  },
+  {
+    "id": 332,
+    "term_en": "Theology",
+    "term_ru": "Теология",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Theology (G) - Теология",
+    "source_id": "glossary_docx",
+    "source_locator": "body.378",
+    "variants": [],
+    "aliases": [
+      "Theology"
+    ]
+  },
+  {
+    "id": 333,
+    "term_en": "Tracking",
+    "term_ru": "Выслеживание",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Tracking (G) - Выслеживание",
+    "source_id": "glossary_docx",
+    "source_locator": "body.379",
+    "variants": [],
+    "aliases": [
+      "Tracking"
+    ]
+  },
+  {
+    "id": 334,
+    "term_en": "Transmogrification",
+    "term_ru": "Трансмогрификация",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Transmogrification - Трансмогрификация",
+    "source_id": "glossary_docx",
+    "source_locator": "body.379",
+    "variants": [],
+    "aliases": [
+      "Transmogrification"
+    ]
+  },
+  {
+    "id": 335,
+    "term_en": "Trapfinding",
+    "term_ru": "Поиск ловушек",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Trapfinding - Поиск ловушек",
+    "source_id": "glossary_docx",
+    "source_locator": "body.380",
+    "variants": [],
+    "aliases": [
+      "Trapfinding"
+    ]
+  },
+  {
+    "id": 336,
+    "term_en": "Trapping",
+    "term_ru": "Создание ловушек",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Trapping (G) - Создание ловушек",
+    "source_id": "glossary_docx",
+    "source_locator": "body.381",
+    "variants": [],
+    "aliases": [
+      "Trapping"
+    ]
+  },
+  {
+    "id": 337,
+    "term_en": "Treachery",
+    "term_ru": "Вероломство",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Treachery - Вероломство",
+    "source_id": "glossary_docx",
+    "source_locator": "body.382",
+    "variants": [],
+    "aliases": [
+      "Treachery"
+    ]
+  },
+  {
+    "id": 338,
+    "term_en": "Unarmed Fighting",
+    "term_ru": "Рукопашный бой",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Unarmed Fighting - Рукопашный бой",
+    "source_id": "glossary_docx",
+    "source_locator": "body.383",
+    "variants": [],
+    "aliases": [
+      "Unarmed Fighting"
+    ]
+  },
+  {
+    "id": 339,
+    "term_en": "Unflappable Casting",
+    "term_ru": "Непоколебимый заклинатель",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Unflappable Casting - Непоколебимый заклинатель",
+    "source_id": "glossary_docx",
+    "source_locator": "body.384",
+    "variants": [],
+    "aliases": [
+      "Unflappable Casting"
+    ]
+  },
+  {
+    "id": 340,
+    "term_en": "Vermin-Slaying",
+    "term_ru": "Убийца вредителей",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Vermin-Slaying - Убийца вредителей",
+    "source_id": "glossary_docx",
+    "source_locator": "body.385",
+    "variants": [],
+    "aliases": [
+      "Vermin-Slaying"
+    ]
+  },
+  {
+    "id": 341,
+    "term_en": "Wakefulness",
+    "term_ru": "Транс",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Wakefulness - Транс",
+    "source_id": "glossary_docx",
+    "source_locator": "body.386",
+    "variants": [],
+    "aliases": [
+      "Wakefulness"
+    ]
+  },
+  {
+    "id": 342,
+    "term_en": "Weapon Finesse",
+    "term_ru": "Изящное владение оружием",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Weapon Finesse - Изящное владение оружием",
+    "source_id": "glossary_docx",
+    "source_locator": "body.387",
+    "variants": [],
+    "aliases": [
+      "Weapon Finesse"
+    ]
+  },
+  {
+    "id": 343,
+    "term_en": "Weapon Focus",
+    "term_ru": "Любимое оружие",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Weapon Focus - Любимое оружие",
+    "source_id": "glossary_docx",
+    "source_locator": "body.388",
+    "variants": [],
+    "aliases": [
+      "Weapon Focus"
+    ]
+  },
+  {
+    "id": 344,
+    "term_en": "Beholding",
+    "term_ru": "Наблюдающий",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Beholding - Наблюдающий",
+    "source_id": "glossary_docx",
+    "source_locator": "body.392",
+    "variants": [],
+    "aliases": [
+      "Beholding"
+    ]
+  },
+  {
+    "id": 345,
+    "term_en": "Berserk",
+    "term_ru": "Берсерк",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Berserk - Берсерк",
+    "source_id": "glossary_docx",
+    "source_locator": "body.393",
+    "variants": [],
+    "aliases": [
+      "Berserk"
+    ]
+  },
+  {
+    "id": 346,
+    "term_en": "Bewitched",
+    "term_ru": "Околдованный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Bewitched - Околдованный (Заколдованный)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.394",
+    "variants": [],
+    "aliases": [
+      "Bewitched"
+    ]
+  },
+  {
+    "id": 347,
+    "term_en": "Blessed/Inspired",
+    "term_ru": "Благословленный/Воодушевленный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Blessed/Inspired - Благословленный/Воодушевленный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.395",
+    "variants": [],
+    "aliases": [
+      "Blessed/Inspired"
+    ]
+  },
+  {
+    "id": 348,
+    "term_en": "Blinded",
+    "term_ru": "Ослепленный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Blinded - Ослепленный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.396",
+    "variants": [],
+    "aliases": [
+      "Blinded"
+    ]
+  },
+  {
+    "id": 349,
+    "term_en": "Burning",
+    "term_ru": "Горящий",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Burning - Горящий",
+    "source_id": "glossary_docx",
+    "source_locator": "body.397",
+    "variants": [],
+    "aliases": [
+      "Burning"
+    ]
+  },
+  {
+    "id": 350,
+    "term_en": "Charging",
+    "term_ru": "В натиске",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Charging - В натиске",
+    "source_id": "glossary_docx",
+    "source_locator": "body.398",
+    "variants": [],
+    "aliases": [
+      "Charging"
+    ]
+  },
+  {
+    "id": 351,
+    "term_en": "Choking / Vomiting",
+    "term_ru": "Удушение/Рвота",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Choking / Vomiting - Удушение/Рвота",
+    "source_id": "glossary_docx",
+    "source_locator": "body.399",
+    "variants": [],
+    "aliases": [
+      "Choking / Vomiting"
+    ]
+  },
+  {
+    "id": 352,
+    "term_en": "Clambering",
+    "term_ru": "Карабкающийся",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Clambering - Карабкающийся",
+    "source_id": "glossary_docx",
+    "source_locator": "body.400",
+    "variants": [],
+    "aliases": [
+      "Clambering"
+    ]
+  },
+  {
+    "id": 353,
+    "term_en": "Concentrating",
+    "term_ru": "Концентрирующийся",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Concentrating - Концентрирующийся",
+    "source_id": "glossary_docx",
+    "source_locator": "body.401",
+    "variants": [],
+    "aliases": [
+      "Concentrating"
+    ]
+  },
+  {
+    "id": 354,
+    "term_en": "Concentrating and Stationary",
+    "term_ru": "Концентрирующийся и Неподвижно",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Concentrating and Stationary - Концентрирующийся и Неподвижно (концентрирующийся)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.402",
+    "variants": [],
+    "aliases": [
+      "Concentrating and Stationary"
+    ]
+  },
+  {
+    "id": 355,
+    "term_en": "Cowering",
+    "term_ru": "Трясущийся",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Cowering - Трясущийся",
+    "source_id": "glossary_docx",
+    "source_locator": "body.403",
+    "variants": [],
+    "aliases": [
+      "Cowering"
+    ]
+  },
+  {
+    "id": 356,
+    "term_en": "Deafened",
+    "term_ru": "Глухой",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Deafened - Глухой",
+    "source_id": "glossary_docx",
+    "source_locator": "body.404",
+    "variants": [],
+    "aliases": [
+      "Deafened"
+    ]
+  },
+  {
+    "id": 357,
+    "term_en": "Dehydrated",
+    "term_ru": "Обезвоженный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Dehydrated - Обезвоженный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.405",
+    "variants": [],
+    "aliases": [
+      "Dehydrated"
+    ]
+  },
+  {
+    "id": 358,
+    "term_en": "Disfavored",
+    "term_ru": "Неугодный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Disfavored - Неугодный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.406",
+    "variants": [],
+    "aliases": [
+      "Disfavored"
+    ]
+  },
+  {
+    "id": 359,
+    "term_en": "Disordered",
+    "term_ru": "В беспорядке",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Disordered - В беспорядке",
+    "source_id": "glossary_docx",
+    "source_locator": "body.407",
+    "variants": [],
+    "aliases": [
+      "Disordered"
+    ]
+  },
+  {
+    "id": 360,
+    "term_en": "Dominated",
+    "term_ru": "ЗАДОМИНИРОВАННЫЙ",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Dominated - ЗАДОМИНИРОВАННЫЙ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.408",
+    "variants": [],
+    "aliases": [
+      "Dominated"
+    ]
+  },
+  {
+    "id": 361,
+    "term_en": "Drowning",
+    "term_ru": "Утопающий",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Drowning - Утопающий",
+    "source_id": "glossary_docx",
+    "source_locator": "body.409",
+    "variants": [],
+    "aliases": [
+      "Drowning"
+    ]
+  },
+  {
+    "id": 362,
+    "term_en": "Enervated",
+    "term_ru": "Обессиленный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Enervated - Обессиленный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.410",
+    "variants": [],
+    "aliases": [
+      "Enervated"
+    ]
+  },
+  {
+    "id": 363,
+    "term_en": "Engaged",
+    "term_ru": "Вплотную",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Engaged - Вплотную ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.411",
+    "variants": [],
+    "aliases": [
+      "Engaged"
+    ]
+  },
+  {
+    "id": 364,
+    "term_en": "Enlarged",
+    "term_ru": "Увеличенный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Enlarged - Увеличенный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.412",
+    "variants": [],
+    "aliases": [
+      "Enlarged"
+    ]
+  },
+  {
+    "id": 365,
+    "term_en": "Enslaved",
+    "term_ru": "Порабощенный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Enslaved - Порабощенный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.413",
+    "variants": [],
+    "aliases": [
+      "Enslaved"
+    ]
+  },
+  {
+    "id": 366,
+    "term_en": "Enthralled",
+    "term_ru": "Одурманенный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Enthralled - Одурманенный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.414",
+    "variants": [],
+    "aliases": [
+      "Enthralled"
+    ]
+  },
+  {
+    "id": 367,
+    "term_en": "Faltering",
+    "term_ru": "Нерешительный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Faltering - Нерешительный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.415",
+    "variants": [],
+    "aliases": [
+      "Faltering"
+    ]
+  },
+  {
+    "id": 368,
+    "term_en": "Fatigued",
+    "term_ru": "Истощённый",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Fatigued - Истощённый",
+    "source_id": "glossary_docx",
+    "source_locator": "body.416",
+    "variants": [],
+    "aliases": [
+      "Fatigued"
+    ]
+  },
+  {
+    "id": 369,
+    "term_en": "Flanked",
+    "term_ru": "Фланкированный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Flanked - Фланкированный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.417",
+    "variants": [],
+    "aliases": [
+      "Flanked"
+    ]
+  },
+  {
+    "id": 370,
+    "term_en": "Forgetful",
+    "term_ru": "Забывчивый",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Forgetful - Забывчивый?",
+    "source_id": "glossary_docx",
+    "source_locator": "body.418",
+    "variants": [],
+    "aliases": [
+      "Forgetful"
+    ]
+  },
+  {
+    "id": 371,
+    "term_en": "Frightened",
+    "term_ru": "Устрашенный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Frightened - Устрашенный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.419",
+    "variants": [],
+    "aliases": [
+      "Frightened"
+    ]
+  },
+  {
+    "id": 372,
+    "term_en": "Grabbed",
+    "term_ru": "Схваченный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Grabbed - Схваченный ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.420",
+    "variants": [],
+    "aliases": [
+      "Grabbed"
+    ]
+  },
+  {
+    "id": 373,
+    "term_en": "Helpless",
+    "term_ru": "Беспомощный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Helpless - Беспомощный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.421",
+    "variants": [],
+    "aliases": [
+      "Helpless"
+    ]
+  },
+  {
+    "id": 374,
+    "term_en": "Hidden",
+    "term_ru": "Спрятанный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Hidden - Спрятанный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.422",
+    "variants": [],
+    "aliases": [
+      "Hidden"
+    ]
+  },
+  {
+    "id": 375,
+    "term_en": "Hungry",
+    "term_ru": "Голодный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Hungry - Голодный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.423",
+    "variants": [],
+    "aliases": [
+      "Hungry"
+    ]
+  },
+  {
+    "id": 376,
+    "term_en": "Hypothermic",
+    "term_ru": "переохлажденный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Hypothermic - переохлажденный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.424",
+    "variants": [],
+    "aliases": [
+      "Hypothermic"
+    ]
+  },
+  {
+    "id": 377,
+    "term_en": "Immune",
+    "term_ru": "Неуязвимый",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Immune - Неуязвимый ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.425",
+    "variants": [],
+    "aliases": [
+      "Immune"
+    ]
+  },
+  {
+    "id": 378,
+    "term_en": "Incapacitated",
+    "term_ru": "Недееспособный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Incapacitated - Недееспособный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.426",
+    "variants": [],
+    "aliases": [
+      "Incapacitated"
+    ]
+  },
+  {
+    "id": 379,
+    "term_en": "Infuriated",
+    "term_ru": "Разъяренный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Infuriated - Разъяренный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.427",
+    "variants": [],
+    "aliases": [
+      "Infuriated"
+    ]
+  },
+  {
+    "id": 380,
+    "term_en": "Mesmerized",
+    "term_ru": "Загипнотизированный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Mesmerized - Загипнотизированный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.428",
+    "variants": [],
+    "aliases": [
+      "Mesmerized"
+    ]
+  },
+  {
+    "id": 381,
+    "term_en": "Mad",
+    "term_ru": "Безумный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Mad - Безумный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.429",
+    "variants": [],
+    "aliases": [
+      "Mad"
+    ]
+  },
+  {
+    "id": 382,
+    "term_en": "Mute",
+    "term_ru": "Немой",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Mute - Немой",
+    "source_id": "glossary_docx",
+    "source_locator": "body.430",
+    "variants": [],
+    "aliases": [
+      "Mute"
+    ]
+  },
+  {
+    "id": 383,
+    "term_en": "Paralyzed",
+    "term_ru": "Парализованный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Paralyzed - Парализованный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.431",
+    "variants": [],
+    "aliases": [
+      "Paralyzed"
+    ]
+  },
+  {
+    "id": 384,
+    "term_en": "Petrified",
+    "term_ru": "Окаменевший",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Petrified - Окаменевший",
+    "source_id": "glossary_docx",
+    "source_locator": "body.432",
+    "variants": [],
+    "aliases": [
+      "Petrified"
+    ]
+  },
+  {
+    "id": 385,
+    "term_en": "Prone",
+    "term_ru": "Опрокинутый",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Prone - Опрокинутый (лежащий?)",
+    "source_id": "glossary_docx",
+    "source_locator": "body.433",
+    "variants": [],
+    "aliases": [
+      "Prone"
+    ]
+  },
+  {
+    "id": 386,
+    "term_en": "Queasy",
+    "term_ru": "Недомогание",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Queasy - Недомогание",
+    "source_id": "glossary_docx",
+    "source_locator": "body.434",
+    "variants": [],
+    "aliases": [
+      "Queasy"
+    ]
+  },
+  {
+    "id": 387,
+    "term_en": "Resistant",
+    "term_ru": "Устойчивый",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Resistant - Устойчивый",
+    "source_id": "glossary_docx",
+    "source_locator": "body.435",
+    "variants": [],
+    "aliases": [
+      "Resistant"
+    ]
+  },
+  {
+    "id": 388,
+    "term_en": "Restrained",
+    "term_ru": "Скованный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Restrained - Скованный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.436",
+    "variants": [],
+    "aliases": [
+      "Restrained"
+    ]
+  },
+  {
+    "id": 389,
+    "term_en": "Shaken",
+    "term_ru": "Трясущийся",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Shaken - Трясущийся",
+    "source_id": "glossary_docx",
+    "source_locator": "body.437",
+    "variants": [],
+    "aliases": [
+      "Shaken"
+    ]
+  },
+  {
+    "id": 390,
+    "term_en": "Shrunk",
+    "term_ru": "Сжатый",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Shrunk - Сжатый",
+    "source_id": "glossary_docx",
+    "source_locator": "body.438",
+    "variants": [],
+    "aliases": [
+      "Shrunk"
+    ]
+  },
+  {
+    "id": 391,
+    "term_en": "Slumbering",
+    "term_ru": "Дремлющий",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Slumbering - Дремлющий",
+    "source_id": "glossary_docx",
+    "source_locator": "body.439",
+    "variants": [],
+    "aliases": [
+      "Slumbering"
+    ]
+  },
+  {
+    "id": 392,
+    "term_en": "Starving",
+    "term_ru": "Оголодавший",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Starving - Оголодавший",
+    "source_id": "glossary_docx",
+    "source_locator": "body.440",
+    "variants": [],
+    "aliases": [
+      "Starving"
+    ]
+  },
+  {
+    "id": 393,
+    "term_en": "Sneaking",
+    "term_ru": "Крадущийся",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Sneaking - Крадущийся",
+    "source_id": "glossary_docx",
+    "source_locator": "body.441",
+    "variants": [],
+    "aliases": [
+      "Sneaking"
+    ]
+  },
+  {
+    "id": 394,
+    "term_en": "Stuck",
+    "term_ru": "Застрявшая",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Stuck - Застрявшая",
+    "source_id": "glossary_docx",
+    "source_locator": "body.442",
+    "variants": [],
+    "aliases": [
+      "Stuck"
+    ]
+  },
+  {
+    "id": 395,
+    "term_en": "Subjacent",
+    "term_ru": "Нижестоящий",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Subjacent - Нижестоящий",
+    "source_id": "glossary_docx",
+    "source_locator": "body.443",
+    "variants": [],
+    "aliases": [
+      "Subjacent"
+    ]
+  },
+  {
+    "id": 396,
+    "term_en": "Surprised",
+    "term_ru": "Ошарашен",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Surprised - Ошарашен",
+    "source_id": "glossary_docx",
+    "source_locator": "body.444",
+    "variants": [],
+    "aliases": [
+      "Surprised"
+    ]
+  },
+  {
+    "id": 397,
+    "term_en": "Unconscious",
+    "term_ru": "Бессознательный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Unconscious - Бессознательный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.445",
+    "variants": [],
+    "aliases": [
+      "Unconscious"
+    ]
+  },
+  {
+    "id": 398,
+    "term_en": "Underfed",
+    "term_ru": "Недокормленный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Underfed - Недокормленный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.446",
+    "variants": [],
+    "aliases": [
+      "Underfed"
+    ]
+  },
+  {
+    "id": 399,
+    "term_en": "Vexed",
+    "term_ru": "Раздраженный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Vexed - Раздраженный (как кожа)?",
+    "source_id": "glossary_docx",
+    "source_locator": "body.447",
+    "variants": [],
+    "aliases": [
+      "Vexed"
+    ]
+  },
+  {
+    "id": 400,
+    "term_en": "Vulnerable",
+    "term_ru": "Уязвимый",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Vulnerable - Уязвимый",
+    "source_id": "glossary_docx",
+    "source_locator": "body.448",
+    "variants": [],
+    "aliases": [
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": 401,
+    "term_en": "Webbed",
+    "term_ru": "Опутанный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Webbed - Опутанный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.449",
+    "variants": [],
+    "aliases": [
+      "Webbed"
+    ]
+  },
+  {
+    "id": 402,
+    "term_en": "Winded",
+    "term_ru": "Запыхавшийся",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Winded - Запыхавшийся",
+    "source_id": "glossary_docx",
+    "source_locator": "body.450",
+    "variants": [],
+    "aliases": [
+      "Winded"
+    ]
+  },
+  {
+    "id": 403,
+    "term_en": "Wrestled",
+    "term_ru": "Скрученный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Wrestled - Скрученный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.451",
+    "variants": [],
+    "aliases": [
+      "Wrestled"
+    ]
+  }
+]

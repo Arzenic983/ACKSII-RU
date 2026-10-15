@@ -1,0 +1,80 @@
+{
+  "pages": 10,
+  "page_size_points": [
+    612,
+    792
+  ],
+  "units": 358,
+  "tables": 9,
+  "translation_preserved": true,
+  "all_original_image_streams_unchanged": true,
+  "all_fonts_embedded": true,
+  "annotations": 0,
+  "protected_files_checked": 87,
+  "protected_files_changed": [],
+  "pdf_version": "%PDF-1.7",
+  "sha256": "99c054f5c7ca50c594248ec76b22217589d2e3bf5386871550772f78bf1264ca",
+  "page_checks": [
+    {
+      "page": 1,
+      "text_complete": true,
+      "source_pdf_page": 14,
+      "printed_page": null
+    },
+    {
+      "page": 2,
+      "text_complete": true,
+      "source_pdf_page": 15,
+      "printed_page": 13
+    },
+    {
+      "page": 3,
+      "text_complete": true,
+      "source_pdf_page": 16,
+      "printed_page": 14
+    },
+    {
+      "page": 4,
+      "text_complete": true,
+      "source_pdf_page": 17,
+      "printed_page": 15
+    },
+    {
+      "page": 5,
+      "text_complete": true,
+      "source_pdf_page": 18,
+      "printed_page": 16
+    },
+    {
+      "page": 6,
+      "text_complete": true,
+      "source_pdf_page": 19,
+      "printed_page": 17
+    },
+    {
+      "page": 7,
+      "text_complete": true,
+      "source_pdf_page": 20,
+      "printed_page": 18
+    },
+    {
+      "page": 8,
+      "text_complete": true,
+      "source_pdf_page": 21,
+      "printed_page": 19
+    },
+    {
+      "page": 9,
+      "text_complete": true,
+      "source_pdf_page": 22,
+      "printed_page": 20
+    },
+    {
+      "page": 10,
+      "text_complete": true,
+      "source_pdf_page": 23,
+      "printed_page": 21
+    }
+  ],
+  "production_scope": "Layout proof at original page size; no added bleed or printer-specific output intent."
+}

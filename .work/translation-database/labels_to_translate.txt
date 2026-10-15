@@ -1,0 +1,568 @@
+Contents
+Printed page
+CREDITS
+INTRODUCTION
+About the Game
+How to Use This Book
+The Basics of The Game
+Dice
+Rolling and Throwing the Dice
+Rolling the Dice
+Throwing the Dice
+What Kind of Die Should You Use?
+Common Abbreviations and Icons
+CHARACTERS
+Creating a Character
+Optional Rules For Character Creation
+Character Attributes
+Classes and Attributes
+Combat Characteristics
+Combat Proficiencies
+Combat Progression
+Optional Rules for Hit Points
+Armor Class
+Adventuring Proficiency
+Speed and Encumbrance
+Calculating Encumbrance
+Calculating Speed
+Homeland
+Languages
+Starting Age
+Death From Old Age
+Size and Weight
+Adventuring Parties
+Activities
+CLASSES
+Character Templates and Intellect
+Intellect Scores of Studious Spellcasters
+Core Classes
+Campaign Classes
+Demi-Human Classes
+Elven Spellsword
+The Basics of Proficiencies
+Starting Proficiencies
+Gaining Proficiencies
+Gaining Proficiencies by Time and Training (Optional)
+Retraining Proficiencies (Optional)
+Proficiencies of Normal Humans and Demi-Humans
+Proficiency Lists
+Proficiency Descriptions
+Mastery of Conj. & Summoning
+The Basics of Equipment
+Coins and Money
+What’s a Gold Piece Worth?
+Purchasing Equipment
+Equipment Availability
+Importing Equipment
+Equipment Lists
+Weapons
+Armor and Barding
+Adventuring Equipment
+Clothing
+Domesticated Animals
+Foodstuffs
+Lodging
+Poisons
+Structures
+Vehicles
+Vessels
+War Machines
+Equipment Descriptions
+Weapon Descriptions
+Armor and Barding Descriptions
+Adventuring Equipment Descriptions
+Clothing Descriptions
+Foodstuff Descriptions
+Lodging Descriptions
+Structure Descriptions
+Vehicle Descriptions
+Vessel Descriptions
+War Machine (Artillery) Descriptions
+War Machine (Naval) Descriptions
+War Machine (Siege) Descriptions
+Masterwork Equipment (Optional)
+Availability of Masterwork Items
+Masterwork and Magical Items
+Scavenged Equipment
+Encumbrance and Equipment
+Hirelings, Henchmen, Mercenaries, and Specialists
+Recruiting Hirelings
+Morale and Loyalty
+Mercenaries
+Specialists
+Spellcasting Services
+Expected Living Expenses (Optional)
+Abstract Living Expenses
+Concrete Living Expenses
+Construction Projects
+Construct. Cost, Rate, & Supervision
+Construction Sites
+Construction Materials
+Construction Project Customization (Optional)
+Assisting Construction with Magic
+Structure Construction
+Vehicle & War Machine Construction
+Vessel Construction
+Spells and Spell Casters
+Castings per Day
+Casting Requirements
+Spell Lists By Magic Type
+Spell Repertoires
+Prayerful Repertoire
+Studious Spell Repertoire
+Spell Reversal
+Spell Signatures
+Spell Types
+List of Spell Types
+Spell Type Abbreviations
+Spell Lists & Repertoires
+Spell Descriptions
+ADVENTURES
+Delves, Expeditions, and Voyages
+Dungeon Delves
+Turns and Rounds
+Speed and Distance
+Marching and Mapping
+Light and Darkness
+Searching and Listening
+Doors and Dungeonbashing
+Traps and Trapbreaking
+Caving and Spelunking
+Swimming and Drowning
+Rest and Recuperation
+Wilderness Expeditions
+Hours and Days
+Visibility in the Wild
+Searching the Wild
+Navigating the Wild
+Surviving the Wild
+Weathering the Wild
+Encounter Distance
+Surprise
+Combat
+Round and Initiative
+Round Sequence
+Actions
+Conducting an Attack
+Dealing Damage
+Cleaving
+Saving Throws
+Casting Spells and Using Magic
+Special Maneuvers
+Conditions
+Morale
+Vehicle Combat
+Earning Experience from Adventures
+Experience from Treasure
+Experience from Monsters
+Allocating XP
+Adjustments to XP
+Character Advancement
+Character Death
+0th Level Characters and Experience from Adventuring
+Seafarers
+Mariners
+Marines
+Seafarer Morale and Loyalty
+Sea Vessels
+Sea Voyages
+Sailing the Seas
+Visibility at Sea
+Navigating the Seas
+Surviving the Seas
+Weathering the Seas
+Casualties, Damage, Rest, & Repair
+Sea Encounters
+Evasion at Sea
+Sea Combat
+Simulating Sea Combat on Battlemap
+Movement During Sea Combat
+Naval Tactics
+River Voyages
+River Current
+River Depth
+CAMPAIGNS
+Activities During the Campaign
+Followers and Strongholds
+Domains and Realms
+Acquiring the Domain
+Securing the Domain
+Attracting Peasants
+Collecting Revenue
+Paying Expenses
+Earning Domain Income
+Establishing the Realm
+Keeping the Peace
+Founding Settlements
+Ruling the Realm
+Special Domain Types
+Politics and Power
+Benefits of a Senate
+Restrictions of a Senate
+Establishing a Senatorial Republic
+Disputes with the Senate
+Senatorial Shenanigans
+Gaining Influence
+Politics Is Just War Continued By Other Means
+Hideouts and Hijinks
+Building a Hideout
+Establishing a Syndicate
+Assigning, Planning, and Perpetrating Hijinks
+List of Hijinks
+Getting Caught
+Creating a Criminal Guild
+Managing a Criminal Guild
+Entering the Market
+Engaging in Mercantile Ventures
+Arbitrage Trading
+Passenger and Cargo Carriage
+Passive Investment
+Sanctums and Dungeons
+Constructing a Dungeon
+Populating a Dungeon
+Peasants and Dungeons
+Harvesting Dungeons for Monster Parts
+Extracting Arcane Power from a Dungeon
+Magic Research
+Component Cost
+Research Assistants
+Proficiencies and Powers
+Researching Spells
+Creating Magic Items
+Identifying Magic Items
+Designing Constructs
+Manufacturing Constructs
+Crossbreeds
+Performing Necromancy
+Learning Ritual Spells
+Casting Ritual Spells
+Sample Ritual Spells
+Magic Experimentation
+Congregants and Divine Power
+Congregations
+Blood Sacrifice
+Using Divine Power
+Earning Experience from Campaigns
+Experience from Construction
+Experience from Domains
+Experience from Hijinks
+Experience from Mercantile Income
+Experience from Magical Research
+Experience from Divine Power
+0th Level Characters and Experience from Campaigns
+ARMIES
+Army Troops
+Conscripts
+Militia
+Clanhold Warriors
+Followers
+Vassal Troops
+Elite Troops (Optional)
+Army Organization
+Units
+Divisions
+Army Command
+Qualifying as an Officer
+Officer Characteristics
+Role of Officers
+Organization and Command in Very Small or Very Large Armies
+Beastmen Officers
+Rump Troops
+Troop Characteristics Summary
+Unit Characteristics Summary
+MANEUVERS
+Regions
+Campaign Activities
+Strategic Stance
+Moving Armies
+Forced Marching
+Movement of Large Armies
+Movement of War Machines
+Effects of Weather Conditions
+Supplying Armies
+Supply Cost
+Supply Base
+Line and Length of Supply
+Requisitioning and Looting Supplies
+Consequences of Lack of Supplies
+Supply Simplified
+Equipment Availability on Campaign
+Reconnaissance and Intelligence
+Frequency of Reconnaissance rolls
+Reconnaissance Roll Procedure
+Results of Reconnaissance Rolls
+Stratagems
+Invading, Conquering, Occupying, and Pillaging Domains
+Occupying Domains
+Conquering Domains
+Pillaging Domains
+Handling Very Small or Large Domains and Urban Settlements
+Pillaging Supply Bases
+BATTLES
+Strategic Situations
+Running a Battle
+Gathering the Units
+Calculating the Battle Ratings
+Setting Up the Battlefield
+Fighting the Battle
+Heroes in Battle
+Ending Battles
+Annihilation
+Voluntary Withdrawal
+Morale Collapse
+Morale Rolls
+Aftermath of Battles
+Pursuit
+Casualties
+Spoils of War
+SIEGES
+Methods of Siege
+Siege Mechanics
+Blockade
+Blockading with Units
+Blockading with Ships
+Blockading with Fortifications (Circumvallation)
+Effects of a Blockade
+Hijinks During Blockade
+Reduction
+Reduction by Bombardment
+Reduction by Magic
+Reduction by Monsters
+Reduction by Siege-Mining
+Reduction by Hijinks
+Stronghold Repair
+Assault
+Setting up the Assault
+Deploying the Armies
+Resolving the Assaults
+Special Rules for Dungeon Assaults
+Ending Sieges
+Defending Army Sallies Forth
+Defending Army Surrenders
+Besieging Army Departs the Hex
+Besieging Army Captures Stronghold
+Spoils of Sieges
+Sieges, Simplified
+SETTING
+Overview
+Lands
+Timeline
+Customs
+Laws And Governance
+Fashion and Dress
+Slavery and Indenture
+Taxation
+Travel and Vehicles
+Engineering and Construction
+Knowledge and Learning
+Weapons and Warfare
+Religion and Myth
+Clergy and Churches
+People
+Celdorean
+Dwarven (Jutting & Meniri Mountains)
+Elven (Argollëan)
+Jutlandic
+Kemeshi
+Krysean
+Kushtu
+Nicean
+Opelenean
+Rornish
+Shebatean
+Somirean
+Thrassian
+Tirenean
+Zaharan
+Cybelean Language
+Real-World Language Counterpart
+CONDITIONS
+General Rules for Conditions
+Escaping from the Grabbed, Restrained, Webbed, and Wrestled Conditions
+List of Conditions
+WOUNDS AND WOE
+Scarring
+Other Permanent Wounds & Side Effects
+RESOURCES
+Character Sheet, Front
+Character Sheet, Rear
+Character Sheet, Spell Sheet
+Domain Sheet
+Henchmen Sheet
+INDEX
+ACKS II Backer Memorial
+Indexes
+NOTATION
+MEANING
+Two-sided die, implicitly rolled with 1d6, treating 1 – 3 as 1 and 4 – 6 as 2.
+Three-sided die, implicitly rolled with 1d6, treating 1 – 2 as 1, 3 – 4 as 2, and 5 – 6 as 3.
+Four-sided die.
+Six-sided die.
+Eight-sided die.
+Ten-sided die, where “0” indicates a 10.
+Twelve-sided die.
+Twenty-sided die.
+Percentile dice, where a number between 1 and 100 is generated by rolling two different ten-sided dice. One, designated before rolling, is the tens digit. The other is the ones digit. A roll of 00 indicates the maximum result of 100.
+ABBREVIATION
+STR
+Strength
+INT
+Intellect
+WIL
+Will
+DEX
+Dexterity
+CON
+Constitution
+CHA
+Charisma
+OTHER
+hp
+shp
+Structural hit points
+HD
+Hit Dice (or Hit Die)
+AC
+XP
+Experience points
+Player character
+Non-player character
+cp
+Copper pieces
+sp
+Silver pieces
+ep
+Electrum pieces
+gp
+Gold pieces
+pp
+Platinum pieces
+TT
+Treasure Type
+DAMAGE TYPE
+MUNDANE ICON
+EXTRAORDINARY ICON
+Acidic
+[mundane acidic]
+[extraordinary acidic]
+Arcane
+[mundane arcane]
+[extraordinary arcane]
+Bludgeoning
+[mundane bludgeoning]
+[extraordinary bludgeoning]
+Cold
+[mundane cold]
+[extraordinary cold]
+Electrical
+[mundane electric]
+[extraordinary electric]
+Fire
+[mundane fire]
+[extraordinary fire]
+Luminous
+[mundane luminous]
+[extraordinary luminous]
+Necrotic
+[mundane necrotic]
+[extraordinary necrotic]
+Piercing
+[mundane piercing]
+[extraordinary piercing]
+Poisonous
+[mundane poisonous]
+[extraordinary poisonous]
+Seismic
+[mundane seismic]
+[extraordinary seismic]
+Slashing
+[mundane slashing]
+[extraordinary slashing]
+Varies by Weapon
+[mundane varies by weapon]
+[extraordinary varies by weapon]
+ATTRIBUTE MODIFIERS
+ATTRIBUTE
+BONUS/PENALTY
+KEY ATTRIBUTE
+SCORE
+EXPERIENCE ADJUSTMENT
+EXPLORATION SPEED
+COMBAT SPEED
+RUNNING SPEED
+EXPEDITION SPEED
+120 feet per turn
+40 feet per round
+120 feet per round
+24 miles per day
+(Speed) feet per turn
+(Speed / 3) feet per round
+(Speed) feet per round
+(Speed / 5) miles per day
+ITEM
+ENCUMBRANCE IN STONE
+Worn clothing
+0 stone
+Armor
+1 stone per point of AC
+Shield
+1 stone per shield
+Typical Item
+1 stone per 6 items
+Heavy Item
+1 stone or more
+Treasure
+1 stone per 1,000 coins or gems
+Up to 5 stone
+120’ per turn
+40’ per round
+120’ per round
+24 miles
+Up to 7 stone
+90’ per turn
+30’ per round
+90’ per round
+18 miles
+Up to 10 stone
+60’ per turn
+20’ per round
+60’ per round
+12 miles
+Up to 20 stone + STR mod
+30’ per turn
+10’ per round
+6 miles
+CLASS
+STARTING AGE
+RACE
+Beastman
+Dwarf
+Elf
+Human
+Nobiran
+AGE CATEGORY
+PROGRESSIVE ATTRIBUTE ADJUSTMENTS
+CUMULATIVE ATTRIBUTE ADJUSTMENTS
+-2 STR, -2 INT, -2 WIL
++2 STR, +2 INT, +2 WIL
+No adjustments
+-2 STR, -2 DEX, -2 CON
+-2 STR, -2 DEX, -2 CON, -2 CHA
+-4 STR, -4 DEX, -4 CON, -2 CHA
+-6 STR, -6 DEX, -6 CON, -4 CHA
+WEIGHT
+3 STONE OR LESS
+4 TO 40 STONE
+41 TO 200 STONE
+201 TO 800 STONE
+801 TO 3200 STONE
+MORE THAN 3200 STONE
+Size Category
+Man-Sized
+Length/Height
+Less than 2’ long/tall
+2’ to 8’ long/tall
+8’ to 12’ long/tall
+12’ to 20’ long/tall
+20’ to 32’ long/tall
+32’ or more long/tall

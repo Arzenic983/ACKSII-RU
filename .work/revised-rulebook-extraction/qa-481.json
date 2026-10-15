@@ -1,0 +1,443 @@
+{
+  "lines": [
+    {
+      "top": 80.24,
+      "x0": 72.0,
+      "x1": 558.0036,
+      "text": "2. Missile Phase. In this phase, missile units in the assault and 4. Morale Phase. The Judge now checks to see whether either"
+    },
+    {
+      "top": 90.239,
+      "x0": 85.5,
+      "x1": 557.9991,
+      "text": "stronghold zones exchange fire. army has reached a break point and if so resolves morale"
+    },
+    {
+      "top": 100.238,
+      "x0": 342.0,
+      "x1": 505.2582,
+      "text": "rolls, as explained in Ending Battles (p. 467)."
+    },
+    {
+      "top": 110.24,
+      "x0": 85.5,
+      "x1": 301.4991,
+      "text": "a. Calculate Battle Ratings. Each army leader sums the"
+    },
+    {
+      "top": 120.239,
+      "x0": 99.0,
+      "x1": 557.9892,
+      "text": "battle rating of all missile units in the appropriate zone. 5. Victory Check Phase. If all of the defending units are"
+    },
+    {
+      "top": 130.239,
+      "x0": 342.0,
+      "x1": 557.982,
+      "text": "defeated, and the defending army has no units in the interior"
+    },
+    {
+      "top": 140.238,
+      "x0": 85.5,
+      "x1": 558.0,
+      "text": "b. Make Heroic Forays. Heroic PCs and NPCs in the zone, the stronghold is captured. If all of the assaulting units"
+    },
+    {
+      "top": 150.237,
+      "x0": 99.0,
+      "x1": 557.9622,
+      "text": "zone can now make heroic forays at missile range to are defeated, and the besieging army has no units in the"
+    },
+    {
+      "top": 160.236,
+      "x0": 99.0,
+      "x1": 558.0,
+      "text": "influence the battle rating in favor of one army or the reserve zone, then the stronghold is liberated. Either way, see"
+    },
+    {
+      "top": 170.235,
+      "x0": 99.0,
+      "x1": 426.0051,
+      "text": "other. All heroes’ heroic forays are revealed and resolved Ending Sieges (p. 482)."
+    },
+    {
+      "top": 180.236,
+      "x0": 99.0,
+      "x1": 259.1433,
+      "text": "simultaneously. Lost units are then removed."
+    },
+    {
+      "top": 190.24,
+      "x0": 328.5,
+      "x1": 557.9982,
+      "text": "6. Redeployment Phase. Either army can now redeploy"
+    },
+    {
+      "top": 200.239,
+      "x0": 85.5,
+      "x1": 557.9991,
+      "text": "c. Determine Hits. Each army leader simultaneously rolls a units. The army leader with the lower strategic ability must"
+    },
+    {
+      "top": 210.238,
+      "x0": 99.0,
+      "x1": 557.973,
+      "text": "number of attack throws equal to the battle rating of the redeploy first. The army leader can redeploy a number of"
+    },
+    {
+      "top": 220.237,
+      "x0": 99.0,
+      "x1": 557.9973,
+      "text": "missile units that remain in the zone. The target value for units equal to this Leadership Ability. A besieging unit can"
+    },
+    {
+      "top": 230.236,
+      "x0": 99.0,
+      "x1": 558.0081,
+      "text": "the attack throws is 17+, modified by the Attack Throw be moved from the assault zone to the reserve zone or vice"
+    },
+    {
+      "top": 240.235,
+      "x0": 99.0,
+      "x1": 558.0,
+      "text": "Modifiers listed below. For each successful attack throw, versa. A defending unit can be moved from the stronghold"
+    },
+    {
+      "top": 250.234,
+      "x0": 99.0,
+      "x1": 558.0162,
+      "text": "one hit is scored. If at the start of step c, one side has no to the interior zone, or vice versa. Wavering and disordered"
+    },
+    {
+      "top": 260.233,
+      "x0": 99.0,
+      "x1": 557.9883,
+      "text": "units in its zone, see Breaking a Zone (p. 465). units cannot be redeployed. In lieu of redeploying a unit,"
+    },
+    {
+      "top": 270.232,
+      "x0": 342.0,
+      "x1": 558.0,
+      "text": "the besieging army leader can assign it to assault through"
+    },
+    {
+      "top": 280.231,
+      "x0": 85.5,
+      "x1": 558.0,
+      "text": "d. Apply Casualties. Each army leader tallies the hits scored a breach that does not have a unit assigned to it. In lieu of"
+    },
+    {
+      "top": 290.23,
+      "x0": 99.0,
+      "x1": 558.0,
+      "text": "against his army. The besieging army leader then removes redeploying one or more units, each leader can regroup a"
+    },
+    {
+      "top": 300.229,
+      "x0": 99.0,
+      "x1": 558.0,
+      "text": "units from the assault zone with a combined battle rating unit or units that have wavered or become disordered,"
+    },
+    {
+      "top": 310.228,
+      "x0": 99.0,
+      "x1": 557.9703,
+      "text": "equal to or greater than the total hits scored against his ending those conditions. Heroes can be move like units,"
+    },
+    {
+      "top": 320.227,
+      "x0": 99.0,
+      "x1": 558.0261,
+      "text": "army. The defending army leader removes units from the but do not count against the leader’s Leadership Ability."
+    },
+    {
+      "top": 330.226,
+      "x0": 99.0,
+      "x1": 557.9982,
+      "text": "stronghold walls zone in like manner. The units removed The maximum number of units (other than heroes, artillery"
+    },
+    {
+      "top": 340.225,
+      "x0": 99.0,
+      "x1": 558.0,
+      "text": "do not need to be missile units. These units are destroyed units, and war machine units) in the assault zone cannot"
+    },
+    {
+      "top": 350.224,
+      "x0": 99.0,
+      "x1": 558.0144,
+      "text": "(or, if loose units, withdrawn; see below). If all of an exceed 1 unit per point of unit capacity plus 1 additional unit"
+    },
+    {
+      "top": 360.223,
+      "x0": 99.0,
+      "x1": 446.1372,
+      "text": "army’s units in a zone are defeated, the remaining hits are per breach in the stronghold."
+    },
+    {
+      "top": 370.231,
+      "x0": 99.0,
+      "x1": 230.0562,
+      "text": "lost. Hits are applied simultaneously."
+    },
+    {
+      "top": 380.24,
+      "x0": 328.5,
+      "x1": 557.991,
+      "text": "7. Surrender Phase. The defending army can now voluntarily"
+    },
+    {
+      "top": 390.239,
+      "x0": 72.0,
+      "x1": 558.0243,
+      "text": "3. Melee Phase. In this phase, melee units in the assault and surrender. If the defending army surrenders, the stronghold"
+    },
+    {
+      "top": 400.238,
+      "x0": 85.5,
+      "x1": 557.9982,
+      "text": "stronghold zones exchange fire. is captured. See Ending Sieges. Otherwise, the besieging"
+    },
+    {
+      "top": 410.237,
+      "x0": 342.0,
+      "x1": 557.9991,
+      "text": "army can renew the assault or call it off. If the besieging"
+    },
+    {
+      "top": 420.236,
+      "x0": 85.5,
+      "x1": 557.991,
+      "text": "a. Calculate Battle Ratings. Each army leader sums the army renews the assault, then another assault turn is fought,"
+    },
+    {
+      "top": 430.235,
+      "x0": 99.0,
+      "x1": 558.0162,
+      "text": "battle rating of all remaining units in the appropriate starting with step 1. If the besieging army calls off the assault,"
+    },
+    {
+      "top": 440.234,
+      "x0": 99.0,
+      "x1": 503.3853,
+      "text": "zone. War machines that have battle ratings are included the assault ends but the siege itself continues."
+    },
+    {
+      "top": 450.237,
+      "x0": 99.0,
+      "x1": 301.4703,
+      "text": "in this total. War machines that have special effects (such"
+    },
+    {
+      "top": 458.909,
+      "x0": 99.0,
+      "x1": 556.3152,
+      "text": "as offering an additional attack throw) take effect in step c. ATTACK THROW MODIFIERS DURING ASSAULTS"
+    },
+    {
+      "top": 470.231,
+      "x0": 328.5,
+      "x1": 566.9991,
+      "text": "In addition the modifiers that apply in battle, unit attack throws are"
+    },
+    {
+      "top": 480.23,
+      "x0": 85.5,
+      "x1": 512.6193,
+      "text": "b. Make Heroic Forays. Heroic PCs and NPCs in the modified by the following factors during an assault:"
+    },
+    {
+      "top": 490.239,
+      "x0": 99.0,
+      "x1": 301.4901,
+      "text": "zone can now make heroic forays at melee range to"
+    },
+    {
+      "top": 500.238,
+      "x0": 99.0,
+      "x1": 561.0059,
+      "text": "influence the battle rating in favor of one army or the ATTACK THROW MODIFIERS MODIFIER"
+    },
+    {
+      "top": 510.237,
+      "x0": 99.0,
+      "x1": 301.5252,
+      "text": "other. All heroes’ heroic forays are revealed and resolved"
+    },
+    {
+      "top": 514.419,
+      "x0": 332.6,
+      "x1": 504.8564,
+      "text": "Attack by assaulting unit other than artillery, flyer,"
+    },
+    {
+      "top": 518.919,
+      "x0": 99.0,
+      "x1": 546.242,
+      "text": "simultaneously. Lost units are then removed. missile unit, or unit assaulting through a breach -2"
+    },
+    {
+      "top": 534.759,
+      "x0": 332.6,
+      "x1": 547.466,
+      "text": "Attack by a defending unit +2"
+    },
+    {
+      "top": 540.24,
+      "x0": 85.5,
+      "x1": 301.5081,
+      "text": "c. Determine Hits. Each army leader simultaneously rolls"
+    },
+    {
+      "top": 550.239,
+      "x0": 99.0,
+      "x1": 301.5189,
+      "text": "a number of attack throws equal to the battle rating of"
+    },
+    {
+      "top": 560.238,
+      "x0": 99.0,
+      "x1": 301.4811,
+      "text": "the units that remain in the zone. The target value for"
+    },
+    {
+      "top": 570.237,
+      "x0": 99.0,
+      "x1": 301.5162,
+      "text": "the attack throws is 16+, modified by the Attack Throw"
+    },
+    {
+      "top": 580.236,
+      "x0": 99.0,
+      "x1": 301.5153,
+      "text": "Modifiers listed below. For each successful attack throw,"
+    },
+    {
+      "top": 590.235,
+      "x0": 99.0,
+      "x1": 301.4991,
+      "text": "one hit is scored. If at the start of step c, one side has no"
+    },
+    {
+      "top": 600.234,
+      "x0": 99.0,
+      "x1": 266.3793,
+      "text": "units in its zone, see Breaking a Zone (p. 465)."
+    },
+    {
+      "top": 620.24,
+      "x0": 85.5,
+      "x1": 301.5063,
+      "text": "d. Apply Casualties. Each army leader tallies the hits scored"
+    },
+    {
+      "top": 630.239,
+      "x0": 99.0,
+      "x1": 301.4991,
+      "text": "against his army. The besieging army leader then removes"
+    },
+    {
+      "top": 640.238,
+      "x0": 99.0,
+      "x1": 301.4991,
+      "text": "units from the assault zone with a combined battle rating"
+    },
+    {
+      "top": 650.237,
+      "x0": 99.0,
+      "x1": 301.5342,
+      "text": "equal to or greater than the total hits scored against his"
+    },
+    {
+      "top": 660.236,
+      "x0": 99.0,
+      "x1": 301.5081,
+      "text": "army. The defending army leader removes units from the"
+    },
+    {
+      "top": 670.235,
+      "x0": 99.0,
+      "x1": 301.5261,
+      "text": "stronghold walls zone in like manner. The units removed"
+    },
+    {
+      "top": 680.234,
+      "x0": 99.0,
+      "x1": 301.5072,
+      "text": "do not need to be melee units or war machines. These"
+    },
+    {
+      "top": 690.233,
+      "x0": 99.0,
+      "x1": 301.509,
+      "text": "units are destroyed. Loose units cannot withdraw during"
+    },
+    {
+      "top": 700.232,
+      "x0": 99.0,
+      "x1": 301.4991,
+      "text": "the assault phase. If all of an army’s units in a zone are"
+    },
+    {
+      "top": 710.231,
+      "x0": 99.0,
+      "x1": 301.4982,
+      "text": "defeated, the remaining hits are lost. Hits are applied"
+    },
+    {
+      "top": 720.23,
+      "x0": 99.0,
+      "x1": 154.5831,
+      "text": "simultaneously."
+    },
+    {
+      "top": 657.8702,
+      "x0": 595.674,
+      "x1": 601.674,
+      "text": "SIEGES"
+    }
+  ],
+  "tables": [
+    {
+      "bbox": [
+        329.0,
+        496.0,
+        566.5,
+        543.48
+      ],
+      "cells": [
+        [
+          329.0,
+          496.0,
+          519.12,
+          511.8
+        ],
+        [
+          329.0,
+          511.8,
+          566.5,
+          532.14
+        ],
+        [
+          329.0,
+          532.14,
+          519.12,
+          543.48
+        ],
+        [
+          519.12,
+          496.0,
+          566.5,
+          511.8
+        ],
+        [
+          519.12,
+          532.14,
+          566.5,
+          543.48
+        ]
+      ]
+    }
+  ],
+  "midpoint": 333
+}

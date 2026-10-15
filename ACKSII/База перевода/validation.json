@@ -1,0 +1,372 @@
+{
+  "integrity": "ok",
+  "foreign_key_errors": 0,
+  "history_errors": 0,
+  "search_errors": 0,
+  "english_hash_errors": 0,
+  "units": 30624,
+  "translations": 7652,
+  "pages": 550,
+  "tables": 370,
+  "glossary_entries": 403,
+  "origins": {
+    "damage_symbol": 26,
+    "existing_reused": 123,
+    "existing_revised": 188,
+    "invariant": 4197,
+    "manual_edit": 8,
+    "new_translation": 2944,
+    "project_glossary": 166
+  },
+  "chapter_progress": [
+    {
+      "id": "front_matter",
+      "title_en": "Front matter",
+      "title_ru": "Материалы перед первой главой",
+      "first_pdf_page": 1,
+      "last_pdf_page": 13,
+      "review_state": "reviewed_by_Codex",
+      "source_units": 1331,
+      "translated_units": 1331,
+      "pending_units": 0
+    },
+    {
+      "id": "01",
+      "title_en": "Characters",
+      "title_ru": "Персонажи",
+      "first_pdf_page": 14,
+      "last_pdf_page": 23,
+      "review_state": "reviewed_by_Codex",
+      "source_units": 358,
+      "translated_units": 358,
+      "pending_units": 0
+    },
+    {
+      "id": "02",
+      "title_en": "Classes",
+      "title_ru": "Классы",
+      "first_pdf_page": 24,
+      "last_pdf_page": 101,
+      "review_state": "reviewed_by_Codex",
+      "source_units": 5963,
+      "translated_units": 5963,
+      "pending_units": 0
+    },
+    {
+      "id": "03",
+      "title_en": "Proficiencies",
+      "title_ru": "Навыки",
+      "first_pdf_page": 102,
+      "last_pdf_page": 123,
+      "review_state": "pending",
+      "source_units": 704,
+      "translated_units": 0,
+      "pending_units": 704
+    },
+    {
+      "id": "04",
+      "title_en": "Equipment",
+      "title_ru": "Снаряжение",
+      "first_pdf_page": 124,
+      "last_pdf_page": 179,
+      "review_state": "pending",
+      "source_units": 4566,
+      "translated_units": 0,
+      "pending_units": 4566
+    },
+    {
+      "id": "05",
+      "title_en": "Spells",
+      "title_ru": "Заклинания",
+      "first_pdf_page": 180,
+      "last_pdf_page": 263,
+      "review_state": "pending",
+      "source_units": 2861,
+      "translated_units": 0,
+      "pending_units": 2861
+    },
+    {
+      "id": "06",
+      "title_en": "Adventures",
+      "title_ru": "Приключения",
+      "first_pdf_page": 264,
+      "last_pdf_page": 315,
+      "review_state": "pending",
+      "source_units": 2144,
+      "translated_units": 0,
+      "pending_units": 2144
+    },
+    {
+      "id": "07",
+      "title_en": "Voyages",
+      "title_ru": "Плавания",
+      "first_pdf_page": 316,
+      "last_pdf_page": 333,
+      "review_state": "pending",
+      "source_units": 964,
+      "translated_units": 0,
+      "pending_units": 964
+    },
+    {
+      "id": "08",
+      "title_en": "Campaigns",
+      "title_ru": "Кампании",
+      "first_pdf_page": 334,
+      "last_pdf_page": 427,
+      "review_state": "pending",
+      "source_units": 4906,
+      "translated_units": 0,
+      "pending_units": 4906
+    },
+    {
+      "id": "09",
+      "title_en": "Armies",
+      "title_ru": "Армии",
+      "first_pdf_page": 428,
+      "last_pdf_page": 447,
+      "review_state": "pending",
+      "source_units": 3179,
+      "translated_units": 0,
+      "pending_units": 3179
+    },
+    {
+      "id": "10",
+      "title_en": "Maneuvers",
+      "title_ru": "Манёвры",
+      "first_pdf_page": 448,
+      "last_pdf_page": 461,
+      "review_state": "pending",
+      "source_units": 521,
+      "translated_units": 0,
+      "pending_units": 521
+    },
+    {
+      "id": "11",
+      "title_en": "Battles",
+      "title_ru": "Сражения",
+      "first_pdf_page": 462,
+      "last_pdf_page": 473,
+      "review_state": "pending",
+      "source_units": 618,
+      "translated_units": 0,
+      "pending_units": 618
+    },
+    {
+      "id": "12",
+      "title_en": "Sieges",
+      "title_ru": "Осады",
+      "first_pdf_page": 474,
+      "last_pdf_page": 487,
+      "review_state": "pending",
+      "source_units": 809,
+      "translated_units": 0,
+      "pending_units": 809
+    },
+    {
+      "id": "A",
+      "title_en": "Setting",
+      "title_ru": "Сеттинг",
+      "first_pdf_page": 488,
+      "last_pdf_page": 507,
+      "review_state": "pending",
+      "source_units": 344,
+      "translated_units": 0,
+      "pending_units": 344
+    },
+    {
+      "id": "B",
+      "title_en": "Conditions",
+      "title_ru": "Состояния",
+      "first_pdf_page": 508,
+      "last_pdf_page": 517,
+      "review_state": "pending",
+      "source_units": 283,
+      "translated_units": 0,
+      "pending_units": 283
+    },
+    {
+      "id": "C",
+      "title_en": "Wounds and Woe",
+      "title_ru": "Раны и страдания",
+      "first_pdf_page": 518,
+      "last_pdf_page": 531,
+      "review_state": "pending",
+      "source_units": 827,
+      "translated_units": 0,
+      "pending_units": 827
+    },
+    {
+      "id": "D",
+      "title_en": "Resources",
+      "title_ru": "Материалы",
+      "first_pdf_page": 532,
+      "last_pdf_page": 537,
+      "review_state": "pending",
+      "source_units": 163,
+      "translated_units": 0,
+      "pending_units": 163
+    },
+    {
+      "id": "E",
+      "title_en": "Index",
+      "title_ru": "Предметный указатель",
+      "first_pdf_page": 538,
+      "last_pdf_page": 550,
+      "review_state": "pending",
+      "source_units": 83,
+      "translated_units": 0,
+      "pending_units": 83
+    }
+  ],
+  "date": "2026-10-15",
+  "translated_scope_pdf_pages": [
+    1,
+    101
+  ],
+  "chapter02_markdown": {
+    "date": "2026-10-15",
+    "chapter_id": "02",
+    "pdf_pages": [
+      24,
+      101
+    ],
+    "source_units": 5963,
+    "translated_units": 5963,
+    "pending_units": 0,
+    "combined_units": 7652,
+    "chapter_tables": 74,
+    "chapter_table_cells": 5031,
+    "combined_tables": 89,
+    "editor_note_locations": 99,
+    "editor_notes": 100,
+    "unit_order_and_coverage": "passed",
+    "numeric_values": "passed",
+    "english_hashes": "passed",
+    "protected_docx_count": 45,
+    "changed_docx": [],
+    "docx_created": false,
+    "docx_updated": false,
+    "committed": true,
+    "output": "ACKSII\\Перевод Markdown\\ACKS II — Начало и главы 1–2.md",
+    "table_geometry": "passed",
+    "database": {
+      "integrity": "ok",
+      "foreign_key_errors": 0,
+      "history_errors": 0,
+      "search_errors": 0,
+      "english_hash_errors": 0,
+      "units": 30624,
+      "translations": 7652
+    },
+    "rendered_tables": 89,
+    "rendered_unit_anchors": 7652,
+    "rendered_pdf_page_anchors": 101,
+    "rendered_duplicate_anchors": 0,
+    "rendered_table_row_column_spans": "passed",
+    "markdown_notes_escaping": "passed",
+    "known_review_fixes": "passed",
+    "content_sha256": "37db438ab7cc5c220ea8cd476022d1cb9a0395a7e3f0a9ece5a5647a16721a4c",
+    "dice_formulas": "passed",
+    "percentages": "passed",
+    "signed_modifiers": "passed",
+    "preexisting_translations_unchanged": true,
+    "source_units_pages_tables_unchanged": true,
+    "project_glossary_unchanged": true,
+    "jsonl_roundtrip_records": 30624,
+    "independent_semantic_review_ranges": [
+      [
+        24,
+        41
+      ],
+      [
+        42,
+        45
+      ],
+      [
+        46,
+        61
+      ],
+      [
+        62,
+        81
+      ],
+      [
+        82,
+        101
+      ]
+    ],
+    "pdf_visual_review_pages": [
+      37,
+      44,
+      64,
+      72,
+      93
+    ],
+    "review_status": "reviewed_by_Codex",
+    "user_approved": false,
+    "bilingual_presentation": {
+      "date": "2026-10-15",
+      "scope_pdf_pages": [
+        1,
+        101
+      ],
+      "source_headings_with_english": 268,
+      "additional_subheadings_with_english": 6,
+      "table_header_cells_with_english": 430,
+      "body_term_annotations": 4825,
+      "annotation_variants": 792,
+      "mythography_uses_verified": 20,
+      "russian_text_preserved": true,
+      "nested_english_brackets": 0,
+      "docx_modified": false,
+      "database_translation_modified": false,
+      "files": {
+        "00 Начало.md": {
+          "russian_letters_unchanged": true,
+          "unit_ids_unchanged": true,
+          "english_subtitles": 41,
+          "english_labels": 343,
+          "sha256_normalized_newlines": "f43947d0911a5c9da9c8b6f14023bb4eeca11d7264321a3c851f996778ac4ff9"
+        },
+        "01 Персонажи.md": {
+          "russian_letters_unchanged": true,
+          "unit_ids_unchanged": true,
+          "english_subtitles": 77,
+          "english_labels": 321,
+          "sha256_normalized_newlines": "08f2cbc906f4bc568bbff732c9a39decf381fab36b844369afe38fd824d1b639"
+        },
+        "02 Классы.md": {
+          "russian_letters_unchanged": true,
+          "unit_ids_unchanged": true,
+          "english_subtitles": 589,
+          "english_labels": 4298,
+          "sha256_normalized_newlines": "8ae628aabf3dedffa72e82d39364e779d748716a38e20d9c9c1c9fcc377c1cbb"
+        },
+        "ACKS II — Начало и главы 1–2.md": {
+          "russian_letters_unchanged": true,
+          "unit_ids_unchanged": true,
+          "english_subtitles": 708,
+          "english_labels": 4962,
+          "sha256_normalized_newlines": "37db438ab7cc5c220ea8cd476022d1cb9a0395a7e3f0a9ece5a5647a16721a4c"
+        },
+        "Примечания редактора.md": {
+          "russian_letters_unchanged": true,
+          "unit_ids_unchanged": true,
+          "english_subtitles": 1,
+          "english_labels": 107,
+          "sha256_normalized_newlines": "2c315661c665a63a4de6941815e79df01b61ffc869c568d6ab79351c4a84d055"
+        }
+      },
+      "rendered_structure": {
+        "rendered_tables": 89,
+        "rendered_unit_anchors": 7652,
+        "rendered_pdf_page_anchors": 101,
+        "rendered_duplicate_anchors": 0,
+        "rendered_table_row_column_spans": "passed",
+        "markdown_notes_escaping": "passed",
+        "known_review_fixes": "passed",
+        "content_sha256": "37db438ab7cc5c220ea8cd476022d1cb9a0395a7e3f0a9ece5a5647a16721a4c"
+      }
+    }
+  }
+}

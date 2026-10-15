@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-15",
+  "chapter_id": "02",
+  "pdf_pages": [
+    24,
+    101
+  ],
+  "source_units": 5963,
+  "translated_units": 5963,
+  "pending_units": 0,
+  "combined_units": 7652,
+  "chapter_tables": 74,
+  "chapter_table_cells": 5031,
+  "combined_tables": 89,
+  "editor_note_locations": 99,
+  "editor_notes": 100,
+  "unit_order_and_coverage": "passed",
+  "numeric_values": "passed",
+  "english_hashes": "passed",
+  "protected_docx_count": 45,
+  "changed_docx": [],
+  "docx_created": false,
+  "docx_updated": false,
+  "committed": false,
+  "output": "ACKSII\\Перевод Markdown\\ACKS II — Начало и главы 1–2.md",
+  "table_geometry": "passed",
+  "bilingual_term_annotations": 4825,
+  "bilingual_term_variants": 792,
+  "bilingual_source_headings": 268,
+  "bilingual_source_subheadings": 6,
+  "bilingual_table_headers": 430
+}

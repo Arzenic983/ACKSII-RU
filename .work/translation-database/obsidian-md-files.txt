@@ -1,0 +1,968 @@
+ACKS2\⚠️ README ⚠️.md
+ACKS2\📕 ACKSII Judges Journal\CUSTOM SPELLS.md
+ACKS2\📕 ACKSII Judges Journal\DISEASES (ENG).md
+ACKS2\📕 ACKSII Judges Journal\DISEASES (RU).md
+ACKS2\📕 ACKSII Judges Journal\Part 1 - Praxis\Chapter 1 - FOUNDATIONS (eng).md
+ACKS2\📕 ACKSII Judges Journal\Part 1 - Praxis\Chapter 1 - FOUNDATIONS (ru).md
+ACKS2\📕 ACKSII Judges Journal\Part 1 - Praxis\Chapter 2 - Adventures (eng).md
+ACKS2\📕 ACKSII Judges Journal\Part 1 - Praxis\Chapter 2 - Adventures (ru).md
+ACKS2\📕 ACKSII Judges Journal\Part 1 - Praxis\TREASURE TYPE TABLES.md
+ACKS2\📕 ACKSII Judges Journal\Part 2 - Construction\Chapter 5 - Setting\Setting (ENG).md
+ACKS2\📕 ACKSII Judges Journal\Part 2 - Construction\Chapter 5 - Setting\Setting (RU).md
+ACKS2\📕 ACKSII Judges Journal\Part 2 - Construction\Chapter 6 - Realms\REALMS (ENG).md
+ACKS2\📕 ACKSII Judges Journal\Part 2 - Construction\Chapter 6 - Realms\REALMS (RU).md
+ACKS2\📕 ACKSII Judges Journal\Part 2 - Construction\Chapter 7 - Settelment\Settelment (ENG).md
+ACKS2\📕 ACKSII Judges Journal\Part 2 - Construction\Chapter 7 - Settelment\Settelment (RU).md
+ACKS2\📕 ACKSII Judges Journal\Poisons.md
+ACKS2\📕 ACKSII Judges Journal\Terrain Encounters - Точки интереса.md
+ACKS2\📕 ACKSII Judges Journal\WILDERNESS EXPEDITIONS jj Экспедиции.md
+ACKS2\📕 ACKSII Judges Journal\Артефакты.md
+ACKS2\📕 ACKSII Monstrous Manual\! MONSTER PARTS.md
+ACKS2\📕 ACKSII Monstrous Manual\!Трюки.md
+ACKS2\📕 ACKSII Monstrous Manual\BAT, GIANT - Гигантская летучая мышь.md
+ACKS2\📕 ACKSII Monstrous Manual\BEAR, BROWN - Бурый медведь.md
+ACKS2\📕 ACKSII Monstrous Manual\BEAR, CAVE ♟ Пещерный медведь.md
+ACKS2\📕 ACKSII Monstrous Manual\BEASTMAN,  GNOLL ♟ Гнолл.md
+ACKS2\📕 ACKSII Monstrous Manual\BEASTMAN, HOBGOBLIN ♟ Хобгоблин.md
+ACKS2\📕 ACKSII Monstrous Manual\BEASTMAN, KOBOLD ♟ Кобольд.md
+ACKS2\📕 ACKSII Monstrous Manual\BEASTMAN, ORC ♟ Орк.md
+ACKS2\📕 ACKSII Monstrous Manual\BEASTMAN.md
+ACKS2\📕 ACKSII Monstrous Manual\BOAR, COMMON - Обычный кабан.md
+ACKS2\📕 ACKSII Monstrous Manual\CACODEMON - Eresh-Seru.md
+ACKS2\📕 ACKSII Monstrous Manual\CACODEMON.md
+ACKS2\📕 ACKSII Monstrous Manual\Cairn Dwellers ♝ Жители Крейна.md
+ACKS2\📕 ACKSII Monstrous Manual\CAT, LYNX - Рысь.md
+ACKS2\📕 ACKSII Monstrous Manual\CAT, SABER-TOOTH.md
+ACKS2\📕 ACKSII Monstrous Manual\CATOBLEPAS ♝ КАТОБЛЕПАС.md
+ACKS2\📕 ACKSII Monstrous Manual\DOG, HUNTING ♝ Охотничья собака.md
+ACKS2\📕 ACKSII Monstrous Manual\DOG, HUNTING.md
+ACKS2\📕 ACKSII Monstrous Manual\DOG, WAR ♝ Боевая собака.md
+ACKS2\📕 ACKSII Monstrous Manual\DOG, WAR.md
+ACKS2\📕 ACKSII Monstrous Manual\DOPPELGÄNGER.md
+ACKS2\📕 ACKSII Monstrous Manual\DRAUGR ♝ Драугр.md
+ACKS2\📕 ACKSII Monstrous Manual\ELEPHANT.md
+ACKS2\📕 ACKSII Monstrous Manual\FAERIE, BROWNIE (BOGGART) ♝ Брауни Богарт.md
+ACKS2\📕 ACKSII Monstrous Manual\FAERIE, KNOCKER ♝ Кнокер.md
+ACKS2\📕 ACKSII Monstrous Manual\FAERIE, NIXIE ♝ Никси.md
+ACKS2\📕 ACKSII Monstrous Manual\FAERIE, PISKIE ♝ Пишки.md
+ACKS2\📕 ACKSII Monstrous Manual\FAERIE, PIXIE ♝ Пикси.md
+ACKS2\📕 ACKSII Monstrous Manual\FAERIE, REDCAP ♝ Красная шапка.md
+ACKS2\📕 ACKSII Monstrous Manual\FAERIE, SPRIGGAN ♝ Сприган.md
+ACKS2\📕 ACKSII Monstrous Manual\FAERIE, SPRITE ♝ Спрайт.md
+ACKS2\📕 ACKSII Monstrous Manual\GALDRTRÉ ♝ Галдтри.md
+ACKS2\📕 ACKSII Monstrous Manual\GARGOYLE - Гаргулья.md
+ACKS2\📕 ACKSII Monstrous Manual\GHOUL GRAVE  ♟ Могильный гуль.md
+ACKS2\📕 ACKSII Monstrous Manual\GHOUL MARSH  ♝ Болотный гуль.md
+ACKS2\📕 ACKSII Monstrous Manual\GHOUL, DESERT ♝ Пустынный гуль.md
+ACKS2\📕 ACKSII Monstrous Manual\Giant Ant ♝ Гигантский муравей.md
+ACKS2\📕 ACKSII Monstrous Manual\GIANT, FIRE ♝ Гигант огненный.md
+ACKS2\📕 ACKSII Monstrous Manual\GIANT, FROST ♝ Гигант Морозный.md
+ACKS2\📕 ACKSII Monstrous Manual\GIANT, HILL♝ Гигант Холмовой.md
+ACKS2\📕 ACKSII Monstrous Manual\GIANT, STONE♝ Гигант Каменный.md
+ACKS2\📕 ACKSII Monstrous Manual\GOLEM, IRON.md
+ACKS2\📕 ACKSII Monstrous Manual\HAG ♝ Карга.md
+ACKS2\📕 ACKSII Monstrous Manual\HAUNT - Призрак.md
+ACKS2\📕 ACKSII Monstrous Manual\Lycanthrope, Werebear.md
+ACKS2\📕 ACKSII Monstrous Manual\Lycanthrope, Wereboar.md
+ACKS2\📕 ACKSII Monstrous Manual\Lycanthrope, Wererat.md
+ACKS2\📕 ACKSII Monstrous Manual\Lycanthrope, Weretiger.md
+ACKS2\📕 ACKSII Monstrous Manual\Lycanthrope, Werewolf.md
+ACKS2\📕 ACKSII Monstrous Manual\LYCANTROPE.md
+ACKS2\📕 ACKSII Monstrous Manual\MAN, BANDIT ♝ Бандит.md
+ACKS2\📕 ACKSII Monstrous Manual\MAN, COMMONER - Простолюдин.md
+ACKS2\📕 ACKSII Monstrous Manual\MOLD MUSTARD ♟ Горчичная плесень.md
+ACKS2\📕 ACKSII Monstrous Manual\NYMPH, DRYAD ♝ НИМФА, ДРИАДА.md
+ACKS2\📕 ACKSII Monstrous Manual\NYMPH, NAIAD ♝ НИМФА НАЯДА.md
+ACKS2\📕 ACKSII Monstrous Manual\OGRE ♟ Огр.md
+ACKS2\📕 ACKSII Monstrous Manual\Pelts and Meats.md
+ACKS2\📕 ACKSII Monstrous Manual\SKELETON ♟Скелет.md
+ACKS2\📕 ACKSII Monstrous Manual\SLIME SAGE ♟ Зеленый слайм.md
+ACKS2\📕 ACKSII Monstrous Manual\SNAKE, PYTHON.md
+ACKS2\📕 ACKSII Monstrous Manual\SNAKE, VIPER.md
+ACKS2\📕 ACKSII Monstrous Manual\SPECTER - Спектер.md
+ACKS2\📕 ACKSII Monstrous Manual\SPIDER, GIANT CRAB.md
+ACKS2\📕 ACKSII Monstrous Manual\STRIX.md
+ACKS2\📕 ACKSII Monstrous Manual\SWARM, INSECT ♟ Рой насекомых.md
+ACKS2\📕 ACKSII Monstrous Manual\TREEHERDER ♝ Древопас.md
+ACKS2\📕 ACKSII Monstrous Manual\TROLL.md
+ACKS2\📕 ACKSII Monstrous Manual\WOLF, COMMON ♟ Волк.md
+ACKS2\📕 ACKSII Monstrous Manual\ZOMBIE ♟ Зомби.md
+ACKS2\📕 ACKSII Monstrous Manual\Ракшаса.md
+ACKS2\📕 ACKSII Monstrous Manual\Трюки.md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX A\SETTING.md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Beholding (Наблюдающий).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Berserk (Берсерк).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Bewitched (Околдованный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Blessed Inspired (Благословленный Воодушевленный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Blinded (Ослепленный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Burning (Горящий).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Charging (В натиске).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Choking Vomiting (Удушение Рвота).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Clambering (Карабкающийся).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Concentrating (Концентрирующийся).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Concentrating and Stationary (Неподвижная концентрация).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Cowering (Трясущийся).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Deafened (Глухой).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Dehydrated (Обезвоженный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\diseased (Болен).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Disfavored (Неугодный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Disordered (В беспорядке).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Dominated (Подавление).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Drowning (Тонущий).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Enervated (Обессиленный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Engaged (Связан боем).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Enlarged (Увеличенный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Enslaved (Порабощенный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Enthralled (Одурманенный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Faltering (Нерешительный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Fatigued (Истощённый).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Flanked (Фланкированный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Forgetful (Забывчивый).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Frightened (Устрашенный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Grabbed (Схваченный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Helpless (Беспомощный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Hidden (Спрятанный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Hungry (Голодный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Hypothermic (Переохлажденный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Immune (Неуязвимый).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Incapacitated (Недееспособный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Infuriated (Разъяренный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Mad (Безумный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Mesmerized (Под гипнозом).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Mute (Немой).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Paralyzed (Парализованный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Petrified (Окаменевший).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Prone (Опрокинут).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Queasy (Недомогает).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Resistant (Устойчивый).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Restrained (Скованный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Shaken (Трясущийся).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Shrunk (Уменьшенный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Slumbering (Дремлющий).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Sneaking (Крадущийся).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Starving (Оголодавший).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Stuck (Застрявший).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Subjacent (Нижестоящий).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Surprised (Ошарашен).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Unconscious (Бессознательный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Underfed (Недокормленное).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Vexed (Досождаемое).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Vulnerable (Уязвимый).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Webbed (Опутанный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Winded (Запыхавшийся).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\Wrestled (Скрученный).md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX B\Состояния\◈ Список состояний.md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX C\Mortal Wounds – Acid Electrical Fire Luminous.md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX C\Mortal Wounds – Arcane Bludgeoning Seismic.md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX C\Mortal Wounds – Cold.md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX C\Mortal Wounds – Necrotic.md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX C\Mortal Wounds – Piercing.md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX C\Mortal Wounds – Poisonous.md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX C\Mortal Wounds – Savage.md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX C\Mortal Wounds – Slashing.md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX C\Игра со смертью - Законное.md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX C\Игра со смертью - Нейтральное.md
+ACKS2\📕 ACKSII Revised Rulebook\APPENDIX C\Игра со смертью - Хаотичное.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 1 CHARACTERS Персонажи\CHAPTER 1 CHARACTERS - Термины\Ancillary activities - Вспомогательное дело.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 1 CHARACTERS Персонажи\CHAPTER 1 CHARACTERS - Термины\Dedicated activities - Целенаправленное дело.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 1 CHARACTERS Персонажи\CHAPTER 1 CHARACTERS - Термины\Incidental activities - Несущественная дело.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 1 CHARACTERS Персонажи\CHAPTER 1 CHARACTERS Персонажи.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Campain Clases\ASSASSIN Убийца.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Campain Clases\BARBARIAN Варвар.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Campain Clases\BARD Бард.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Campain Clases\BLADEDANCER Дева клинка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Campain Clases\PALADIN Паладин.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Campain Clases\PRIESTESS Жрица.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Campain Clases\SHAMAN Шаман.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Campain Clases\WARLOCK Колдун.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Campain Clases\WITCH Ведьма.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\CHAPTER 2 CLASSES - Классы.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Core Classes\CRUSADER Крестоносец.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Core Classes\EXPLOER Исследователь.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Core Classes\FIGHTER Воин.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Core Classes\MAGE Маг.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Core Classes\THIEF Вор.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Core Classes\VENTURER Делец.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Demi-Human Classes\DWARVEN CRAFTPRIST Дварф Мастер Жрец.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Demi-Human Classes\DWARVEN VAULTGUARD Дварф страж убежища.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Demi-Human Classes\ELVEN NIGHTBLADE Ночной клинок.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Demi-Human Classes\ELVEN SPELLSWORD Воин-чародей.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Demi-Human Classes\NOBIRAN WONDERWORKER Нобирийский чудотворец.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 2 CLASSES - Классы\Demi-Human Classes\ZAHARAN RUINGUARD Захарийский страж руин.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Навыки - Воин.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Навыки - Вор.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Навыки - Исследователь.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Навыки - Крестоносец.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Навыки - Маг.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Навыки - Общие.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Навыки для обычных людей.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Acrobatics (К) Акробатика.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Adventuring (О) Авантюризм.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Alchemy (О) Алхимия.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Alertness (К) Внимательность.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Ambushing (К) Засада.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Animal Husbandry (О) Ветеринария.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Animal Training (О) Дрессировка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Arcane Dabbling (К) Основы магии.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Armor Training (К) Тренировка в доспехах.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Art Craft (О) Искусство Ремесло.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Bargaining (О) Торг.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Battle Magic (К) Боевая магия.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Beast Friendship (К) Дружба с животными.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Berserkergang (К) Ярость.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Black Lore of Zahar (К) Черные знания Захарийцев.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Blind Fighting (К) Бой вслепую.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Bribery (К) Подкуп.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Bright Lore of Aura (К) Светлые знания Аура.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Cat Burglary (К) Кошачья грация.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Caving (О) Исследователь подземелий.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Climbing (К) Лазание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Collegiate Wizardry (О) Школа магии.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Combat Ferocity (К) Боевая свирепость.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Combat Reflexes (К) Боевые рефлексы.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Combat Trickery (К) Боевая хитрость.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Command (К) Командование.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Contemplation (К) Медитация.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Contortionism (К) Гибгость.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Counterspelling (К) Контрзаклинание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Diplomacy (О) Дипломатия.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Disguise (О) Маскировка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Divine Blessing (К) Божественное благословение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Divine Health (К) Божественное здоровье.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Driving (О) Возничий.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Dungeonbashing Expertise (К) Эксперт проламывания.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Dwarven Brewing (К) Дварфийское пивоварение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Eavesdropping (К) Подслушивание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Elementalism (К) Элементализм.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Elven Bloodline (К) Эльфийская родословная.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Endurance (О) Стойкость.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Engineering (О) Инженерное дело.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Expanded Repertoire (К) Расширенный репертуар.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Experimenting (К) Экспериментаторство.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Familiar (К) Фамильяр.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Fighting Style Specialization (К) Специализация на боевом стиле.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Folkways (О) Фольклор.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Gambling (О) Азартные игры.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Goblin-Slaying (К) Убийца гоблинов.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Healing (О) Целительство.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Illusion Resistance (К) Устойчивость к иллюзиям.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Intimidation (О) Запугивание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Kin-Slaying (К) Убийца людей.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Knowledge (О) Знания.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Labor (О) Труд.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Land Surveying (К) Геодезия.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Language (О) Языки.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Laying on Hands (К) Возложение рук.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Leadership (О) Лидерство.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Lip Reading (О) Чтение по губам.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Lockpicking Expertise (К) Мастерство взлома.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Loremastery (К) Собиратель мифов.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Magical Engineering (К) Магическая Инженерия.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Magical Music (К) Волшебное музицирование.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Manual of Arms (О) Военная подготовка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Mapping (О) Картография.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Martial Training (К) Боевая подготовка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Mastery of Conjuration & Summoning (К) Искусство колдовства и призыва.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Mastery of Enchantments & Illusions (К)  Искусство зачарования и иллюзий.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Military Strategy (О) Военная стратегия.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Mimicry (О) Мимикрия.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Mountaineering (О) Альпинизм.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Mounted Combat (К) Бой верхом.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Mystic Aura (К)  Мистическая аура.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Naturalism (О) Натурализм.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Navigation (О) Навигация.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Passing Without Trace (К)  Бесследное перемещение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Performance (О) Выступление.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Poisoning (К) Знание ядов.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Precise Shooting (К) Точная стрельба.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Prestidigitation (К) Фокусничество.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Profession (О) Профессия.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Prophecy (К) Пророчество.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Prospecting (К) Геология.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Quiet Magic (К) Тихая магия.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Reliquarianism (К) Реликварианизм.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Revelry (О) Гуляка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Riding (О) Верховая езда.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Righteous Rebuke (К) Праведное изгнание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Running (К) Бегун.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Seafaring (О) Мореплавание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Seduction (О) Соблазнение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Sensing Evil (К) Чувство зла.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Sensing Good (К) Чувство добра.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Sensing Power (К) Чувство силы.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Siege Engineering (О) Осадное дело.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Signaling (О) Сигналы.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Skirmishing (К) Бей и беги.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Skulking (К) Поиск укрытий.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Sniping (К) Подготовка снайпера.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Soothsaying (К) Гадание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Streetwise (О) Знание улиц.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Survival (О) Выживание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Swashbuckling (К) Бравада.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Swimming (О) Плавание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Syncretism (К) Синкретизм.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Theology (О) Теология.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Tracking (О) Выслеживание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Transmogrification (К) Трансмутация.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Trapfinding (К) Поиск ловушек.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Trapping (О) Создание ловушек.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Unarmed Fighting (К) Рукопашный бой.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Unflappable Casting (К) Непоколебимый заклинатель.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Vermin-Slaying (К) Убийца вредителей.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Wakefulness (К) Транс.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Weapon Finesse (К) Изящное владение оружием.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Описание навыков\Weapon Focus (К) Любимое оружие.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 3 PROFICIENCIES - Навыки\Основы навыков.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\CONSTRUCTION PROJECTS.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\ENCUMBRANCE  AND EQUIPMENT - Амуниция и нагрузка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\EQUIPMENT - Снаряжение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Impact weapons Ударное оружие 1.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Impact weapons Ударное оружие.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Spellcasting Services Магические услуги.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Наймиты\Morale and Loyalty.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Наймиты\Наемники (Mercenaries).md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Наймиты\Наймиты - Общее.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Наймиты\Специалисты (Specialists)\Ruffians Негодяй.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Наймиты\Специалисты (Specialists).md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Наймиты\Спутник (Henchmen).md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Наймиты\Уровень жизни.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Arena Armor, Heavy.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Arena Armor, Light.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Banded Plate Armor.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Barding, Spiked.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Barding.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Helmet, Heavy.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Helmet, Light.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Hide and Fur Armor.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Lamellar Armor.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Laminated Linen Armor.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Leather Armor.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Padded Armor.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Plate Armor.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Ring Mail.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Scale Armor.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Shield, Mirror.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Armor\Shield.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Adventurer's Harness.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Archery Target.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Army Emblem.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Backpack.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Barrel.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Blanket.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Boardgame.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Bowquiver.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Candles.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Craftsman's Tools.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Craftsman's Workshop.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Crowbar.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Crutch.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Dice.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Disguise Kit.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Ear Trumpet.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Earplugs.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Firewood Bundle.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Flag.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Grappling Hook.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Hammer (small).md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Herb, Aloe.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Herb, Belladonna.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Herb, Birthwort.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Herb, Bitterwood.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Herb, Blessed Thistle.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Herb, Comfrey.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Herb, Garlic.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Herb, Goldenrod.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Herb, Horsetail.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Herb, Lungwort.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Herb, Willow-Bark.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Herb, Wolfsbane.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Herb, Woundwort.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Holy Book.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Holy Symbol.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Holy Water.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Ink.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Iron Spikes.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Journal.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Laborer's Tools.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Lantern.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Lock.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Manacles.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Mess Kit.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Metamphora.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Military oil.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Mirror.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Musical Instrument.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Oil, common.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Oil, military.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Pavilion.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Pell.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Pole, Wooden.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Pouch purse.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Prosthesis.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Quill.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Quintain.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Rations, Iron.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Rations, Standard.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Rope, 50'.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Rope.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Rucksack.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Sack, Large.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Sack, Small.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Saddle & Tack, Draft.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Saddle & Tack, Military.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Saddle & Tack, Riding.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Saddlebag.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Scabbard.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Special Components.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Spell Book (Blank).md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Stakes and Mallet.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Surgical Saw.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Tent.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Thieves' Tools, Expanded.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Thieves' Tools, Superior.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Thieves' Tools.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Tinderbox.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Torch.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Treatise.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Waterskin.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Equipment\Whistle.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Mountaineering gear - Альпинистское снаряжение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Vehicles\Маленькая телега.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Arbalest.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Battle Axe.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Bola.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Cestus.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Chain Mail Armor.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Club.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Composite Bow.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Crossbow.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Dagger.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Dart.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Flail.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Great Axe.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Hand Axe.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Javelin.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Lance.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Long Bow.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Mace.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Morning Star.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Net Сеть.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Net.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Polearm.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Rock.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Sap.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Short Bow.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Short Sword.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Silver Dagger.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Sling.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Spear.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Staff Sling.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Staff.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Sword.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Two-Handed Sword.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Untitled.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Warhammer.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Weapon\Whip.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Набор пустынной одежды.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Набор теплой одежды.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Одежда\Belt or Sash.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Одежда\Boots.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Одежда\Breastwrap.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Одежда\Caparison.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Одежда\Cassock.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Одежда\Chiton.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Одежда\Cloak.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Одежда\Dress.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Одежда\Gloves.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Одежда\Gown.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Одежда\Hat.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Одежда\Robe.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Одежда\Sandals or Shoes.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Одежда\Tunic and Pants.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Ручные животные\Animal Feed.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Ручные животные\Camels.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Ручные животные\Dog, Hunting.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Ручные животные\Dog, War.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Ручные животные\Donkey.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Ручные животные\Horse, Heavy.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Ручные животные\Horse, Light.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Ручные животные\Horse, Medium.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Ручные животные\Horse, Steppe.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Ручные животные\Mule.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Ручные животные\Ox.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание предметов\Ручные животные\Warmount.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Cleave.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Enclosing.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Entangling.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Flexible.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Handy.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Impact.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Incapacitating.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Long.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Mounted.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Revealing.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Scarce.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Silver.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Slow.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Spiked.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Thrown.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Нагрузка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Расстояние.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Тип.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Урон.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание свойств\Цена.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\AC.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Adit - Штольня.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Arrow Slit - Бойница.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Barbican - Барбикан.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Barracks Block - Казармы.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Battlement - Боевая площадка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Building - Здание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Chapterhouse - Дом офицеров.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Cottage - Дом.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Drawbridge - Подъемный мост.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Gatehouse - Ворота.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Granary Warehous - Амбар Склад.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Headquarters - Штаб.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Hospital - Госпиталь.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Hut - Хижина.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Keep - Донжон.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Moat - Ров.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Moat, Crude - Ров, грубый.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Palisade - Изгородь.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Palisade, Crude - Изгородь, грубая.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Rampart - Вал.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Roads - Дороги.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Shaft - Шахта.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\SHP.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Stable-Barracks - Конюшня-Казарма.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Tower - Башня.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Townhouse - Городской дом.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Trap - Ловушка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Trap Accessory - Аксессуары для ловушек.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Unit Cap..md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Villa - Вилла.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Wall - Стена.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\Описание Структур\Wall-Walk - Дорожка на стене.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\⚔️ Weapons - Оружие.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\🎒 Adventuring Equipment - Амуниция.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\🏰Структуры.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\🐴Domesticated Animals - Домашние животные.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\👘Clothing - Одежда.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\🛡️ Armor and Barding - Броня.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 4 EQUIPMENT - Снаряжение\🥩 Foodstuffs - Еда.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\5 SPELLS- Заклинания (ENG).md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\5 SPELLS- Заклинания (RU).md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Adjust Self ✪ Волшебная маскировка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Allure ✪ Обояние.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Angelic Aura ✪ Ангельская аура.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Angelic choir ✪ Ангельский хор.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Animate Undead ✪ Оживить мертвеца.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Anti-Magic Sphere ✪ Сфера антимагии.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Arcane Armor ✪ Магическая броня.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Arcane Shift ✪ Арканный сдвиг.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Arrows of the Sun ✪ Солнечные стрелы.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Atonement ✪ Искупление.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Auditory Illusion ✪ Слуховая иллюзия.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Augury ✪ Предсказание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Avian Messenger ✪ Крылатый вестник.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Bane-rune ✪ Руна проклятия.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Banner of Invincibility ✪ Знамя непобедимости.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Barrier of Blades ✪ Барьер клинков.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Bath of the Goddess ✪ Купель Богини.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Battering Ram ✪ Таран.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Beguile Humanoid ✪ Обман гуманоида.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Bewitch Beast ✪ Околдовать зверя.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Bewitch Crowd ✪ Околдовать толпу.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Bewitch Humanoid ✪ Околдовать гуманойда.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Bewitch Monster ✪ Околдовать монстра.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Blast Ward ✪ Защита от взрыва.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Blast Ward, Greater ✪ Высшая защита от взрыва.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Blinding Flash ✪ Ослепляющая вспышка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Bloody Flux ✪ Кровавый поток.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Body Swap ✪ Обмен телами.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Boil Blood ✪ Кипящая кровь.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Burning Sparks ✪ Жгучие всполохи.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Call of the Aerophract Steeds ✪ Зов крылатого скакуна.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Call of the Ancient Tusk ✪ Зов древнего бивня.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Call of the Galloping Herd ✪ Зов стада.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Call of the Great Cats ✪ Зов великих котов.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Call of the Regal Pride ✪ Зов благородной стаи.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Call of the Wild Bear ✪ Зов дикого медведя.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Call of the Wolf Pack ✪ Зов стаи волков.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Call of the Wolf ✪ Зов волка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Capsizing Wave ✪ Опрокидывающая волна.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Carnage ✪ Резня.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Chameleon ✪ Хамелеон.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Chimerical Figment ✪ Бредовый Вымысел.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Choking Grip ✪ Удушающая хватка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Circle of Agony ✪ Круг огонии.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Circling Winds ✪ Кружащиеся Ветры.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Clairaudiency ✪ Яснослышание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Clairaudiency, Greater ✪ Великое яснослышанье.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Clairvoyancy ✪ Ясновидение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Clairvoyancy, Greater ✪ Великое ясновиденье.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Cloud of Poison ✪ Облако яда.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Communion ✪ Совет.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Cone of Fear ✪ Конус ужаса.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Cone of Frost ✪ Конус мороза.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Cone of Paralysis ✪ Конус паралича.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Conflagration ✪ Сожжение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Conjure Cacodemon Spawn ✪ Вызов отродья какодемона.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Conjure Dybbuk ✪ Вызов Диббука.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Conjure Fiend ✪ Вызов дьявола.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Conjure Genie ✪ Вызов джина.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Conjure Hellion ✪ Вызов Хелиона.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Conjure Imp ✪ Вызов импа.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Conjure Incubus ✪ Вызов Инкуба.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Conjure Major Elemental ✪ Вызов могучего Элементаля.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Conjure Petty Elemental ✪ Вызов малого элементаля.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Conjure Supreme Elemental ✪ Вызов великого элементаля.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Contact Other Sphere ✪ Связь с иными сферами.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Control Weather ✪ Контроль погоды.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Control Winds ✪ Контроль ветров.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Counterspell ✪ Контрзаклинание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Crafting ✪ Мастерство.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Create Chasm ✪ Создание разлома.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Create Food ✪ Создание еды.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Create Water ✪ Создание воды.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Cure Blindness+ ✪ Исцеление слепоты.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Cure Critical Injury+ ✪ Лечение смертельных ран.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Cure Disease+ ✪ Исцеление болезни.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Cure Light Injury+ ✪ Лечение легких ран.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Cure Major Injury+ ✪ Лечение серьезных ран.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Cure Moderate Injury+ ✪ Лечение средних ран.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Cure Serious Injury+ ✪ Лечение серьезных ран.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Curse of the Swine ✪ Проклятье свиньи.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Dark Whisper ✪ Темный шепот.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Death Ward ✪ Преграда смерти.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Deathless Minion ✪ Бессмертный слуга.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Deflect Ordinary Missiles ✪ Отражение обычных снарядов.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Deflect Ordinary Weapons ✪ Отражение обычного оружия.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Delay Death ✪ Задержка смерти.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Delay disease ✪ Задержка болезни.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Delay Poison ✪ Задержка яда.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Desiccate ✪ Иссушение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Destroy dead ✪ Уничтожение живых мертвецов.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Discern bewitchment+ ✪ Распознать чары.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Discern Curse+ ✪ Распознать проклятье.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Discern Evil+ ✪ Распознать зло.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Discern Gist ✪ Распознать символы.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Discern Invisible ✪ Распознать невидимое.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Discern Magic ✪ Распознать магию.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Discern Poison ✪ Распознать яд.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Disfigure Body and Soul ✪ Искажение тела и души.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Disintegration ✪ Дизентеграция.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Dismember ✪ Расчленение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Dispel Evil+ ✪ Рассеять зло.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Dispel Magic ✪ Рассеять магию.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Divination ✪ Гадание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Divine Armor ✪ Чудесная броня.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Divine Grace ✪ Чудесная благодать.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Divine Protection ✪ Чудесная защита.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Dominate Beasts ✪ Доминирование зверя.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Dominate Humanoid ✪ Доминирование гуманойда.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Dominate Monster ✪ Доминирование монстра.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Dominate Plants ✪ Доминирование растений.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Earth’s Excrescence ✪ Извержение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Earth’s Mire ✪ Размягчение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Earth’s Movement ✪ Сдвиг земли.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Earth’s Teeth ✪ Каменные зубья.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Earth’s Tremor ✪ Дрожь земли.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Earth’s Wave ✪ Волна земли.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Energy Invulnerability ✪ Неуязвимость к энергии.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Energy Protection ✪ Защита от энергии.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Enslave Humanoid ✪ Поработить гуманойда.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Faithful Companion ✪ Верный напарник.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Fan of Flames ✪ Поток огня.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Fate ✪ Рок.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Fiery Pillar ✪ Столб огня.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Fillet and Serve ✪ Извлечение слуги.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Fireball ✪ Огненный шар.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Firestorm ✪ Огненный шторм.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Flay the Slain.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Flesh to Ash.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Flight.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Force of Impetus.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Forest Enchantment.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Forgetfulness.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Frighten Beast.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Frighten Humanoid.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Frostbite.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Gale of Wind.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Gaseous Form.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Giant Strength.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Growth+.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Growth, Beast.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Growth, Plant+.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Guise Other.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Guise Self.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Halt Humanoids.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Halt Monsters.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Healing Circle.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Hidden Host.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Holy Blessing+.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Holy Chant.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Holy Circle+.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Holy Circle, Sustained+.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Holy Prayer.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Home Ward.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Hypnotic Sigil.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Ice Floe.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Ice Sheet.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Ice Storm.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Illumination+.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Illumination, Perpetual+.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Illusory Duplicates.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Illusory Figment.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Illusory Interior.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Illusory Terrain.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Inaudibility.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Incite Madness.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Indiscernibility.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Inferno.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Infuriate Beast.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Infuriate Crowd.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Infuriate Humanoid.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Inspire Awe+.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Invisibility.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Invulnerability to Evil+.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Iron Maiden.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Kindle Flame+.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Lay of the Land.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Leaping.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Level Water ✪ Уровень воды.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Levitation ✪ Левитация.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Life Transfer ✪ Перенос жизни.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Lightless Vision ✪ Видение во тьме.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Lightless Vision, Mass ✪ Массовое видение во тьме.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Lightning Strike ✪ Удар молнии.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Locate Animal or Plant ✪ Обнаружение животного или растения.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Locate Distant Object ✪ Обнаружение дальнего объекта.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Locate Haunting ✪ Обнаружение нежити.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Locate Object ✪ Обнаружение объекта.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Locate Place of Power ✪ Обнаружение места силы.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Locate Treasure ✪ Обнаружение сокровища.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Madness of Crowds ✪ Безумие толпы.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Mage Missile ✪ Волшебная стрела.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Magic Carpet ✪ Волшебный ковер.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Magic Lock ✪ Магический замок.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Mirage ✪ Марево.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Necromantic Invulnerability ✪ Некромантическая неуязвимость.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Necromantic Potence ✪ Некро мощь.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Neutralize Poison+ ✪ Нейтрализация яда+.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Noiselessness ✪ Необнаружение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Ogre Strength ✪ Сила огра.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Panic ✪ Паника.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Pass Without trace ✪ Перемещение без следа.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Passageway ✪ Проход.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Perpetual Figment ✪ Вечный образ.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Petrification✱ ✪ Окаменение✱.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Phantasmal Figment ✪ Фантомный образ.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Phantasmal Horror ✪ Фантомный ужас.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Phoenix Aura ✪ Аура феникса.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Physical Invulnerability ✪ Физическая неуязвимость.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Physical Protection ✪ Физическая защита.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Predict Weather ✪ Предсказание погоды.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Programmatic Figment ✪ Программированная иллюзия.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Prophetic Dream ✪ Вещий сон.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Protection from Temperature ✪ Защита от температуры.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Purify Food and Water+ ✪ Очищение еды и воды+.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Quest ✪ Квест.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Rain of Vitriol ✪ Дождь из Витриола.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Remove Curse+ ✪ Снять проклятье.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Remove Fear+ ✪ Снятие страха.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Repair Disfigurement and Disability+ ✪ Востановление конечности и увечий+.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Restore life and limb+ ✪ Восстановить жизнь и конечности.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Reveal Ritual Magic ✪ Раскрыть ритуальную магию.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Righteous Wrath ✪ Праведный гнев.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Rouse the Fallen ✪ Поднятие павших.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Rune of Warding ✪ Охранная руна.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Safe Travels ✪ Безопасное путишествие.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Salvific Rain ✪ Спасительный дождь.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Salving rest ✪ Спасительный сон.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Sanctuary ✪ Убежище.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Scouring Zephyr ✪ Ревущий ветер.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Scry ✪ Прозрение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Seal Portal ✪ Удержание прохода.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Selective Fire ✪ Избирательный огонь.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Sharpness ✪ Вострость.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Shatter Blade ✪ Разрушить оружие.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Shimmer ✪ Мерцание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Shrieking Skull ✪ Shrieking Skull.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Shrouding Fog ✪ Окутывающий туман.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Silent Step ✪ Тихий шаг.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Skinchange ✪ Смена обличья.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Slicing Blow ✪ Разрезающий взмах.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Slickness ✪ Скольжение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Sling Stone ✪ Магическая праща.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Slumber Deep ✪ Глубокая дремота.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Slumber ✪ Дремота.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Smite Undead+ ✪ Кара нежити+.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Snakes to Staffs+ ✪ Палки змеи.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Soul Eating ✪ Пожирание души.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Soul Swap ✪ Обмен душами.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Speak with Beasts ✪ Разговор с животными.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Speak with Dead ✪ Разговор с мертвыми.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Speak with Plants ✪ Разговор с растениями.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Spectral Figment ✪ Спектральная фигура.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Spectral Legion ✪ Призрачный легион.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Spellward Other ✪ Магическая защита для  другого.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Spellward ✪ Магическая защита.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Spellwarded Zone ✪ Зона магической защиты.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Sphere of Invulnerability, Greater ✪ Сфера неуязвимости, Великая.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Sphere of Invulnerability, Lesser ✪ Сфера неуязвимости, Малая.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Spider Climbing ✪ Паучье лазанье.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Spirit of Healing ✪ Дух целитель.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Spiritual Weapon ✪ Духовное оружие.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Spiritwalk ✪ Внетелесное перемещение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Strength of Mind ✪ Крепость разума.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Strengthen the Unliving ✪ Укрепление нежити.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Striking ✪ Разящее оружие.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Sudden Staircase ✪ Внезапная лестница.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Summon Hellhounds ✪ Призыв адской гончей.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Summon Insect Plague ✪ Вызвать чуму насекомых.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Summon Insect Swarm ✪ Призыв роя насекомых.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Summon Invisible Stalker ✪ Призыв невидимого слуги.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Summon Manes ✪ Призыв духов.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Summon Ooze ✪ Призыв слизи.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Summon Shadow ✪ Призыв тени.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Summon Weather ✪ Призыв погоды.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Summon Wrathful Herald ✪ Призыв Гневного Вестника.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Sunder Structure ✪ Разрушение строений.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Sunflare ✪ Солнечная вспышка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Swift Sword ✪ Быстрый Меч.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Swift Sword, Sustained ✪ Быстрый меч, устойчивый.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Swimming ✪ Плаванье.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Sword of Fire ✪ Пламенный меч.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Telekinesis ✪ Телекинез.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Telepathy ✪ Телепатия.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Teleportation ✪ Телепортация.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Thunderbolt ✪ Громовая стрела.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Thunderclap ✪ Раскат грома.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Tongues+ ✪ Языки+.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Torpor ✪ Оцепенение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Transform Beast ✪ Превратить зверя.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Transform Other ✪ Превратить окружающего.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Transform Self ✪ Превратить себя.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Trollblood ✪ Кровь тролля.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\True Seeing ✪ Истинное зрение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Turn to Dust ✪ Обращение в пыль.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Unliving Puppet ✪ Марионетка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Vigor ✪ Мощь.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Vitriolic Infusion ✪ Кислотная инфьюзия.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Wall of Annihilation ✪ Стена анигиляции.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Wall of Corpses ✪ Стена плоти.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Wall of Flame ✪ Стена огня.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Wall of Force ✪ Стена силы.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Wall of Frost ✪ Стена холода.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Wall of Smoke ✪ Стена дыма.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Wall of Stone ✪ Стена камня.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Wall of Thunder ✪ Стена молний.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Wall of Wood ✪ Стена дерева.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Warp Wood ✪ Искажение древесины.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Water Breathing ✪ Дыхание водой.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Water Walking ✪ Хождение по воде.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Weave Fire ✪ Плетение огня.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Weave Smoke ✪ Плетение тумана.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Weave Water ✪ Плетение воды.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Webbing ✪ Плетение паутины.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Winged Flight ✪ Крылья полета.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\Word of command ✪ Приказ.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Описание заклинаний\X-Ray Vision ✪ Рентгеновское зрение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Спеллист Крестоносца.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Список заклинаний Крестоносец 1 уровень магии.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\Список заклинаний Крестоносец 2 уровень магии.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\☄️ Arcane Spell List - Список арканных заклинаний.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 5 SPELLS- Заклинания\🔥 Divine Spell List - Список божественных заклинаний.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\1 DUNGEON DELVES - Вылазки\!DUNGEON DELVES.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\1 DUNGEON DELVES - Вылазки\Caving and Spelunking.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\1 DUNGEON DELVES - Вылазки\Climbing ♦ Лазанье.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\1 DUNGEON DELVES - Вылазки\Disarming traps ♦ Обезвреживание ловушек.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\1 DUNGEON DELVES - Вылазки\Doors and dungeonbashing.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\1 DUNGEON DELVES - Вылазки\Dungeonbashing ♦ Проламывание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\1 DUNGEON DELVES - Вылазки\Listening ♦ Подслушивание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\1 DUNGEON DELVES - Вылазки\Searching and Listening.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\1 DUNGEON DELVES - Вылазки\Searching ♦ Поиск.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\1 DUNGEON DELVES - Вылазки\Traps and Trapbreaking.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\1 DUNGEON DELVES - Вылазки\Мастерство вора.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\2 Wilderness\! WILDERNESS  EXPEDITIONS - Экспедиции.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\2 Wilderness\ENCOUNTERS Столкновения.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\2 Wilderness\Making Wilderness Encounter Throws.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\2 Wilderness\Navigating the Wild.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\2 Wilderness\Searching the Wild - Поиск в дикой местности.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\0\CASTING SPELLS AND USING MAGIC (ENG).md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\0\SPECIAL MANEUVERS (ENG).md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\↯ Action in Lieu of Attacking Действие вместо атаки.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\↯ Attack Атака.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\↯ Bash Выбивание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\↯ Defend Оборона.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\↯ Escape Освобождение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\↯ Hide Прятаться.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\↯ Listen Слушать.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\↯ Ready a Combat or Movement Action Заготовить действие боя или движения.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\↯ Rebuke Изгнание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\↯ Stand Up Встаньте.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\↯ Use Spell-Like Ability Использовать способность, похожую на заклинание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\↯ Обработать рану.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜ Action in Lieu of Movement Действие вместо движения.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜ March Шагать.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜ Remain Stationary Change Facing Оставайтесь в неподвижном состоянии повернуться.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜ Sneak Красться.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜ Stand Up Встать.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜ Take Cover Укрыться.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜ Withdraw Отход.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜↯ Cast Spell Произнести заклинание.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜↯ Charge Натиск.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜↯ Don Remove Armor Снять или надеть броню.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜↯ Fire Reload Artillery Огонь Перезарядка артиллерии.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜↯ Hastily Lockpick Поспешное вскрытие замков.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜↯ Hastily Search Поспешный поиск.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜↯ Hastily Trapbreak Поспешное обезвреживание ловушки.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜↯ Retreat Отступление.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜↯ Run Бежать.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜↯ Running Sneak Бежать крадучись.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions\➜↯Spike a Door Заклинить дверь.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Actions.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\CASTING SPELLS AND USING MAGIC.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Cleaving Рассечения.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\COMBAT.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\SPECIAL MANEUVERS.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\4 COMBAT\Swimming and Drowning.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\Doors and  Dungeonbashing.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\ENCOUNTERS.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\Rest and Recuperation.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\ВЫЛАЗКИ, ЭКСПЕДИЦИИ И ПЛАВАНИЯ.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 6 ADVENTURES - Приключения\Лечение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\ACTIVITIES DURING THE CAMPAIGN.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\CONGREGANTS AND DIVINE POWER.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\EARNING EXPERIENCE FROM CAMPAIGNS.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\HIDEOUTS AND HIJINKS\HIDEOUTS AND HIJINKS.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\HIDEOUTS AND HIJINKS\Список хитрых планов\Arson Поджог.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\HIDEOUTS AND HIJINKS\Список хитрых планов\Assassinating Убийство.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\HIDEOUTS AND HIJINKS\Список хитрых планов\Carousing Попойка.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\HIDEOUTS AND HIJINKS\Список хитрых планов\Escaping Побег.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\HIDEOUTS AND HIJINKS\Список хитрых планов\Infiltrating Внедрение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\HIDEOUTS AND HIJINKS\Список хитрых планов\Kidnapping Похищение.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\HIDEOUTS AND HIJINKS\Список хитрых планов\Racketeering Рэкет.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\HIDEOUTS AND HIJINKS\Список хитрых планов\Sabotaging Саботаж.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\HIDEOUTS AND HIJINKS\Список хитрых планов\Slandering Клевета.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\HIDEOUTS AND HIJINKS\Список хитрых планов\Smuggling Контрабанда.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\HIDEOUTS AND HIJINKS\Список хитрых планов\Soliciting Проституция.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\HIDEOUTS AND HIJINKS\Список хитрых планов\Spying Шпионаж.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\HIDEOUTS AND HIJINKS\Список хитрых планов\Stealing Воровство.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\HIDEOUTS AND HIJINKS\Список хитрых планов\Subverting Диверсия.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\HIDEOUTS AND HIJINKS\Список хитрых планов\Treasure-Hunting Охота за сокровищами.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\MAGIC RESEARCH\MAGIC RESEARCH Магические исследования.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\MAGIC RESEARCH\Researching Spells.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\MAGIC RESEARCH\Сopying spell.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\MERCANTILE VENTURES (ENG).md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\MERCANTILE VENTURES (RU).md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\Mounted Combat.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\Passive Investment\Levels of Risk\Balanced investments Сбалансированные инвестиции.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\Passive Investment\Levels of Risk\Cautious investments Осторожные инвестиции.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\Passive Investment\Levels of Risk\Perilous investments Опасные инвестиции.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\Passive Investment\Levels of Risk\Risky investments Рискованные инвестиции.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\Passive Investment\Levels of Risk\Safe investments Безопасные инвестиции.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\Passive Investment\Passive Investment.md
+ACKS2\📕 ACKSII Revised Rulebook\CHAPTER 8 Compain\Товары.md

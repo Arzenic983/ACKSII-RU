@@ -1,0 +1,8209 @@
+{
+  "rr.p0002.b004": [
+    "Rogue",
+    "Wizard",
+    "Hero",
+    "Realm",
+    "Chaos"
+  ],
+  "rr.p0002.b005": [
+    "Alchemy"
+  ],
+  "rr.p0002.b006": [
+    "Mercantile Ventures",
+    "Spy",
+    "Hideout",
+    "Hijinks",
+    "Realm",
+    "Domain",
+    "Domain",
+    "Hero",
+    "Sailing",
+    "Rowing",
+    "VOYAGES",
+    "Survival",
+    "EXPEDITIONS",
+    "Traversing",
+    "DELVES",
+    "Encumbrance",
+    "template"
+  ],
+  "rr.p0005.t01.r020.c01": [
+    "Combat Progression"
+  ],
+  "rr.p0005.t01.r021.c01": [
+    "Class powers"
+  ],
+  "rr.p0005.t01.r022.c01": [
+    "Hit Points"
+  ],
+  "rr.p0005.t01.r023.c01": [
+    "Hit Points"
+  ],
+  "rr.p0005.t01.r024.c01": [
+    "Armor Class"
+  ],
+  "rr.p0005.t01.r026.c01": [
+    "Adventuring"
+  ],
+  "rr.p0005.t01.r027.c01": [
+    "Encumbrance"
+  ],
+  "rr.p0005.t01.r028.c01": [
+    "Encumbrance"
+  ],
+  "rr.p0005.t01.r031.c01": [
+    "Language"
+  ],
+  "rr.p0005.t01.r035.c01": [
+    "alignment"
+  ],
+  "rr.p0005.t01.r039.c01": [
+    "template"
+  ],
+  "rr.p0005.t01.r040.c01": [
+    "Studious Spellcasters"
+  ],
+  "rr.p0005.t01.r046.c01": [
+    "Crusader"
+  ],
+  "rr.p0005.t01.r047.c01": [
+    "Venturer"
+  ],
+  "rr.p0005.t01.r052.c01": [
+    "Bladedancer"
+  ],
+  "rr.p0005.t01.r056.c01": [
+    "Warlock"
+  ],
+  "rr.p0005.t01.r057.c01": [
+    "Witch"
+  ],
+  "rr.p0005.t01.r059.c01": [
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0005.t01.r060.c01": [
+    "Dwarven Vaultguard"
+  ],
+  "rr.p0005.t01.r061.c01": [
+    "Elven nightblade"
+  ],
+  "rr.p0005.t01.r062.c01": [
+    "Elven Spellsword"
+  ],
+  "rr.p0005.t01.r063.c01": [
+    "Nobiran wonderworker"
+  ],
+  "rr.p0005.t01.r064.c01": [
+    "Zaharan ruinguard"
+  ],
+  "rr.p0005.t01.r074.c01": [
+    "Adventuring"
+  ],
+  "rr.p0005.t01.r075.c01": [
+    "Acrobatics"
+  ],
+  "rr.p0005.t01.r076.c01": [
+    "Alchemy"
+  ],
+  "rr.p0005.t01.r077.c01": [
+    "Alertness"
+  ],
+  "rr.p0005.t01.r078.c01": [
+    "Ambushing"
+  ],
+  "rr.p0005.t01.r079.c01": [
+    "Animal Husbandry"
+  ],
+  "rr.p0005.t01.r080.c01": [
+    "Animal Training"
+  ],
+  "rr.p0005.t01.r081.c01": [
+    "Arcane Dabbling"
+  ],
+  "rr.p0005.t01.r082.c01": [
+    "Armor Training"
+  ],
+  "rr.p0005.t01.r083.c01": [
+    "Art/Craft"
+  ],
+  "rr.p0005.t01.r084.c01": [
+    "Bargaining"
+  ],
+  "rr.p0005.t01.r085.c01": [
+    "Battle Magic"
+  ],
+  "rr.p0005.t01.r086.c01": [
+    "Beast Friendship"
+  ],
+  "rr.p0005.t01.r087.c01": [
+    "Berserkergang"
+  ],
+  "rr.p0005.t01.r088.c01": [
+    "Black Lore of Zahar"
+  ],
+  "rr.p0005.t01.r089.c01": [
+    "Blind Fighting"
+  ],
+  "rr.p0005.t01.r090.c01": [
+    "Bribery"
+  ],
+  "rr.p0005.t01.r091.c01": [
+    "Bright Lore of Aura"
+  ],
+  "rr.p0005.t01.r092.c01": [
+    "Cat Burglary"
+  ],
+  "rr.p0005.t01.r093.c01": [
+    "Caving"
+  ],
+  "rr.p0005.t01.r094.c01": [
+    "Climbing"
+  ],
+  "rr.p0005.t01.r095.c01": [
+    "Collegiate Wizardry"
+  ],
+  "rr.p0005.t01.r096.c01": [
+    "Combat Ferocity"
+  ],
+  "rr.p0005.t01.r097.c01": [
+    "Combat Reflexes"
+  ],
+  "rr.p0005.t01.r098.c01": [
+    "Combat Trickery"
+  ],
+  "rr.p0005.t01.r099.c01": [
+    "Command"
+  ],
+  "rr.p0005.t01.r100.c01": [
+    "Contemplation"
+  ],
+  "rr.p0005.t01.r101.c01": [
+    "Contortionism"
+  ],
+  "rr.p0005.t01.r102.c01": [
+    "Counterspelling"
+  ],
+  "rr.p0005.t01.r103.c01": [
+    "Diplomacy"
+  ],
+  "rr.p0005.t01.r104.c01": [
+    "Disguise"
+  ],
+  "rr.p0005.t01.r105.c01": [
+    "Divine Blessing"
+  ],
+  "rr.p0005.t01.r106.c01": [
+    "Divine Health"
+  ],
+  "rr.p0005.t01.r107.c01": [
+    "Driving"
+  ],
+  "rr.p0005.t01.r108.c01": [
+    "Dungeonbashing Expertise"
+  ],
+  "rr.p0005.t01.r109.c01": [
+    "Dwarven Brewing"
+  ],
+  "rr.p0005.t01.r110.c01": [
+    "Eavesdropping"
+  ],
+  "rr.p0005.t01.r111.c01": [
+    "Elementalism"
+  ],
+  "rr.p0005.t01.r112.c01": [
+    "Elven Bloodline"
+  ],
+  "rr.p0005.t01.r113.c01": [
+    "Endurance"
+  ],
+  "rr.p0005.t01.r114.c01": [
+    "Engineering"
+  ],
+  "rr.p0005.t01.r115.c01": [
+    "Expanded Repertoire"
+  ],
+  "rr.p0005.t01.r116.c01": [
+    "Experimenting"
+  ],
+  "rr.p0005.t01.r117.c01": [
+    "Familiar"
+  ],
+  "rr.p0005.t01.r118.c01": [
+    "Fighting Style Specialization"
+  ],
+  "rr.p0005.t01.r119.c01": [
+    "Folkways"
+  ],
+  "rr.p0005.t01.r120.c01": [
+    "Gambling"
+  ],
+  "rr.p0005.t01.r121.c01": [
+    "Goblin-Slaying"
+  ],
+  "rr.p0005.t01.r122.c01": [
+    "Healing"
+  ],
+  "rr.p0005.t01.r123.c01": [
+    "Illusion Resistance"
+  ],
+  "rr.p0005.t01.r124.c01": [
+    "Intimidation"
+  ],
+  "rr.p0005.t01.r125.c01": [
+    "Kin-Slaying"
+  ],
+  "rr.p0005.t01.r126.c01": [
+    "Knowledge"
+  ],
+  "rr.p0005.t01.r127.c01": [
+    "Labor"
+  ],
+  "rr.p0005.t01.r128.c01": [
+    "Land Surveying"
+  ],
+  "rr.p0005.t01.r129.c01": [
+    "Language"
+  ],
+  "rr.p0005.t01.r130.c01": [
+    "Laying on Hands"
+  ],
+  "rr.p0005.t01.r131.c01": [
+    "Leadership"
+  ],
+  "rr.p0005.t01.r132.c01": [
+    "Lip Reading"
+  ],
+  "rr.p0005.t01.r133.c01": [
+    "Lockpicking Expertise"
+  ],
+  "rr.p0005.t01.r134.c01": [
+    "Loremastery"
+  ],
+  "rr.p0005.t01.r135.c01": [
+    "Magical Engineering"
+  ],
+  "rr.p0005.t01.r136.c01": [
+    "Magical Music"
+  ],
+  "rr.p0005.t01.r137.c01": [
+    "Manual of Arms"
+  ],
+  "rr.p0005.t01.r138.c01": [
+    "Mapping"
+  ],
+  "rr.p0005.t01.r139.c01": [
+    "Martial Training"
+  ],
+  "rr.p0005.t01.r141.c01": [
+    "Mastery of Enchantments & Illusions"
+  ],
+  "rr.p0005.t01.r142.c01": [
+    "Military Strategy"
+  ],
+  "rr.p0005.t01.r143.c01": [
+    "Mimicry"
+  ],
+  "rr.p0005.t01.r144.c01": [
+    "Mountaineering"
+  ],
+  "rr.p0005.t01.r145.c01": [
+    "Mounted Combat"
+  ],
+  "rr.p0005.t01.r146.c01": [
+    "Mystic Aura"
+  ],
+  "rr.p0005.t01.r147.c01": [
+    "Naturalism"
+  ],
+  "rr.p0005.t01.r148.c01": [
+    "Navigation"
+  ],
+  "rr.p0005.t01.r149.c01": [
+    "Passing Without Trace"
+  ],
+  "rr.p0005.t01.r150.c01": [
+    "Performance"
+  ],
+  "rr.p0005.t01.r151.c01": [
+    "Poisoning"
+  ],
+  "rr.p0005.t01.r152.c01": [
+    "Precise Shooting"
+  ],
+  "rr.p0005.t01.r153.c01": [
+    "Prestidigitation"
+  ],
+  "rr.p0005.t01.r154.c01": [
+    "Profession"
+  ],
+  "rr.p0005.t01.r155.c01": [
+    "Prophecy"
+  ],
+  "rr.p0005.t01.r156.c01": [
+    "Prospecting"
+  ],
+  "rr.p0005.t01.r157.c01": [
+    "Quiet Magic"
+  ],
+  "rr.p0005.t01.r158.c01": [
+    "Reliquarianism"
+  ],
+  "rr.p0005.t01.r159.c01": [
+    "Revelry"
+  ],
+  "rr.p0005.t01.r160.c01": [
+    "Riding"
+  ],
+  "rr.p0005.t01.r161.c01": [
+    "Righteous Rebuke"
+  ],
+  "rr.p0005.t01.r162.c01": [
+    "Running"
+  ],
+  "rr.p0005.t01.r163.c01": [
+    "Seafaring"
+  ],
+  "rr.p0005.t01.r164.c01": [
+    "Seduction"
+  ],
+  "rr.p0005.t01.r165.c01": [
+    "Sensing Evil"
+  ],
+  "rr.p0005.t01.r166.c01": [
+    "Sensing Good"
+  ],
+  "rr.p0005.t01.r167.c01": [
+    "Sensing Power"
+  ],
+  "rr.p0005.t01.r168.c01": [
+    "Siege Engineering"
+  ],
+  "rr.p0005.t01.r169.c01": [
+    "Signaling"
+  ],
+  "rr.p0005.t01.r170.c01": [
+    "Skirmishing"
+  ],
+  "rr.p0005.t01.r171.c01": [
+    "Skulking"
+  ],
+  "rr.p0005.t01.r172.c01": [
+    "Sniping"
+  ],
+  "rr.p0005.t01.r173.c01": [
+    "Soothsaying"
+  ],
+  "rr.p0005.t01.r174.c01": [
+    "Streetwise"
+  ],
+  "rr.p0005.t01.r175.c01": [
+    "Survival"
+  ],
+  "rr.p0005.t01.r176.c01": [
+    "Swashbuckling"
+  ],
+  "rr.p0005.t01.r177.c01": [
+    "Swimming"
+  ],
+  "rr.p0005.t01.r178.c01": [
+    "Syncretism"
+  ],
+  "rr.p0005.t01.r179.c01": [
+    "Theology"
+  ],
+  "rr.p0005.t01.r180.c01": [
+    "Tracking"
+  ],
+  "rr.p0005.t01.r181.c01": [
+    "Transmogrification"
+  ],
+  "rr.p0005.t01.r182.c01": [
+    "Trapfinding"
+  ],
+  "rr.p0005.t01.r183.c01": [
+    "Trapping"
+  ],
+  "rr.p0006.t01.r002.c01": [
+    "Unarmed Fighting"
+  ],
+  "rr.p0006.t01.r003.c01": [
+    "Unflappable Casting"
+  ],
+  "rr.p0006.t01.r004.c01": [
+    "Vermin-Slaying"
+  ],
+  "rr.p0006.t01.r005.c01": [
+    "Wakefulness"
+  ],
+  "rr.p0006.t01.r006.c01": [
+    "Weapon Finesse"
+  ],
+  "rr.p0006.t01.r007.c01": [
+    "Weapon Focus"
+  ],
+  "rr.p0006.t01.r046.c01": [
+    "Encumbrance"
+  ],
+  "rr.p0006.t01.r047.c01": [
+    "Specialist",
+    "Mercenary",
+    "Henchmen",
+    "Hireling"
+  ],
+  "rr.p0006.t01.r048.c01": [
+    "Hireling"
+  ],
+  "rr.p0006.t01.r050.c01": [
+    "Henchmen"
+  ],
+  "rr.p0006.t01.r051.c01": [
+    "Mercenary"
+  ],
+  "rr.p0006.t01.r052.c01": [
+    "Specialist"
+  ],
+  "rr.p0006.t01.r067.c01": [
+    "Caster"
+  ],
+  "rr.p0006.t01.r071.c01": [
+    "spell repertoire"
+  ],
+  "rr.p0006.t01.r072.c01": [
+    "repertoire"
+  ],
+  "rr.p0006.t01.r073.c01": [
+    "repertoire"
+  ],
+  "rr.p0006.t01.r079.c01": [
+    "repertoire"
+  ],
+  "rr.p0006.t01.r082.c01": [
+    "VOYAGES",
+    "EXPEDITIONS",
+    "DELVES"
+  ],
+  "rr.p0006.t01.r083.c01": [
+    "DELVES"
+  ],
+  "rr.p0006.t01.r088.c01": [
+    "Listening",
+    "Searching"
+  ],
+  "rr.p0006.t01.r090.c01": [
+    "Trapbreaking"
+  ],
+  "rr.p0006.t01.r092.c01": [
+    "Swimming"
+  ],
+  "rr.p0006.t01.r094.c01": [
+    "EXPEDITIONS"
+  ],
+  "rr.p0006.t01.r099.c01": [
+    "Searching"
+  ],
+  "rr.p0006.t01.r103.c01": [
+    "ENCOUNTERS"
+  ],
+  "rr.p0006.t01.r104.c01": [
+    "ENCOUNTERS"
+  ],
+  "rr.p0006.t01.r106.c01": [
+    "Evasion"
+  ],
+  "rr.p0006.t01.r107.c01": [
+    "Reactions"
+  ],
+  "rr.p0006.t01.r114.c01": [
+    "Cleave"
+  ],
+  "rr.p0006.t01.r120.c01": [
+    "Mounted Combat"
+  ],
+  "rr.p0006.t01.r130.c01": [
+    "VOYAGES"
+  ],
+  "rr.p0006.t01.r136.c01": [
+    "VOYAGES"
+  ],
+  "rr.p0006.t01.r137.c01": [
+    "Sailing"
+  ],
+  "rr.p0006.t01.r143.c01": [
+    "ENCOUNTERS"
+  ],
+  "rr.p0006.t01.r144.c01": [
+    "ENCOUNTERS"
+  ],
+  "rr.p0006.t01.r145.c01": [
+    "Evasion"
+  ],
+  "rr.p0006.t01.r151.c01": [
+    "VOYAGES"
+  ],
+  "rr.p0006.t01.r157.c01": [
+    "Realm",
+    "Domain"
+  ],
+  "rr.p0006.t01.r158.c01": [
+    "Domain"
+  ],
+  "rr.p0006.t01.r159.c01": [
+    "Domain"
+  ],
+  "rr.p0006.t01.r163.c01": [
+    "Domain"
+  ],
+  "rr.p0006.t01.r164.c01": [
+    "Realm"
+  ],
+  "rr.p0006.t01.r167.c01": [
+    "Realm"
+  ],
+  "rr.p0006.t01.r168.c01": [
+    "Domain"
+  ],
+  "rr.p0006.t01.r177.c01": [
+    "Hijinks",
+    "Hideout"
+  ],
+  "rr.p0006.t01.r178.c01": [
+    "Hideout"
+  ],
+  "rr.p0006.t01.r180.c01": [
+    "Hijinks"
+  ],
+  "rr.p0006.t01.r181.c01": [
+    "Hijinks"
+  ],
+  "rr.p0006.t01.r185.c01": [
+    "Mercantile Ventures"
+  ],
+  "rr.p0006.t01.r187.c01": [
+    "Mercantile Ventures"
+  ],
+  "rr.p0006.t01.r190.c01": [
+    "passive investment"
+  ],
+  "rr.p0006.t01.r191.c01": [
+    "Sanctum"
+  ],
+  "rr.p0007.t01.r004.c01": [
+    "Arcane power"
+  ],
+  "rr.p0007.t01.r016.c01": [
+    "ritual spell"
+  ],
+  "rr.p0007.t01.r017.c01": [
+    "ritual spell"
+  ],
+  "rr.p0007.t01.r018.c01": [
+    "ritual spell"
+  ],
+  "rr.p0007.t01.r026.c01": [
+    "Domain"
+  ],
+  "rr.p0007.t01.r027.c01": [
+    "Hijinks"
+  ],
+  "rr.p0007.t01.r034.c01": [
+    "Mercenary"
+  ],
+  "rr.p0007.t01.r044.c01": [
+    "Command"
+  ],
+  "rr.p0007.t01.r048.c01": [
+    "Command"
+  ],
+  "rr.p0007.t01.r076.c01": [
+    "Hijinks"
+  ],
+  "rr.p0007.t01.r077.c01": [
+    "Domain"
+  ],
+  "rr.p0007.t01.r078.c01": [
+    "Domain"
+  ],
+  "rr.p0007.t01.r079.c01": [
+    "Domain"
+  ],
+  "rr.p0007.t01.r080.c01": [
+    "Domain"
+  ],
+  "rr.p0007.t01.r081.c01": [
+    "Domain"
+  ],
+  "rr.p0007.t01.r090.c01": [
+    "Hero"
+  ],
+  "rr.p0007.t01.r109.c01": [
+    "Hijinks"
+  ],
+  "rr.p0007.t01.r115.c01": [
+    "Hijinks"
+  ],
+  "rr.p0007.t01.r126.c01": [
+    "Hex"
+  ],
+  "rr.p0007.t01.r141.c01": [
+    "Engineering"
+  ],
+  "rr.p0007.t01.r142.c01": [
+    "Knowledge"
+  ],
+  "rr.p0007.t01.r163.c01": [
+    "Language"
+  ],
+  "rr.p0007.t01.r164.c01": [
+    "Language"
+  ],
+  "rr.p0007.t01.r165.c01": [
+    "Language"
+  ],
+  "rr.p0007.t01.r168.c01": [
+    "Wrestled",
+    "Webbed",
+    "Restrained",
+    "Grabbed"
+  ],
+  "rr.p0007.t01.r172.c01": [
+    "permanent wound"
+  ],
+  "rr.p0007.t01.r177.c01": [
+    "Domain"
+  ],
+  "rr.p0007.t01.r178.c01": [
+    "Henchmen"
+  ],
+  "rr.p0009.b002": [
+    "Rogue",
+    "Wizard",
+    "Hero",
+    "Chaos"
+  ],
+  "rr.p0009.b004": [
+    "ENCOUNTERS"
+  ],
+  "rr.p0009.b005": [
+    "Hero"
+  ],
+  "rr.p0009.b006": [
+    "Theocrat",
+    "Wizard"
+  ],
+  "rr.p0009.b014": [
+    "ENCOUNTERS"
+  ],
+  "rr.p0009.b015": [
+    "VOYAGES"
+  ],
+  "rr.p0009.b016": [
+    "Realm",
+    "Domain"
+  ],
+  "rr.p0009.b017": [
+    "Mercenary"
+  ],
+  "rr.p0009.b023": [
+    "NPC",
+    "Judge",
+    "NPC",
+    "NPC",
+    "Judge",
+    "Judge"
+  ],
+  "rr.p0010.b001": [
+    "caster level",
+    "Caster",
+    "Class powers",
+    "Profession"
+  ],
+  "rr.p0010.b004": [
+    "Law",
+    "ENCOUNTERS",
+    "ENCOUNTERS",
+    "Hit Points"
+  ],
+  "rr.p0010.b005": [
+    "ENCOUNTERS"
+  ],
+  "rr.p0010.b006": [
+    "Judge",
+    "DELVES"
+  ],
+  "rr.p0010.b007": [
+    "Realm",
+    "Realm",
+    "Domain",
+    "Domain",
+    "Castle"
+  ],
+  "rr.p0011.b004": [
+    "Reactions",
+    "surprise roll",
+    "Judge",
+    "Judge"
+  ],
+  "rr.p0011.b005": [
+    "hp"
+  ],
+  "rr.p0011.b010": [
+    "hp"
+  ],
+  "rr.p0011.b012": [
+    "saving throw",
+    "attack throw"
+  ],
+  "rr.p0012.b001": [
+    "attack throw"
+  ],
+  "rr.p0012.b002": [
+    "attack throw"
+  ],
+  "rr.p0012.b004": [
+    "Lockpicking",
+    "Lockpicking Expertise",
+    "Lockpicking"
+  ],
+  "rr.p0012.b011": [
+    "Reactions"
+  ],
+  "rr.p0013.t01.r010.c01": [
+    "hp"
+  ],
+  "rr.p0013.t01.r010.c02": [
+    "Hit Points"
+  ],
+  "rr.p0013.t01.r011.c02": [
+    "Hit Points"
+  ],
+  "rr.p0013.t01.r012.c01": [
+    "HD"
+  ],
+  "rr.p0013.t01.r012.c02": [
+    "Hit Dice",
+    "Hit Dice"
+  ],
+  "rr.p0013.t01.r013.c01": [
+    "AC"
+  ],
+  "rr.p0013.t01.r013.c02": [
+    "Armor Class"
+  ],
+  "rr.p0013.t01.r015.c01": [
+    "PC"
+  ],
+  "rr.p0013.t01.r016.c01": [
+    "NPC"
+  ],
+  "rr.p0013.b005": [
+    "Law"
+  ],
+  "rr.p0015.b005": [
+    "Judge"
+  ],
+  "rr.p0015.b006": [
+    "Class powers",
+    "key attribute"
+  ],
+  "rr.p0015.b008": [
+    "Judge",
+    "hp",
+    "Hit Points",
+    "Hit Points"
+  ],
+  "rr.p0015.b009": [
+    "template",
+    "template",
+    "template",
+    "template",
+    "template"
+  ],
+  "rr.p0015.b010": [
+    "attack throw",
+    "Hit Points",
+    "Adventuring",
+    "template"
+  ],
+  "rr.p0015.b011": [
+    "Caster",
+    "template",
+    "repertoire",
+    "Caster"
+  ],
+  "rr.p0015.b012": [
+    "Encumbrance",
+    "Armor Class",
+    "template"
+  ],
+  "rr.p0015.b013": [
+    "Language"
+  ],
+  "rr.p0015.b014": [
+    "Judge",
+    "alignment",
+    "template"
+  ],
+  "rr.p0015.b016": [
+    "Judge"
+  ],
+  "rr.p0015.b018": [
+    "Judge",
+    "Caster",
+    "Judge",
+    "template"
+  ],
+  "rr.p0015.b020": [
+    "Judge",
+    "Judge",
+    "Judge"
+  ],
+  "rr.p0015.b021": [
+    "Judge"
+  ],
+  "rr.p0016.b004": [
+    "Burning",
+    "attack throw",
+    "Elven Spellsword",
+    "Dwarven Vaultguard",
+    "key attribute"
+  ],
+  "rr.p0016.b006": [
+    "repertoire",
+    "Studious Spellcasters",
+    "Language",
+    "Language",
+    "general proficiency",
+    "Zaharan ruinguard",
+    "Nobiran wonderworker",
+    "Elven Spellsword",
+    "Elven nightblade",
+    "key attribute"
+  ],
+  "rr.p0016.b007": [
+    "Nobiran wonderworker",
+    "Dwarven Craftpriest",
+    "Crusader",
+    "Bladedancer",
+    "key attribute"
+  ],
+  "rr.p0016.b008": [
+    "Armor Class",
+    "missile weapons",
+    "attack throw",
+    "Elven nightblade",
+    "Bladedancer",
+    "key attribute"
+  ],
+  "rr.p0016.b009": [
+    "Hit Dice",
+    "Hit Points",
+    "Hit Dice",
+    "key attribute"
+  ],
+  "rr.p0016.b010": [
+    "Henchmen",
+    "Henchmen",
+    "Reactions",
+    "Venturer",
+    "key attribute"
+  ],
+  "rr.p0016.b012": [
+    "Profession"
+  ],
+  "rr.p0016.b013": [
+    "key attribute",
+    "key attribute"
+  ],
+  "rr.p0016.b014": [
+    "key attribute",
+    "key attribute",
+    "key attribute"
+  ],
+  "rr.p0017.b002": [
+    "Combat Progression"
+  ],
+  "rr.p0017.b006": [
+    "armor proficiency"
+  ],
+  "rr.p0017.b009": [
+    "missile weapons"
+  ],
+  "rr.p0017.b010": [
+    "Polearm"
+  ],
+  "rr.p0017.b012": [
+    "missile weapons"
+  ],
+  "rr.p0017.b016": [
+    "missile weapons",
+    "missile weapons"
+  ],
+  "rr.p0017.b017": [
+    "Single Weapon"
+  ],
+  "rr.p0017.b018": [
+    "Dual Weapon"
+  ],
+  "rr.p0017.b019": [
+    "Two-Handed Weapon"
+  ],
+  "rr.p0017.b020": [
+    "missile weapons",
+    "Weapon and Shield"
+  ],
+  "rr.p0017.b021": [
+    "weapon proficiency",
+    "missile weapons",
+    "Single Weapon"
+  ],
+  "rr.p0017.b023": [
+    "Class powers",
+    "Armor Class",
+    "attack throw",
+    "Mercenary"
+  ],
+  "rr.p0017.b025": [
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0017.b026": [
+    "Cleave",
+    "Cleave",
+    "attack throw"
+  ],
+  "rr.p0017.b028": [
+    "Class powers",
+    "Manual of Arms",
+    "Class powers"
+  ],
+  "rr.p0017.b029": [
+    "Class powers"
+  ],
+  "rr.p0018.b002": [
+    "Hit Points",
+    "Incapacitated",
+    "hp",
+    "Hit Points"
+  ],
+  "rr.p0018.b003": [
+    "Hit Points",
+    "Hit Dice",
+    "Hit Points"
+  ],
+  "rr.p0018.b004": [
+    "Hit Dice",
+    "hp",
+    "Hit Dice",
+    "hp",
+    "hp",
+    "Hit Dice",
+    "hp",
+    "hp",
+    "hp",
+    "Hit Dice",
+    "hp",
+    "Hit Dice"
+  ],
+  "rr.p0018.b006": [
+    "hp",
+    "Judge",
+    "Judge"
+  ],
+  "rr.p0018.b008": [
+    "Venturer",
+    "hp",
+    "hp"
+  ],
+  "rr.p0018.b010": [
+    "hp",
+    "Hit Dice"
+  ],
+  "rr.p0018.b012": [
+    "hp",
+    "hp",
+    "hp",
+    "Hit Dice",
+    "hp",
+    "hp"
+  ],
+  "rr.p0019.b001": [
+    "hp",
+    "hp",
+    "hp",
+    "hp",
+    "hp",
+    "Dwarven Vaultguard"
+  ],
+  "rr.p0019.b003": [
+    "AC",
+    "Class powers",
+    "AC",
+    "AC",
+    "Armor Class"
+  ],
+  "rr.p0019.b005": [
+    "Knowledge",
+    "Profession",
+    "Knowledge"
+  ],
+  "rr.p0019.b006": [
+    "Adventuring"
+  ],
+  "rr.p0019.b008": [
+    "Adventuring"
+  ],
+  "rr.p0019.b009": [
+    "Combat Actions"
+  ],
+  "rr.p0019.b010": [
+    "Climbing"
+  ],
+  "rr.p0019.b011": [
+    "Searching"
+  ],
+  "rr.p0019.b012": [
+    "Trapbreaking"
+  ],
+  "rr.p0019.b013": [
+    "Listening"
+  ],
+  "rr.p0019.b014": [
+    "Adventuring"
+  ],
+  "rr.p0019.b016": [
+    "Traversing",
+    "Swimming",
+    "Sneaking",
+    "Climbing",
+    "EXPEDITIONS",
+    "running speed",
+    "exploration speed"
+  ],
+  "rr.p0019.b017": [
+    "exploration speed",
+    "exploration speed"
+  ],
+  "rr.p0019.b018": [
+    "ENCOUNTERS"
+  ],
+  "rr.p0019.b019": [
+    "running speed",
+    "running speed"
+  ],
+  "rr.p0019.b020": [
+    "EXPEDITIONS",
+    "dedicated activities",
+    "EXPEDITIONS"
+  ],
+  "rr.p0019.b022": [
+    "Encumbrance"
+  ],
+  "rr.p0019.b023": [
+    "Encumbrance",
+    "Encumbrance"
+  ],
+  "rr.p0020.b002": [
+    "Encumbrance",
+    "Encumbrance",
+    "Encumbrance",
+    "Encumbrance",
+    "template"
+  ],
+  "rr.p0020.t01.r003.c02": [
+    "AC"
+  ],
+  "rr.p0020.b004": [
+    "Encumbrance",
+    "Wand"
+  ],
+  "rr.p0020.b005": [
+    "AC"
+  ],
+  "rr.p0020.b006": [
+    "Encumbrance"
+  ],
+  "rr.p0020.b008": [
+    "Encumbrance",
+    "Encumbrance"
+  ],
+  "rr.p0020.b009": [
+    "exploration speed",
+    "EXPEDITIONS",
+    "running speed",
+    "exploration speed",
+    "Encumbrance",
+    "exploration speed",
+    "Encumbrance",
+    "AC",
+    "Encumbrance"
+  ],
+  "rr.p0020.b011": [
+    "Judge"
+  ],
+  "rr.p0020.b012": [
+    "Dwarven Vaultguard"
+  ],
+  "rr.p0020.b014": [
+    "Language",
+    "Language",
+    "Language",
+    "Language",
+    "Language",
+    "Language",
+    "Language"
+  ],
+  "rr.p0020.b015": [
+    "Language",
+    "Language",
+    "Language"
+  ],
+  "rr.p0021.b001": [
+    "Language",
+    "Necromancer",
+    "Language",
+    "Language",
+    "Language",
+    "Language",
+    "Judge",
+    "Language",
+    "Language",
+    "Language"
+  ],
+  "rr.p0021.b007": [
+    "Death"
+  ],
+  "rr.p0021.b011": [
+    "Death",
+    "saving throw",
+    "Death",
+    "saving throw",
+    "Death",
+    "saving throw"
+  ],
+  "rr.p0021.b012": [
+    "wish",
+    "miracle"
+  ],
+  "rr.p0021.t01.r002.c03": [
+    "Elven nightblade"
+  ],
+  "rr.p0021.t01.r003.c03": [
+    "Elven Spellsword"
+  ],
+  "rr.p0021.t01.r005.c01": [
+    "Bladedancer"
+  ],
+  "rr.p0021.t01.r005.c05": [
+    "Venturer"
+  ],
+  "rr.p0021.t01.r006.c01": [
+    "Crusader"
+  ],
+  "rr.p0021.t01.r006.c05": [
+    "Warlock"
+  ],
+  "rr.p0021.t01.r007.c01": [
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0021.t01.r007.c03": [
+    "Nobiran wonderworker"
+  ],
+  "rr.p0021.t01.r007.c05": [
+    "Witch"
+  ],
+  "rr.p0021.t01.r008.c01": [
+    "Dwarven Vaultguard"
+  ],
+  "rr.p0021.t01.r008.c05": [
+    "Zaharan ruinguard"
+  ],
+  "rr.p0022.b006": [
+    "chaotic",
+    "lawful",
+    "alignment",
+    "alignment",
+    "Law"
+  ],
+  "rr.p0022.b007": [
+    "Law",
+    "Hero",
+    "lawful",
+    "lawful",
+    "Chaos",
+    "lawful",
+    "lawful",
+    "Law"
+  ],
+  "rr.p0022.b008": [
+    "Patriarch",
+    "Chaos",
+    "Law",
+    "Mercenary",
+    "Law"
+  ],
+  "rr.p0022.b009": [
+    "chaotic",
+    "lawful",
+    "Law",
+    "chaotic",
+    "chaotic",
+    "Chaos"
+  ],
+  "rr.p0022.b010": [
+    "Hero",
+    "lawful",
+    "Law",
+    "alignment",
+    "chaotic",
+    "lawful",
+    "alignment"
+  ],
+  "rr.p0022.b011": [
+    "Chaos",
+    "chaotic",
+    "lawful"
+  ],
+  "rr.p0023.b002": [
+    "Mercenary",
+    "Henchmen",
+    "Mercenary",
+    "Henchmen",
+    "Survival"
+  ],
+  "rr.p0023.b004": [
+    "Domain"
+  ],
+  "rr.p0023.b005": [
+    "dedicated activities",
+    "incidental activities",
+    "ancillary activities",
+    "dedicated activities"
+  ],
+  "rr.p0023.b006": [
+    "incidental activities",
+    "ancillary activities"
+  ],
+  "rr.p0023.b007": [
+    "ancillary activities",
+    "ancillary activities"
+  ],
+  "rr.p0023.b008": [
+    "Fatigued",
+    "strenuous activities",
+    "strenuous activities"
+  ],
+  "rr.p0023.b009": [
+    "strenuous activities",
+    "dedicated activities"
+  ],
+  "rr.p0023.b012": [
+    "dedicated activities",
+    "ancillary activities",
+    "dedicated activities",
+    "EXPEDITIONS"
+  ],
+  "rr.p0025.b003": [
+    "Witch",
+    "Warlock",
+    "Bladedancer",
+    "Venturer",
+    "Mercantile Ventures",
+    "Divine Magic",
+    "Arcane Magic",
+    "Venturer",
+    "Crusader"
+  ],
+  "rr.p0025.b004": [
+    "Zaharan ruinguard",
+    "Nobiran wonderworker",
+    "Elven Spellsword",
+    "Elven nightblade",
+    "Dwarven Vaultguard",
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0025.b005": [
+    "template",
+    "template",
+    "template",
+    "template"
+  ],
+  "rr.p0025.b006": [
+    "Judge",
+    "Judge"
+  ],
+  "rr.p0025.b007": [
+    "Judge",
+    "template",
+    "Noble Magist",
+    "Bladedancer",
+    "Spy",
+    "Mariner",
+    "Buccaneer",
+    "Corsair",
+    "template",
+    "template",
+    "Judge"
+  ],
+  "rr.p0025.b009": [
+    "Judge",
+    "general proficiency",
+    "template",
+    "general proficiency",
+    "template",
+    "general proficiency",
+    "template"
+  ],
+  "rr.p0025.b010": [
+    "Performance",
+    "Mimicry",
+    "general proficiency",
+    "general proficiency",
+    "Disguise",
+    "Skulking",
+    "Infiltrator",
+    "template"
+  ],
+  "rr.p0025.b012": [
+    "Caster",
+    "spellbook",
+    "template",
+    "repertoire",
+    "template",
+    "Studious Spellcasters",
+    "Zaharan ruinguard",
+    "Witch",
+    "Nobiran wonderworker",
+    "Elven Spellsword",
+    "Elven nightblade",
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0025.b013": [
+    "template",
+    "template",
+    "Studious Spellcasters"
+  ],
+  "rr.p0025.b014": [
+    "Slicing Blow",
+    "Siege Engineering",
+    "Slicing Blow",
+    "Earth’s Excrescence",
+    "Siege Engineering",
+    "Military Strategy",
+    "Battle Magic",
+    "Warmage",
+    "template"
+  ],
+  "rr.p0025.b015": [
+    "Starting Spell Repertoires",
+    "general proficiency",
+    "general proficiency",
+    "Studious Spellcasters"
+  ],
+  "rr.p0026.b003": [
+    "key attribute"
+  ],
+  "rr.p0026.b005": [
+    "HD"
+  ],
+  "rr.p0026.b007": [
+    "sell-sword",
+    "Raider",
+    "Gladiator",
+    "Cataphract"
+  ],
+  "rr.p0026.b010": [
+    "Two-Handed Weapon",
+    "Combat Proficiencies"
+  ],
+  "rr.p0026.b011": [
+    "Cleave",
+    "melee",
+    "missile",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0026.b013": [
+    "Class powers"
+  ],
+  "rr.p0026.b014": [
+    "Manual of Arms",
+    "Class powers",
+    "Mercenary",
+    "Judge",
+    "proficiency throw",
+    "Realm",
+    "Manual of Arms"
+  ],
+  "rr.p0026.b016": [
+    "Class powers"
+  ],
+  "rr.p0026.b017": [
+    "Mercenary",
+    "Henchmen",
+    "Battlefield Prowess"
+  ],
+  "rr.p0026.b018": [
+    "Castle",
+    "Realm",
+    "Henchmen",
+    "Mercenary",
+    "Castle",
+    "Castle",
+    "Castle",
+    "Castle"
+  ],
+  "rr.p0026.t01.r002.c02": [
+    "Man-at-Arms"
+  ],
+  "rr.p0026.t01.r003.c02": [
+    "Warrior"
+  ],
+  "rr.p0026.t01.r004.c02": [
+    "Swordmaster"
+  ],
+  "rr.p0026.t01.r005.c02": [
+    "Hero"
+  ],
+  "rr.p0026.t01.r006.c02": [
+    "Exemplar"
+  ],
+  "rr.p0026.t01.r007.c02": [
+    "Myrmidon"
+  ],
+  "rr.p0026.t01.r008.c02": [
+    "Champion"
+  ],
+  "rr.p0026.t01.r009.c02": [
+    "Epic Hero"
+  ],
+  "rr.p0026.t01.r010.c02": [
+    "Warlord"
+  ],
+  "rr.p0026.t01.r011.c02": [
+    "Warlord"
+  ],
+  "rr.p0026.t01.r012.c02": [
+    "Warlord"
+  ],
+  "rr.p0026.t01.r013.c02": [
+    "Warlord"
+  ],
+  "rr.p0026.t01.r014.c02": [
+    "Warlord"
+  ],
+  "rr.p0026.t01.r015.c02": [
+    "Overlord"
+  ],
+  "rr.p0027.b004": [
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "Proficiency Progression"
+  ],
+  "rr.p0027.b005": [
+    "Weapon Focus",
+    "Weapon Finesse",
+    "Unarmed Fighting",
+    "Swashbuckling",
+    "Skirmishing",
+    "Siege Engineering",
+    "Running",
+    "Riding",
+    "Precise Shooting",
+    "Mounted Combat",
+    "Military Strategy",
+    "Manual of Arms",
+    "Leadership",
+    "Fighting Style Specialization",
+    "Dungeonbashing Expertise",
+    "Command",
+    "Sunder",
+    "Overrun",
+    "Combat Trickery",
+    "Combat Reflexes",
+    "Combat Ferocity",
+    "Blind Fighting",
+    "Berserkergang",
+    "Alertness",
+    "Acrobatics"
+  ],
+  "rr.p0027.t02.r002.c02": [
+    "Thug"
+  ],
+  "rr.p0027.t02.r002.c03": [
+    "Intimidation",
+    "Combat Ferocity"
+  ],
+  "rr.p0027.t02.r003.c02": [
+    "Ravager"
+  ],
+  "rr.p0027.t02.r003.c03": [
+    "Endurance",
+    "Berserkergang"
+  ],
+  "rr.p0027.t02.r004.c02": [
+    "Corsair"
+  ],
+  "rr.p0027.t02.r004.c03": [
+    "Seafaring",
+    "Swashbuckling"
+  ],
+  "rr.p0027.t02.r005.c02": [
+    "Auxiliary"
+  ],
+  "rr.p0027.t02.r005.c03": [
+    "Labor",
+    "Skirmishing"
+  ],
+  "rr.p0027.t02.r005.c04": [
+    "Javelin"
+  ],
+  "rr.p0027.t02.r006.c02": [
+    "Legionary"
+  ],
+  "rr.p0027.t02.r006.c03": [
+    "Siege Engineering",
+    "Weapon and Shield"
+  ],
+  "rr.p0027.t02.r007.c02": [
+    "Gladiator"
+  ],
+  "rr.p0027.t02.r007.c03": [
+    "Seduction",
+    "Weapon Focus"
+  ],
+  "rr.p0027.t02.r008.c02": [
+    "Signifer"
+  ],
+  "rr.p0027.t02.r008.c03": [
+    "Manual of Arms",
+    "Command"
+  ],
+  "rr.p0027.t02.r009.c02": [
+    "Cataphract"
+  ],
+  "rr.p0027.t02.r009.c03": [
+    "Military Strategy",
+    "Mounted Combat"
+  ],
+  "rr.p0027.b008": [
+    "Corsair",
+    "Great Axe",
+    "Ravager"
+  ],
+  "rr.p0028.b002": [
+    "key attribute"
+  ],
+  "rr.p0028.b004": [
+    "HD"
+  ],
+  "rr.p0028.b006": [
+    "Hunter",
+    "Scout",
+    "Guide",
+    "Scout"
+  ],
+  "rr.p0028.b009": [
+    "Two-Handed Weapon",
+    "melee weapons",
+    "missile weapons",
+    "Combat Proficiencies"
+  ],
+  "rr.p0028.b010": [
+    "Cleave",
+    "melee",
+    "missile",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0028.b012": [
+    "Hex",
+    "Hex",
+    "Class powers"
+  ],
+  "rr.p0028.b013": [
+    "Listening",
+    "Searching",
+    "proficiency throw",
+    "Listening",
+    "Searching",
+    "Adventuring",
+    "Alertness"
+  ],
+  "rr.p0028.b014": [
+    "Ambushing",
+    "Class powers",
+    "attack throw",
+    "Ambushing",
+    "missile weapons",
+    "missile weapons",
+    "melee",
+    "Vulnerable",
+    "Ambushing",
+    "Ambushing"
+  ],
+  "rr.p0028.b015": [
+    "Alertness",
+    "Animal Reflexes"
+  ],
+  "rr.p0028.t01.r002.c02": [
+    "Scout"
+  ],
+  "rr.p0028.t01.r003.c02": [
+    "Outrider"
+  ],
+  "rr.p0028.t01.r004.c02": [
+    "Forester"
+  ],
+  "rr.p0028.t01.r006.c02": [
+    "Guide"
+  ],
+  "rr.p0028.t01.r007.c02": [
+    "Tracker"
+  ],
+  "rr.p0028.t01.r008.c02": [
+    "Wayfinder"
+  ],
+  "rr.p0028.t01.r009.c02": [
+    "Ranger"
+  ],
+  "rr.p0028.t01.r010.c02": [
+    "Warden"
+  ],
+  "rr.p0028.t01.r011.c02": [
+    "Warden"
+  ],
+  "rr.p0028.t01.r012.c02": [
+    "Warden"
+  ],
+  "rr.p0028.t01.r013.c02": [
+    "Warden"
+  ],
+  "rr.p0028.t01.r014.c02": [
+    "Warden"
+  ],
+  "rr.p0028.t01.r015.c02": [
+    "Lord Warden"
+  ],
+  "rr.p0029.b003": [
+    "Endurance",
+    "Class powers",
+    "Endurance"
+  ],
+  "rr.p0029.b004": [
+    "Evasion",
+    "ENCOUNTERS",
+    "Evasion",
+    "Surprised",
+    "Surprised",
+    "ENCOUNTERS",
+    "ENCOUNTERS",
+    "Evasion",
+    "proficiency throw",
+    "Evasion"
+  ],
+  "rr.p0029.b005": [
+    "EXPEDITIONS",
+    "proficiency throw",
+    "Pathfinding"
+  ],
+  "rr.p0029.b006": [
+    "line of sight",
+    "surprise roll",
+    "Natural Stealth"
+  ],
+  "rr.p0029.t02.r002.c02": [
+    "Wanderer"
+  ],
+  "rr.p0029.t02.r002.c03": [
+    "Labor",
+    "Running"
+  ],
+  "rr.p0029.t02.r003.c02": [
+    "Cartographer"
+  ],
+  "rr.p0029.t02.r003.c03": [
+    "Mapping",
+    "Land Surveying"
+  ],
+  "rr.p0029.t02.r004.c02": [
+    "Mariner"
+  ],
+  "rr.p0029.t02.r004.c03": [
+    "Seafaring",
+    "Swashbuckling"
+  ],
+  "rr.p0029.t02.r004.c04": [
+    "Mariner"
+  ],
+  "rr.p0029.t02.r005.c02": [
+    "Pathfinder"
+  ],
+  "rr.p0029.t02.r005.c03": [
+    "Tracking",
+    "Precise Shooting"
+  ],
+  "rr.p0029.t02.r006.c02": [
+    "Mountaineer"
+  ],
+  "rr.p0029.t02.r006.c03": [
+    "Mountaineering",
+    "Climbing"
+  ],
+  "rr.p0029.t02.r007.c02": [
+    "Scout"
+  ],
+  "rr.p0029.t02.r007.c03": [
+    "Survival",
+    "Passing Without Trace"
+  ],
+  "rr.p0029.t02.r008.c02": [
+    "Monster Hunter"
+  ],
+  "rr.p0029.t02.r008.c03": [
+    "Trapping",
+    "Skirmishing"
+  ],
+  "rr.p0029.t02.r009.c02": [
+    "Outrider"
+  ],
+  "rr.p0029.t02.r009.c03": [
+    "Riding",
+    "Mounted Combat"
+  ],
+  "rr.p0029.t02.r009.c04": [
+    "Riding"
+  ],
+  "rr.p0029.b009": [
+    "Outrider",
+    "Mariner"
+  ],
+  "rr.p0030.b002": [
+    "Class powers"
+  ],
+  "rr.p0030.b003": [
+    "Hireling",
+    "Experience and Hardiness",
+    "Guide",
+    "Experience and Hardiness"
+  ],
+  "rr.p0030.b004": [
+    "Border Fort",
+    "ENCOUNTERS",
+    "Domain",
+    "Border Fort",
+    "Warden",
+    "Henchmen",
+    "Mercenary",
+    "Border Fort",
+    "Border Fort"
+  ],
+  "rr.p0030.b006": [
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "Proficiency Progression"
+  ],
+  "rr.p0030.b007": [
+    "Weapon Focus",
+    "Weapon Finesse",
+    "Swashbuckling",
+    "Sniping",
+    "Skirmishing",
+    "Seafaring",
+    "Running",
+    "Riding",
+    "Prospecting",
+    "Precise Shooting",
+    "Passing Without Trace",
+    "Navigation",
+    "Naturalism",
+    "Mounted Combat",
+    "Mountaineering",
+    "Mapping",
+    "Land Surveying",
+    "Illusion Resistance",
+    "Fighting Style Specialization",
+    "Elven Bloodline",
+    "Eavesdropping",
+    "Driving",
+    "Combat Trickery",
+    "Combat Reflexes",
+    "Combat Ferocity",
+    "Climbing",
+    "Beast Friendship"
+  ],
+  "rr.p0032.b002": [
+    "key attribute"
+  ],
+  "rr.p0032.b004": [
+    "HD"
+  ],
+  "rr.p0032.b006": [
+    "Hunter"
+  ],
+  "rr.p0032.b009": [
+    "Two-Handed Weapon",
+    "melee weapons",
+    "missile weapons",
+    "Combat Proficiencies"
+  ],
+  "rr.p0032.b010": [
+    "Cleave",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0032.b012": [
+    "Class powers",
+    "thief skill",
+    "attack throw",
+    "thief skill",
+    "Class powers"
+  ],
+  "rr.p0032.b013": [
+    "Backstab",
+    "missile weapons",
+    "missile weapons",
+    "melee",
+    "Vulnerable",
+    "Backstab",
+    "Backstab"
+  ],
+  "rr.p0032.b014": [
+    "Climbing",
+    "combat speed",
+    "combat speed",
+    "combat speed",
+    "exploration speed",
+    "Climbing",
+    "proficiency throw",
+    "Climbing"
+  ],
+  "rr.p0032.t01.r002.c02": [
+    "Footpad"
+  ],
+  "rr.p0032.t01.r003.c02": [
+    "Hood"
+  ],
+  "rr.p0032.t01.r004.c02": [
+    "Robber"
+  ],
+  "rr.p0032.t01.r005.c02": [
+    "Burglar"
+  ],
+  "rr.p0032.t01.r006.c02": [
+    "Rogue"
+  ],
+  "rr.p0032.t01.r007.c02": [
+    "Scoundrel"
+  ],
+  "rr.p0032.t01.r008.c02": [
+    "Pilferer"
+  ],
+  "rr.p0032.t01.r010.c02": [
+    "Master Thief"
+  ],
+  "rr.p0032.t01.r011.c02": [
+    "Master Thief"
+  ],
+  "rr.p0032.t01.r012.c02": [
+    "Master Thief"
+  ],
+  "rr.p0032.t01.r013.c02": [
+    "Master Thief"
+  ],
+  "rr.p0032.t01.r014.c02": [
+    "Master Thief"
+  ],
+  "rr.p0032.t01.r015.c02": [
+    "Prince of Thieves"
+  ],
+  "rr.p0033.b005": [
+    "surprise roll",
+    "Hiding",
+    "proficiency throw",
+    "Judge",
+    "Combat Actions",
+    "Hiding"
+  ],
+  "rr.p0033.b006": [
+    "Hidden",
+    "melee",
+    "Hidden",
+    "Hidden",
+    "Hidden",
+    "line of sight",
+    "Hidden"
+  ],
+  "rr.p0033.b007": [
+    "Listening",
+    "Listening",
+    "proficiency throw",
+    "Judge",
+    "Listening"
+  ],
+  "rr.p0033.b008": [
+    "Lockpicking"
+  ],
+  "rr.p0033.b009": [
+    "Lockpicking",
+    "Lockpicking",
+    "proficiency throw",
+    "Lockpicking"
+  ],
+  "rr.p0033.b010": [
+    "Lockpicking",
+    "proficiency throw",
+    "Lockpicking"
+  ],
+  "rr.p0034.b001": [
+    "Reactions",
+    "Judge",
+    "Pickpocketing",
+    "proficiency throw",
+    "Pickpocketing"
+  ],
+  "rr.p0034.b002": [
+    "Searching"
+  ],
+  "rr.p0034.b003": [
+    "Searching",
+    "Judge",
+    "Searching",
+    "proficiency throw",
+    "Searching"
+  ],
+  "rr.p0034.b004": [
+    "Searching",
+    "Judge",
+    "Searching",
+    "proficiency throw",
+    "Searching"
+  ],
+  "rr.p0034.b005": [
+    "proficiency throw",
+    "Judge",
+    "exploration speed"
+  ],
+  "rr.p0034.b007": [
+    "Deafened",
+    "Shadowy senses",
+    "exploration speed",
+    "combat speed",
+    "Shadowy senses"
+  ],
+  "rr.p0034.b008": [
+    "Sneaking",
+    "proficiency throw",
+    "combat speed",
+    "combat speed",
+    "exploration speed",
+    "Movement Actions",
+    "Sneaking"
+  ],
+  "rr.p0034.b009": [
+    "line of sight",
+    "surprise roll",
+    "Sneaking",
+    "proficiency throw",
+    "Judge"
+  ],
+  "rr.p0034.b010": [
+    "Listening"
+  ],
+  "rr.p0034.b011": [
+    "Streetwise",
+    "Class powers",
+    "proficiency throw",
+    "Hijinks",
+    "thief skill",
+    "Judge",
+    "Streetwise"
+  ],
+  "rr.p0034.b012": [
+    "Trapbreaking"
+  ],
+  "rr.p0034.b013": [
+    "Trapbreaking",
+    "proficiency throw"
+  ],
+  "rr.p0034.b014": [
+    "Trapbreaking",
+    "proficiency throw"
+  ],
+  "rr.p0034.b015": [
+    "proficiency throw"
+  ],
+  "rr.p0035.b002": [
+    "Class powers"
+  ],
+  "rr.p0035.b003": [
+    "proficiency throw",
+    "Language",
+    "Deciphering"
+  ],
+  "rr.p0035.b004": [
+    "Hideout",
+    "Infiltrator",
+    "Hideout",
+    "Hideout",
+    "Hideout",
+    "Hideout"
+  ],
+  "rr.p0035.b005": [
+    "Judge",
+    "proficiency throw",
+    "Language",
+    "Scrollreading"
+  ],
+  "rr.p0035.b007": [
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "Proficiency Progression"
+  ],
+  "rr.p0035.b008": [
+    "Weapon Focus",
+    "Weapon Finesse",
+    "Unarmed Fighting",
+    "Trapfinding",
+    "Swashbuckling",
+    "Sniping",
+    "Skulking",
+    "Skirmishing",
+    "Seafaring",
+    "Running",
+    "Riding",
+    "Precise Shooting",
+    "Poisoning",
+    "Mapping",
+    "Lockpicking Expertise",
+    "Lip Reading",
+    "Intimidation",
+    "Gambling",
+    "Fighting Style Specialization",
+    "Contortionism",
+    "Combat Trickery",
+    "Combat Reflexes",
+    "Cat Burglary",
+    "Bribery",
+    "Arcane Dabbling",
+    "Alertness",
+    "Acrobatics"
+  ],
+  "rr.p0035.t01.r002.c02": [
+    "Outlaw"
+  ],
+  "rr.p0035.t01.r002.c03": [
+    "Survival",
+    "Skulking"
+  ],
+  "rr.p0035.t01.r003.c02": [
+    "Thief-Acrobat"
+  ],
+  "rr.p0035.t01.r003.c03": [
+    "Endurance",
+    "Acrobatics"
+  ],
+  "rr.p0035.t01.r004.c02": [
+    "Buccaneer"
+  ],
+  "rr.p0035.t01.r004.c03": [
+    "Seafaring",
+    "Swashbuckling"
+  ],
+  "rr.p0035.t01.r005.c02": [
+    "Tomb Raider"
+  ],
+  "rr.p0035.t01.r005.c03": [
+    "Mapping",
+    "Trapfinding"
+  ],
+  "rr.p0035.t01.r006.c02": [
+    "Cat Burglar"
+  ],
+  "rr.p0035.t01.r006.c03": [
+    "Gambling",
+    "Cat Burglary"
+  ],
+  "rr.p0035.t01.r007.c02": [
+    "Lockbreaker"
+  ],
+  "rr.p0035.t01.r007.c03": [
+    "Lockpicking Expertise"
+  ],
+  "rr.p0035.t01.r008.c02": [
+    "Failed Apprentice"
+  ],
+  "rr.p0035.t01.r008.c03": [
+    "Collegiate Wizardry",
+    "Arcane Dabbling"
+  ],
+  "rr.p0035.t01.r008.c04": [
+    "spellbook"
+  ],
+  "rr.p0035.t01.r009.c02": [
+    "Traveler"
+  ],
+  "rr.p0035.t01.r009.c03": [
+    "Riding",
+    "Skirmishing"
+  ],
+  "rr.p0035.t01.r009.c04": [
+    "Riding"
+  ],
+  "rr.p0035.b011": [
+    "Buccaneer"
+  ],
+  "rr.p0036.b002": [
+    "key attribute"
+  ],
+  "rr.p0036.b004": [
+    "HD"
+  ],
+  "rr.p0036.b006": [
+    "Tradition",
+    "Hedge Wizard",
+    "Knowledge",
+    "Sorcerer",
+    "Knowledge",
+    "Magician",
+    "Sorcerer"
+  ],
+  "rr.p0036.b008": [
+    "Vulnerable"
+  ],
+  "rr.p0036.b009": [
+    "Two-Handed Weapon",
+    "Dart",
+    "Combat Proficiencies"
+  ],
+  "rr.p0036.b010": [
+    "Cleave",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0036.b012": [
+    "Class powers"
+  ],
+  "rr.p0036.b013": [
+    "repertoire",
+    "repertoire",
+    "Arcane Magic",
+    "Arcane Magic"
+  ],
+  "rr.p0036.t01.r003.c02": [
+    "Arcanist"
+  ],
+  "rr.p0036.t01.r004.c02": [
+    "Seer"
+  ],
+  "rr.p0036.t01.r005.c02": [
+    "Theurgist"
+  ],
+  "rr.p0036.t01.r006.c02": [
+    "Magician"
+  ],
+  "rr.p0036.t01.r007.c02": [
+    "Thaumaturge"
+  ],
+  "rr.p0036.t01.r008.c02": [
+    "Enchanter"
+  ],
+  "rr.p0036.t01.r009.c02": [
+    "Sorcerer"
+  ],
+  "rr.p0036.t01.r011.c02": [
+    "Wizard"
+  ],
+  "rr.p0036.t01.r012.c02": [
+    "Wizard"
+  ],
+  "rr.p0036.t01.r013.c02": [
+    "Wizard"
+  ],
+  "rr.p0036.t01.r014.c02": [
+    "Wizard"
+  ],
+  "rr.p0036.t01.r015.c02": [
+    "Wizard"
+  ],
+  "rr.p0036.t01.r016.c02": [
+    "Archmage"
+  ],
+  "rr.p0036.b017": [
+    "repertoire"
+  ],
+  "rr.p0036.b018": [
+    "Collegiate Wizardry",
+    "Class powers",
+    "Tradition",
+    "proficiency throw",
+    "Tradition",
+    "Tradition",
+    "grimoire",
+    "Wizard",
+    "Judge",
+    "Apprentice",
+    "Collegiate Wizardry"
+  ],
+  "rr.p0036.b020": [
+    "Class powers"
+  ],
+  "rr.p0036.b021": [
+    "Minor Magical Research"
+  ],
+  "rr.p0036.b022": [
+    "Major Magical Research"
+  ],
+  "rr.p0036.b023": [
+    "Sanctum",
+    "Sanctum",
+    "Henchmen",
+    "Apprentice",
+    "Sanctum",
+    "Apprentice",
+    "Apprentice",
+    "Sanctum",
+    "Sanctum",
+    "Sanctum"
+  ],
+  "rr.p0037.b003": [
+    "chaotic",
+    "Supreme Magical Research"
+  ],
+  "rr.p0037.b005": [
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "Proficiency Progression"
+  ],
+  "rr.p0037.b006": [
+    "Unflappable Casting",
+    "Transmogrification",
+    "Soothsaying",
+    "Sensing Power",
+    "Prestidigitation",
+    "Quiet Magic",
+    "Mystic Aura",
+    "Mastery of Conjuration & Summoning",
+    "Mastery of Enchantments & Illusions",
+    "Magical Engineering",
+    "Loremastery",
+    "Language",
+    "Knowledge",
+    "Illusion Resistance",
+    "Healing",
+    "Familiar",
+    "Experimenting",
+    "Expanded Repertoire",
+    "Engineering",
+    "Elven Bloodline",
+    "Elementalism",
+    "Diplomacy",
+    "Counterspelling",
+    "Bright Lore of Aura",
+    "Black Lore of Zahar",
+    "Beast Friendship",
+    "Battle Magic",
+    "Alchemy"
+  ],
+  "rr.p0037.t02.r002.c02": [
+    "Hedge Wizard"
+  ],
+  "rr.p0037.t02.r002.c03": [
+    "Survival",
+    "Healing"
+  ],
+  "rr.p0037.t02.r002.c04": [
+    "auditory illusion",
+    "Beguile Humanoid",
+    "spellbook"
+  ],
+  "rr.p0037.t02.r003.c02": [
+    "Necromancer"
+  ],
+  "rr.p0037.t02.r003.c03": [
+    "Healing",
+    "Alchemy",
+    "Black Lore of Zahar"
+  ],
+  "rr.p0037.t02.r003.c04": [
+    "faithful companion",
+    "unliving puppet",
+    "spellbook"
+  ],
+  "rr.p0037.t02.r004.c02": [
+    "Occultist"
+  ],
+  "rr.p0037.t02.r004.c03": [
+    "Theology",
+    "Knowledge"
+  ],
+  "rr.p0037.t02.r004.c04": [
+    "summon manes",
+    "Conjure Cacodemon Spawn",
+    "spellbook"
+  ],
+  "rr.p0037.t02.r005.c02": [
+    "Elementalist"
+  ],
+  "rr.p0037.t02.r005.c03": [
+    "Alchemy",
+    "Naturalism",
+    "Elementalism"
+  ],
+  "rr.p0037.t02.r005.c04": [
+    "blinding flash",
+    "fan of flames",
+    "spellbook"
+  ],
+  "rr.p0037.t02.r006.c02": [
+    "Classicist"
+  ],
+  "rr.p0037.t02.r006.c03": [
+    "Military Strategy",
+    "Knowledge",
+    "Loremastery"
+  ],
+  "rr.p0037.t02.r006.c04": [
+    "illumination",
+    "mage missile",
+    "spellbook"
+  ],
+  "rr.p0037.t02.r007.c02": [
+    "Warmage"
+  ],
+  "rr.p0037.t02.r007.c03": [
+    "Siege Engineering",
+    "Military Strategy",
+    "Battle Magic"
+  ],
+  "rr.p0037.t02.r007.c04": [
+    "Slicing Blow",
+    "Earth’s Excrescence",
+    "spellbook"
+  ],
+  "rr.p0037.t02.r008.c02": [
+    "Polymath"
+  ],
+  "rr.p0037.t02.r008.c03": [
+    "Language",
+    "Naturalism",
+    "Expanded Repertoire"
+  ],
+  "rr.p0037.t02.r008.c04": [
+    "discern magic",
+    "spellbook"
+  ],
+  "rr.p0037.t02.r009.c02": [
+    "Noble Magist"
+  ],
+  "rr.p0037.t02.r009.c03": [
+    "Leadership",
+    "Diplomacy",
+    "Bright Lore of Aura"
+  ],
+  "rr.p0037.t02.r009.c04": [
+    "counterspell",
+    "slumber",
+    "spellbook"
+  ],
+  "rr.p0037.b009": [
+    "Elementalist",
+    "Studious Spellcasters",
+    "template",
+    "template",
+    "template"
+  ],
+  "rr.p0037.b010": [
+    "weave smoke",
+    "thunderclap"
+  ],
+  "rr.p0037.b011": [
+    "Sling Stone",
+    "Earth’s Excrescence"
+  ],
+  "rr.p0037.b012": [
+    "slickness",
+    "desiccate"
+  ],
+  "rr.p0038.b002": [
+    "key attribute"
+  ],
+  "rr.p0038.b004": [
+    "HD"
+  ],
+  "rr.p0038.b006": [
+    "Priest"
+  ],
+  "rr.p0038.b009": [
+    "Law",
+    "Crusader",
+    "Judge",
+    "Combat Proficiencies"
+  ],
+  "rr.p0038.b010": [
+    "Bladedancer",
+    "Two-Handed Weapon"
+  ],
+  "rr.p0038.b011": [
+    "Cleave",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0038.b013": [
+    "Class powers"
+  ],
+  "rr.p0038.b014": [
+    "repertoire",
+    "divine spell",
+    "Divine Magic"
+  ],
+  "rr.p0038.b015": [
+    "Theology",
+    "Class powers",
+    "proficiency throw",
+    "Judge",
+    "Temple",
+    "Crusader",
+    "Theology"
+  ],
+  "rr.p0038.t01.r003.c02": [
+    "Catechist"
+  ],
+  "rr.p0038.t01.r004.c02": [
+    "Acolyte"
+  ],
+  "rr.p0038.t01.r005.c02": [
+    "Priest"
+  ],
+  "rr.p0038.t01.r006.c02": [
+    "Curate"
+  ],
+  "rr.p0038.t01.r007.c02": [
+    "Vicar"
+  ],
+  "rr.p0038.t01.r008.c02": [
+    "Rector"
+  ],
+  "rr.p0038.t01.r009.c02": [
+    "Prelate"
+  ],
+  "rr.p0038.t01.r010.c02": [
+    "Bishop"
+  ],
+  "rr.p0038.t01.r011.c02": [
+    "Patriarch"
+  ],
+  "rr.p0038.t01.r012.c02": [
+    "Patriarch"
+  ],
+  "rr.p0038.t01.r013.c02": [
+    "Patriarch"
+  ],
+  "rr.p0038.t01.r014.c02": [
+    "Patriarch"
+  ],
+  "rr.p0038.t01.r015.c02": [
+    "Patriarch"
+  ],
+  "rr.p0038.t01.r016.c02": [
+    "Theocrat"
+  ],
+  "rr.p0039.b005": [
+    "chaotic",
+    "lawful"
+  ],
+  "rr.p0039.b006": [
+    "Rebuke undead",
+    "Rebuke undead"
+  ],
+  "rr.p0039.b007": [
+    "HD",
+    "HD",
+    "HD",
+    "Crusader",
+    "proficiency throw"
+  ],
+  "rr.p0039.b008": [
+    "missile weapons",
+    "melee",
+    "Crusader",
+    "running speed",
+    "Frightened"
+  ],
+  "rr.p0039.b009": [
+    "ENCOUNTERS",
+    "Crusader",
+    "ENCOUNTERS",
+    "Rebuke undead"
+  ],
+  "rr.p0039.b012": [
+    "HD",
+    "HD",
+    "HD",
+    "HD",
+    "HD",
+    "HD",
+    "Crusader"
+  ],
+  "rr.p0039.b013": [
+    "Crusader",
+    "animate undead",
+    "Crusader",
+    "chaotic"
+  ],
+  "rr.p0040.b002": [
+    "Class powers"
+  ],
+  "rr.p0040.b003": [
+    "Crusader",
+    "Minor Magical Research"
+  ],
+  "rr.p0040.b004": [
+    "Crusader",
+    "Major Magical Research"
+  ],
+  "rr.p0040.b005": [
+    "loyalty",
+    "morale",
+    "loyalty",
+    "Fortified Church",
+    "Crusader",
+    "Fortified Church",
+    "Fortified Church"
+  ],
+  "rr.p0040.b006": [
+    "Crusader",
+    "chaotic",
+    "Crusader",
+    "Supreme Magical Research"
+  ],
+  "rr.p0040.b008": [
+    "Law",
+    "Temple",
+    "Crusader",
+    "Judge",
+    "Crusader"
+  ],
+  "rr.p0040.b009": [
+    "Crusader"
+  ],
+  "rr.p0040.b010": [
+    "Crusader"
+  ],
+  "rr.p0040.b011": [
+    "Crusader"
+  ],
+  "rr.p0040.b012": [
+    "Crusader"
+  ],
+  "rr.p0040.b013": [
+    "chaotic",
+    "Divine Magic",
+    "Crusader"
+  ],
+  "rr.p0040.b014": [
+    "Judge",
+    "Caster",
+    "Judge",
+    "Crusader"
+  ],
+  "rr.p0040.b015": [
+    "Inquisitor",
+    "alignment",
+    "Crusader"
+  ],
+  "rr.p0040.b017": [
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "Proficiency Progression"
+  ],
+  "rr.p0040.b018": [
+    "Weapon Focus",
+    "Unflappable Casting",
+    "Theology",
+    "Syncretism",
+    "Sensing Power",
+    "Sensing Evil",
+    "Righteous Rebuke",
+    "Quiet Magic",
+    "Prophecy",
+    "Prestidigitation",
+    "Mounted Combat",
+    "Martial Training",
+    "Magical Engineering",
+    "Loremastery",
+    "Leadership",
+    "Laying on Hands",
+    "Healing",
+    "Fighting Style Specialization",
+    "Divine Health",
+    "Divine Blessing",
+    "Diplomacy",
+    "Contemplation",
+    "Command",
+    "Sunder",
+    "Overrun",
+    "Combat Trickery",
+    "Beast Friendship",
+    "Battle Magic"
+  ],
+  "rr.p0041.t01.r002.c02": [
+    "Hermit"
+  ],
+  "rr.p0041.t01.r002.c03": [
+    "Naturalism",
+    "Laying on Hands"
+  ],
+  "rr.p0041.t01.r003.c02": [
+    "Prophet"
+  ],
+  "rr.p0041.t01.r003.c03": [
+    "Performance",
+    "Prophecy"
+  ],
+  "rr.p0041.t01.r004.c02": [
+    "Mendicant"
+  ],
+  "rr.p0041.t01.r004.c03": [
+    "Animal Husbandry",
+    "Beast Friendship"
+  ],
+  "rr.p0041.t01.r005.c02": [
+    "Proselytizer"
+  ],
+  "rr.p0041.t01.r005.c03": [
+    "Diplomacy",
+    "Divine Health"
+  ],
+  "rr.p0041.t01.r006.c02": [
+    "Priest"
+  ],
+  "rr.p0041.t01.r006.c03": [
+    "Theology",
+    "Divine Blessing"
+  ],
+  "rr.p0041.t01.r007.c02": [
+    "Undead Slayer"
+  ],
+  "rr.p0041.t01.r007.c03": [
+    "Healing",
+    "Righteous Rebuke"
+  ],
+  "rr.p0041.t01.r008.c02": [
+    "Exorcist"
+  ],
+  "rr.p0041.t01.r008.c03": [
+    "Intimidation",
+    "Sensing Evil"
+  ],
+  "rr.p0041.t01.r009.c02": [
+    "Templar"
+  ],
+  "rr.p0041.t01.r009.c03": [
+    "Riding",
+    "Martial Training"
+  ],
+  "rr.p0041.t01.r009.c04": [
+    "Riding"
+  ],
+  "rr.p0041.b003": [
+    "Templar",
+    "Martial Training"
+  ],
+  "rr.p0042.b002": [
+    "key attribute"
+  ],
+  "rr.p0042.b004": [
+    "HD"
+  ],
+  "rr.p0042.b006": [
+    "EXPEDITIONS",
+    "Venturer",
+    "Venturer",
+    "Trader",
+    "Venturers"
+  ],
+  "rr.p0042.b008": [
+    "Venturer"
+  ],
+  "rr.p0042.b009": [
+    "Two-Handed Weapon",
+    "Venturer",
+    "Combat Proficiencies"
+  ],
+  "rr.p0042.b010": [
+    "Cleave",
+    "Cleave",
+    "Venturer",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0042.b012": [
+    "Class powers",
+    "Venturer",
+    "Venturer"
+  ],
+  "rr.p0042.b013": [
+    "Bribery",
+    "Bribery",
+    "Reactions",
+    "Bribery",
+    "Venturer",
+    "Bribery"
+  ],
+  "rr.p0042.b014": [
+    "Diplomacy",
+    "Class powers",
+    "Reactions",
+    "Venturer",
+    "Diplomacy"
+  ],
+  "rr.p0042.b015": [
+    "Bargaining",
+    "Bargaining",
+    "Mercantile Ventures",
+    "Bargaining",
+    "Reactions",
+    "Bargaining",
+    "Bargaining",
+    "Bargaining",
+    "Bargaining",
+    "Bargaining",
+    "Bargaining",
+    "Expert Bargaining"
+  ],
+  "rr.p0042.t01.r002.c02": [
+    "Tinker"
+  ],
+  "rr.p0042.t01.r003.c02": [
+    "Trader"
+  ],
+  "rr.p0042.t01.r004.c02": [
+    "Arbitrager"
+  ],
+  "rr.p0042.t01.r005.c02": [
+    "Commissary"
+  ],
+  "rr.p0042.t01.r006.c02": [
+    "Mercantilist"
+  ],
+  "rr.p0042.t01.r007.c02": [
+    "Enterpriser"
+  ],
+  "rr.p0042.t01.r008.c02": [
+    "Venturer"
+  ],
+  "rr.p0042.t01.r009.c02": [
+    "Merchant Venturer"
+  ],
+  "rr.p0042.t01.r010.c02": [
+    "Merchant Prince"
+  ],
+  "rr.p0042.t01.r011.c02": [
+    "Merchant Prince"
+  ],
+  "rr.p0042.t01.r012.c02": [
+    "Merchant Prince"
+  ],
+  "rr.p0042.t01.r013.c02": [
+    "Merchant Prince"
+  ],
+  "rr.p0042.t01.r014.c02": [
+    "Merchant Prince"
+  ],
+  "rr.p0042.t01.r015.c02": [
+    "Mogul"
+  ],
+  "rr.p0042.b019": [
+    "Bargaining",
+    "Class powers",
+    "Bargaining",
+    "Reactions"
+  ],
+  "rr.p0043.b003": [
+    "Seafaring",
+    "Driving",
+    "Venturer",
+    "Venturer",
+    "Venturers",
+    "Expert Traveling"
+  ],
+  "rr.p0043.b004": [
+    "passive investment",
+    "Mercantile Network",
+    "market impact",
+    "Venturer",
+    "Mercantile Ventures",
+    "Venturer",
+    "Mercantile Network"
+  ],
+  "rr.p0043.b005": [
+    "Venturer"
+  ],
+  "rr.p0043.b006": [
+    "Language",
+    "Venturer",
+    "Language",
+    "Language",
+    "Venturer",
+    "Multilingual"
+  ],
+  "rr.p0043.b007": [
+    "EXPEDITIONS",
+    "Hex",
+    "Hex",
+    "Venturer",
+    "proficiency throw",
+    "Venturer",
+    "Pathfinding"
+  ],
+  "rr.p0043.b008": [
+    "surprise roll",
+    "Signaling",
+    "Signaling",
+    "Venturer",
+    "Surprised",
+    "surprise roll",
+    "Reactions",
+    "Bribery",
+    "Diplomacy",
+    "Venturer",
+    "Venturer",
+    "Venturer",
+    "Treachery"
+  ],
+  "rr.p0043.b009": [
+    "NPC"
+  ],
+  "rr.p0043.b010": [
+    "Venturer",
+    "Reactions"
+  ],
+  "rr.p0043.b012": [
+    "Venturer",
+    "Steady Trade Route",
+    "Venturer",
+    "Steady Trade Route"
+  ],
+  "rr.p0043.b013": [
+    "market impact",
+    "market impact",
+    "Venturer"
+  ],
+  "rr.p0043.b014": [
+    "passive investment",
+    "Venturer",
+    "Steady Trade Route"
+  ],
+  "rr.p0043.b015": [
+    "Venturer",
+    "dedicated activities",
+    "Rumormongering",
+    "Venturer",
+    "Rumormongering"
+  ],
+  "rr.p0044.b001": [
+    "passive investment",
+    "Venturer",
+    "Steady Trade Route",
+    "Venturer",
+    "Steady Trade Route"
+  ],
+  "rr.p0044.b002": [
+    "henchman",
+    "Venturer",
+    "Venturers",
+    "Mercantile Network",
+    "Venturer",
+    "Venturer",
+    "Access to Capital"
+  ],
+  "rr.p0044.b003": [
+    "Bounty Hunter",
+    "Bounty Hunter",
+    "Bounty Hunter",
+    "Class powers",
+    "Access to Capital"
+  ],
+  "rr.p0044.t02.r002.c02": [
+    "Bankrupt"
+  ],
+  "rr.p0044.t02.r002.c03": [
+    "Driving",
+    "Gambling",
+    "Running"
+  ],
+  "rr.p0044.t02.r003.c02": [
+    "Factotum"
+  ],
+  "rr.p0044.t02.r003.c03": [
+    "Seafaring",
+    "Bargaining",
+    "Arcane Dabbling"
+  ],
+  "rr.p0044.t02.r004.c02": [
+    "Merchant Mariner"
+  ],
+  "rr.p0044.t02.r004.c03": [
+    "Seafaring",
+    "Seafaring",
+    "Swashbuckling"
+  ],
+  "rr.p0044.t02.r004.c04": [
+    "Mariner"
+  ],
+  "rr.p0044.t02.r005.c02": [
+    "Merchant Traveler"
+  ],
+  "rr.p0044.t02.r005.c03": [
+    "Driving",
+    "Navigation",
+    "Alertness"
+  ],
+  "rr.p0044.t02.r006.c02": [
+    "Antiquary"
+  ],
+  "rr.p0044.t02.r006.c03": [
+    "Driving",
+    "Knowledge",
+    "Magical Engineering"
+  ],
+  "rr.p0044.t02.r007.c02": [
+    "Caravaneer"
+  ],
+  "rr.p0044.t02.r007.c03": [
+    "Driving",
+    "Animal Husbandry",
+    "Precise Shooting"
+  ],
+  "rr.p0044.t02.r008.c02": [
+    "Comprador"
+  ],
+  "rr.p0044.t02.r008.c03": [
+    "Seafaring",
+    "Language",
+    "Eavesdropping"
+  ],
+  "rr.p0044.t02.r009.c02": [
+    "Magnate"
+  ],
+  "rr.p0044.t02.r009.c03": [
+    "Seafaring",
+    "Riding",
+    "Command"
+  ],
+  "rr.p0044.t02.r009.c04": [
+    "Riding"
+  ],
+  "rr.p0044.b008": [
+    "Mariner",
+    "Venturers",
+    "Venturer",
+    "template"
+  ],
+  "rr.p0045.b001": [
+    "Venturer",
+    "Infiltrator",
+    "Henchmen",
+    "Guildhouse",
+    "Venturer",
+    "Venturer",
+    "Venturer",
+    "Guildhouse",
+    "Guildhouse"
+  ],
+  "rr.p0045.b002": [
+    "Hijinks",
+    "Hideout",
+    "Venturer",
+    "Hideout",
+    "Guildhouse",
+    "Venturer",
+    "Guildhouse",
+    "Venturer"
+  ],
+  "rr.p0045.b003": [
+    "passive investment",
+    "passive investment",
+    "Venturer",
+    "Guildhouse",
+    "Venturer"
+  ],
+  "rr.p0045.b004": [
+    "passive investment",
+    "Venturer",
+    "Steady Trade Route",
+    "Venturer",
+    "Steady Trade Route"
+  ],
+  "rr.p0045.b005": [
+    "Class powers",
+    "Venturer",
+    "Venturer",
+    "Domain",
+    "Domain",
+    "Domain",
+    "Monopoly Power",
+    "Guildhouse",
+    "Venturer",
+    "Monopoly Power"
+  ],
+  "rr.p0045.b006": [
+    "Venturer",
+    "Venturer",
+    "Merchant Prince"
+  ],
+  "rr.p0045.b010": [
+    "general proficiency",
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "Venturer",
+    "Proficiency Progression"
+  ],
+  "rr.p0045.b011": [
+    "Weapon Finesse",
+    "Swashbuckling",
+    "Skirmishing",
+    "Seafaring",
+    "Running",
+    "Riding",
+    "Prospecting",
+    "Precise Shooting",
+    "Passing Without Trace",
+    "Mounted Combat",
+    "Mountaineering",
+    "Mapping",
+    "Magical Engineering",
+    "Lip Reading",
+    "Leadership",
+    "Land Surveying",
+    "Intimidation",
+    "Elven Bloodline",
+    "Eavesdropping",
+    "Driving",
+    "Command",
+    "Combat Trickery",
+    "Combat Reflexes",
+    "Climbing",
+    "Bargaining",
+    "Arcane Dabbling",
+    "Ambushing",
+    "Alertness",
+    "Bargaining"
+  ],
+  "rr.p0046.b003": [
+    "key attribute"
+  ],
+  "rr.p0046.b005": [
+    "Hit Dice"
+  ],
+  "rr.p0046.b007": [
+    "Rogue",
+    "Thug"
+  ],
+  "rr.p0046.b010": [
+    "Two-Handed Weapon",
+    "Combat Proficiencies"
+  ],
+  "rr.p0046.b011": [
+    "Cleave",
+    "Cleave",
+    "missile",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0046.b013": [
+    "Class powers"
+  ],
+  "rr.p0046.t01.r002.c02": [
+    "Thug"
+  ],
+  "rr.p0046.t01.r003.c02": [
+    "Enforcer"
+  ],
+  "rr.p0046.t01.r004.c02": [
+    "Torturer"
+  ],
+  "rr.p0046.t01.r005.c02": [
+    "Slayer"
+  ],
+  "rr.p0046.t01.r006.c02": [
+    "Destroyer"
+  ],
+  "rr.p0046.t01.r007.c02": [
+    "Executioner"
+  ],
+  "rr.p0046.t01.r008.c02": [
+    "Blackguard"
+  ],
+  "rr.p0046.t01.r010.c02": [
+    "Master Assassin"
+  ],
+  "rr.p0046.t01.r011.c02": [
+    "Master Assassin"
+  ],
+  "rr.p0046.t01.r012.c02": [
+    "Master Assassin"
+  ],
+  "rr.p0046.t01.r013.c02": [
+    "Master Assassin"
+  ],
+  "rr.p0046.t01.r014.c02": [
+    "Master Assassin"
+  ],
+  "rr.p0046.t01.r015.c02": [
+    "Grandfather of Assassins"
+  ],
+  "rr.p0047.b003": [
+    "Sneaking",
+    "Hiding",
+    "Backstabbing"
+  ],
+  "rr.p0047.b004": [
+    "Backstab",
+    "missile weapons",
+    "missile weapons",
+    "Vulnerable",
+    "Backstab",
+    "Backstab"
+  ],
+  "rr.p0047.b005": [
+    "surprise roll",
+    "proficiency throw",
+    "Judge",
+    "Combat Actions",
+    "Hiding"
+  ],
+  "rr.p0047.b006": [
+    "Hidden",
+    "Hidden",
+    "Hidden",
+    "Hidden",
+    "line of sight",
+    "Hidden"
+  ],
+  "rr.p0047.b007": [
+    "Shadowy senses",
+    "Shadowy senses",
+    "Shadowy senses",
+    "exploration speed",
+    "combat speed",
+    "Shadowy senses"
+  ],
+  "rr.p0047.b008": [
+    "Sneaking",
+    "proficiency throw",
+    "combat speed",
+    "combat speed",
+    "exploration speed",
+    "Movement Actions",
+    "Sneaking"
+  ],
+  "rr.p0047.b009": [
+    "line of sight",
+    "surprise roll",
+    "Sneaking",
+    "proficiency throw",
+    "Judge"
+  ],
+  "rr.p0047.b010": [
+    "Sneaking",
+    "Listening",
+    "proficiency throw",
+    "Sneaking"
+  ],
+  "rr.p0047.b011": [
+    "Streetwise",
+    "Class powers",
+    "proficiency throw",
+    "thief skill",
+    "Hijinks",
+    "Judge",
+    "Streetwise"
+  ],
+  "rr.p0048.b002": [
+    "Class powers"
+  ],
+  "rr.p0048.b003": [
+    "Hideout",
+    "Infiltrator",
+    "Henchmen",
+    "Hideout",
+    "Hideout",
+    "Hideout",
+    "Hideout"
+  ],
+  "rr.p0048.b005": [
+    "general proficiency",
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "Proficiency Progression"
+  ],
+  "rr.p0048.b006": [
+    "Weapon Focus",
+    "Weapon Finesse",
+    "Swashbuckling",
+    "Sniping",
+    "Skulking",
+    "Skirmishing",
+    "Running",
+    "Precise Shooting",
+    "Poisoning",
+    "Mimicry",
+    "Kin-Slaying",
+    "Intimidation",
+    "Gambling",
+    "Fighting Style Specialization",
+    "Eavesdropping",
+    "Disguise",
+    "Contortionism",
+    "Combat Trickery",
+    "Combat Reflexes",
+    "Climbing",
+    "Cat Burglary",
+    "Bribery",
+    "Armor Training",
+    "Arcane Dabbling",
+    "Alertness",
+    "Alchemy",
+    "Acrobatics"
+  ],
+  "rr.p0048.t01.r002.c02": [
+    "Cutthroat"
+  ],
+  "rr.p0048.t01.r002.c03": [
+    "Gambling",
+    "Combat Reflexes"
+  ],
+  "rr.p0048.t01.r003.c02": [
+    "Bounty Hunter"
+  ],
+  "rr.p0048.t01.r003.c03": [
+    "Tracking",
+    "Combat Trickery"
+  ],
+  "rr.p0048.t01.r004.c02": [
+    "Pirate"
+  ],
+  "rr.p0048.t01.r004.c03": [
+    "Seafaring",
+    "Swashbuckling"
+  ],
+  "rr.p0048.t01.r005.c02": [
+    "Bravo"
+  ],
+  "rr.p0048.t01.r005.c03": [
+    "Intimidation"
+  ],
+  "rr.p0048.t01.r006.c02": [
+    "Assassin-for-Hire"
+  ],
+  "rr.p0048.t01.r006.c03": [
+    "Bargaining",
+    "Precise Shooting"
+  ],
+  "rr.p0048.t01.r007.c02": [
+    "Poisoner"
+  ],
+  "rr.p0048.t01.r007.c03": [
+    "Seduction",
+    "Poisoning"
+  ],
+  "rr.p0048.t01.r008.c02": [
+    "Infiltrator"
+  ],
+  "rr.p0048.t01.r008.c03": [
+    "Disguise",
+    "Skulking"
+  ],
+  "rr.p0048.t01.r008.c04": [
+    "Disguise"
+  ],
+  "rr.p0048.t01.r009.c02": [
+    "Cult Deathbringer"
+  ],
+  "rr.p0048.t01.r009.c03": [
+    "Theology",
+    "Arcane Dabbling"
+  ],
+  "rr.p0048.b009": [
+    "Pirate"
+  ],
+  "rr.p0050.b002": [
+    "key attribute"
+  ],
+  "rr.p0050.b004": [
+    "Hit Dice"
+  ],
+  "rr.p0050.t01.r002.c02": [
+    "Hunter"
+  ],
+  "rr.p0050.t01.r003.c02": [
+    "Raider"
+  ],
+  "rr.p0050.t01.r004.c02": [
+    "Marauder"
+  ],
+  "rr.p0050.t01.r005.c02": [
+    "Plunderer"
+  ],
+  "rr.p0050.t01.r006.c02": [
+    "Reaver"
+  ],
+  "rr.p0050.t01.r007.c02": [
+    "Bloodletter"
+  ],
+  "rr.p0050.t01.r008.c02": [
+    "Menace"
+  ],
+  "rr.p0050.t01.r009.c02": [
+    "Scourge"
+  ],
+  "rr.p0050.t01.r010.c02": [
+    "Warchief"
+  ],
+  "rr.p0050.t01.r011.c02": [
+    "Warchief"
+  ],
+  "rr.p0050.t01.r012.c02": [
+    "Warchief"
+  ],
+  "rr.p0050.t01.r013.c02": [
+    "Warchief"
+  ],
+  "rr.p0050.t01.r014.c02": [
+    "Warchief"
+  ],
+  "rr.p0050.t01.r015.c02": [
+    "Great Chieftain"
+  ],
+  "rr.p0050.b012": [
+    "Combat Proficiencies",
+    "Combat Proficiencies"
+  ],
+  "rr.p0050.b013": [
+    "Cleave",
+    "Cleave",
+    "missile",
+    "missile",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0050.b015": [
+    "Class powers"
+  ],
+  "rr.p0050.b016": [
+    "Animal Reflexes"
+  ],
+  "rr.p0050.t02.r002.c03": [
+    "Javelin",
+    "Great Axe"
+  ],
+  "rr.p0050.t02.r002.c04": [
+    "Two-Handed Weapon",
+    "Weapon and Shield"
+  ],
+  "rr.p0050.t02.r003.c03": [
+    "Lance",
+    "Javelin"
+  ],
+  "rr.p0050.t02.r003.c04": [
+    "Weapon and Shield"
+  ],
+  "rr.p0050.t02.r004.c03": [
+    "Javelin",
+    "Dart"
+  ],
+  "rr.p0050.t02.r004.c04": [
+    "Weapon and Shield"
+  ],
+  "rr.p0051.b003": [
+    "Natural Proficiency",
+    "Natural Proficiency"
+  ],
+  "rr.p0051.b004": [
+    "Seafaring",
+    "Climbing"
+  ],
+  "rr.p0051.b005": [
+    "Riding",
+    "Precise Shooting"
+  ],
+  "rr.p0051.b006": [
+    "Endurance",
+    "Running"
+  ],
+  "rr.p0051.b007": [
+    "Judge"
+  ],
+  "rr.p0051.b008": [
+    "line of sight",
+    "surprise roll",
+    "Natural Stealth"
+  ],
+  "rr.p0051.b009": [
+    "Mortal Wounds",
+    "Savage Resilience",
+    "Priest",
+    "Savage Resilience"
+  ],
+  "rr.p0051.b010": [
+    "Mortal Wounds",
+    "hp",
+    "hp"
+  ],
+  "rr.p0051.b012": [
+    "Class powers"
+  ],
+  "rr.p0051.b013": [
+    "Mercenary",
+    "Henchmen",
+    "Animal Magnetism"
+  ],
+  "rr.p0051.b014": [
+    "Henchmen",
+    "Mercenary",
+    "Chieftain’s Hall",
+    "Chieftain’s Hall",
+    "Chieftain’s Hall"
+  ],
+  "rr.p0052.t01.r002.c03": [
+    "Endurance",
+    "Running",
+    "Tracking",
+    "Ambushing"
+  ],
+  "rr.p0052.t01.r003.c03": [
+    "Seafaring",
+    "Climbing",
+    "Intimidation",
+    "Berserkergang"
+  ],
+  "rr.p0052.t01.r004.c03": [
+    "Seafaring",
+    "Climbing",
+    "Navigation",
+    "Swashbuckling"
+  ],
+  "rr.p0052.t01.r005.c03": [
+    "Riding",
+    "Precise Shooting",
+    "Endurance",
+    "Skirmishing"
+  ],
+  "rr.p0052.t01.r006.c03": [
+    "Seafaring",
+    "Climbing",
+    "Survival",
+    "Combat Ferocity"
+  ],
+  "rr.p0052.t01.r007.c03": [
+    "Endurance",
+    "Running",
+    "Gambling",
+    "Combat Reflexes"
+  ],
+  "rr.p0052.t01.r008.c03": [
+    "Seafaring",
+    "Climbing",
+    "Manual of Arms",
+    "Weapon and Shield",
+    "Fighting Style Specialization"
+  ],
+  "rr.p0052.t01.r009.c03": [
+    "Riding",
+    "Precise Shooting",
+    "Survival",
+    "Mounted Combat"
+  ],
+  "rr.p0052.t01.r009.c04": [
+    "Riding"
+  ],
+  "rr.p0052.b003": [
+    "Great Axe",
+    "template",
+    "template",
+    "template"
+  ],
+  "rr.p0052.b005": [
+    "general proficiency",
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "Proficiency Progression"
+  ],
+  "rr.p0052.b006": [
+    "Weapon Focus",
+    "Weapon Finesse",
+    "Swashbuckling",
+    "Sniping",
+    "Skirmishing",
+    "Seafaring",
+    "Running",
+    "Riding",
+    "Precise Shooting",
+    "Passing Without Trace",
+    "Mounted Combat",
+    "Mountaineering",
+    "Martial Training",
+    "Fighting Style Specialization",
+    "Command",
+    "Combat Trickery",
+    "Combat Reflexes",
+    "Combat Ferocity",
+    "Climbing",
+    "Blind Fighting",
+    "Berserkergang",
+    "Beast Friendship",
+    "Armor Training",
+    "Ambushing",
+    "Alertness"
+  ],
+  "rr.p0054.b002": [
+    "key attribute"
+  ],
+  "rr.p0054.b004": [
+    "Hit Dice"
+  ],
+  "rr.p0054.b006": [
+    "Aristocrat",
+    "Skald",
+    "Hero"
+  ],
+  "rr.p0054.b008": [
+    "Two-Handed Weapon",
+    "missile weapons",
+    "Combat Proficiencies"
+  ],
+  "rr.p0054.b009": [
+    "Cleave",
+    "Cleave",
+    "missile",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0054.b011": [
+    "Class powers"
+  ],
+  "rr.p0054.b012": [
+    "Judge",
+    "proficiency throw",
+    "Caster",
+    "Wand",
+    "Arcane Dabbling"
+  ],
+  "rr.p0054.t01.r002.c02": [
+    "Reciter"
+  ],
+  "rr.p0054.t01.r003.c02": [
+    "Versifier"
+  ],
+  "rr.p0054.t01.r004.c02": [
+    "Archivist"
+  ],
+  "rr.p0054.t01.r005.c02": [
+    "Annalist"
+  ],
+  "rr.p0054.t01.r006.c02": [
+    "Chronicler"
+  ],
+  "rr.p0054.t01.r007.c02": [
+    "Panegyrist"
+  ],
+  "rr.p0054.t01.r008.c02": [
+    "Skald"
+  ],
+  "rr.p0054.t01.r009.c02": [
+    "Rhapsodist"
+  ],
+  "rr.p0054.t01.r015.c02": [
+    "Master Bard"
+  ],
+  "rr.p0055.b003": [
+    "Engaged",
+    "Caster",
+    "Armor Class",
+    "attack throw",
+    "Inspire Courage",
+    "Inspire Courage"
+  ],
+  "rr.p0055.b004": [
+    "Contemplation",
+    "Venturer",
+    "Rumormongering",
+    "Class powers",
+    "Class powers",
+    "Judge",
+    "Mercantile Network",
+    "Venturer",
+    "Class powers",
+    "Backstab",
+    "thief skill",
+    "class proficiency",
+    "Jack of All Trades"
+  ],
+  "rr.p0055.b005": [
+    "Listening",
+    "Listening",
+    "proficiency throw",
+    "Judge",
+    "Listening"
+  ],
+  "rr.p0055.b006": [
+    "Loremastery",
+    "Class powers",
+    "proficiency throw",
+    "Loremastery"
+  ],
+  "rr.p0055.b007": [
+    "Language",
+    "Class powers",
+    "Language",
+    "Language",
+    "Language",
+    "Multilingual"
+  ],
+  "rr.p0055.b008": [
+    "Performance",
+    "Class powers",
+    "proficiency throw",
+    "Performance"
+  ],
+  "rr.p0055.b010": [
+    "Class powers",
+    "Judge",
+    "Mercantile Network",
+    "Venturer",
+    "Class powers",
+    "Backstab",
+    "thief skill",
+    "class proficiency",
+    "Jack of All Trades II"
+  ],
+  "rr.p0055.b011": [
+    "proficiency throw",
+    "Language",
+    "Deciphering"
+  ],
+  "rr.p0055.b012": [
+    "Mercenary",
+    "Henchmen",
+    "Hireling",
+    "Chronicles of Battle"
+  ],
+  "rr.p0055.b013": [
+    "Class powers",
+    "Judge",
+    "Mercantile Network",
+    "Venturer",
+    "Class powers",
+    "Backstab",
+    "thief skill",
+    "class proficiency",
+    "Jack of All Trades III"
+  ],
+  "rr.p0056.b001": [
+    "hp",
+    "hp",
+    "hp",
+    "Hit Points",
+    "Inspire Hope",
+    "Inspire Hope"
+  ],
+  "rr.p0056.t01.r015.c02": [
+    "hp"
+  ],
+  "rr.p0056.b003": [
+    "Class powers",
+    "Judge",
+    "Mercantile Network",
+    "Venturer",
+    "Class powers",
+    "Backstab",
+    "thief skill",
+    "class proficiency",
+    "Jack of All Trades IV"
+  ],
+  "rr.p0056.b004": [
+    "Henchmen",
+    "Mercenary",
+    "Great Hall",
+    "Great Hall"
+  ],
+  "rr.p0056.b005": [
+    "Judge",
+    "proficiency throw",
+    "Language",
+    "Scrollreading"
+  ],
+  "rr.p0056.b006": [
+    "Class powers",
+    "Judge",
+    "Mercantile Network",
+    "Venturer",
+    "Class powers",
+    "Backstab",
+    "thief skill",
+    "class proficiency",
+    "Jack of All Trades V"
+  ],
+  "rr.p0057.t01.r002.c02": [
+    "Woodland Piper"
+  ],
+  "rr.p0057.t01.r002.c03": [
+    "Familiar",
+    "Performance",
+    "Naturalism",
+    "Beast Friendship"
+  ],
+  "rr.p0057.t01.r002.c04": [
+    "Javelin"
+  ],
+  "rr.p0057.t01.r003.c02": [
+    "Hedge Magician"
+  ],
+  "rr.p0057.t01.r003.c03": [
+    "Soothsaying",
+    "Performance",
+    "Alchemy",
+    "Prestidigitation"
+  ],
+  "rr.p0057.t01.r003.c04": [
+    "spellbook"
+  ],
+  "rr.p0057.t01.r004.c02": [
+    "Swashbuckler"
+  ],
+  "rr.p0057.t01.r004.c03": [
+    "Fighting Style Specialization",
+    "Performance",
+    "Seafaring",
+    "Swashbuckling"
+  ],
+  "rr.p0057.t01.r005.c02": [
+    "Wandering Minstrel"
+  ],
+  "rr.p0057.t01.r005.c03": [
+    "Precise Shooting",
+    "Performance",
+    "Seduction",
+    "Magical Music"
+  ],
+  "rr.p0057.t01.r006.c02": [
+    "Historian"
+  ],
+  "rr.p0057.t01.r006.c03": [
+    "Bright Lore of Aura",
+    "Performance",
+    "Knowledge",
+    "Magical Engineering"
+  ],
+  "rr.p0057.t01.r007.c02": [
+    "Beguiler"
+  ],
+  "rr.p0057.t01.r007.c03": [
+    "Venturer",
+    "Treachery",
+    "Performance",
+    "Diplomacy",
+    "Mystic Aura"
+  ],
+  "rr.p0057.t01.r008.c02": [
+    "Spy"
+  ],
+  "rr.p0057.t01.r008.c03": [
+    "Hiding",
+    "Performance",
+    "Streetwise",
+    "Disguise"
+  ],
+  "rr.p0057.t01.r008.c04": [
+    "Disguise"
+  ],
+  "rr.p0057.t01.r009.c02": [
+    "Aristocrat"
+  ],
+  "rr.p0057.t01.r009.c03": [
+    "Armor Training",
+    "Performance",
+    "Leadership",
+    "Command"
+  ],
+  "rr.p0057.b003": [
+    "Swashbuckler",
+    "Hedge Magician",
+    "spellbook",
+    "Woodland Piper",
+    "Familiar",
+    "Venturer",
+    "Class powers",
+    "thief skill",
+    "template",
+    "Jack of All Trades",
+    "Performance"
+  ],
+  "rr.p0057.b005": [
+    "general proficiency",
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "Proficiency Progression"
+  ],
+  "rr.p0057.b006": [
+    "Weapon Focus",
+    "Weapon Finesse",
+    "Swashbuckling",
+    "Skirmishing",
+    "Seduction",
+    "Running",
+    "Prestidigitation",
+    "Precise Shooting",
+    "Performance",
+    "Mystic Aura",
+    "Mimicry",
+    "Magical Music",
+    "Magical Engineering",
+    "Lip Reading",
+    "Leadership",
+    "Language",
+    "Knowledge",
+    "Healing",
+    "Fighting Style Specialization",
+    "Elven Bloodline",
+    "Disguise",
+    "Diplomacy",
+    "Command",
+    "Combat Trickery",
+    "Bribery",
+    "Beast Friendship",
+    "Bargaining",
+    "Acrobatics"
+  ],
+  "rr.p0058.b002": [
+    "key attribute"
+  ],
+  "rr.p0058.b004": [
+    "Hit Dice"
+  ],
+  "rr.p0058.b006": [
+    "Bladedancer",
+    "Temple",
+    "Bladedancer",
+    "Bladedancer"
+  ],
+  "rr.p0058.b008": [
+    "Bladedancer"
+  ],
+  "rr.p0058.b009": [
+    "Two-Handed Weapon",
+    "Polearm",
+    "Javelin",
+    "Lance",
+    "Bladedancer",
+    "Armor and Weapons"
+  ],
+  "rr.p0058.b010": [
+    "Cleave",
+    "Cleave",
+    "Bladedancer",
+    "attack throw",
+    "attack throw",
+    "AC",
+    "Bladedancer",
+    "Combat Progression"
+  ],
+  "rr.p0058.b012": [
+    "Class powers",
+    "Bladedancer"
+  ],
+  "rr.p0058.b013": [
+    "AC",
+    "Armor Class",
+    "Encumbrance",
+    "Bladedancer",
+    "Bladedancer",
+    "Graceful Fighting"
+  ],
+  "rr.p0058.b014": [
+    "Bladedancer",
+    "Swashbuckling",
+    "AC",
+    "Swashbuckling",
+    "Graceful Fighting"
+  ],
+  "rr.p0058.b015": [
+    "repertoire",
+    "repertoire",
+    "Bladedancer",
+    "Bladedancer",
+    "divine spell",
+    "Bladedancer",
+    "Divine Magic"
+  ],
+  "rr.p0058.t01.r003.c02": [
+    "Blade-Initiate"
+  ],
+  "rr.p0058.t01.r004.c02": [
+    "Blade-Daughter"
+  ],
+  "rr.p0058.t01.r005.c02": [
+    "Blade-Singer"
+  ],
+  "rr.p0058.t01.r006.c02": [
+    "Blade-Weaver"
+  ],
+  "rr.p0058.t01.r007.c02": [
+    "Blade-Sister"
+  ],
+  "rr.p0058.t01.r008.c02": [
+    "Blade-Adept"
+  ],
+  "rr.p0058.t01.r009.c02": [
+    "Blade-Dancer"
+  ],
+  "rr.p0058.t01.r010.c02": [
+    "Blade-Priestess"
+  ],
+  "rr.p0058.t01.r011.c02": [
+    "Blade-Mistress"
+  ],
+  "rr.p0058.t01.r012.c02": [
+    "Blade-Mistress"
+  ],
+  "rr.p0058.t01.r013.c02": [
+    "Blade-Mistress"
+  ],
+  "rr.p0058.t01.r014.c02": [
+    "Blade-Mistress"
+  ],
+  "rr.p0058.t01.r015.c02": [
+    "Blade-Mistress"
+  ],
+  "rr.p0058.t01.r016.c02": [
+    "Mistress of All Blades"
+  ],
+  "rr.p0059.b003": [
+    "Bladedancer",
+    "Bladedancer",
+    "Strength of Faith"
+  ],
+  "rr.p0059.b004": [
+    "Theology",
+    "Class powers",
+    "proficiency throw",
+    "proselytizing",
+    "Judge",
+    "Temple",
+    "Cloister",
+    "Bladedancer",
+    "Theology"
+  ],
+  "rr.p0059.b005": [
+    "Weapon Finesse",
+    "Bladedancer",
+    "Weapon Finesse",
+    "Class powers",
+    "attack throw",
+    "Bladedancer",
+    "Bladedancer",
+    "Weapon Finesse"
+  ],
+  "rr.p0059.b007": [
+    "Class powers",
+    "Bladedancer"
+  ],
+  "rr.p0059.b008": [
+    "Bladedancer",
+    "Minor Magical Research"
+  ],
+  "rr.p0059.b009": [
+    "Bladedancer",
+    "Major Magical Research"
+  ],
+  "rr.p0059.b010": [
+    "Temple",
+    "Bladedancer",
+    "morale",
+    "loyalty",
+    "Temple",
+    "Bladedancer",
+    "Bladedancer",
+    "Temple",
+    "Temple",
+    "Bladedancer",
+    "Temple",
+    "Temple"
+  ],
+  "rr.p0059.b011": [
+    "chaotic",
+    "divine spell",
+    "Bladedancer",
+    "Supreme Magical Research"
+  ],
+  "rr.p0059.b013": [
+    "Temple",
+    "Bladedancer",
+    "Judge",
+    "Bladedancer"
+  ],
+  "rr.p0059.b014": [
+    "Bladedancer"
+  ],
+  "rr.p0059.b015": [
+    "Bladedancer"
+  ],
+  "rr.p0059.b016": [
+    "Javelin",
+    "Bladedancer"
+  ],
+  "rr.p0059.b017": [
+    "Blade-Dancer",
+    "Bladedancer"
+  ],
+  "rr.p0059.b018": [
+    "chaotic",
+    "Divine Magic",
+    "Bladedancer"
+  ],
+  "rr.p0059.b019": [
+    "Judge",
+    "Bladedancer"
+  ],
+  "rr.p0060.b002": [
+    "general proficiency",
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "Bladedancer",
+    "Proficiency Progression"
+  ],
+  "rr.p0060.b003": [
+    "Weapon Focus",
+    "Unflappable Casting",
+    "Unarmed Fighting",
+    "Syncretism",
+    "Swashbuckling",
+    "Skirmishing",
+    "Seduction",
+    "Running",
+    "Quiet Magic",
+    "Prophecy",
+    "Prestidigitation",
+    "Mystic Aura",
+    "Mounted Combat",
+    "Martial Training",
+    "Magical Music",
+    "Laying on Hands",
+    "Fighting Style Specialization",
+    "Elven Bloodline",
+    "Divine Health",
+    "Divine Blessing",
+    "Diplomacy",
+    "Contemplation",
+    "Combat Trickery",
+    "Combat Reflexes",
+    "Beast Friendship",
+    "Battle Magic",
+    "Acrobatics",
+    "Bladedancer"
+  ],
+  "rr.p0060.t01.r002.c02": [
+    "Warrior Witch"
+  ],
+  "rr.p0060.t01.r002.c03": [
+    "Alchemy",
+    "Syncretism"
+  ],
+  "rr.p0060.t01.r003.c02": [
+    "Oracle"
+  ],
+  "rr.p0060.t01.r003.c03": [
+    "Theology",
+    "Prophecy"
+  ],
+  "rr.p0060.t01.r004.c02": [
+    "Bringer of Mercy"
+  ],
+  "rr.p0060.t01.r004.c03": [
+    "Healing",
+    "Laying on Hands"
+  ],
+  "rr.p0060.t01.r005.c02": [
+    "Bladesinger"
+  ],
+  "rr.p0060.t01.r005.c03": [
+    "Performance",
+    "Magical Music"
+  ],
+  "rr.p0060.t01.r005.c04": [
+    "Bladedancer"
+  ],
+  "rr.p0060.t01.r006.c02": [
+    "Temple Bladedancer"
+  ],
+  "rr.p0060.t01.r006.c03": [
+    "Performance",
+    "Swashbuckling"
+  ],
+  "rr.p0060.t01.r006.c04": [
+    "Bladedancer"
+  ],
+  "rr.p0060.t01.r007.c02": [
+    "Veiled Assassin"
+  ],
+  "rr.p0060.t01.r007.c03": [
+    "Seduction",
+    "Quiet Magic"
+  ],
+  "rr.p0060.t01.r008.c02": [
+    "Consular"
+  ],
+  "rr.p0060.t01.r008.c03": [
+    "Diplomacy",
+    "Contemplation"
+  ],
+  "rr.p0060.t01.r008.c04": [
+    "Bladedancer"
+  ],
+  "rr.p0060.t01.r009.c02": [
+    "Warrior Princess"
+  ],
+  "rr.p0060.t01.r009.c03": [
+    "Riding",
+    "Martial Training"
+  ],
+  "rr.p0060.t01.r009.c04": [
+    "Bladedancer"
+  ],
+  "rr.p0060.b006": [
+    "Warrior Princess",
+    "Martial Training",
+    "Polearm",
+    "Warrior Princess",
+    "Bladesinger"
+  ],
+  "rr.p0060.b007": [
+    "missile weapons"
+  ],
+  "rr.p0062.b002": [
+    "key attribute"
+  ],
+  "rr.p0062.b004": [
+    "Hit Dice"
+  ],
+  "rr.p0062.b006": [
+    "Hero",
+    "Prophet",
+    "Hero",
+    "Chaos",
+    "Law",
+    "Champion"
+  ],
+  "rr.p0062.b009": [
+    "Polearm",
+    "Javelin",
+    "Lance",
+    "Combat Proficiencies"
+  ],
+  "rr.p0062.b010": [
+    "Cleave",
+    "missile attacks",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0062.b012": [
+    "Class powers",
+    "Chaos",
+    "Law"
+  ],
+  "rr.p0062.b013": [
+    "Aura of Protection",
+    "true seeing",
+    "discern magic",
+    "discern good",
+    "AC",
+    "Aura of Protection"
+  ],
+  "rr.p0062.b014": [
+    "Laying on Hands",
+    "Class powers",
+    "Laying on Hands",
+    "Laying on Hands",
+    "Paralyzed",
+    "Mortal Wounds",
+    "Incapacitated",
+    "Hit Points",
+    "Laying on Hands",
+    "Law",
+    "Laying on Hands"
+  ],
+  "rr.p0062.b015": [
+    "proficiency throw",
+    "Realm",
+    "Manual of Arms"
+  ],
+  "rr.p0062.t01.r002.c02": [
+    "Bulwark"
+  ],
+  "rr.p0062.t01.r003.c02": [
+    "Warder"
+  ],
+  "rr.p0062.t01.r004.c02": [
+    "Defender"
+  ],
+  "rr.p0062.t01.r005.c02": [
+    "Protector"
+  ],
+  "rr.p0062.t01.r006.c02": [
+    "Guardian"
+  ],
+  "rr.p0062.t01.r007.c02": [
+    "Sentinel"
+  ],
+  "rr.p0062.t01.r008.c02": [
+    "Justiciar"
+  ],
+  "rr.p0062.t01.r010.c02": [
+    "Paladin Lord"
+  ],
+  "rr.p0062.t01.r011.c02": [
+    "Paladin Lord"
+  ],
+  "rr.p0062.t01.r012.c02": [
+    "Paladin Lord"
+  ],
+  "rr.p0062.t01.r013.c02": [
+    "Paladin Lord"
+  ],
+  "rr.p0062.t01.r014.c02": [
+    "Paladin Lord"
+  ],
+  "rr.p0062.t01.r015.c02": [
+    "Lord Protector"
+  ],
+  "rr.p0063.b003": [
+    "Manual of Arms",
+    "Class powers",
+    "Judge",
+    "Mercenary"
+  ],
+  "rr.p0063.b004": [
+    "Divine Health",
+    "Class powers",
+    "Sanctified Body"
+  ],
+  "rr.p0063.b005": [
+    "concentration",
+    "concentration",
+    "line of sight",
+    "chaotic",
+    "alignment",
+    "chaotic",
+    "alignment",
+    "chaotic",
+    "Sense Evil"
+  ],
+  "rr.p0063.b006": [
+    "Sensing Evil",
+    "Class powers"
+  ],
+  "rr.p0063.b008": [
+    "Class powers"
+  ],
+  "rr.p0063.b009": [
+    "Hireling",
+    "Holy Fervor"
+  ],
+  "rr.p0063.b010": [
+    "Fortress",
+    "Realm",
+    "Henchmen",
+    "Mercenary",
+    "Fortress",
+    "Fortress",
+    "Fortress",
+    "Fortress"
+  ],
+  "rr.p0064.b002": [
+    "general proficiency",
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "class proficiency",
+    "Proficiency Progression"
+  ],
+  "rr.p0064.b003": [
+    "Weapon Focus",
+    "Running",
+    "Riding",
+    "Mystic Aura",
+    "Mounted Combat",
+    "Military Strategy",
+    "Martial Training",
+    "Manual of Arms",
+    "Leadership",
+    "Laying on Hands",
+    "Illusion Resistance",
+    "Healing",
+    "Goblin-Slaying",
+    "Fighting Style Specialization",
+    "Dungeonbashing Expertise",
+    "Divine Blessing",
+    "Diplomacy",
+    "Command",
+    "Sunder",
+    "Overrun",
+    "Combat Trickery",
+    "Combat Reflexes",
+    "Combat Ferocity",
+    "Blind Fighting",
+    "Berserkergang",
+    "Beast Friendship",
+    "Alertness"
+  ],
+  "rr.p0064.t01.r002.c02": [
+    "Errant"
+  ],
+  "rr.p0064.t01.r002.c03": [
+    "Survival",
+    "Running"
+  ],
+  "rr.p0064.t01.r003.c02": [
+    "Gallant"
+  ],
+  "rr.p0064.t01.r003.c03": [
+    "Diplomacy",
+    "Mystic Aura"
+  ],
+  "rr.p0064.t01.r004.c02": [
+    "Temple Guard"
+  ],
+  "rr.p0064.t01.r004.c03": [
+    "Manual of Arms",
+    "Alertness"
+  ],
+  "rr.p0064.t01.r005.c02": [
+    "Champion"
+  ],
+  "rr.p0064.t01.r005.c03": [
+    "Theology",
+    "Divine Blessing"
+  ],
+  "rr.p0064.t01.r006.c02": [
+    "Foe Hunter"
+  ],
+  "rr.p0064.t01.r006.c03": [
+    "Military Strategy",
+    "Combat Ferocity"
+  ],
+  "rr.p0064.t01.r007.c02": [
+    "Vanguard"
+  ],
+  "rr.p0064.t01.r007.c03": [
+    "Endurance",
+    "Combat Reflexes"
+  ],
+  "rr.p0064.t01.r008.c02": [
+    "Inquisitor"
+  ],
+  "rr.p0064.t01.r008.c03": [
+    "Theology",
+    "Illusion Resistance"
+  ],
+  "rr.p0064.t01.r009.c02": [
+    "Templar"
+  ],
+  "rr.p0064.t01.r009.c03": [
+    "Riding",
+    "Command"
+  ],
+  "rr.p0064.t01.r009.c04": [
+    "Riding",
+    "Lance"
+  ],
+  "rr.p0064.b006": [
+    "Polearm",
+    "Vanguard"
+  ],
+  "rr.p0066.b002": [
+    "key attribute"
+  ],
+  "rr.p0066.b004": [
+    "Hit Dice"
+  ],
+  "rr.p0066.b006": [
+    "Temple",
+    "Sister"
+  ],
+  "rr.p0066.b007": [
+    "Temple",
+    "Matriarch"
+  ],
+  "rr.p0066.b010": [
+    "Two-Handed Weapon",
+    "Dart",
+    "Combat Proficiencies"
+  ],
+  "rr.p0066.b011": [
+    "Cleave",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0066.b013": [
+    "Judge",
+    "Purity of the Body",
+    "lay on hands",
+    "Diplomacy",
+    "Consolation",
+    "Class powers",
+    "Class powers"
+  ],
+  "rr.p0066.b014": [
+    "alignment",
+    "Consolation",
+    "Consolation"
+  ],
+  "rr.p0066.b015": [
+    "Diplomacy",
+    "Class powers",
+    "Reactions",
+    "Diplomacy"
+  ],
+  "rr.p0066.b016": [
+    "divine spell",
+    "Divine Magic"
+  ],
+  "rr.p0066.t01.r003.c02": [
+    "Novice"
+  ],
+  "rr.p0066.t01.r004.c02": [
+    "Daughter"
+  ],
+  "rr.p0066.t01.r005.c02": [
+    "Sister-Initiate"
+  ],
+  "rr.p0066.t01.r006.c02": [
+    "Sister"
+  ],
+  "rr.p0066.t01.r007.c02": [
+    "Sister-Disciple"
+  ],
+  "rr.p0066.t01.r009.c02": [
+    "Mother"
+  ],
+  "rr.p0066.t01.r010.c02": [
+    "Revered Mother"
+  ],
+  "rr.p0066.t01.r011.c02": [
+    "Matriarch"
+  ],
+  "rr.p0066.t01.r012.c02": [
+    "Matriarch"
+  ],
+  "rr.p0066.t01.r013.c02": [
+    "Matriarch"
+  ],
+  "rr.p0066.t01.r014.c02": [
+    "Matriarch"
+  ],
+  "rr.p0066.t01.r015.c02": [
+    "Matriarch"
+  ],
+  "rr.p0066.t01.r016.c02": [
+    "High Priestess"
+  ],
+  "rr.p0067.b003": [
+    "repertoire",
+    "repertoire"
+  ],
+  "rr.p0067.b004": [
+    "Laying on Hands",
+    "Class powers",
+    "Laying on Hands",
+    "Laying on Hands",
+    "Paralyzed",
+    "Mortal Wounds",
+    "Incapacitated",
+    "Hit Points",
+    "Laying on Hands",
+    "Laying on Hands"
+  ],
+  "rr.p0067.b005": [
+    "Divine Health",
+    "Class powers",
+    "Purity of the Body"
+  ],
+  "rr.p0067.b006": [
+    "proselytizing",
+    "Judge",
+    "Temple",
+    "Cloister",
+    "Theology"
+  ],
+  "rr.p0067.b009": [
+    "Theology",
+    "Class powers",
+    "proficiency throw"
+  ],
+  "rr.p0067.b011": [
+    "Class powers"
+  ],
+  "rr.p0067.b012": [
+    "Minor Magical Research"
+  ],
+  "rr.p0067.b013": [
+    "Cloister",
+    "Cloister",
+    "Cloister",
+    "Cloister",
+    "Cloister",
+    "Matriarch",
+    "Cloister",
+    "Cloister"
+  ],
+  "rr.p0068.t01.r002.c02": [
+    "Anchorite"
+  ],
+  "rr.p0068.t01.r002.c03": [
+    "Survival",
+    "Quiet Magic"
+  ],
+  "rr.p0068.t01.r003.c02": [
+    "Oracle"
+  ],
+  "rr.p0068.t01.r003.c03": [
+    "Performance",
+    "Prophecy"
+  ],
+  "rr.p0068.t01.r004.c02": [
+    "Chantress"
+  ],
+  "rr.p0068.t01.r004.c03": [
+    "Performance",
+    "Magical Music"
+  ],
+  "rr.p0068.t01.r005.c02": [
+    "Canoness"
+  ],
+  "rr.p0068.t01.r005.c03": [
+    "Theology",
+    "Contemplation"
+  ],
+  "rr.p0068.t01.r006.c02": [
+    "Medician"
+  ],
+  "rr.p0068.t01.r006.c03": [
+    "Healing",
+    "Laying on Hands"
+  ],
+  "rr.p0068.t01.r007.c02": [
+    "Beatific"
+  ],
+  "rr.p0068.t01.r007.c03": [
+    "Seduction",
+    "Mystic Aura"
+  ],
+  "rr.p0068.t01.r008.c02": [
+    "Missionary"
+  ],
+  "rr.p0068.t01.r008.c03": [
+    "Language",
+    "Mastery of Enchantments & Illusions"
+  ],
+  "rr.p0068.t01.r009.c02": [
+    "Lightbringer"
+  ],
+  "rr.p0068.t01.r009.c03": [
+    "Leadership",
+    "Divine Blessing"
+  ],
+  "rr.p0068.b004": [
+    "Major Magical Research"
+  ],
+  "rr.p0068.b005": [
+    "chaotic",
+    "Supreme Magical Research"
+  ],
+  "rr.p0068.b007": [
+    "Judge"
+  ],
+  "rr.p0068.b012": [
+    "Mother"
+  ],
+  "rr.p0068.b013": [
+    "chaotic",
+    "Divine Magic"
+  ],
+  "rr.p0068.b014": [
+    "Judge"
+  ],
+  "rr.p0068.b016": [
+    "general proficiency",
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "class proficiency",
+    "Proficiency Progression"
+  ],
+  "rr.p0068.b017": [
+    "Unflappable Casting",
+    "Syncretism",
+    "Sensing Power",
+    "Sensing Evil",
+    "Quiet Magic",
+    "Prophecy",
+    "Profession",
+    "Prestidigitation",
+    "Performance",
+    "Naturalism",
+    "Mystic Aura",
+    "Mastery of Enchantments & Illusions",
+    "Magical Music",
+    "Magical Engineering",
+    "Loremastery",
+    "Laying on Hands",
+    "Knowledge",
+    "Illusion Resistance",
+    "Healing",
+    "Familiar",
+    "Divine Blessing",
+    "Contemplation",
+    "Bright Lore of Aura",
+    "Beast Friendship",
+    "Armor Training",
+    "Arcane Dabbling",
+    "Animal Husbandry",
+    "Alchemy"
+  ],
+  "rr.p0070.b002": [
+    "key attribute"
+  ],
+  "rr.p0070.b004": [
+    "Hit Dice"
+  ],
+  "rr.p0070.b006": [
+    "Witch Doctor",
+    "Caster",
+    "Druid",
+    "Totem Animal"
+  ],
+  "rr.p0070.b009": [
+    "Two-Handed Weapon",
+    "Combat Proficiencies"
+  ],
+  "rr.p0070.b010": [
+    "Cleave",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0070.b012": [
+    "Class powers"
+  ],
+  "rr.p0070.b013": [
+    "Judge",
+    "chaotic",
+    "Commune with Spirits",
+    "Judge",
+    "Commune with Spirits",
+    "Judge",
+    "Commune with Spirits"
+  ],
+  "rr.p0070.t01.r003.c02": [
+    "Spirit Whisperer"
+  ],
+  "rr.p0070.t01.r004.c02": [
+    "Village Healer"
+  ],
+  "rr.p0070.t01.r005.c02": [
+    "Tribal Priest"
+  ],
+  "rr.p0070.t01.r006.c02": [
+    "Medicine Man"
+  ],
+  "rr.p0070.t01.r007.c02": [
+    "Totem Bearer"
+  ],
+  "rr.p0070.t01.r008.c02": [
+    "Witch Doctor"
+  ],
+  "rr.p0070.t01.r009.c02": [
+    "Spirit Walker"
+  ],
+  "rr.p0070.t01.r010.c02": [
+    "Tribal Elder"
+  ],
+  "rr.p0070.t01.r016.c02": [
+    "Grandfather of Totems"
+  ],
+  "rr.p0071.b003": [
+    "repertoire",
+    "repertoire",
+    "divine spell",
+    "Divine Magic"
+  ],
+  "rr.p0071.b004": [
+    "Theology",
+    "Class powers",
+    "proficiency throw",
+    "Tradition",
+    "proselytizing",
+    "Judge",
+    "Tradition",
+    "Tribal Traditions"
+  ],
+  "rr.p0071.b005": [
+    "Tradition",
+    "Totem Animal",
+    "Judge",
+    "Totem Animal",
+    "Totem Animal",
+    "Totem Animal",
+    "Totem Animal"
+  ],
+  "rr.p0071.b006": [
+    "Totem Animal",
+    "Totem Animal",
+    "key attribute"
+  ],
+  "rr.p0071.b007": [
+    "Totem Animal",
+    "Tradition",
+    "speak with beasts",
+    "Totem Animal",
+    "Totem Animal"
+  ],
+  "rr.p0071.b008": [
+    "Totem Animal",
+    "Combat Reflexes",
+    "Totem Animal",
+    "Totem Animal"
+  ],
+  "rr.p0071.t02.r002.c03": [
+    "Berserkergang"
+  ],
+  "rr.p0071.t02.r002.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r003.c03": [
+    "Running"
+  ],
+  "rr.p0071.t02.r003.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r004.c03": [
+    "Combat Ferocity"
+  ],
+  "rr.p0071.t02.r004.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r005.c03": [
+    "Divine Blessing"
+  ],
+  "rr.p0071.t02.r005.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r006.c03": [
+    "Alertness"
+  ],
+  "rr.p0071.t02.r006.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r007.c03": [
+    "Command"
+  ],
+  "rr.p0071.t02.r007.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r008.c03": [
+    "Contemplation"
+  ],
+  "rr.p0071.t02.r008.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r009.c03": [
+    "Climbing"
+  ],
+  "rr.p0071.t02.r009.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r010.c03": [
+    "Mounted Combat"
+  ],
+  "rr.p0071.t02.r010.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r011.c03": [
+    "Weapon Focus"
+  ],
+  "rr.p0071.t02.r011.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r012.c03": [
+    "Combat Trickery"
+  ],
+  "rr.p0071.t02.r012.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r013.c03": [
+    "Divine Health"
+  ],
+  "rr.p0071.t02.r013.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r014.c03": [
+    "Prestidigitation"
+  ],
+  "rr.p0071.t02.r014.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r015.c03": [
+    "Quiet Magic"
+  ],
+  "rr.p0071.t02.r015.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r016.c03": [
+    "Sensing Power"
+  ],
+  "rr.p0071.t02.r016.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r017.c03": [
+    "Laying on Hands"
+  ],
+  "rr.p0071.t02.r017.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r018.c03": [
+    "Combat Reflexes"
+  ],
+  "rr.p0071.t02.r018.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0071.t02.r019.c03": [
+    "Ambushing"
+  ],
+  "rr.p0071.t02.r019.c04": [
+    "HD",
+    "AC"
+  ],
+  "rr.p0072.b001": [
+    "Hit Dice",
+    "Hit Dice",
+    "HD",
+    "Totem Animal",
+    "Hit Dice",
+    "HD",
+    "hp",
+    "HD",
+    "Hit Dice",
+    "Totem Animal"
+  ],
+  "rr.p0072.b002": [
+    "HD",
+    "HD",
+    "attack throw"
+  ],
+  "rr.p0072.b003": [
+    "HD",
+    "HD",
+    "AC"
+  ],
+  "rr.p0072.b004": [
+    "Judge",
+    "HD"
+  ],
+  "rr.p0072.b005": [
+    "Judge",
+    "HD",
+    "AC",
+    "HD",
+    "HD",
+    "Totem Animal",
+    "HD",
+    "Totem Animal",
+    "Judge",
+    "HD",
+    "AC",
+    "HD",
+    "AC",
+    "HD",
+    "HD",
+    "Totem Animal",
+    "HD",
+    "AC",
+    "Totem Animal"
+  ],
+  "rr.p0072.t01.r002.c02": [
+    "Pariah"
+  ],
+  "rr.p0072.t01.r002.c03": [
+    "Quiet Magic",
+    "Survival",
+    "Syncretism"
+  ],
+  "rr.p0072.t01.r002.c04": [
+    "Totem Animal"
+  ],
+  "rr.p0072.t01.r003.c02": [
+    "Wise Man"
+  ],
+  "rr.p0072.t01.r003.c03": [
+    "Sensing Power",
+    "Knowledge",
+    "Loremastery"
+  ],
+  "rr.p0072.t01.r003.c04": [
+    "Totem Animal"
+  ],
+  "rr.p0072.t01.r004.c02": [
+    "Warchanter"
+  ],
+  "rr.p0072.t01.r004.c03": [
+    "Berserkergang",
+    "Performance",
+    "Battle Magic"
+  ],
+  "rr.p0072.t01.r004.c04": [
+    "Totem Animal"
+  ],
+  "rr.p0072.t01.r005.c02": [
+    "Runecaster"
+  ],
+  "rr.p0072.t01.r005.c03": [
+    "Ambushing",
+    "Elementalism"
+  ],
+  "rr.p0072.t01.r005.c04": [
+    "Totem Animal"
+  ],
+  "rr.p0072.t01.r006.c02": [
+    "Druid"
+  ],
+  "rr.p0072.t01.r006.c03": [
+    "Divine Blessing",
+    "Naturalism",
+    "Beast Friendship"
+  ],
+  "rr.p0072.t01.r006.c04": [
+    "Druid",
+    "Totem Animal"
+  ],
+  "rr.p0072.t01.r007.c02": [
+    "Snake Handler"
+  ],
+  "rr.p0072.t01.r007.c03": [
+    "Laying on Hands",
+    "Healing",
+    "Divine Health"
+  ],
+  "rr.p0072.t01.r007.c04": [
+    "Rod",
+    "Totem Animal"
+  ],
+  "rr.p0072.t01.r008.c02": [
+    "Spirit Raiser"
+  ],
+  "rr.p0072.t01.r008.c03": [
+    "Command",
+    "Leadership",
+    "Sensing Evil"
+  ],
+  "rr.p0072.t01.r008.c04": [
+    "Totem Animal"
+  ],
+  "rr.p0072.t01.r009.c02": [
+    "Nomad Shaman"
+  ],
+  "rr.p0072.t01.r009.c03": [
+    "Mounted Combat",
+    "Riding",
+    "Unflappable Casting"
+  ],
+  "rr.p0072.t01.r009.c04": [
+    "Totem Animal"
+  ],
+  "rr.p0072.b008": [
+    "Druid",
+    "template",
+    "Totem Animal"
+  ],
+  "rr.p0072.b009": [
+    "Nomad Shaman"
+  ],
+  "rr.p0073.b001": [
+    "Totem Animal",
+    "Judge",
+    "HD",
+    "Totem Animal",
+    "Totem Animal",
+    "Totem Animal",
+    "Totem Animal",
+    "Totem Animal",
+    "Hit Points",
+    "Death",
+    "saving throw",
+    "Totem Animal"
+  ],
+  "rr.p0073.b003": [
+    "Class powers"
+  ],
+  "rr.p0073.b004": [
+    "Spiritual Ritual",
+    "Spiritual Ritual",
+    "Contemplation",
+    "Spiritual Ritual",
+    "Spiritual Ritual",
+    "Spiritual Ritual"
+  ],
+  "rr.p0073.b005": [
+    "Minor Magical Research"
+  ],
+  "rr.p0073.b006": [
+    "Totem Animal",
+    "Totem Animal",
+    "Shapechanging"
+  ],
+  "rr.p0073.b007": [
+    "Totem Animal",
+    "Hit Dice",
+    "attack throw",
+    "Hit Points",
+    "Hit Dice",
+    "Totem Animal",
+    "Armor Class",
+    "Totem Animal"
+  ],
+  "rr.p0073.b008": [
+    "Spiritwalking",
+    "Spiritwalking",
+    "Totem Animal",
+    "Spiritwalking",
+    "Spiritwalking"
+  ],
+  "rr.p0073.b009": [
+    "Major Magical Research"
+  ],
+  "rr.p0073.b010": [
+    "Medicine Lodge",
+    "Medicine Lodge",
+    "Medicine Lodge"
+  ],
+  "rr.p0073.b011": [
+    "Medicine Lodge",
+    "loyalty",
+    "morale",
+    "loyalty",
+    "Medicine Lodge",
+    "Medicine Lodge"
+  ],
+  "rr.p0073.b012": [
+    "Supreme Magical Research"
+  ],
+  "rr.p0073.b014": [
+    "Tradition",
+    "Tradition",
+    "Judge",
+    "Judge",
+    "Tradition",
+    "Tradition"
+  ],
+  "rr.p0073.b019": [
+    "Divine Magic"
+  ],
+  "rr.p0073.b020": [
+    "Judge",
+    "Tribal Traditions"
+  ],
+  "rr.p0073.b022": [
+    "general proficiency",
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "class proficiency",
+    "Proficiency Progression"
+  ],
+  "rr.p0073.b023": [
+    "Weapon Focus",
+    "Unflappable Casting",
+    "Tracking",
+    "Theology",
+    "Syncretism",
+    "Sensing Power",
+    "Sensing Evil",
+    "Quiet Magic",
+    "Prestidigitation",
+    "Passing Without Trace",
+    "Naturalism",
+    "Magical Music",
+    "Magical Engineering",
+    "Loremastery",
+    "Leadership",
+    "Laying on Hands",
+    "Healing",
+    "Fighting Style Specialization",
+    "Elementalism",
+    "Divine Health",
+    "Divine Blessing",
+    "Diplomacy",
+    "Command",
+    "Berserkergang",
+    "Beast Friendship",
+    "Battle Magic",
+    "Animal Training",
+    "Animal Husbandry"
+  ],
+  "rr.p0074.b002": [
+    "key attribute"
+  ],
+  "rr.p0074.b004": [
+    "Hit Dice"
+  ],
+  "rr.p0074.b006": [
+    "Sanctum",
+    "Warlock",
+    "Warlock",
+    "Warlock",
+    "Warlock"
+  ],
+  "rr.p0074.b007": [
+    "Warlock",
+    "Warlock",
+    "Knowledge",
+    "Warlock"
+  ],
+  "rr.p0074.b009": [
+    "Vulnerable",
+    "Warlock"
+  ],
+  "rr.p0074.b010": [
+    "Two-Handed Weapon",
+    "Dart",
+    "Warlock",
+    "Combat Proficiencies"
+  ],
+  "rr.p0074.b011": [
+    "Cleave",
+    "Warlock",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0074.b013": [
+    "Class powers",
+    "Warlock"
+  ],
+  "rr.p0074.b014": [
+    "Warlock",
+    "repertoire",
+    "repertoire",
+    "Warlock",
+    "Warlock",
+    "Warlock",
+    "arcane spell",
+    "Warlock",
+    "Arcane Magic"
+  ],
+  "rr.p0074.t01.r003.c02": [
+    "Medium"
+  ],
+  "rr.p0074.t01.r004.c02": [
+    "Occultist"
+  ],
+  "rr.p0074.t01.r005.c02": [
+    "Spiritualist"
+  ],
+  "rr.p0074.t01.r006.c02": [
+    "Hexgiver"
+  ],
+  "rr.p0074.t01.r007.c02": [
+    "Cursebringer"
+  ],
+  "rr.p0074.t01.r008.c02": [
+    "Maleficus"
+  ],
+  "rr.p0074.t01.r009.c02": [
+    "Infernalist"
+  ],
+  "rr.p0074.t01.r010.c02": [
+    "Warlock"
+  ],
+  "rr.p0074.t01.r011.c02": [
+    "Dread Lord"
+  ],
+  "rr.p0074.t01.r012.c02": [
+    "Dread Lord"
+  ],
+  "rr.p0074.t01.r013.c02": [
+    "Dread Lord"
+  ],
+  "rr.p0074.t01.r014.c02": [
+    "Dread Lord"
+  ],
+  "rr.p0074.t01.r015.c02": [
+    "Dread Lord"
+  ],
+  "rr.p0074.t01.r016.c02": [
+    "Dread King"
+  ],
+  "rr.p0074.t02.r004.c01": [
+    "Transmogrification"
+  ],
+  "rr.p0075.b003": [
+    "Judge",
+    "Dark Path",
+    "Warlock",
+    "Class powers",
+    "Warlock",
+    "Dark Path",
+    "Transmogrification",
+    "Dark Path",
+    "Dark Path",
+    "Warlock",
+    "Dark Path"
+  ],
+  "rr.p0075.b004": [
+    "Occultism",
+    "Knowledge",
+    "Class powers",
+    "proficiency throw",
+    "Occultism",
+    "Warlock",
+    "Occultism"
+  ],
+  "rr.p0075.b006": [
+    "Class powers",
+    "Warlock"
+  ],
+  "rr.p0075.b007": [
+    "Warlock",
+    "Dark Path",
+    "Dark Path II"
+  ],
+  "rr.p0075.b008": [
+    "Warlock",
+    "Dark Path",
+    "Dark Path III"
+  ],
+  "rr.p0075.b009": [
+    "Warlock",
+    "Minor Magical Research"
+  ],
+  "rr.p0075.b010": [
+    "Warlock",
+    "Dark Path",
+    "Dark Path IV"
+  ],
+  "rr.p0075.b011": [
+    "Warlock",
+    "Dark Path",
+    "Dark Path V"
+  ],
+  "rr.p0075.b012": [
+    "Warlock",
+    "Major Magical Research"
+  ],
+  "rr.p0075.b013": [
+    "Sanctum",
+    "Sanctum",
+    "Warlock",
+    "Henchmen",
+    "Apprentice",
+    "Apprentice",
+    "Apprentice",
+    "Warlock",
+    "Sanctum",
+    "Apprentice",
+    "Apprentice",
+    "Sanctum",
+    "Warlock",
+    "Sanctum",
+    "Sanctum"
+  ],
+  "rr.p0075.b014": [
+    "Warlock",
+    "Dark Path",
+    "Dark Path VI"
+  ],
+  "rr.p0075.b015": [
+    "Warlock",
+    "Warlock",
+    "Supreme Magical Research"
+  ],
+  "rr.p0075.b018": [
+    "concentration",
+    "Spells",
+    "caster level",
+    "Mastery of Conjuration & Summoning",
+    "Conjure Dark Powers",
+    "caster level",
+    "concentration",
+    "Spells",
+    "saving throw",
+    "concentration",
+    "caster level",
+    "summon shadow",
+    "conjure fiend",
+    "Conjure Dark Powers"
+  ],
+  "rr.p0075.b019": [
+    "Theology",
+    "Theology"
+  ],
+  "rr.p0075.b020": [
+    "Conjure Hellion",
+    "Conjure Hellion"
+  ],
+  "rr.p0075.b021": [
+    "repertoire",
+    "Expanded Repertoire",
+    "Expanded Repertoire"
+  ],
+  "rr.p0075.b022": [
+    "concentration",
+    "Words of Command and Obedience"
+  ],
+  "rr.p0075.b023": [
+    "Arcane power",
+    "Arcane power",
+    "Arcane power",
+    "Arcane power",
+    "Power of Sacrifice",
+    "Bargaining",
+    "Power of Sacrifice"
+  ],
+  "rr.p0076.b002": [
+    "caster level",
+    "Necromancer",
+    "Crusader",
+    "Black Lore of Zahar",
+    "Secrets of the Dark Arts",
+    "Necromancer",
+    "caster level",
+    "Necromancer",
+    "animate undead",
+    "Necromancer",
+    "Crusader",
+    "chaotic",
+    "Necromancer",
+    "Secrets of the Dark Arts"
+  ],
+  "rr.p0076.b003": [
+    "Healing",
+    "Necromancer",
+    "Mortuary Science"
+  ],
+  "rr.p0076.b004": [
+    "Speak with Dead",
+    "Necromancer",
+    "Speak with Dead"
+  ],
+  "rr.p0076.b005": [
+    "Necromancer",
+    "repertoire",
+    "Expanded Repertoire",
+    "Necromancer",
+    "Expanded Repertoire"
+  ],
+  "rr.p0076.b006": [
+    "Lordship Over the Undead",
+    "Necromancer",
+    "Lordship Over the Undead"
+  ],
+  "rr.p0076.b007": [
+    "Necromancer",
+    "Secrets of Life and Death",
+    "Necromancer",
+    "Secrets of Life and Death"
+  ],
+  "rr.p0076.b011": [
+    "caster level",
+    "Transmogrification",
+    "Transmogrification",
+    "Transmogrification",
+    "Transmogrification",
+    "caster level",
+    "Transmogrification",
+    "Transmogrification",
+    "Grotesque Arts of Transformation"
+  ],
+  "rr.p0076.b012": [
+    "Alchemy",
+    "Alchemy",
+    "Transmogrification",
+    "Alchemy"
+  ],
+  "rr.p0076.b013": [
+    "Skinchange",
+    "Skinchange"
+  ],
+  "rr.p0076.b014": [
+    "Transmogrification",
+    "repertoire",
+    "Expanded Repertoire",
+    "Expanded Repertoire"
+  ],
+  "rr.p0076.b015": [
+    "HD",
+    "Hit Dice",
+    "AC",
+    "Totem Animal",
+    "Hideous Servant",
+    "Hideous Servant",
+    "Hideous Servant"
+  ],
+  "rr.p0076.b016": [
+    "Shape Flesh and Bone"
+  ],
+  "rr.p0076.b018": [
+    "Judge",
+    "Warlock",
+    "Warlock",
+    "Dark Path"
+  ],
+  "rr.p0076.b019": [
+    "alignment",
+    "lawful",
+    "Reactions",
+    "Warlock"
+  ],
+  "rr.p0076.b020": [
+    "Reactions",
+    "alignment",
+    "lawful",
+    "Reactions",
+    "Warlock"
+  ],
+  "rr.p0076.b021": [
+    "Warlock",
+    "Enervated"
+  ],
+  "rr.p0076.b022": [
+    "Beast Friendship",
+    "Warlock",
+    "Reactions",
+    "Warlock",
+    "Class powers",
+    "Beast Friendship",
+    "Reactions",
+    "Warlock",
+    "Warlock"
+  ],
+  "rr.p0076.b023": [
+    "Listening",
+    "Warlock"
+  ],
+  "rr.p0077.t01.r002.c02": [
+    "Necromancer"
+  ],
+  "rr.p0077.t01.r002.c03": [
+    "Mapping",
+    "Caving",
+    "Quiet Magic"
+  ],
+  "rr.p0077.t01.r002.c04": [
+    "frighten humanoid",
+    "choking grip",
+    "spellbook"
+  ],
+  "rr.p0077.t01.r003.c03": [
+    "Signaling",
+    "Folkways"
+  ],
+  "rr.p0077.t01.r003.c04": [
+    "summon manes",
+    "Conjure Cacodemon Spawn",
+    "spellbook"
+  ],
+  "rr.p0077.t01.r004.c03": [
+    "Streetwise",
+    "Disguise",
+    "Transmogrification"
+  ],
+  "rr.p0077.t01.r004.c04": [
+    "Disguise",
+    "silent step",
+    "chameleon",
+    "spellbook"
+  ],
+  "rr.p0077.t01.r005.c02": [
+    "Necromancer",
+    "Mad"
+  ],
+  "rr.p0077.t01.r005.c03": [
+    "Healing",
+    "Healing",
+    "Black Lore of Zahar"
+  ],
+  "rr.p0077.t01.r005.c04": [
+    "Slicing Blow",
+    "unliving puppet",
+    "spellbook"
+  ],
+  "rr.p0077.t01.r006.c03": [
+    "Knowledge",
+    "Collegiate Wizardry",
+    "Loremastery"
+  ],
+  "rr.p0077.t01.r006.c04": [
+    "discern magic",
+    "summon manes",
+    "spellbook"
+  ],
+  "rr.p0077.t01.r007.c03": [
+    "Alchemy",
+    "Alchemy",
+    "Elementalism"
+  ],
+  "rr.p0077.t01.r007.c04": [
+    "slickness",
+    "sharpness",
+    "spellbook"
+  ],
+  "rr.p0077.t01.r008.c02": [
+    "Necromancer"
+  ],
+  "rr.p0077.t01.r008.c03": [
+    "Siege Engineering",
+    "Military Strategy",
+    "Battle Magic"
+  ],
+  "rr.p0077.t01.r008.c04": [
+    "counterspell",
+    "Slicing Blow",
+    "spellbook"
+  ],
+  "rr.p0077.t01.r009.c03": [
+    "Leadership",
+    "Theology",
+    "Mystic Aura"
+  ],
+  "rr.p0077.t01.r009.c04": [
+    "Beguile Humanoid",
+    "spellbook"
+  ],
+  "rr.p0077.b003": [
+    "template",
+    "template",
+    "template",
+    "Mad"
+  ],
+  "rr.p0077.b005": [
+    "Warlock",
+    "Judge",
+    "Warlock",
+    "Warlock",
+    "saving throw",
+    "Mad",
+    "Spells",
+    "saving throw",
+    "Warlock",
+    "Mad"
+  ],
+  "rr.p0077.b006": [
+    "Warlock"
+  ],
+  "rr.p0077.b007": [
+    "Warlock"
+  ],
+  "rr.p0077.b008": [
+    "Warlock"
+  ],
+  "rr.p0077.b009": [
+    "Hit Points",
+    "Warlock",
+    "Warlock"
+  ],
+  "rr.p0077.b011": [
+    "general proficiency",
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "class proficiency",
+    "Warlock",
+    "Proficiency Progression"
+  ],
+  "rr.p0077.b012": [
+    "Unflappable Casting",
+    "Transmogrification",
+    "Soothsaying",
+    "Sensing Power",
+    "Sensing Good",
+    "Quiet Magic",
+    "Prestidigitation",
+    "Poisoning",
+    "Naturalism",
+    "Mystic Aura",
+    "Mastery of Conjuration & Summoning",
+    "Mastery of Enchantments & Illusions",
+    "Magical Engineering",
+    "Loremastery",
+    "Language",
+    "Knowledge",
+    "Illusion Resistance",
+    "Familiar",
+    "Experimenting",
+    "Expanded Repertoire",
+    "Elven Bloodline",
+    "Elementalism",
+    "Divine Blessing",
+    "Counterspelling",
+    "Black Lore of Zahar",
+    "Beast Friendship",
+    "Battle Magic",
+    "Alchemy",
+    "Warlock"
+  ],
+  "rr.p0078.b002": [
+    "key attribute"
+  ],
+  "rr.p0078.b004": [
+    "Hit Dice"
+  ],
+  "rr.p0078.b006": [
+    "Witch",
+    "Knowledge",
+    "Ancient Pacts",
+    "Knowledge",
+    "Divine Magic",
+    "Witch",
+    "Witch",
+    "Witch"
+  ],
+  "rr.p0078.b007": [
+    "Witch",
+    "Tradition",
+    "Witch",
+    "Witch",
+    "Witch",
+    "Priest"
+  ],
+  "rr.p0078.b009": [
+    "Witch"
+  ],
+  "rr.p0078.b010": [
+    "Two-Handed Weapon",
+    "Dart",
+    "Witch",
+    "Combat Proficiencies"
+  ],
+  "rr.p0078.b011": [
+    "Cleave",
+    "Witch",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0078.b013": [
+    "Class powers",
+    "Witch"
+  ],
+  "rr.p0078.b014": [
+    "Caster",
+    "arcane spell",
+    "repertoire",
+    "Witch",
+    "Witch",
+    "Caster",
+    "divine spell",
+    "Witch",
+    "Ancient Pacts",
+    "Studious Divine Magic"
+  ],
+  "rr.p0078.b015": [
+    "Tradition",
+    "Judge",
+    "Tradition",
+    "Tradition",
+    "Witch",
+    "Tradition"
+  ],
+  "rr.p0078.t01.r003.c02": [
+    "Initiate"
+  ],
+  "rr.p0078.t01.r004.c02": [
+    "Seeress"
+  ],
+  "rr.p0078.t01.r005.c02": [
+    "Siren"
+  ],
+  "rr.p0078.t01.r006.c02": [
+    "Pythoness"
+  ],
+  "rr.p0078.t01.r007.c02": [
+    "Sibyl"
+  ],
+  "rr.p0078.t01.r008.c02": [
+    "Enchantress"
+  ],
+  "rr.p0078.t01.r009.c02": [
+    "Sorceress"
+  ],
+  "rr.p0078.t01.r010.c02": [
+    "Incantrix"
+  ],
+  "rr.p0078.t01.r011.c02": [
+    "Witch"
+  ],
+  "rr.p0078.t01.r012.c02": [
+    "Witch"
+  ],
+  "rr.p0078.t01.r013.c02": [
+    "Witch"
+  ],
+  "rr.p0078.t01.r014.c02": [
+    "Witch"
+  ],
+  "rr.p0078.t01.r015.c02": [
+    "Witch"
+  ],
+  "rr.p0078.t01.r016.c02": [
+    "Witch Queen"
+  ],
+  "rr.p0078.b019": [
+    "Tradition",
+    "Theology",
+    "Class powers",
+    "proficiency throw",
+    "Tradition",
+    "proselytizing"
+  ],
+  "rr.p0079.t03.r003.c03": [
+    "Seduction"
+  ],
+  "rr.p0079.t03.r004.c03": [
+    "Witch"
+  ],
+  "rr.p0079.b007": [
+    "Witch",
+    "Class powers",
+    "Judge",
+    "Witch",
+    "Village Wisdom"
+  ],
+  "rr.p0079.b009": [
+    "Class powers",
+    "Witch"
+  ],
+  "rr.p0079.b010": [
+    "Witch",
+    "Brew Potions"
+  ],
+  "rr.p0079.b011": [
+    "Witch",
+    "Minor Magical Research"
+  ],
+  "rr.p0079.b012": [
+    "Witch",
+    "Scribe Scrolls"
+  ],
+  "rr.p0079.b013": [
+    "Witch’s Cottage",
+    "Witch",
+    "Henchmen",
+    "Witch",
+    "Witch",
+    "Cottage",
+    "Cottage",
+    "Witch",
+    "Cottage",
+    "Witch’s Cottage"
+  ],
+  "rr.p0079.b014": [
+    "Witch",
+    "Major Magical Research"
+  ],
+  "rr.p0079.b015": [
+    "chaotic",
+    "Witch",
+    "Witch",
+    "Supreme Magical Research"
+  ],
+  "rr.p0079.b018": [
+    "Witch",
+    "Healing",
+    "proficiency throw",
+    "Naturalism",
+    "Naturalism",
+    "Tradition",
+    "Tradition",
+    "Witch",
+    "Traditional Medicine"
+  ],
+  "rr.p0079.b019": [
+    "Witch"
+  ],
+  "rr.p0079.b020": [
+    "Naturalism",
+    "Alchemy",
+    "Healing",
+    "Witch",
+    "Healing Arts"
+  ],
+  "rr.p0079.b021": [
+    "Second Sight",
+    "Witch",
+    "Witch",
+    "Second Sight"
+  ],
+  "rr.p0079.b022": [
+    "scry",
+    "telepathy",
+    "clairaudiency",
+    "Witch",
+    "repertoire",
+    "scry",
+    "Witch",
+    "Magic Mirror"
+  ],
+  "rr.p0080.b002": [
+    "Witch",
+    "Bedazzling Glamour"
+  ],
+  "rr.p0080.b003": [
+    "Mystic Aura",
+    "Reactions",
+    "Witch"
+  ],
+  "rr.p0080.b004": [
+    "Witch"
+  ],
+  "rr.p0080.b005": [
+    "Reactions",
+    "permanent wound"
+  ],
+  "rr.p0080.b006": [
+    "Witch",
+    "Incapacitated",
+    "Witch",
+    "concentration",
+    "Witch"
+  ],
+  "rr.p0080.b007": [
+    "Intimidation",
+    "Diplomacy",
+    "Seduction",
+    "Seduction",
+    "Witch",
+    "Decadent Arts"
+  ],
+  "rr.p0080.b008": [
+    "Mastery of Enchantments & Illusions",
+    "Quiet Magic",
+    "Witch",
+    "Witch",
+    "Subtle Beguilement"
+  ],
+  "rr.p0080.b009": [
+    "Spell-like",
+    "Evil Eye",
+    "Spell-like",
+    "bestow curse",
+    "Witch",
+    "Evil Eye"
+  ],
+  "rr.p0080.t01.r002.c03": [
+    "Survival",
+    "Intimidation",
+    "Familiar"
+  ],
+  "rr.p0080.t01.r002.c04": [
+    "sanctuary",
+    "frighten beast",
+    "Sling Stone",
+    "Familiar"
+  ],
+  "rr.p0080.t01.r003.c03": [
+    "Navigation",
+    "Survival",
+    "Passing Without Trace"
+  ],
+  "rr.p0080.t01.r003.c04": [
+    "frighten beast",
+    "locate animal or plant",
+    "call of the wolf"
+  ],
+  "rr.p0080.t01.r004.c02": [
+    "Oracle"
+  ],
+  "rr.p0080.t01.r004.c03": [
+    "Diplomacy",
+    "Knowledge",
+    "Prophecy"
+  ],
+  "rr.p0080.t01.r004.c04": [
+    "discern evil",
+    "tenebrosity",
+    "Bane-rune"
+  ],
+  "rr.p0080.t01.r005.c02": [
+    "Witch"
+  ],
+  "rr.p0080.t01.r005.c03": [
+    "Folkways",
+    "Healing",
+    "Laying on Hands"
+  ],
+  "rr.p0080.t01.r005.c04": [
+    "salving rest",
+    "purify food and water",
+    "cure light injury"
+  ],
+  "rr.p0080.t01.r006.c03": [
+    "Seduction",
+    "Performance",
+    "Magical Music"
+  ],
+  "rr.p0080.t01.r006.c04": [
+    "counterspell",
+    "angelic choir",
+    "remove fear"
+  ],
+  "rr.p0080.t01.r007.c03": [
+    "Alchemy",
+    "Knowledge",
+    "Black Lore of Zahar"
+  ],
+  "rr.p0080.t01.r007.c04": [
+    "Bane-rune",
+    "allure",
+    "unliving puppet"
+  ],
+  "rr.p0080.t01.r008.c03": [
+    "Healing",
+    "Knowledge",
+    "Loremastery"
+  ],
+  "rr.p0080.t01.r008.c04": [
+    "cure light injury",
+    "predict weather",
+    "counterspell"
+  ],
+  "rr.p0080.t01.r009.c03": [
+    "Leadership",
+    "Riding",
+    "Elven Bloodline"
+  ],
+  "rr.p0080.t01.r009.c04": [
+    "allure",
+    "holy circle",
+    "word of command"
+  ],
+  "rr.p0080.b012": [
+    "template",
+    "template",
+    "Tradition"
+  ],
+  "rr.p0081.b002": [
+    "Reactions",
+    "Henchmen",
+    "Henchmen",
+    "Beast Friendship",
+    "Witch",
+    "Animal Training",
+    "Henchmen",
+    "Henchmen",
+    "Reactions",
+    "Witch",
+    "Language",
+    "Language",
+    "proficiency throw",
+    "Witch",
+    "Friend of Birds and Beasts"
+  ],
+  "rr.p0081.b003": [
+    "Healing",
+    "Alchemy",
+    "Naturalism",
+    "Witch",
+    "Natural Arts"
+  ],
+  "rr.p0081.b004": [
+    "Bewitched",
+    "Reactions",
+    "speak with beasts",
+    "Witch",
+    "Close Friend of Birds and Beasts"
+  ],
+  "rr.p0081.b005": [
+    "caster level",
+    "forest enchantment",
+    "Witch",
+    "forest enchantment",
+    "Witch",
+    "Enchanted Forest"
+  ],
+  "rr.p0081.b007": [
+    "Witch",
+    "Witch",
+    "Witch",
+    "Witch"
+  ],
+  "rr.p0081.b008": [
+    "alignment",
+    "lawful",
+    "Tradition",
+    "Witch",
+    "Witch",
+    "spell repertoire",
+    "Tradition",
+    "alignment",
+    "Judge",
+    "Witch"
+  ],
+  "rr.p0081.b009": [
+    "Witch"
+  ],
+  "rr.p0081.b010": [
+    "Witch"
+  ],
+  "rr.p0081.b011": [
+    "Witch"
+  ],
+  "rr.p0081.b012": [
+    "Witch"
+  ],
+  "rr.p0081.b013": [
+    "Witch"
+  ],
+  "rr.p0081.b014": [
+    "miracle",
+    "wish",
+    "Witch"
+  ],
+  "rr.p0081.b015": [
+    "Judge",
+    "Caster",
+    "Witch",
+    "Class powers",
+    "Judge",
+    "Witch"
+  ],
+  "rr.p0081.b017": [
+    "general proficiency",
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "class proficiency",
+    "Witch",
+    "Proficiency Progression"
+  ],
+  "rr.p0081.b018": [
+    "Unflappable Casting",
+    "Transmogrification",
+    "Soothsaying",
+    "Sensing Power",
+    "Quiet Magic",
+    "Prophecy",
+    "Prestidigitation",
+    "Poisoning",
+    "Passing Without Trace",
+    "Naturalism",
+    "Mystic Aura",
+    "Mastery of Enchantments & Illusions",
+    "Magical Music",
+    "Magical Engineering",
+    "Loremastery",
+    "Laying on Hands",
+    "Illusion Resistance",
+    "Familiar",
+    "Expanded Repertoire",
+    "Elven Bloodline",
+    "Elementalism",
+    "Divine Health",
+    "Divine Blessing",
+    "Contemplation",
+    "Black Lore of Zahar",
+    "Beast Friendship",
+    "Arcane Dabbling",
+    "Alchemy",
+    "Witch"
+  ],
+  "rr.p0082.b003": [
+    "key attribute"
+  ],
+  "rr.p0082.b005": [
+    "Hit Dice"
+  ],
+  "rr.p0082.b007": [
+    "Dwarven Craftpriest",
+    "Dwarven Craftpriest",
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0082.b009": [
+    "Dwarven Vaultguard",
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0082.b010": [
+    "Two-Handed Weapon",
+    "Dwarven Craftpriest",
+    "Combat Proficiencies"
+  ],
+  "rr.p0082.b011": [
+    "Cleave",
+    "Dwarven Craftpriest",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0082.b013": [
+    "Class powers",
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0082.b014": [
+    "Dwarven Craftpriest",
+    "Dwarven Craftpriest",
+    "Attention to Detail"
+  ],
+  "rr.p0082.b015": [
+    "Crafting",
+    "Class powers",
+    "proficiency throw",
+    "Dwarven Craftpriest",
+    "Apprentice",
+    "Dwarven Craftpriest",
+    "Dwarven Craftpriest",
+    "Crafting"
+  ],
+  "rr.p0082.b016": [
+    "Rebuke undead",
+    "Dwarven Craftpriest",
+    "Rebuke undead"
+  ],
+  "rr.p0082.b017": [
+    "Dwarven Craftpriest",
+    "Dwarven Craftpriest",
+    "Caster",
+    "divine spell",
+    "Dwarven Craftpriest",
+    "Studious Divine Magic"
+  ],
+  "rr.p0082.b018": [
+    "arcane spell",
+    "repertoire"
+  ],
+  "rr.p0082.t01.r003.c02": [
+    "Craft-Catechist"
+  ],
+  "rr.p0082.t01.r004.c02": [
+    "Craft-Acolyte"
+  ],
+  "rr.p0082.t01.r005.c02": [
+    "Craft-Priest"
+  ],
+  "rr.p0082.t01.r006.c02": [
+    "Craft-Curate"
+  ],
+  "rr.p0082.t01.r007.c02": [
+    "Craft-Vicar"
+  ],
+  "rr.p0082.t01.r008.c02": [
+    "Craft-Rector"
+  ],
+  "rr.p0082.t01.r009.c02": [
+    "Craft-Prelate"
+  ],
+  "rr.p0082.t01.r010.c02": [
+    "Craft-Bishop"
+  ],
+  "rr.p0082.t01.r011.c02": [
+    "Craft-Lord"
+  ],
+  "rr.p0082.t01.r012.c02": [
+    "Craft-Lord"
+  ],
+  "rr.p0083.b003": [
+    "Theology",
+    "Class powers",
+    "proficiency throw",
+    "Dwarven Craftpriest",
+    "Theology"
+  ],
+  "rr.p0083.b005": [
+    "Class powers",
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0083.b006": [
+    "Dwarven Craftpriest",
+    "Minor Magical Research"
+  ],
+  "rr.p0083.b007": [
+    "Dwarven Craftpriest",
+    "Major Magical Research"
+  ],
+  "rr.p0083.b008": [
+    "Vault",
+    "Henchmen",
+    "Mercenary",
+    "Dwarven Craftpriest",
+    "Vault",
+    "Dwarven Craftpriest",
+    "Dwarven Craftpriest",
+    "Mercenary",
+    "Vault",
+    "Dwarven Craftpriest",
+    "Vault",
+    "Vault"
+  ],
+  "rr.p0083.b010": [
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0083.b011": [
+    "Dwarf Tongues"
+  ],
+  "rr.p0083.b012": [
+    "Dwarven Craftpriest",
+    "Blast",
+    "Hardy"
+  ],
+  "rr.p0083.b013": [
+    "Listening",
+    "Searching",
+    "proficiency throw",
+    "Listening",
+    "Searching",
+    "Adventuring",
+    "surprise roll",
+    "Sensitivity to Rock and Stone"
+  ],
+  "rr.p0083.b015": [
+    "Vault",
+    "Dwarven Craftpriest",
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0083.b016": [
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0083.b017": [
+    "ancillary activities",
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0083.b018": [
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0083.b019": [
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0083.b020": [
+    "Vault",
+    "Vault",
+    "Divine Magic",
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0083.b021": [
+    "Judge",
+    "Caster",
+    "Dwarven Craftpriest",
+    "Class powers",
+    "Judge",
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0083.b022": [
+    "Dwarven Craftpriest",
+    "Tradition"
+  ],
+  "rr.p0084.b002": [
+    "general proficiency",
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "class proficiency",
+    "Dwarven Craftpriest",
+    "Proficiency Progression"
+  ],
+  "rr.p0084.b003": [
+    "Magical Engineering",
+    "Loremastery",
+    "Laying on Hands",
+    "Knowledge",
+    "Illusion Resistance",
+    "Healing",
+    "Goblin-Slaying",
+    "Fighting Style Specialization",
+    "Experimenting",
+    "Expanded Repertoire",
+    "Engineering",
+    "Dwarven Brewing",
+    "Divine Health",
+    "Divine Blessing",
+    "Diplomacy",
+    "Contemplation",
+    "Collegiate Wizardry",
+    "Caving",
+    "Battle Magic",
+    "Alchemy",
+    "Dwarven Craftpriest"
+  ],
+  "rr.p0084.b004": [
+    "Weapon Focus",
+    "Unflappable Casting",
+    "Theology",
+    "Siege Engineering",
+    "Sensing Evil",
+    "Righteous Rebuke",
+    "Reliquarianism",
+    "Quiet Magic",
+    "Prophecy",
+    "Profession",
+    "Prestidigitation",
+    "Mapping"
+  ],
+  "rr.p0084.t01.r002.c02": [
+    "Outcast"
+  ],
+  "rr.p0084.t01.r002.c03": [
+    "Oathsworn"
+  ],
+  "rr.p0084.t01.r002.c04": [
+    "Survival",
+    "Caving",
+    "Quiet Magic"
+  ],
+  "rr.p0084.t01.r002.c05": [
+    "sling stone"
+  ],
+  "rr.p0084.t01.r003.c02": [
+    "Runeseer"
+  ],
+  "rr.p0084.t01.r003.c03": [
+    "Oathsworn"
+  ],
+  "rr.p0084.t01.r003.c04": [
+    "Knowledge",
+    "Performance",
+    "Prophecy"
+  ],
+  "rr.p0084.t01.r003.c05": [
+    "word of command",
+    "discern evil"
+  ],
+  "rr.p0084.t01.r004.c02": [
+    "Reliquary Guardian"
+  ],
+  "rr.p0084.t01.r004.c03": [
+    "Oathsworn"
+  ],
+  "rr.p0084.t01.r004.c04": [
+    "Manual of Arms",
+    "Signaling",
+    "Battle Magic"
+  ],
+  "rr.p0084.t01.r004.c05": [
+    "holy circle",
+    "remove fear"
+  ],
+  "rr.p0084.t01.r005.c02": [
+    "Documentarian"
+  ],
+  "rr.p0084.t01.r005.c03": [
+    "Oathsworn"
+  ],
+  "rr.p0084.t01.r005.c04": [
+    "Knowledge",
+    "Mapping",
+    "Loremastery"
+  ],
+  "rr.p0084.t01.r005.c05": [
+    "illumination"
+  ],
+  "rr.p0084.t01.r006.c02": [
+    "Reclaimer"
+  ],
+  "rr.p0084.t01.r006.c03": [
+    "Oathsworn"
+  ],
+  "rr.p0084.t01.r006.c04": [
+    "Siege Engineering",
+    "Knowledge",
+    "Magical Engineering"
+  ],
+  "rr.p0084.t01.r006.c05": [
+    "discern magic",
+    "counterspell"
+  ],
+  "rr.p0084.t01.r007.c02": [
+    "Sacrementalist"
+  ],
+  "rr.p0084.t01.r007.c03": [
+    "Oathsworn"
+  ],
+  "rr.p0084.t01.r007.c04": [
+    "Revelry",
+    "Alchemy",
+    "Dwarven Brewing"
+  ],
+  "rr.p0084.t01.r007.c05": [
+    "cure light injury"
+  ],
+  "rr.p0084.t01.r008.c02": [
+    "Purifier"
+  ],
+  "rr.p0084.t01.r008.c03": [
+    "Oathsworn"
+  ],
+  "rr.p0084.t01.r008.c04": [
+    "Alchemy",
+    "Knowledge",
+    "Righteous Rebuke"
+  ],
+  "rr.p0084.t01.r008.c05": [
+    "bane-rune",
+    "holy circle"
+  ],
+  "rr.p0084.t01.r009.c02": [
+    "Seeker"
+  ],
+  "rr.p0084.t01.r009.c03": [
+    "Highborn",
+    "Oathsworn"
+  ],
+  "rr.p0084.t01.r009.c04": [
+    "Leadership",
+    "Riding",
+    "Sensing Evil"
+  ],
+  "rr.p0084.t01.r009.c05": [
+    "word of command",
+    "bane-rune"
+  ],
+  "rr.p0084.b009": [
+    "Studious Spellcasters",
+    "template",
+    "template",
+    "template",
+    "Dwarven Craftpriest",
+    "template"
+  ],
+  "rr.p0086.b002": [
+    "key attribute"
+  ],
+  "rr.p0086.b004": [
+    "Hit Dice"
+  ],
+  "rr.p0086.b006": [
+    "Vault",
+    "Realm",
+    "Vault",
+    "Dwarven Vaultguard",
+    "Vault"
+  ],
+  "rr.p0086.b008": [
+    "Dwarven Vaultguard"
+  ],
+  "rr.p0086.b009": [
+    "Two-Handed Weapon",
+    "Dwarven Vaultguard",
+    "Combat Proficiencies"
+  ],
+  "rr.p0086.b010": [
+    "Cleave",
+    "missile",
+    "Dwarven Vaultguard",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0086.b012": [
+    "Class powers",
+    "Dwarven Vaultguard"
+  ],
+  "rr.p0086.b013": [
+    "Manual of Arms",
+    "Class powers",
+    "Judge",
+    "Mercenary",
+    "proficiency throw",
+    "Realm",
+    "Vault",
+    "Vault",
+    "Dwarven Vaultguard",
+    "Manual of Arms"
+  ],
+  "rr.p0086.b015": [
+    "Class powers",
+    "Dwarven Vaultguard"
+  ],
+  "rr.p0086.b016": [
+    "Dwarven Vaultguard",
+    "Dwarven Vaultguard",
+    "Mercenary",
+    "Henchmen",
+    "Dwarven Vaultguard",
+    "Battlefield Prowess"
+  ],
+  "rr.p0086.b017": [
+    "Vault",
+    "Henchmen",
+    "Mercenary",
+    "Dwarven Vaultguard",
+    "Vault",
+    "Mercenary",
+    "Vault",
+    "Dwarven Vaultguard",
+    "Vault",
+    "Vault"
+  ],
+  "rr.p0086.t01.r002.c02": [
+    "Sentry"
+  ],
+  "rr.p0086.t01.r003.c02": [
+    "Warden"
+  ],
+  "rr.p0086.t01.r004.c02": [
+    "Shieldbearer"
+  ],
+  "rr.p0086.t01.r005.c02": [
+    "Defender"
+  ],
+  "rr.p0086.t01.r006.c02": [
+    "Sentinel"
+  ],
+  "rr.p0086.t01.r007.c02": [
+    "Guardian"
+  ],
+  "rr.p0086.t01.r008.c02": [
+    "Champion"
+  ],
+  "rr.p0086.t01.r009.c02": [
+    "Dwarven Vaultguard"
+  ],
+  "rr.p0086.t01.r010.c02": [
+    "Vaultlord"
+  ],
+  "rr.p0086.t01.r011.c02": [
+    "Vaultlord"
+  ],
+  "rr.p0086.t01.r012.c02": [
+    "Vaultlord"
+  ],
+  "rr.p0086.t01.r013.c02": [
+    "Vaultlord"
+  ],
+  "rr.p0086.t01.r014.c02": [
+    "Vaultlord"
+  ],
+  "rr.p0086.b022": [
+    "Dwarven Vaultguard"
+  ],
+  "rr.p0086.b023": [
+    "Dwarf Tongues"
+  ],
+  "rr.p0086.b024": [
+    "Dwarven Vaultguard",
+    "Blast",
+    "Hardy"
+  ],
+  "rr.p0086.b025": [
+    "Listening",
+    "Searching",
+    "proficiency throw",
+    "Listening",
+    "Searching",
+    "Adventuring",
+    "surprise roll",
+    "Sensitivity to Rock and Stone"
+  ],
+  "rr.p0087.b004": [
+    "general proficiency",
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "class proficiency",
+    "Dwarven Vaultguard",
+    "Proficiency Progression"
+  ],
+  "rr.p0087.b005": [
+    "Weapon Focus",
+    "Vermin-Slaying",
+    "Siege Engineering",
+    "Running",
+    "Prospecting",
+    "Precise Shooting",
+    "Mountaineering",
+    "Military Strategy",
+    "Leadership",
+    "Land Surveying",
+    "Intimidation",
+    "Illusion Resistance",
+    "Goblin-Slaying",
+    "Fighting Style Specialization",
+    "Dwarven Brewing",
+    "Dungeonbashing Expertise",
+    "Command",
+    "Sunder",
+    "Overrun",
+    "Combat Trickery",
+    "Combat Reflexes",
+    "Combat Ferocity",
+    "Caving",
+    "Blind Fighting",
+    "Berserkergang",
+    "Alertness",
+    "Dwarven Vaultguard"
+  ],
+  "rr.p0087.t02.r002.c02": [
+    "Deserter"
+  ],
+  "rr.p0087.t02.r002.c03": [
+    "Oathsworn"
+  ],
+  "rr.p0087.t02.r002.c04": [
+    "Survival",
+    "Running"
+  ],
+  "rr.p0087.t02.r003.c02": [
+    "Battlerager"
+  ],
+  "rr.p0087.t02.r003.c03": [
+    "Oathsworn"
+  ],
+  "rr.p0087.t02.r003.c04": [
+    "Intimidation",
+    "Berserkergang"
+  ],
+  "rr.p0087.t02.r004.c02": [
+    "Sentinel"
+  ],
+  "rr.p0087.t02.r004.c03": [
+    "Oathsworn"
+  ],
+  "rr.p0087.t02.r004.c04": [
+    "Signaling",
+    "Alertness"
+  ],
+  "rr.p0087.t02.r005.c02": [
+    "Clansdwarf"
+  ],
+  "rr.p0087.t02.r005.c03": [
+    "Oathsworn"
+  ],
+  "rr.p0087.t02.r005.c04": [
+    "Manual of Arms",
+    "Weapon and Shield"
+  ],
+  "rr.p0087.t02.r005.c05": [
+    "Oathsworn"
+  ],
+  "rr.p0087.t02.r006.c02": [
+    "Goblin Slayer"
+  ],
+  "rr.p0087.t02.r006.c03": [
+    "Oathsworn"
+  ],
+  "rr.p0087.t02.r006.c04": [
+    "Caving",
+    "Goblin-Slaying"
+  ],
+  "rr.p0087.t02.r006.c05": [
+    "Oathsworn",
+    "Vault"
+  ],
+  "rr.p0087.t02.r007.c02": [
+    "Axebearer"
+  ],
+  "rr.p0087.t02.r007.c03": [
+    "Oathsworn"
+  ],
+  "rr.p0087.t02.r007.c04": [
+    "Endurance",
+    "Weapon Focus"
+  ],
+  "rr.p0087.t02.r007.c05": [
+    "Oathsworn"
+  ],
+  "rr.p0087.t02.r008.c02": [
+    "Besieger"
+  ],
+  "rr.p0087.t02.r008.c03": [
+    "Oathsworn"
+  ],
+  "rr.p0087.t02.r008.c04": [
+    "Siege Engineering",
+    "Dungeonbashing Expertise"
+  ],
+  "rr.p0087.t02.r008.c05": [
+    "Oathsworn"
+  ],
+  "rr.p0087.t02.r009.c02": [
+    "Highborn"
+  ],
+  "rr.p0087.t02.r009.c03": [
+    "Highborn",
+    "Highborn",
+    "Oathsworn"
+  ],
+  "rr.p0087.t02.r009.c04": [
+    "Riding",
+    "Command"
+  ],
+  "rr.p0087.t02.r009.c05": [
+    "Oathsworn"
+  ],
+  "rr.p0088.b002": [
+    "key attribute"
+  ],
+  "rr.p0088.b004": [
+    "Hit Dice"
+  ],
+  "rr.p0088.b006": [
+    "Warlord",
+    "Aristocrat",
+    "Elven Nightblade",
+    "Elven nightblade"
+  ],
+  "rr.p0088.b008": [
+    "Treachery",
+    "Elven nightblade"
+  ],
+  "rr.p0088.b009": [
+    "Two-Handed Weapon",
+    "missile weapons",
+    "Elven nightblade",
+    "Combat Proficiencies"
+  ],
+  "rr.p0088.b010": [
+    "Cleave",
+    "Elven nightblade",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0088.b012": [
+    "Elven nightblade",
+    "Elven Nightblade",
+    "Class powers",
+    "Elven Nightblade"
+  ],
+  "rr.p0088.b013": [
+    "Elven Nightblade",
+    "Engaged",
+    "proficiency throw",
+    "Elven Nightblade",
+    "Movement Actions",
+    "Elven Nightblade",
+    "Acrobatics"
+  ],
+  "rr.p0088.b014": [
+    "Elven Nightblade",
+    "Backstab"
+  ],
+  "rr.p0088.b015": [
+    "Acrobatics",
+    "Class powers",
+    "Encumbrance"
+  ],
+  "rr.p0088.t01.r002.c10": [
+    "Caster"
+  ],
+  "rr.p0088.t01.r003.c02": [
+    "Arcanist-Avenger"
+  ],
+  "rr.p0088.t01.r004.c02": [
+    "Seer-Enforcer"
+  ],
+  "rr.p0088.t01.r005.c02": [
+    "Theurgist-Torturer"
+  ],
+  "rr.p0088.t01.r006.c02": [
+    "Magician-Slayer"
+  ],
+  "rr.p0088.t01.r007.c02": [
+    "Thaumaturge-Destroyer"
+  ],
+  "rr.p0088.t01.r008.c02": [
+    "Enchanter-Executioner"
+  ],
+  "rr.p0088.t01.r009.c02": [
+    "Sorcerer-Blackguard"
+  ],
+  "rr.p0088.t01.r010.c02": [
+    "Mage-Assassin"
+  ],
+  "rr.p0088.t01.r011.c02": [
+    "Elven Nightblade"
+  ],
+  "rr.p0088.t01.r012.c02": [
+    "Elven Nightblade"
+  ],
+  "rr.p0088.t01.r013.c02": [
+    "Elven Nightblade"
+  ],
+  "rr.p0089.b005": [
+    "Elven Nightblade",
+    "Backstab",
+    "missile weapons",
+    "missile weapons",
+    "Backstab",
+    "Vulnerable",
+    "Backstab",
+    "Elven Nightblade",
+    "Elven Nightblade",
+    "Backstab"
+  ],
+  "rr.p0089.b006": [
+    "Climbing",
+    "combat speed",
+    "proficiency throw",
+    "combat speed",
+    "combat speed",
+    "exploration speed",
+    "Elven Nightblade",
+    "Elven Nightblade",
+    "Climbing",
+    "proficiency throw",
+    "Elven Nightblade",
+    "Elven Nightblade",
+    "Climbing"
+  ],
+  "rr.p0089.b007": [
+    "surprise roll",
+    "Elven Nightblade",
+    "Elven Nightblade",
+    "Hiding",
+    "proficiency throw",
+    "Judge",
+    "Elven Nightblade",
+    "Combat Actions",
+    "Elven Nightblade",
+    "Elven Nightblade",
+    "Hiding"
+  ],
+  "rr.p0089.b008": [
+    "Elven Nightblade",
+    "Hidden",
+    "Elven Nightblade",
+    "Hidden",
+    "Hidden",
+    "Elven Nightblade",
+    "line of sight",
+    "Elven Nightblade"
+  ],
+  "rr.p0089.b009": [
+    "Elven Nightblade",
+    "Elven Nightblade",
+    "Hidden"
+  ],
+  "rr.p0089.b010": [
+    "Shadowy senses",
+    "Elven Nightblade",
+    "Shadowy senses",
+    "Shadowy senses",
+    "Elven Nightblade",
+    "exploration speed",
+    "combat speed",
+    "Elven Nightblade",
+    "Shadowy senses"
+  ],
+  "rr.p0090.t01.r002.c02": [
+    "Rogue"
+  ],
+  "rr.p0090.t01.r002.c03": [
+    "Navigation",
+    "Survival",
+    "Prestidigitation"
+  ],
+  "rr.p0090.t01.r003.c02": [
+    "Pursuer"
+  ],
+  "rr.p0090.t01.r003.c03": [
+    "Endurance",
+    "Tracking",
+    "Sniping"
+  ],
+  "rr.p0090.t01.r004.c02": [
+    "Antagonist"
+  ],
+  "rr.p0090.t01.r004.c03": [
+    "Tracking",
+    "Intimidation",
+    "Skirmishing"
+  ],
+  "rr.p0090.t01.r005.c02": [
+    "Duelist-for-Hire"
+  ],
+  "rr.p0090.t01.r005.c03": [
+    "Bargaining",
+    "Manual of Arms"
+  ],
+  "rr.p0090.t01.r006.c02": [
+    "Silent Slayer"
+  ],
+  "rr.p0090.t01.r006.c03": [
+    "Trapping",
+    "Alchemy",
+    "Skulking"
+  ],
+  "rr.p0090.t01.r007.c02": [
+    "Arcane Avenger"
+  ],
+  "rr.p0090.t01.r007.c03": [
+    "Alchemy",
+    "Collegiate Wizardry",
+    "Battle Magic"
+  ],
+  "rr.p0090.t01.r008.c02": [
+    "Deceiver"
+  ],
+  "rr.p0090.t01.r008.c03": [
+    "Disguise",
+    "Seduction",
+    "Poisoning"
+  ],
+  "rr.p0090.t01.r009.c02": [
+    "Royal Enforcer"
+  ],
+  "rr.p0090.t01.r009.c03": [
+    "Intimidation",
+    "Riding",
+    "Kin-Slaying"
+  ],
+  "rr.p0090.t01.r009.c04": [
+    "Riding"
+  ],
+  "rr.p0090.b004": [
+    "Sneaking",
+    "proficiency throw",
+    "combat speed",
+    "combat speed",
+    "exploration speed",
+    "Movement Actions",
+    "Elven Nightblade",
+    "Elven Nightblade",
+    "Sneaking"
+  ],
+  "rr.p0090.b005": [
+    "line of sight",
+    "Elven Nightblade",
+    "surprise roll",
+    "Elven Nightblade",
+    "Elven Nightblade",
+    "Sneaking",
+    "proficiency throw",
+    "Judge",
+    "Elven Nightblade"
+  ],
+  "rr.p0090.b006": [
+    "Elven Nightblade",
+    "Sneaking",
+    "Listening",
+    "proficiency throw",
+    "Elven Nightblade",
+    "Elven Nightblade"
+  ],
+  "rr.p0090.b007": [
+    "Streetwise",
+    "Class powers",
+    "proficiency throw",
+    "thief skill",
+    "Hijinks",
+    "Judge",
+    "Elven Nightblade",
+    "Streetwise"
+  ],
+  "rr.p0090.b009": [
+    "Class powers",
+    "Elven Nightblade"
+  ],
+  "rr.p0090.b010": [
+    "Elven nightblade",
+    "Elven Nightblade",
+    "repertoire",
+    "repertoire",
+    "Elven Nightblade",
+    "Elven Nightblade",
+    "Elven Nightblade",
+    "caster level",
+    "caster level",
+    "arcane spell",
+    "Elven nightblade",
+    "Arcane Magic"
+  ],
+  "rr.p0090.b011": [
+    "Quiet Magic",
+    "Class powers",
+    "Elven Nightblade",
+    "Listening",
+    "proficiency throw",
+    "Elven Nightblade",
+    "Elven Nightblade",
+    "Quiet Magic"
+  ],
+  "rr.p0090.b012": [
+    "Elven nightblade",
+    "Minor Magical Research"
+  ],
+  "rr.p0090.b013": [
+    "Elven Nightblade"
+  ],
+  "rr.p0091.b001": [
+    "Hideout",
+    "Elven Nightblade",
+    "Elven Nightblade",
+    "Infiltrator",
+    "Henchmen",
+    "Hideout",
+    "Elven Nightblade",
+    "Elven nightblade",
+    "Hideout",
+    "Elven nightblade",
+    "Hideout",
+    "Hideout"
+  ],
+  "rr.p0091.b003": [
+    "Elven Nightblade"
+  ],
+  "rr.p0091.b004": [
+    "Listening",
+    "Searching",
+    "proficiency throw",
+    "Listening",
+    "Searching",
+    "Adventuring",
+    "surprise roll",
+    "Attunement to Nature"
+  ],
+  "rr.p0091.b005": [
+    "HD",
+    "HD",
+    "Paralysis",
+    "Connection to Nature",
+    "Connection to Nature"
+  ],
+  "rr.p0091.b006": [
+    "Language",
+    "Elf Tongues"
+  ],
+  "rr.p0091.b008": [
+    "general proficiency",
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "class proficiency",
+    "Elven Nightblade",
+    "Proficiency Progression"
+  ],
+  "rr.p0091.b009": [
+    "Weapon Finesse",
+    "Weapon Focus",
+    "Wakefulness",
+    "Unarmed Fighting",
+    "Unflappable Casting",
+    "Swashbuckling",
+    "Sniping",
+    "Skulking",
+    "Skirmishing",
+    "Sensing Power",
+    "Running",
+    "Prestidigitation",
+    "Precise Shooting",
+    "Poisoning",
+    "Passing Without Trace",
+    "Mystic Aura",
+    "Mastery of Enchantments & Illusions",
+    "Magical Engineering",
+    "Kin-Slaying",
+    "Fighting Style Specialization",
+    "Familiar",
+    "Expanded Repertoire",
+    "Elementalism",
+    "Eavesdropping",
+    "Counterspelling",
+    "Contortionism",
+    "Combat Reflexes",
+    "Blind Fighting",
+    "Black Lore of Zahar",
+    "Beast Friendship",
+    "Battle Magic",
+    "Elven nightblade"
+  ],
+  "rr.p0092.b002": [
+    "key attribute"
+  ],
+  "rr.p0092.b004": [
+    "Hit Dice"
+  ],
+  "rr.p0092.b006": [
+    "Elven Spellsword"
+  ],
+  "rr.p0092.b008": [
+    "arcane spell",
+    "Elven Spellsword"
+  ],
+  "rr.p0092.b009": [
+    "Two-Handed Weapon",
+    "Elven Spellsword",
+    "Combat Proficiencies"
+  ],
+  "rr.p0092.b010": [
+    "Cleave",
+    "missile",
+    "Elven Spellsword",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0092.b012": [
+    "Class powers",
+    "Elven Spellsword"
+  ],
+  "rr.p0092.b013": [
+    "Elven Spellsword",
+    "repertoire",
+    "repertoire",
+    "Elven Spellsword",
+    "Elven Spellsword",
+    "Elven Spellsword",
+    "arcane spell",
+    "Elven Spellsword",
+    "Arcane Magic"
+  ],
+  "rr.p0092.b014": [
+    "Elven Spellsword"
+  ],
+  "rr.p0092.b015": [
+    "Collegiate Wizardry",
+    "Class powers",
+    "Tradition",
+    "proficiency throw",
+    "Tradition",
+    "Tradition",
+    "grimoire",
+    "Judge",
+    "Elven Spellsword",
+    "Apprentice",
+    "Elven Spellsword",
+    "Collegiate Wizardry"
+  ],
+  "rr.p0092.b017": [
+    "Class powers",
+    "Elven Spellsword"
+  ],
+  "rr.p0092.b018": [
+    "Elven Spellsword",
+    "Minor Magical Research"
+  ],
+  "rr.p0092.b019": [
+    "Elven Spellsword",
+    "Major Magical Research"
+  ],
+  "rr.p0092.b020": [
+    "Fastness",
+    "Henchmen",
+    "Mercenary",
+    "Elven Spellsword",
+    "Fastness",
+    "Elven Spellsword",
+    "Mercenary",
+    "Fastness",
+    "Elven Spellsword",
+    "Fastness",
+    "Fastness"
+  ],
+  "rr.p0092.b022": [
+    "Elven Spellsword"
+  ],
+  "rr.p0092.b023": [
+    "Listening",
+    "Searching",
+    "proficiency throw",
+    "Listening",
+    "Searching",
+    "Adventuring",
+    "surprise roll",
+    "Attunement to Nature"
+  ],
+  "rr.p0092.t01.r003.c02": [
+    "Arcanist-Guardian"
+  ],
+  "rr.p0092.t01.r004.c02": [
+    "Warrior-Seer"
+  ],
+  "rr.p0092.t01.r005.c02": [
+    "Theurgist-Swordmaster"
+  ],
+  "rr.p0092.t01.r006.c02": [
+    "Magician-Hero"
+  ],
+  "rr.p0092.t01.r007.c02": [
+    "Thaumaturge-Exemplar"
+  ],
+  "rr.p0092.t01.r008.c02": [
+    "Myrmidon-Enchanter"
+  ],
+  "rr.p0092.t01.r009.c02": [
+    "Sorcerer-Champion"
+  ],
+  "rr.p0092.t01.r010.c02": [
+    "Epic Hero-Mage"
+  ],
+  "rr.p0092.t01.r011.c02": [
+    "Wizard-Lord"
+  ],
+  "rr.p0092.t01.r012.c02": [
+    "Wizard-Lord"
+  ],
+  "rr.p0093.b003": [
+    "HD",
+    "HD",
+    "Paralysis",
+    "Connection to Nature",
+    "Connection to Nature"
+  ],
+  "rr.p0093.b004": [
+    "Language",
+    "Elf Tongues"
+  ],
+  "rr.p0093.b006": [
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "class proficiency",
+    "Elven Spellsword",
+    "Proficiency Progression"
+  ],
+  "rr.p0093.b007": [
+    "general proficiency",
+    "class proficiency"
+  ],
+  "rr.p0093.b008": [
+    "Weapon Finesse",
+    "Weapon Focus",
+    "Wakefulness",
+    "Unflappable Casting",
+    "Swashbuckling",
+    "Soothsaying",
+    "Skirmishing",
+    "Sensing Power",
+    "Running",
+    "Prestidigitation",
+    "Precise Shooting",
+    "Quiet Magic",
+    "Mystic Aura",
+    "Mounted Combat",
+    "Mastery of Enchantments & Illusions",
+    "Magical Music",
+    "Magical Engineering",
+    "Loremastery",
+    "Fighting Style Specialization",
+    "Familiar",
+    "Experimenting",
+    "Expanded Repertoire",
+    "Elementalism",
+    "Counterspelling",
+    "Command",
+    "Combat Trickery",
+    "Combat Reflexes",
+    "Blind Fighting",
+    "Black Lore of Zahar",
+    "Beast Friendship",
+    "Battle Magic",
+    "Elven Spellsword"
+  ],
+  "rr.p0093.t02.r002.c02": [
+    "Exile"
+  ],
+  "rr.p0093.t02.r002.c03": [
+    "Navigation",
+    "Survival",
+    "Running"
+  ],
+  "rr.p0093.t02.r002.c04": [
+    "slickness",
+    "chameleon",
+    "spellbook"
+  ],
+  "rr.p0093.t02.r003.c02": [
+    "Beastmaster"
+  ],
+  "rr.p0093.t02.r003.c03": [
+    "Naturalism",
+    "Animal Husbandry",
+    "Beast Friendship"
+  ],
+  "rr.p0093.t02.r003.c04": [
+    "chameleon",
+    "slumber",
+    "spellbook"
+  ],
+  "rr.p0093.t02.r004.c02": [
+    "Dreamweaver"
+  ],
+  "rr.p0093.t02.r004.c03": [
+    "Mapping"
+  ],
+  "rr.p0093.t02.r004.c04": [
+    "illusory figment",
+    "beguile humanoid",
+    "spellbook"
+  ],
+  "rr.p0093.t02.r005.c02": [
+    "Bladesinger"
+  ],
+  "rr.p0093.t02.r005.c03": [
+    "Diplomacy",
+    "Performance",
+    "Magical Music"
+  ],
+  "rr.p0093.t02.r005.c04": [
+    "discern magic",
+    "blinding flash",
+    "spellbook"
+  ],
+  "rr.p0093.t02.r006.c02": [
+    "Swordmage"
+  ],
+  "rr.p0093.t02.r006.c03": [
+    "Manual of Arms",
+    "Military Strategy",
+    "Battle Magic"
+  ],
+  "rr.p0093.t02.r006.c04": [
+    "sharpness",
+    "mage missile",
+    "spellbook"
+  ],
+  "rr.p0093.t02.r007.c02": [
+    "Flametongue"
+  ],
+  "rr.p0093.t02.r007.c03": [
+    "Survival",
+    "Naturalism",
+    "Elementalism"
+  ],
+  "rr.p0093.t02.r007.c04": [
+    "kindle flame",
+    "fan of flames",
+    "spellbook"
+  ],
+  "rr.p0093.t02.r008.c02": [
+    "Captain"
+  ],
+  "rr.p0093.t02.r008.c03": [
+    "Military Strategy",
+    "Leadership",
+    "Command"
+  ],
+  "rr.p0093.t02.r008.c04": [
+    "seal portal",
+    "counterspell",
+    "spellbook"
+  ],
+  "rr.p0093.t02.r009.c02": [
+    "Winged Knight"
+  ],
+  "rr.p0093.t02.r009.c03": [
+    "Leadership",
+    "Riding",
+    "Familiar"
+  ],
+  "rr.p0093.t02.r009.c04": [
+    "Lance",
+    "leaping",
+    "thunderclap",
+    "spellbook",
+    "Familiar"
+  ],
+  "rr.p0093.b011": [
+    "Flametongue",
+    "Studious Spellcasters",
+    "template",
+    "template",
+    "template"
+  ],
+  "rr.p0093.b012": [
+    "wall of smoke",
+    "thunderclap"
+  ],
+  "rr.p0093.b013": [
+    "shatter blade",
+    "Earth’s Excrescence"
+  ],
+  "rr.p0093.b014": [
+    "slickness",
+    "desiccate"
+  ],
+  "rr.p0093.b015": [
+    "Winged Knight",
+    "Command",
+    "Winged Knight",
+    "Familiar"
+  ],
+  "rr.p0094.b002": [
+    "key attribute"
+  ],
+  "rr.p0094.b004": [
+    "Hit Dice"
+  ],
+  "rr.p0094.b006": [
+    "Nobiran wonderworker",
+    "Divine Magic",
+    "Nobiran wonderworker",
+    "Prophet",
+    "Hero"
+  ],
+  "rr.p0094.b008": [
+    "Nobiran Wonderworker"
+  ],
+  "rr.p0094.b009": [
+    "Two-Handed Weapon",
+    "Dart",
+    "Nobiran Wonderworker",
+    "Combat Proficiencies"
+  ],
+  "rr.p0094.b010": [
+    "Cleave",
+    "Nobiran Wonderworker",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0094.b012": [
+    "Class powers",
+    "Nobiran wonderworker"
+  ],
+  "rr.p0094.b013": [
+    "Nobiran Wonderworker",
+    "repertoire",
+    "repertoire",
+    "Nobiran Wonderworker",
+    "Nobiran wonderworker",
+    "arcane spell",
+    "Nobiran Wonderworker",
+    "arcane spell",
+    "Nobiran wonderworker",
+    "Arcane Magic"
+  ],
+  "rr.p0094.t01.r003.c02": [
+    "Divine Arcanist"
+  ],
+  "rr.p0094.t01.r004.c02": [
+    "Divine Seer"
+  ],
+  "rr.p0094.t01.r005.c02": [
+    "Divine Theurgist"
+  ],
+  "rr.p0094.t01.r006.c02": [
+    "Divine Magician"
+  ],
+  "rr.p0094.t01.r007.c02": [
+    "Divine Thaumaturge"
+  ],
+  "rr.p0094.t01.r008.c02": [
+    "Divine Enchanter"
+  ],
+  "rr.p0094.t01.r009.c02": [
+    "Divine Sorcerer"
+  ],
+  "rr.p0094.t01.r010.c02": [
+    "Divine Mage"
+  ],
+  "rr.p0094.t01.r011.c02": [
+    "Divine Wizard"
+  ],
+  "rr.p0094.t01.r012.c02": [
+    "Divine Wizard"
+  ],
+  "rr.p0094.t01.r013.c02": [
+    "Divine Wizard"
+  ],
+  "rr.p0094.t01.r014.c02": [
+    "Divine Wizard"
+  ],
+  "rr.p0095.b003": [
+    "Collegiate Wizardry",
+    "Class powers",
+    "Tradition",
+    "proficiency throw",
+    "Tradition",
+    "Tradition",
+    "grimoire",
+    "Judge",
+    "Apprentice",
+    "Nobiran Wonderworker",
+    "Collegiate Wizardry"
+  ],
+  "rr.p0095.b004": [
+    "Judge",
+    "repertoire",
+    "Nobiran Wonderworker",
+    "Nobiran wonderworker",
+    "divine spell",
+    "divine spell",
+    "divine spell",
+    "Nobiran Wonderworker",
+    "Divine Magic"
+  ],
+  "rr.p0095.b005": [
+    "Nobiran Wonderworker",
+    "Divine Health"
+  ],
+  "rr.p0095.b006": [
+    "Laying on Hands",
+    "Class powers",
+    "Laying on Hands",
+    "Nobiran Wonderworker",
+    "Laying on Hands",
+    "Laying on Hands",
+    "Nobiran Wonderworker",
+    "Laying on Hands"
+  ],
+  "rr.p0095.b008": [
+    "Class powers",
+    "Nobiran wonderworker"
+  ],
+  "rr.p0095.b009": [
+    "arcane spell",
+    "Nobiran Wonderworker",
+    "Minor Magical Research"
+  ],
+  "rr.p0095.b010": [
+    "Nobiran Wonderworker",
+    "Major Magical Research"
+  ],
+  "rr.p0095.b011": [
+    "Nobiran Wonderworker",
+    "Sanctum",
+    "Sanctum",
+    "Nobiran Wonderworker",
+    "Henchmen",
+    "Nobiran Wonderworker",
+    "Apprentice",
+    "Apprentice",
+    "Apprentice",
+    "Sanctum",
+    "Nobiran Wonderworker",
+    "Apprentice",
+    "Nobiran Wonderworker",
+    "Apprentice",
+    "Sanctum",
+    "Nobiran Wonderworker",
+    "Sanctum",
+    "Sanctum"
+  ],
+  "rr.p0095.b012": [
+    "chaotic",
+    "Nobiran Wonderworker",
+    "arcane spell",
+    "Nobiran Wonderworker",
+    "Supreme Magical Research"
+  ],
+  "rr.p0095.b014": [
+    "Henchmen",
+    "loyalty",
+    "Henchmen",
+    "Hero",
+    "Blood of Ancient Kings"
+  ],
+  "rr.p0095.b015": [
+    "Nobiran wonderworker",
+    "Nobiran Wonderworker",
+    "Law",
+    "Favor of the Empyrean Powers"
+  ],
+  "rr.p0095.b016": [
+    "HD",
+    "Nobiran Wonderworker",
+    "Longeval"
+  ],
+  "rr.p0095.b018": [
+    "Judge",
+    "Nobiran Wonderworker",
+    "Law",
+    "Nobiran Wonderworker",
+    "Divine Blessing",
+    "Divine Magic"
+  ],
+  "rr.p0095.b019": [
+    "Nobiran Wonderworker"
+  ],
+  "rr.p0095.b020": [
+    "Nobiran Wonderworker"
+  ],
+  "rr.p0095.b021": [
+    "Law",
+    "Chaos",
+    "Nobiran Wonderworker"
+  ],
+  "rr.p0095.b022": [
+    "chaotic",
+    "Divine Magic",
+    "Nobiran Wonderworker"
+  ],
+  "rr.p0095.b023": [
+    "Judge",
+    "Nobiran Wonderworker"
+  ],
+  "rr.p0096.t01.r002.c02": [
+    "Ferine"
+  ],
+  "rr.p0096.t01.r002.c03": [
+    "Survival",
+    "Naturalism",
+    "Beast Friendship"
+  ],
+  "rr.p0096.t01.r002.c04": [
+    "chameleon",
+    "frighten beast",
+    "spellbook"
+  ],
+  "rr.p0096.t01.r003.c02": [
+    "Scholar"
+  ],
+  "rr.p0096.t01.r003.c03": [
+    "Alchemy",
+    "Healing",
+    "Loremastery"
+  ],
+  "rr.p0096.t01.r003.c04": [
+    "discern gist",
+    "mage missile",
+    "spellbook"
+  ],
+  "rr.p0096.t01.r004.c02": [
+    "Augur"
+  ],
+  "rr.p0096.t01.r004.c03": [
+    "Theology",
+    "Performance",
+    "Soothsaying"
+  ],
+  "rr.p0096.t01.r004.c04": [
+    "auditory illusion",
+    "thunderclap",
+    "spellbook"
+  ],
+  "rr.p0096.t01.r005.c02": [
+    "Servant of Fire"
+  ],
+  "rr.p0096.t01.r005.c03": [
+    "Naturalism",
+    "Theology",
+    "Elementalism"
+  ],
+  "rr.p0096.t01.r005.c04": [
+    "blinding flash",
+    "fan of flames",
+    "spellbook"
+  ],
+  "rr.p0096.t01.r006.c02": [
+    "Astrologer"
+  ],
+  "rr.p0096.t01.r006.c03": [
+    "Theology",
+    "Knowledge",
+    "Sensing Power"
+  ],
+  "rr.p0096.t01.r006.c04": [
+    "Astrologer",
+    "illusory figment",
+    "slumber",
+    "spellbook"
+  ],
+  "rr.p0096.t01.r007.c02": [
+    "Corrupted Soul"
+  ],
+  "rr.p0096.t01.r007.c03": [
+    "Knowledge",
+    "Alchemy",
+    "Black Lore of Zahar"
+  ],
+  "rr.p0096.t01.r007.c04": [
+    "unliving puppet",
+    "choking grip",
+    "spellbook"
+  ],
+  "rr.p0096.t01.r008.c02": [
+    "Wrathbringer"
+  ],
+  "rr.p0096.t01.r008.c03": [
+    "Profession",
+    "Manual of Arms",
+    "Martial Training"
+  ],
+  "rr.p0096.t01.r008.c04": [
+    "arcane armor",
+    "sharpness",
+    "spellbook"
+  ],
+  "rr.p0096.t01.r009.c02": [
+    "Messiah"
+  ],
+  "rr.p0096.t01.r009.c03": [
+    "Leadership",
+    "Diplomacy",
+    "Prophecy"
+  ],
+  "rr.p0096.t01.r009.c04": [
+    "illumination",
+    "counterspell",
+    "spellbook"
+  ],
+  "rr.p0096.b003": [
+    "Chaos",
+    "Corrupted Soul",
+    "template",
+    "template",
+    "Servant of Fire",
+    "template",
+    "Chaos",
+    "Studious Spellcasters",
+    "template",
+    "template",
+    "template"
+  ],
+  "rr.p0096.b005": [
+    "general proficiency",
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "class proficiency",
+    "Nobiran Wonderworker",
+    "Proficiency Progression"
+  ],
+  "rr.p0096.b006": [
+    "Unflappable Casting",
+    "Transmogrification",
+    "Syncretism",
+    "Soothsaying",
+    "Sensing Power",
+    "Sensing Evil",
+    "Quiet Magic",
+    "Prophecy",
+    "Prestidigitation",
+    "Mystic Aura",
+    "Mastery of Enchantments & Illusions",
+    "Mastery of Conjuration & Summoning",
+    "Martial Training",
+    "Magical Engineering",
+    "Loremastery",
+    "Laying on Hands",
+    "Illusion Resistance",
+    "Healing",
+    "Familiar",
+    "Experimenting",
+    "Expanded Repertoire",
+    "Elementalism",
+    "Counterspelling",
+    "Contemplation",
+    "Command",
+    "Bright Lore of Aura",
+    "Black Lore of Zahar",
+    "Beast Friendship",
+    "Battle Magic",
+    "Alchemy",
+    "Nobiran wonderworker"
+  ],
+  "rr.p0098.b002": [
+    "key attribute"
+  ],
+  "rr.p0098.b004": [
+    "Hit Dice"
+  ],
+  "rr.p0098.b006": [
+    "Chaos",
+    "Zaharan Ruinguard",
+    "Zaharan Ruinguard"
+  ],
+  "rr.p0098.b007": [
+    "Chaos",
+    "Knowledge",
+    "Zaharan Ruinguard",
+    "Law"
+  ],
+  "rr.p0098.b008": [
+    "Zaharan Ruinguard",
+    "Chaos",
+    "Zaharan Ruinguard",
+    "Zaharan Ruinguard",
+    "Chaos",
+    "Knowledge",
+    "Zaharan Ruinguard"
+  ],
+  "rr.p0098.b010": [
+    "Chaos",
+    "Zaharan Ruinguard",
+    "Zaharan Ruinguard"
+  ],
+  "rr.p0098.b011": [
+    "Two-Handed Weapon",
+    "Zaharan Ruinguard",
+    "Combat Proficiencies"
+  ],
+  "rr.p0098.b012": [
+    "Zaharan Ruinguard",
+    "attack throw",
+    "Combat Progression"
+  ],
+  "rr.p0098.b013": [
+    "Cleave"
+  ],
+  "rr.p0098.t01.r002.c10": [
+    "Caster"
+  ],
+  "rr.p0098.t01.r003.c02": [
+    "Insignificant"
+  ],
+  "rr.p0098.t01.r004.c02": [
+    "Ruinborn"
+  ],
+  "rr.p0098.t01.r005.c02": [
+    "Ruinchild"
+  ],
+  "rr.p0098.t01.r006.c02": [
+    "Son of Ruin"
+  ],
+  "rr.p0098.t01.r007.c02": [
+    "Ruinwielder"
+  ],
+  "rr.p0098.t01.r008.c02": [
+    "Ruinscourge"
+  ],
+  "rr.p0098.t01.r009.c02": [
+    "Ruinmaster"
+  ],
+  "rr.p0098.t01.r010.c02": [
+    "Father of Ruin"
+  ],
+  "rr.p0098.t01.r011.c02": [
+    "Lord of Ruin"
+  ],
+  "rr.p0098.t01.r012.c02": [
+    "Lord of Secrets"
+  ],
+  "rr.p0098.t01.r013.c02": [
+    "Lord of Bindings"
+  ],
+  "rr.p0098.t01.r014.c02": [
+    "Prince of Ruin"
+  ],
+  "rr.p0099.b004": [
+    "Class powers",
+    "Zaharan Ruinguard",
+    "Zaharan ruinguard"
+  ],
+  "rr.p0099.b005": [
+    "Zaharan ruinguard",
+    "Zaharan ruinguard",
+    "Dark Blessing"
+  ],
+  "rr.p0099.b006": [
+    "Manual of Arms",
+    "Class powers",
+    "Judge",
+    "Mercenary",
+    "proficiency throw",
+    "Realm",
+    "Zaharan Ruinguard",
+    "Manual of Arms"
+  ],
+  "rr.p0099.b007": [
+    "Zaharan Ruinguard",
+    "Zaharan ruinguard",
+    "Preternatural Quickening"
+  ],
+  "rr.p0099.b008": [
+    "Weapon Focus",
+    "Zaharan ruinguard",
+    "Zaharan Ruinguard",
+    "Weapon Focus"
+  ],
+  "rr.p0099.b010": [
+    "Class powers",
+    "Zaharan ruinguard"
+  ],
+  "rr.p0099.b011": [
+    "Zaharan ruinguard",
+    "Zaharan Ruinguard",
+    "repertoire",
+    "repertoire",
+    "Zaharan Ruinguard",
+    "Zaharan Ruinguard",
+    "Zaharan Ruinguard",
+    "caster level",
+    "caster level",
+    "arcane spell",
+    "Zaharan ruinguard",
+    "Arcane Magic"
+  ],
+  "rr.p0099.b012": [
+    "Zaharan Ruinguard",
+    "Zaharan ruinguard",
+    "Arcane Striking"
+  ],
+  "rr.p0099.b013": [
+    "Cleave",
+    "Zaharan Ruinguard",
+    "Arcane Striking",
+    "extraordinary",
+    "Arcane Striking"
+  ],
+  "rr.p0099.b014": [
+    "attack throw"
+  ],
+  "rr.p0099.b015": [
+    "Arcane Striking",
+    "Death Healing",
+    "Zaharan Ruinguard",
+    "Cleave",
+    "Cleave",
+    "Zaharan Ruinguard",
+    "Death Healing",
+    "Hit Points",
+    "Zaharan Ruinguard",
+    "Zaharan ruinguard",
+    "Death Healing"
+  ],
+  "rr.p0099.b016": [
+    "Hit Points",
+    "hp",
+    "Hit Points",
+    "hp"
+  ],
+  "rr.p0099.b017": [
+    "Zaharan Ruinguard",
+    "Zaharan Ruinguard",
+    "chaotic",
+    "Zaharan Ruinguard",
+    "Dark Charisma"
+  ],
+  "rr.p0099.b018": [
+    "Zaharan ruinguard",
+    "Minor Magical Research"
+  ],
+  "rr.p0099.b019": [
+    "Dark Fortress",
+    "Realm",
+    "Henchmen",
+    "Mercenary",
+    "Zaharan Ruinguard",
+    "Fortress",
+    "Zaharan Ruinguard",
+    "Zaharan ruinguard",
+    "Fortress",
+    "Zaharan ruinguard",
+    "Dark Fortress",
+    "Dark Fortress"
+  ],
+  "rr.p0100.t01.r002.c02": [
+    "Flesheater"
+  ],
+  "rr.p0100.t01.r002.c03": [
+    "Weapon Focus",
+    "Kin-Slaying"
+  ],
+  "rr.p0100.t01.r003.c02": [
+    "Hatemonger"
+  ],
+  "rr.p0100.t01.r003.c03": [
+    "Weapon Focus",
+    "Intimidation",
+    "Berserkergang"
+  ],
+  "rr.p0100.t01.r003.c04": [
+    "Great Axe"
+  ],
+  "rr.p0100.t01.r004.c02": [
+    "Grimguard"
+  ],
+  "rr.p0100.t01.r004.c03": [
+    "Weapon Focus",
+    "Manual of Arms",
+    "Weapon and Shield"
+  ],
+  "rr.p0100.t01.r005.c02": [
+    "Avenger"
+  ],
+  "rr.p0100.t01.r005.c03": [
+    "Weapon Focus",
+    "Profession",
+    "Sensing Good"
+  ],
+  "rr.p0100.t01.r006.c02": [
+    "Doomwielder"
+  ],
+  "rr.p0100.t01.r006.c03": [
+    "Weapon Focus",
+    "Endurance",
+    "Two-Handed Weapon"
+  ],
+  "rr.p0100.t01.r007.c02": [
+    "Warmaster"
+  ],
+  "rr.p0100.t01.r007.c03": [
+    "Weapon Focus",
+    "Military Strategy",
+    "Combat Ferocity"
+  ],
+  "rr.p0100.t01.r008.c02": [
+    "Ruinbinder"
+  ],
+  "rr.p0100.t01.r008.c03": [
+    "Weapon Focus",
+    "Knowledge",
+    "Familiar"
+  ],
+  "rr.p0100.t01.r008.c04": [
+    "Familiar"
+  ],
+  "rr.p0100.t01.r009.c02": [
+    "Shadowcrown"
+  ],
+  "rr.p0100.t01.r009.c03": [
+    "Weapon Focus",
+    "Riding",
+    "Command"
+  ],
+  "rr.p0100.t01.r009.c04": [
+    "Riding"
+  ],
+  "rr.p0100.b003": [
+    "Black Lore of Zahar",
+    "Ruinbinder",
+    "Familiar",
+    "Warmaster",
+    "Avenger",
+    "Flesheater",
+    "Zaharan Ruinguard",
+    "template",
+    "Weapon Focus"
+  ],
+  "rr.p0100.b004": [
+    "Cleave",
+    "Zaharan Ruinguard",
+    "Arcane Striking",
+    "Death Healing",
+    "Spell Storing",
+    "Zaharan Ruinguard",
+    "Zaharan Ruinguard",
+    "Zaharan Ruinguard",
+    "Zaharan Ruinguard",
+    "Zaharan Ruinguard",
+    "Zaharan Ruinguard",
+    "Spell Storing"
+  ],
+  "rr.p0100.b005": [
+    "Cleave",
+    "dismember",
+    "permanent wound",
+    "Spells",
+    "saving throw",
+    "dismember",
+    "Arcane Striking",
+    "dismember"
+  ],
+  "rr.p0100.b006": [
+    "Zaharan ruinguard",
+    "Major Magical Research"
+  ],
+  "rr.p0100.b008": [
+    "Zaharan Ruinguard"
+  ],
+  "rr.p0100.b009": [
+    "Zaharan Ruinguard",
+    "HD",
+    "HD",
+    "HD",
+    "Zaharan Ruinguard",
+    "Hit Dice",
+    "Zaharan Ruinguard",
+    "Zaharan ruinguard",
+    "After the Flesh"
+  ],
+  "rr.p0100.b010": [
+    "Zaharan ruinguard",
+    "chaotic",
+    "chaotic",
+    "Reactions",
+    "Zaharan Ruinguard",
+    "Ancient Pacts",
+    "Ancient Pacts"
+  ],
+  "rr.p0100.b011": [
+    "Tampering with Mortality",
+    "Dark Souls"
+  ],
+  "rr.p0101.b001": [
+    "Zaharan Ruinguard",
+    "Inexorable"
+  ],
+  "rr.p0101.b002": [
+    "Zaharan ruinguard",
+    "Zaharan Tongues"
+  ],
+  "rr.p0101.b004": [
+    "general proficiency",
+    "class proficiency",
+    "general proficiency",
+    "general proficiency",
+    "class proficiency",
+    "class proficiency",
+    "Zaharan Ruinguard",
+    "Proficiency Progression"
+  ],
+  "rr.p0101.b005": [
+    "Wakefulness",
+    "Unflappable Casting",
+    "Skirmishing",
+    "Sensing Power",
+    "Sensing Good",
+    "Mystic Aura",
+    "Mounted Combat",
+    "Military Strategy",
+    "Mastery of Conjuration & Summoning",
+    "Martial Training",
+    "Leadership",
+    "Kin-Slaying",
+    "Fighting Style Specialization",
+    "Familiar",
+    "Elementalism",
+    "Dungeonbashing Expertise",
+    "Command",
+    "Sunder",
+    "Overrun",
+    "Combat Trickery",
+    "Combat Ferocity",
+    "Blind Fighting",
+    "Black Lore of Zahar",
+    "Berserkergang",
+    "Battle Magic",
+    "Ambushing",
+    "Alertness",
+    "Zaharan ruinguard"
+  ]
+}

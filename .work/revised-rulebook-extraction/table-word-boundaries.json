@@ -1,0 +1,877 @@
+[
+  {
+    "page": 16,
+    "table": 1,
+    "word": "MODIFIERS",
+    "columns": [
+      0,
+      1
+    ],
+    "top": 244.7701,
+    "line": "ATTRIBUTE MODIFIERS"
+  },
+  {
+    "page": 16,
+    "table": 2,
+    "word": "ATTRIBUTE",
+    "columns": [
+      0,
+      1
+    ],
+    "top": 361.13,
+    "line": "KEY ATTRIBUTE"
+  },
+  {
+    "page": 36,
+    "table": 1,
+    "word": "MAGE",
+    "columns": [
+      4,
+      5
+    ],
+    "top": 94.26,
+    "line": "MAGE SPELL PROGRESSION"
+  },
+  {
+    "page": 36,
+    "table": 1,
+    "word": "SPELL",
+    "columns": [
+      5,
+      6
+    ],
+    "top": 94.26,
+    "line": "MAGE SPELL PROGRESSION"
+  },
+  {
+    "page": 36,
+    "table": 1,
+    "word": "PROGRESSION",
+    "columns": [
+      7,
+      8,
+      9
+    ],
+    "top": 94.26,
+    "line": "MAGE SPELL PROGRESSION"
+  },
+  {
+    "page": 38,
+    "table": 1,
+    "word": "CRUSADER",
+    "columns": [
+      5,
+      6,
+      7
+    ],
+    "top": 95.1,
+    "line": "CRUSADER SPELL"
+  },
+  {
+    "page": 38,
+    "table": 1,
+    "word": "SPELL",
+    "columns": [
+      7,
+      8
+    ],
+    "top": 95.1,
+    "line": "CRUSADER SPELL"
+  },
+  {
+    "page": 38,
+    "table": 1,
+    "word": "PROGRESSION",
+    "columns": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "top": 105.1,
+    "line": "EXPERIENCE TITLE LEVEL HIT DICE PROGRESSION"
+  },
+  {
+    "page": 39,
+    "table": 2,
+    "word": "CRUSADER",
+    "columns": [
+      7,
+      8
+    ],
+    "top": 215.26,
+    "line": "CRUSADER LEVEL"
+  },
+  {
+    "page": 39,
+    "table": 2,
+    "word": "LEVEL",
+    "columns": [
+      8,
+      9
+    ],
+    "top": 215.26,
+    "line": "CRUSADER LEVEL"
+  },
+  {
+    "page": 58,
+    "table": 1,
+    "word": "BLADEDANCER",
+    "columns": [
+      6,
+      7,
+      8
+    ],
+    "top": 524.917,
+    "line": "BLADEDANCER SPELL"
+  },
+  {
+    "page": 58,
+    "table": 1,
+    "word": "PROGRESSION",
+    "columns": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "top": 532.817,
+    "line": "EXPERIENCE TITLE LEVEL HIT DICE AC PROGRESSION"
+  },
+  {
+    "page": 66,
+    "table": 1,
+    "word": "PRIESTESS",
+    "columns": [
+      5,
+      6,
+      7
+    ],
+    "top": 94.26,
+    "line": "PRIESTESS SPELL"
+  },
+  {
+    "page": 66,
+    "table": 1,
+    "word": "SPELL",
+    "columns": [
+      7,
+      8
+    ],
+    "top": 94.26,
+    "line": "PRIESTESS SPELL"
+  },
+  {
+    "page": 66,
+    "table": 1,
+    "word": "PROGRESSION",
+    "columns": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "top": 104.26,
+    "line": "EXPERIENCE TITLE LEVEL HIT DICE PROGRESSION"
+  },
+  {
+    "page": 70,
+    "table": 1,
+    "word": "SHAMAN",
+    "columns": [
+      5,
+      6,
+      7
+    ],
+    "top": 94.0176,
+    "line": "SHAMAN SPELL"
+  },
+  {
+    "page": 70,
+    "table": 1,
+    "word": "SPELL",
+    "columns": [
+      7,
+      8
+    ],
+    "top": 94.0176,
+    "line": "SHAMAN SPELL"
+  },
+  {
+    "page": 70,
+    "table": 1,
+    "word": "PROGRESSION",
+    "columns": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "top": 104.0176,
+    "line": "EXPERIENCE TITLE LEVEL HIT DICE PROGRESSION"
+  },
+  {
+    "page": 74,
+    "table": 1,
+    "word": "WARLOCK",
+    "columns": [
+      5,
+      6,
+      7
+    ],
+    "top": 94.26,
+    "line": "WARLOCK SPELL"
+  },
+  {
+    "page": 74,
+    "table": 1,
+    "word": "SPELL",
+    "columns": [
+      7,
+      8
+    ],
+    "top": 94.26,
+    "line": "WARLOCK SPELL"
+  },
+  {
+    "page": 74,
+    "table": 1,
+    "word": "PROGRESSION",
+    "columns": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "top": 104.26,
+    "line": "EXPERIENCE TITLE LEVEL HIT DICE PROGRESSION"
+  },
+  {
+    "page": 78,
+    "table": 1,
+    "word": "WITCH",
+    "columns": [
+      4,
+      5
+    ],
+    "top": 94.8263,
+    "line": "WITCH SPELL PROGRESSION"
+  },
+  {
+    "page": 78,
+    "table": 1,
+    "word": "SPELL",
+    "columns": [
+      5,
+      6
+    ],
+    "top": 94.8263,
+    "line": "WITCH SPELL PROGRESSION"
+  },
+  {
+    "page": 78,
+    "table": 1,
+    "word": "PROGRESSION",
+    "columns": [
+      7,
+      8,
+      9
+    ],
+    "top": 94.8263,
+    "line": "WITCH SPELL PROGRESSION"
+  },
+  {
+    "page": 82,
+    "table": 1,
+    "word": "CRAFTPRIEST",
+    "columns": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "top": 574.7387,
+    "line": "CRAFTPRIEST SPELL"
+  },
+  {
+    "page": 82,
+    "table": 1,
+    "word": "SPELL",
+    "columns": [
+      7,
+      8
+    ],
+    "top": 574.7387,
+    "line": "CRAFTPRIEST SPELL"
+  },
+  {
+    "page": 82,
+    "table": 1,
+    "word": "PROGRESSION",
+    "columns": [
+      5,
+      6,
+      7
+    ],
+    "top": 584.7387,
+    "line": "EXPERIENCE TITLE LEVEL HIT DICE PROGRESSION"
+  },
+  {
+    "page": 88,
+    "table": 1,
+    "word": "NIGHTBLADE",
+    "columns": [
+      4,
+      5,
+      6
+    ],
+    "top": 564.374,
+    "line": "NIGHTBLADE SPELL PROGRESSION"
+  },
+  {
+    "page": 88,
+    "table": 1,
+    "word": "SPELL",
+    "columns": [
+      7,
+      8
+    ],
+    "top": 564.374,
+    "line": "NIGHTBLADE SPELL PROGRESSION"
+  },
+  {
+    "page": 88,
+    "table": 1,
+    "word": "PROGRESSION",
+    "columns": [
+      8,
+      9
+    ],
+    "top": 564.374,
+    "line": "NIGHTBLADE SPELL PROGRESSION"
+  },
+  {
+    "page": 92,
+    "table": 1,
+    "word": "SPELLSWORD",
+    "columns": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "top": 574.7423,
+    "line": "SPELLSWORD SPELL"
+  },
+  {
+    "page": 92,
+    "table": 1,
+    "word": "SPELL",
+    "columns": [
+      8,
+      9
+    ],
+    "top": 574.7423,
+    "line": "SPELLSWORD SPELL"
+  },
+  {
+    "page": 92,
+    "table": 1,
+    "word": "PROGRESSION",
+    "columns": [
+      6,
+      7,
+      8
+    ],
+    "top": 582.6423,
+    "line": "EXPERIENCE TITLE LEVEL HIT DICE DAMAGE PROGRESSION"
+  },
+  {
+    "page": 94,
+    "table": 1,
+    "word": "ARCANE",
+    "columns": [
+      4,
+      5
+    ],
+    "top": 564.7068,
+    "line": "ARCANE SPELL PROGRESSION DIVINE SPELL PROGRESSION"
+  },
+  {
+    "page": 94,
+    "table": 1,
+    "word": "PROGRESSION",
+    "columns": [
+      7,
+      8,
+      9
+    ],
+    "top": 564.7068,
+    "line": "ARCANE SPELL PROGRESSION DIVINE SPELL PROGRESSION"
+  },
+  {
+    "page": 94,
+    "table": 1,
+    "word": "DIVINE",
+    "columns": [
+      10,
+      11
+    ],
+    "top": 564.7068,
+    "line": "ARCANE SPELL PROGRESSION DIVINE SPELL PROGRESSION"
+  },
+  {
+    "page": 94,
+    "table": 1,
+    "word": "PROGRESSION",
+    "columns": [
+      13,
+      14,
+      15
+    ],
+    "top": 564.7068,
+    "line": "ARCANE SPELL PROGRESSION DIVINE SPELL PROGRESSION"
+  },
+  {
+    "page": 98,
+    "table": 1,
+    "word": "RUINGUARD",
+    "columns": [
+      4,
+      5,
+      6
+    ],
+    "top": 554.34,
+    "line": "RUINGUARD SPELL PROGRESSION"
+  },
+  {
+    "page": 98,
+    "table": 1,
+    "word": "SPELL",
+    "columns": [
+      7,
+      8
+    ],
+    "top": 554.34,
+    "line": "RUINGUARD SPELL PROGRESSION"
+  },
+  {
+    "page": 98,
+    "table": 1,
+    "word": "PROGRESSION",
+    "columns": [
+      8,
+      9
+    ],
+    "top": 554.34,
+    "line": "RUINGUARD SPELL PROGRESSION"
+  },
+  {
+    "page": 125,
+    "table": 1,
+    "word": "EXCHANGE",
+    "columns": [
+      1,
+      2
+    ],
+    "top": 409.91,
+    "line": "EXCHANGE VALUE"
+  },
+  {
+    "page": 125,
+    "table": 1,
+    "word": "VALUE",
+    "columns": [
+      2,
+      3
+    ],
+    "top": 409.91,
+    "line": "EXCHANGE VALUE"
+  },
+  {
+    "page": 137,
+    "table": 1,
+    "word": "VOYAGE",
+    "columns": [
+      8,
+      9
+    ],
+    "top": 102.2601,
+    "line": "VOYAGE"
+  },
+  {
+    "page": 137,
+    "table": 1,
+    "word": "COMBAT",
+    "columns": [
+      5,
+      6
+    ],
+    "top": 107.2601,
+    "line": "CREW COMBAT SPEED"
+  },
+  {
+    "page": 137,
+    "table": 1,
+    "word": "SPEED",
+    "columns": [
+      8,
+      9
+    ],
+    "top": 111.6001,
+    "line": "SPEED CARGO"
+  },
+  {
+    "page": 142,
+    "table": 1,
+    "word": "CREATURE",
+    "columns": [
+      5,
+      6
+    ],
+    "top": 654.5701,
+    "line": "BARDING COLOSSAL CREATURE GIGANTIC CREATURE HUGE CREATURE LARGE CREATURE MAN-SIZED CREATURE"
+  },
+  {
+    "page": 142,
+    "table": 1,
+    "word": "CREATURE",
+    "columns": [
+      7,
+      8
+    ],
+    "top": 654.5701,
+    "line": "BARDING COLOSSAL CREATURE GIGANTIC CREATURE HUGE CREATURE LARGE CREATURE MAN-SIZED CREATURE"
+  },
+  {
+    "page": 162,
+    "table": 1,
+    "word": "PIERCING/SLASHING",
+    "columns": [
+      0,
+      1
+    ],
+    "top": 510.3768,
+    "line": "PIERCING/SLASHING WEAPONS"
+  },
+  {
+    "page": 162,
+    "table": 2,
+    "word": "BLUDGEONING",
+    "columns": [
+      0,
+      1
+    ],
+    "top": 510.3768,
+    "line": "BLUDGEONING WEAPONS"
+  },
+  {
+    "page": 169,
+    "table": 2,
+    "word": "OBEDIENCE",
+    "columns": [
+      0,
+      1
+    ],
+    "top": 580.6701,
+    "line": "HIRELING OBEDIENCE"
+  },
+  {
+    "page": 170,
+    "table": 1,
+    "word": "HENCHMEN",
+    "columns": [
+      0,
+      1
+    ],
+    "top": 400.6901,
+    "line": "HENCHMEN MONTHLY WAGE"
+  },
+  {
+    "page": 171,
+    "table": 1,
+    "word": "WAGE",
+    "columns": [
+      2,
+      3
+    ],
+    "top": 489.0727,
+    "line": "GP WAGE PER MONTH"
+  },
+  {
+    "page": 202,
+    "table": 1,
+    "word": "CALLED",
+    "columns": [
+      3,
+      4
+    ],
+    "top": 179.51,
+    "line": "NO. CALLED BY CASTER LEVEL"
+  },
+  {
+    "page": 202,
+    "table": 1,
+    "word": "CASTER",
+    "columns": [
+      5,
+      6
+    ],
+    "top": 179.51,
+    "line": "NO. CALLED BY CASTER LEVEL"
+  },
+  {
+    "page": 202,
+    "table": 1,
+    "word": "LEVEL",
+    "columns": [
+      6,
+      7
+    ],
+    "top": 179.51,
+    "line": "NO. CALLED BY CASTER LEVEL"
+  },
+  {
+    "page": 202,
+    "table": 2,
+    "word": "NO.",
+    "columns": [
+      1,
+      2
+    ],
+    "top": 642.3701,
+    "line": "NO. CALLED BY CASTER LEVEL"
+  },
+  {
+    "page": 202,
+    "table": 2,
+    "word": "CALLED",
+    "columns": [
+      2,
+      3
+    ],
+    "top": 642.3701,
+    "line": "NO. CALLED BY CASTER LEVEL"
+  },
+  {
+    "page": 202,
+    "table": 2,
+    "word": "CASTER",
+    "columns": [
+      4,
+      5
+    ],
+    "top": 642.3701,
+    "line": "NO. CALLED BY CASTER LEVEL"
+  },
+  {
+    "page": 202,
+    "table": 2,
+    "word": "LEVEL",
+    "columns": [
+      5,
+      6
+    ],
+    "top": 642.3701,
+    "line": "NO. CALLED BY CASTER LEVEL"
+  },
+  {
+    "page": 319,
+    "table": 1,
+    "word": "VOYAGE",
+    "columns": [
+      8,
+      9
+    ],
+    "top": 76.51,
+    "line": "VOYAGE"
+  },
+  {
+    "page": 319,
+    "table": 1,
+    "word": "COMBAT",
+    "columns": [
+      5,
+      6
+    ],
+    "top": 81.51,
+    "line": "CREW COMBAT SPEED"
+  },
+  {
+    "page": 319,
+    "table": 1,
+    "word": "SPEED",
+    "columns": [
+      8,
+      9
+    ],
+    "top": 85.85,
+    "line": "SPEED CARGO"
+  },
+  {
+    "page": 338,
+    "table": 1,
+    "word": "(JUTLAND)",
+    "columns": [
+      0,
+      1
+    ],
+    "top": 111.2199,
+    "line": "BARBARIANS (JUTLAND)"
+  },
+  {
+    "page": 338,
+    "table": 1,
+    "word": "(IVORY",
+    "columns": [
+      0,
+      1
+    ],
+    "top": 180.0398,
+    "line": "BARBARIANS (IVORY KINGDOMS)"
+  },
+  {
+    "page": 338,
+    "table": 1,
+    "word": "(SKYSOS)",
+    "columns": [
+      0,
+      1
+    ],
+    "top": 248.8596,
+    "line": "BARBARIANS (SKYSOS)"
+  },
+  {
+    "page": 338,
+    "table": 1,
+    "word": "BLADEDANCERS",
+    "columns": [
+      0,
+      1
+    ],
+    "top": 317.6795,
+    "line": "BARDS & BLADEDANCERS"
+  },
+  {
+    "page": 338,
+    "table": 1,
+    "word": "FIGHTERS,",
+    "columns": [
+      0,
+      1
+    ],
+    "top": 409.1795,
+    "line": "CRUSADERS, FIGHTERS, & PALADINS"
+  },
+  {
+    "page": 338,
+    "table": 1,
+    "word": "CRAFTPRIESTS",
+    "columns": [
+      0,
+      1
+    ],
+    "top": 512.0193,
+    "line": "DWARVEN CRAFTPRIESTS & DWARVEN VAULTGUARDS"
+  },
+  {
+    "page": 338,
+    "table": 1,
+    "word": "SPELLSWORDS",
+    "columns": [
+      0,
+      1
+    ],
+    "top": 592.1793,
+    "line": "ELVEN SPELLSWORDS"
+  },
+  {
+    "page": 339,
+    "table": 1,
+    "word": "SHAMANS",
+    "columns": [
+      0,
+      1
+    ],
+    "top": 99.9699,
+    "line": "EXPLORERS & SHAMANS"
+  },
+  {
+    "page": 339,
+    "table": 1,
+    "word": "RUINGUARDS",
+    "columns": [
+      0,
+      1
+    ],
+    "top": 202.8097,
+    "line": "ZAHARAN RUINGUARDS"
+  },
+  {
+    "page": 382,
+    "table": 1,
+    "word": "Merchandise",
+    "columns": [
+      1,
+      2
+    ],
+    "top": 333.6284,
+    "line": "99 – 100 Roll on Precious Merchandise table"
+  },
+  {
+    "page": 386,
+    "table": 1,
+    "word": "1D100",
+    "columns": [
+      1,
+      2
+    ],
+    "top": 494.26,
+    "line": "1D100 ROLL BY RISK BUSINESS COMMERCIAL"
+  },
+  {
+    "page": 386,
+    "table": 1,
+    "word": "RISK",
+    "columns": [
+      2,
+      3
+    ],
+    "top": 494.26,
+    "line": "1D100 ROLL BY RISK BUSINESS COMMERCIAL"
+  },
+  {
+    "page": 475,
+    "table": 1,
+    "word": "STRUCTURAL",
+    "columns": [
+      0,
+      1
+    ],
+    "top": 700.53,
+    "line": "EFFECT OF UNIT CAPACITY AND STRUCTURAL HIT POINTS"
+  },
+  {
+    "page": 486,
+    "table": 1,
+    "word": "BESIEGING",
+    "columns": [
+      5,
+      6
+    ],
+    "top": 95.0051,
+    "line": "BESIEGING ARMY’S UNIT ADVANTAGE"
+  },
+  {
+    "page": 486,
+    "table": 1,
+    "word": "ADVANTAGE",
+    "columns": [
+      8,
+      9,
+      10
+    ],
+    "top": 95.0051,
+    "line": "BESIEGING ARMY’S UNIT ADVANTAGE"
+  }
+]

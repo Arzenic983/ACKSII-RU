@@ -1,0 +1,350 @@
+[rr.p0001.b001] heading
+ADVENTURER CONQUEROR KING SYSTEM™
+
+[rr.p0001.b002] heading
+IMPERIAL IMPRINT
+
+[rr.p0001.b003] heading
+REVISED RULEBOOK
+
+[rr.p0001.b004] paragraph
+AUTARCH
+
+[rr.p0001.b005] paragraph
+WRITTEN BY ALEXANDER MACRIS
+
+[rr.p0002.b001] heading
+ADVENTURER CONQUEROR KING SYSTEM™
+
+[rr.p0002.b002] heading
+IMPERIAL IMPRINT
+
+[rr.p0002.b003] heading
+REVISED RULEBOOK
+
+[rr.p0002.b004] paragraph
+*Enter a world where empires stand on the brink of war, and terrible monsters tear at the fragile borderlands of men; where decaying cities teem with chaos and corruption, weeping innocents are sacrificed to chthonic cults and nobles live in decadent pleasure while the realm burns; where heroes, wizards, and rogues risk everything in pursuit of glory, fortune, and power. This is a world where adventurers can become conquerors — and conquerors can become kings!*
+
+[rr.p0002.b005] paragraph
+The **Adventurer Conqueror King System™ Imperial Imprint (ACKS II)** is the new edition of the acclaimed bestselling fantasy role-playing game. It offers everything you need to enjoy epic fantasy campaigns with a sweeping scope. Whether you want to crawl through dungeons, experiment with alchemy, crossbreed monsters, run a merchant emporium, raise an undead legion, or conquer an empire, **ACKS II** supports your playstyle. The **ACKS II Revised Rulebook** features:
+
+[rr.p0002.b006] paragraph
+- **18 character classes**, each with 8 quick-start templates featuring pre-selected proficiencies, spells, equipment, and encumbrance that let you start playing in minutes!
+- **110 proficiencies** carefully selected to help you customize your character to your taste without risk of skill traps, min-max chains, or feat taxes.
+- **378 spells** carefully calibrated for long campaigns that ascend from dungeon delves to pitched battles with armies. Magic doesn’t have to make a game world implausible or unbalanced anymore!
+- **Dungeon delving mechanics** that let your adventurers interact with the subterranean environment by spelunking, rappelling, traversing, and more.
+- **Wilderness expedition rules** that bring the challenges and dangers of the wild to life, including mechanics for wilderness survival, inclement weather, and more.
+- **Sea voyage and naval warfare system** with mechanics for boarding, grappling, ramming, rowing, sailing, and siege weapons.
+- **Combat mechanics** that play like a realistic simulation of ancient hand-to-hand battle at low levels and a cinematic emulation of the legendary exploits of demigods and heroes at high levels.
+- **Stronghold and domain rules** that allow you to establish domains, rule realms, take vassals, establish a senate, and more.
+- **Hijinks and hideout rules** that let high-level thieves run their own criminal guild or spy network, dispatching their ruffians to racketeer, smuggle, surveil, and steal.
+- **Magic research mechanics** that go beyond spell design and magic item manufacture. Crossbreed monsters, construct golems, practice necromancy, and engage in magical experiments with unforeseeable consequences.
+- **Mercantile venture system** that let you set up a trade routes, build and manage caravans and merchant fleets, start and run businesses, engage in moneylending, and more.
+- **Mass combat mechanics**, with scalable rules for raising and organizing armies ranging from dozens to hundreds of thousands of soldiers, maneuvering them on the strategic theater, maintaining lines of supply, and fighting pitched battles and sieges.
+- And much, much more!
+
+[rr.p0002.b007] paragraph
+Your journey from adventurer to king begins now!
+
+[rr.p0002.b008] paragraph
+SKU: AUT2001
+
+[rr.p0002.b009] paragraph
+ISBN: 978-1-941956-70-0
+
+[rr.p0002.b010] paragraph
+MSRP: $75.00
+
+[rr.p0002.b011] paragraph
+AUTARCH
+
+[rr.p0002.b012] paragraph
+www.autarch.co
+
+[rr.p0003.b001] heading
+ADVENTURER CONQUEROR KING SYSTEM™
+
+[rr.p0003.b002] heading
+IMPERIAL IMPRINT
+
+[rr.p0003.b003] heading
+REVISED RULEBOOK
+
+[rr.p0004.b001] heading
+ADVENTURER
+
+[rr.p0004.b002] heading
+CONQUEROR
+
+[rr.p0004.b003] heading
+KING SYSTEM
+
+[rr.p0004.b004] heading
+IMPERIAL IMPRINT
+
+[rr.p0004.b005] heading
+REVISED RULEBOOK™
+
+[rr.p0004.b006] paragraph
+***Adventurer Conqueror King System*** Imperial Imprint ©2024 Autarch ™ LLC. All proper names, dialogue, plots, storylines, locations, and characters relating thereto are copyright 2008 – 2024 by Autarch™ LLC. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the written permission of the copyright owners. ***Adventurer Conqueror King System™, ACKS™, ACKS*** ***II™,*** Autarch™, and Imperial Imprint™ are trademarks of Autarch LLC. Auran Empire™ is a trademark of Alexander Macris. This product is a work of fiction. Any similarity to actual people, organizations, places, or events is purely coincidental.
+
+[rr.p0004.b007] heading
+CREDITS
+
+[rr.p0004.b008] paragraph
+**Lead Designer:** *Alexander Macris*
+
+[rr.p0004.b009] paragraph
+**Copy Editing:** *Birch Boyer*
+
+[rr.p0004.b010] paragraph
+**Playtesting:** *Zachary Arnett, Jason Barker, Jon Bolding, Birch Boyer, Michael Capps, Nick Eve, Sean* *Falconi, Aaron Fleischer, Newton Grant, Jake Hawkes, Chris Hazard, Erik Jacobson, William Macris,* *Jeremy McKean, Mike Mudgett, Grant Sinclair, Jonathan Steinhauer, Dan Vince, James Young, and the* *royal members of the* ***ACKS*** *Patreon*
+
+[rr.p0004.b011] paragraph
+**Cover Art:** *Jessica Fielhauer (leather cover), Michael Syrigos (PDF cover)*
+
+[rr.p0004.b012] paragraph
+**Chapter Art:** *Michael Syrigos*
+
+[rr.p0004.b013] paragraph
+**Interior Art:** *Ryan Browning, C.S. Daley, Cağdaş Demiralp, Francesca Ingrassia, Wilson Levy, Jeremy* *McKean, Slamet Mujiono, Senor Ocho, Old School Jelly, D. McGrane, Cezar Razek, Luciano Regazzoni,* *Cliff Richards, Pradeep Sherawat, Fabio Silva, Phil Stone, Michael Syrigos, Judit Tondora, Jesse White,* *Rohvel Yumul, Zeni*
+
+[rr.p0004.b014] paragraph
+**Graphic Design & Layout:** *Glynn Seal (MonkeyBlood Design & Publishing)*
+
+[rr.p0004.b015] paragraph
+**Additional Graphic Design:** *Todd Crapper*
+
+[rr.p0004.b016] paragraph
+**Kickstarter Cinematography:** *William Macris*
+
+[rr.p0004.b017] paragraph
+Printed in China by Global PSD
+
+[rr.p0005.b001] heading
+TABLE OF CONTENTS
+
+[rr.p0008.b001] heading
+INTRODUCTION
+
+[rr.p0009.b001] heading
+INTRODUCTION
+
+[rr.p0009.b002] paragraph
+*It is an age when empires totter on the brink of war, and terrible monsters tear at the fragile borderlands of men; when* *decaying cities teem with chaos and corruption, where nubile maidens are sacrificed to chthonic cults and nobles live* *in decadent pleasure on the toil of slaves; when heroes, wizards, and rogues risk everything in pursuit of glory, fortune,* *and power. These are days when adventurers can become conquerors… and conquerors can become kings!*
+
+[rr.p0009.b003] heading
+ABOUT THE GAME
+
+[rr.p0009.b004] paragraph
+The ***Adventurer Conqueror King System (ACKS)*** is a set of rules for role-playing in a world of swords, sorcery, and strongholds, where you take on the role of an adventurer in an imaginary land drawn from the epics and legends of the past. The core rules for ***ACKS*** were first published in 2012. This book, the ***Adventurer*** ***Conqueror King System Imperial Imprint (ACKS II) Revised*** ***Rulebook,*** is a revised and expanded edition of the original core rules. The ***ACKS II Revised Rulebook*** provides a complete toolkit for enjoying a wide variety of heroic fantasy settings. It covers character creation, proficiencies, spells, adventures, encounters, and combat, and all the associated game mechanics necessary for swords-and-sorcery adventure.
+
+[rr.p0009.b005] paragraph
+For those who prefer a pre-generated world for their gaming, the ***ACKS II Revised Rulebook*** also provides the default setting of the **Auran Empire,** an ancient and opulent land drowning in a torrent of violence from all sides. Primeval wars and wild magic have left behind terrible monsters that, in this declining age, can no longer easily be held in check. Confronted by the imminent collapse of the once-great empire, you may be a scavenger and vagabond feasting off its corpse, a hero fighting to save what you can, or a would-be conqueror intent on forging a new kingdom from the ashes of the old.
+
+[rr.p0009.b006] paragraph
+Whatever setting your adventurers inhabit, with ***ACKS II*** you can seek fame, wealth, and power by conquering foes, gathering treasure, and accumulating land and followers. If you are skilled and lucky, you may rise to become a mighty overlord, wizard-king, or theocrat, holding the destiny of thousands in your hands. If not, the wages of your adventures will be merely death…
+
+[rr.p0009.b007] heading
+HOW TO USE THIS BOOK
+
+[rr.p0009.b008] paragraph
+This rulebook contains the core rules of the ***Adventurer Conqueror*** ***King System Imperial Imprint (ACKS II),*** organized into the following parts.
+
+[rr.p0009.b009] paragraph
+Chapter 1, **Characters,** provides numbered, easy to follow steps to create a player character.
+
+[rr.p0009.b010] paragraph
+Chapter 2, **Classes,** presents the available archetypes of adventurers open to player characters.
+
+[rr.p0009.b011] paragraph
+Chapter 3, **Proficiencies,** details the various skills that characters may acquire, along with information on the game mechanics of all proficiencies.
+
+[rr.p0009.b012] paragraph
+Chapter 4, **Equipment,** provides prices and statistics for the various weapons, armor, and other equipment available in the game.
+
+[rr.p0009.b013] paragraph
+Chapter 5, **Spells,** lists the various spells that different characters may learn and cast, along with a detailed description of each spell’s effect in the game.
+
+[rr.p0009.b014] paragraph
+Chapter 6, **Adventures,** provides rules for exploration, encounters, and combat in the dangerous and violent world that the player characters will adventure within.
+
+[rr.p0009.b015] paragraph
+Chapter 7, **Voyages,** offers rules for maritime adventure, with mechanics for points of sail, galley combat, weather, and more.
+
+[rr.p0009.b016] paragraph
+Chapter 8, **Campaigns,** covers the long-range pursuits of characters as they adventure, including conducting magical research, building strongholds, and establishing domains and realms.
+
+[rr.p0009.b017] paragraph
+Chapter 9, **Armies,** contains rules for raising armies of mercenaries, conscripts, militia, and vassal forces.
+
+[rr.p0009.b018] paragraph
+Chapter 10, **Maneuvers,** covers strategic-level warfare, including maneuvering armies, engaging in reconnaissance, interrogating prisoners, and managing supply lines.
+
+[rr.p0009.b019] paragraph
+Chapter 11, **Battles,** provides rules for pitched battles between armies of hundreds or thousands of combatants, with mechanics for forming battle lines, conducting heroic forays, and pursuing defeated foes.
+
+[rr.p0009.b020] paragraph
+Chapter 12, **Sieges,** offers mechanics for blockade, bombardment, and assault of fortified structures.
+
+[rr.p0009.b021] heading
+THE BASICS OF THE GAME
+
+[rr.p0009.b022] paragraph
+Read this section carefully! These terms will be used throughout the rules of the ***Adventurer Conqueror King System.***
+
+[rr.p0009.b023] paragraph
+When a group of people sit down to play ***ACKS,*** the participants are called **players,** and they each take on the role of a **character** (or, sometimes, more than one character). Characters played by players are referred to as **player characters** or **adventurers.** The players act in the role of their characters in the world designed and presented by a special game participant referred to as the **Game Judge** (or **Judge** for short). It’s the Judge’s responsibility to prepare ahead of time to give the players opportunities for adventure, and to judge the results of their choices during adventures fairly and wisely. The Judge is the referee of the game, and the final arbitrator of rules and rules decisions. He also narrates the action of the game, and plays the roles of all the various **monsters** in the world. A special type of monster is the **non-player character** (NPC). NPCs share many similarities with the characters played by the players, but the Judge determines their actions, personalities, and motivations. PCs, NPCs, and other monsters are collectively called **creatures.**
+
+[rr.p0010.b001] paragraph
+Characters have **attributes,** which determine how strong, smart, and otherwise talented they are. Based on their attributes, characters each will select a **class,** such as fighter or mage, which might be thought of as a profession, and which dictates what sorts of training and capabilities characters can develop, including their unique **class powers** and trained **proficiencies.** Characters have levels of experience, or **class levels,** which measure how well-developed and powerful they are. Player characters begin at 1st level in a particular class. Normal people, lacking the call to adventure, are generally 0th level characters. Spellcasters have **caster levels** that determine how effective their magic is. Caster level is usually, but not always, equal to class level.
+
+[rr.p0010.b002] paragraph
+**Experience points** (XP) are used to measure the advancement of characters through their class levels. These points are earned based partly on how powerful defeated monsters are, but mostly on how much treasure is found and returned to civilization by the player characters. As characters accumulate experience points through fighting monsters and gaining wealth, they will reach higher levels (2nd level, 3rd level, and so on). Gaining a level incrementally marks your character’s advancement. As a character gains levels, he becomes ever more powerful.
+
+[rr.p0010.b003] paragraph
+Monsters also have levels, called **monster levels,** which are a direct measure of how challenging an opponent the monster is. Likewise, **spell levels** measure how powerful a spell is. Monster and spell levels do not directly correspond to class levels; they are only a relative measure of power.
+
+[rr.p0010.b004] paragraph
+When a character advances in level, he gains additional **hit points** (hp), which allow him to endure more damage and survive. Characters most often take damage from monsters while engaged in an **encounter.** An encounter is a situation in which the PCs and monsters are interacting. Time and movement are measured in detail during encounters, with actions resolved in a precise order known as **initiative.**
+
+[rr.p0010.b005] paragraph
+A series of encounters connected by time, location, and player choices is called an **adventure.** An adventure is often used to describe one play session, but it might also indicate a complete **scenario** that is played out over several sessions. A series of adventures in the same game world is referred to as a **campaign.**
+
+[rr.p0010.b006] paragraph
+Early in their career, adventurers will delve into **dungeons,** underground complexes that are stocked with many monsters, treasures, and treacherous secrets. Dungeons can be as small as a monster den or as large as an underground city. While the Judge may design these areas, published pre-made dungeons might also be used. Dungeons are divided into **dungeon levels.** A dungeon level could be thought of as a floor of a building. When characters travel into the top-most level of a dungeon, they are in the level closest to the surface of the earth. If the dungeon has multiple levels, the next level down is the second level, then the third, and so on. The deeper the dungeon level, the greater the dangers that await the characters.
+
+[rr.p0010.b007] paragraph
+If an adventurer is not slain or otherwise removed from play, he will eventually reach a high level. At this time, adventurers often begin to buy, construct, or conquer **strongholds,** such as castles or towers. Strongholds enable a character to attract **followers** and open up new campaign activities and new avenues of gameplay. Some types of strongholds enable adventurers to establish criminal syndicates, monster-filled dungeons, or hidden fastnesses. Other types enable adventurers to establish **domains** over which they exert sovereign control. With careful play, an adventurer may establish or conquer multiple domains and ultimately establish himself as ruler of a **realm.** Becoming the ruler of a vast realm is the ultimate goal of many adventurers in ***Adventurer Conqueror King*** campaigns.
+
+[rr.p0010.b008] heading
+DICE
+
+[rr.p0010.b009] paragraph
+The ***Adventurer Conqueror King System*** relies on six different polyhedral dice to add randomness to the results of the choices the players make in the game. The six types of dice are described below.
+
+[rr.p0010.b010] paragraph
+The 20-sided die, or d20, is one of the most important dice in the game: it is used to resolve all attack and saving throws. As explained later, when making a throw, the die is rolled, and modifiers are then added or subtracted. If the total result equals or exceeds an assigned value, the roll is a success; otherwise it has failed.
+
+[rr.p0010.b011] paragraph
+The 10-sided die, or d10, is used to generate numbers from 1 to 10; it is numbered 0 to 9, but a roll of 0 is counted as 10. A pair of d10s are also used together to generate numbers from 1 to 100, where a roll of 00 is counted as 100. The two dice should be different colors, and the player must declare which die is the tens digit and which die is the ones digit before rolling them! Rolling two d10s this way is called a percentile roll, or d100.
+
+[rr.p0010.b012] paragraph
+The 4-sided die, or d4, is a special case. It is not so much rolled as “flipped,” and the number which is upright (or for some d4s, lies along the bottom edge of the die) is the result of the roll.
+
+[rr.p0010.b013] paragraph
+The other dice normally used have 6, 8, and 12 sides, and are called d6, d8, and d12. A d6 may be made with either numbers or pips; it makes no difference which sort you choose.
+
+[rr.p0010.b014] paragraph
+When multiple dice are to be rolled and added together, it is noted in the text like this: 2d6 (roll two d6 dice and add them together), or 3d4 (roll three d4 dice and add them together). A modifier may be noted as a “plus” value, such as 2d8+2 (roll two d8 dice and add them together, then add two to the total).
+
+[rr.p0010.b015] paragraph
+Sometimes an exclamation point is appended, as in 1d10! or similar. The “!” in this expression indicates that this is an exploding roll. On any exploding roll, any die that rolls its maximum value should be rolled again, with the new result added to the total. Repeat the process if the maximum value is subsequently rolled.
+
+[rr.p0011.b001] heading
+ROLLING AND THROWING THE DICE
+
+[rr.p0011.b002] paragraph
+The ***Adventurer Conqueror King System*** has a variety of different systems and sub-systems that determine how situations are resolved. All of these various sub-systems rely on generating a randomized outcome by using dice.
+
+[rr.p0011.b003] heading
+ROLLING THE DICE
+
+[rr.p0011.b004] paragraph
+During the course of play, many situations will arise in which there are a range of possible outcomes. The players or Judge will make a **roll of the dice** to see which of the possible outcomes occurs. Thus, when a character meets a monster during an encounter, the Judge will make a **surprise roll** to see if either or both sides are caught off guard and a **reaction roll** to see how the monster reacts to the character, with results ranging from friendly to hostile.
+
+[rr.p0011.b005] paragraph
+Likewise, when a character is in combat, the player will make an **initiative roll** to determine when he gets to act, with results ranging from last to first. When a character hits an opponent, the player will make a **damage roll** to determine how many hit points his target loses. When monsters begin to lose a battle, they will make a **morale roll** to determine if they flee, surrender, or stay and fight.
+
+[rr.p0011.b006] paragraph
+To make a roll of the dice, you follow these steps:
+
+[rr.p0011.b007] list_item
+♦ Roll the appropriate die for the given situation.
+
+[rr.p0011.b008] list_item
+♦ Add any relevant modifiers to the number generated by the die.
+
+[rr.p0011.b009] list_item
+♦ Apply the total as required by the given situation.
+
+[rr.p0011.b010] paragraph
+Sometimes a roll may automatically succeed or fail if the minimum or maximum value is rolled on the die. Sometimes a roll will be applied for an absolute result. For example, a damage roll is applied directly against the hit points of the target hit. Other rolls are relative to each other. For example, a character’s initiative roll is compared against the initiative rolls of other characters to determine who goes first during combat. An initiative roll of 6 has no absolute meaning other than being faster than an initiative roll of 5. Other rolls are compared to a table.
+
+[rr.p0011.b011] heading
+THROWING THE DICE
+
+[rr.p0011.b012] paragraph
+One very common type of die roll is called a **throw.** A throw occurs whenever a character or monster is taking an action that will **succeed or fail.** For instance, when a character attempts to strike an opponent in combat, his player makes an **attack throw.** When a character tries to avoid a catastrophic event, his player makes a **saving throw.** When a character attempts to open a lock or bash down a door, his player makes a **proficiency throw.** Most throws are resolved with 1d20.
+
+[rr.p0011.b013] list_item
+♦ To make a throw of the dice, you follow these steps:
+
+[rr.p0011.b014] list_item
+♦ Throw the appropriate die for the action chosen.
+
+[rr.p0011.b015] list_item
+♦ Add any relevant modifiers to the number generated by the die.
+
+[rr.p0011.b016] list_item
+♦ Compare the total to a **target value** for the action, usually expressed as #+ (such as 11+).
+
+[rr.p0012.b001] paragraph
+If the total equals or exceeds the target value, the outcome is favorable to the character. If the result is lower than the target value, the outcome is unfavorable to the character. The value required to succeed at different throws is usually based on the character’s class and level. For instance, fighters have easier attack throws than other characters, while thieves have easier proficiency throws to sneak around.
+
+[rr.p0012.b002] paragraph
+**EXAMPLE:** Marcus has an attack throw value of 6+. When he makes an attack throw, he will roll 1d20, add any relevant modifiers to the die, and compare the total to his attack throw value. If it equals or exceeds 6, he will hit.
+
+[rr.p0012.b003] paragraph
+If a particular throw is subject to a modifier that will always apply, it is often easier to record this modifier as an adjustment to the target value for the throw. Bonuses reduce the target value required, while penalties increase the target value required.
+
+[rr.p0012.b004] paragraph
+**EXAMPLE:** Viktir has a Lockpicking proficiency throw of 16+. However, he has a Lockpicking Expertise proficiency that gives him a +2 bonus to picking locks. For ease of play, Viktir can record his Lockpicking proficiency throw as 14+, applying the +2 bonus as a 2-point reduction in the target value instead of modifying the die roll. Throwing the die and aiming for 14+ is mathematically identical to throwing the die with a +2 bonus and aiming for 16+.
+
+[rr.p0012.b005] paragraph
+**Automatic Success and Failure:** Unless otherwise noted, a roll of 1 on a throw automatically fails. (Some throws may have a wider range of automatic failure.) A roll of 20 on a throw automatically succeeds if the character making the throw is proficient in the task at hand. Non-proficient characters who just “roll the die and pray” do not automatically succeed on a 20.
+
+[rr.p0012.b006] paragraph
+**Botches and Crits:** Some throws may allow for special effects to occur if particular results are rolled on the die. For instance, a thief who rolls a 1 when attempting a proficiency throw to disarm a trap not only automatically fails, he triggers the trap as well. These rules are provided on a case-by-case basis for each throw. A low roll that triggers a special effect is called a **botch** and a high roll that triggers a special effect is called a **crit.**
+
+[rr.p0012.b007] heading
+WHAT KIND OF DIE SHOULD YOU USE?
+
+[rr.p0012.b008] paragraph
+The kind of die used for the various rolls depends on the riskiness and randomness of the situation a character is facing. The rules will detail which die is used in each situation; below is a general explanation that will help frame the rules to come.
+
+[rr.p0012.b009] paragraph
+In general, situations where the outcome is strongly influenced by both skill and fortune are resolved by using a twenty-sided die (1d20). Most throws use 1d20, with the usual target value for the throw being in the range of 10 to 20. When throwing 1d20, a modifier such as +2 or -3 has a significant but not overpowering impact on the outcome.
+
+[rr.p0012.b010] paragraph
+Sometimes, the outcome of a situation will be heavily influenced by factors of skill or innate ability, with less scope for random chance. These situations are usually resolved by throwing or rolling a six-sided die (1d6). Surprise rolls, initiative rolls and many damage rolls use d6s. With a range of numbers of just 1 – 6, a modifier such as +2 or -3 makes a very big difference.
+
+[rr.p0012.b011] paragraph
+Where a wide range of outcomes is possible, but some are much more probable than others, a roll of two six-sided dice (2d6) is used. A roll of 2d6 will generate a bell curve with common results centered on 6 – 8, and rare outcomes at 2 – 3 and 11 – 12. Reaction rolls and morale rolls both use 2d6. Monsters will generally react cautiously to adventurers, and generally stay and fight with moderate resolve, but might occasionally be very friendly or very hostile, fight to the death or flee in terror.
+
+[rr.p0012.b012] verse
+*Now Fortune, who delights in games,*
+
+[rr.p0012.b013] verse
+*Rolls like a die, first high, then low.*
+
+[rr.p0012.b014] verse
+*She favors few with storied names*
+
+[rr.p0012.b015] verse
+*While many cry in nameless woe.*
+
+[rr.p0012.b016] paragraph
+Calefsürius, *Old Man Socolo*
+
+[rr.p0013.b001] heading
+COMMON ABBREVIATIONS AND ICONS
+
+[rr.p0013.b002] paragraph
+This book uses a number of abbreviations and icons to keep the rules compact (well, less voluminous).
+
+[rr.p0013.b005] paragraph
+*Northward marched the hosts of dawn, with banners high in* *victory, until they came to Audaramm cloud-wreathed above* *serenity. High that sacred mountain rose from wine-dark* *waters’ vast repose, and there they raised their citadel with* *light and law within to dwell.*
+
+[rr.p0013.b006] paragraph
+Oppian, *Epic of the Empyrean Wars*

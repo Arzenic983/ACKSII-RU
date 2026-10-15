@@ -1,0 +1,27 @@
+# Local caches and installed dependencies
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+
+# SQLite journals belong to an open local database, not to a commit
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite-journal
+
+# Credentials and machine-specific settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local checks of the GitHub upload and disposable exports
+.work/github-upload/
+contributions/_export/

@@ -1,0 +1,34 @@
+{
+  "database": {
+    "integrity": "ok",
+    "foreign_key_errors": 0,
+    "history_errors": 0,
+    "search_errors": 0,
+    "english_hash_errors": 0,
+    "units": 30624,
+    "translations": 1689
+  },
+  "scope_complete": true,
+  "later_chapters_untranslated": true,
+  "english_source_unchanged": true,
+  "table_geometry_valid": true,
+  "jsonl_roundtrip": true,
+  "csv_roundtrip": true,
+  "all_translated_table_numbers_match": true,
+  "obsolete_draft_terms_removed": true,
+  "user_confirmed_terms_match": true,
+  "glossary_context_checked": true,
+  "import_tests": [
+    "source_hash_conflict_rejected",
+    "stale_revision_rejected",
+    "wrong_chapter_rejected",
+    "english_edit_rejected",
+    "empty_ru_does_not_delete",
+    "unchanged_import_no_op",
+    "revision_history_appended",
+    "other_units_untouched",
+    "fts_refreshed",
+    "pending_chapter_import",
+    "invalid_batch_atomic_rollback"
+  ]
+}

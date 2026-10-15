@@ -1,0 +1,41 @@
+{
+  "source_sha256": "e9d8adb05281090e0455a0ea0e07f1d2e18eee8902a3cb6a34b23753056059da",
+  "transcription_sha256": "e29d85526048214c6f32003e04180d2681937cf48ed6e58b123babf7045e4d15",
+  "checks": {
+    "physical_pages": 550,
+    "native_text_pages_payload_checked": 510,
+    "image_pages_visually_reviewed": 40,
+    "page_links": 550,
+    "tables": 361,
+    "tables_with_merged_cells": 47,
+    "merged_spans": 139,
+    "source_grid_positions": 22099,
+    "unresolved_glyphs": 0,
+    "unplaced_body_characters": 0,
+    "damage_labels": {
+      "mundane": 275,
+      "extraordinary": 201
+    },
+    "table_grid_errors": 0
+  },
+  "followup_corrections": [
+    {
+      "page": 5,
+      "kind": "restore_full_width_contents_heading",
+      "date": "2026-10-14"
+    },
+    {
+      "kind": "paragraph_continuity",
+      "pages": [
+        4,
+        10,
+        16,
+        18,
+        21
+      ],
+      "joins": 7,
+      "source_payload_unchanged": true,
+      "date": "2026-10-14"
+    }
+  ]
+}

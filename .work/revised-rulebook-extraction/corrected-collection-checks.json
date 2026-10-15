@@ -1,0 +1,10 @@
+{
+  "counts": {
+    "pages": 550,
+    "raw_chars": 2512909,
+    "deduplicated_chars": 2488278,
+    "font_encoding_repairs": 61947,
+    "rotated_pages": 11
+  },
+  "checks": []
+}

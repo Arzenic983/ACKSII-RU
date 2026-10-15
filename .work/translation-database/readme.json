@@ -1,0 +1,2597 @@
+{
+  "path": "ACKSII\\ReadMe.docx",
+  "items": [
+    {
+      "locator": "body.1",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Данная папка это рабочая мастерская по переводу ACKSll на русский язык. Это больше технический перевод чем художественная книга. Но важно соблюдать единство терминов которые используются на протяжении всей книги правил."
+    },
+    {
+      "locator": "body.4",
+      "kind": "paragraph",
+      "style": "Heading2",
+      "text": "План:"
+    },
+    {
+      "locator": "body.5",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Сделать перевод первых 8 глав в виде гуглДокументов"
+    },
+    {
+      "locator": "body.6",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Вычитать первые 8 глав в гуглоДокументах"
+    },
+    {
+      "locator": "body.7",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Отформатировать получившейся перевод в удобном формате (Obsidian, wiki)"
+    },
+    {
+      "locator": "body.9",
+      "kind": "paragraph",
+      "style": "Heading2",
+      "text": "Правила."
+    },
+    {
+      "locator": "body.10",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Каждая глава книги это отдельный текстовый файл."
+    },
+    {
+      "locator": "body.11",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Каждую главу переводит один человек. Его имя указано в скобках после название главы."
+    },
+    {
+      "locator": "body.12",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Для перевода используется переводчик DeepL или AI чат."
+    },
+    {
+      "locator": "body.15",
+      "kind": "paragraph",
+      "style": "Heading2",
+      "text": "Словарь терминов"
+    },
+    {
+      "locator": "body.16",
+      "kind": "paragraph",
+      "style": "Heading3",
+      "text": "Системные термины (несортированных)"
+    },
+    {
+      "locator": "body.17",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Judge - Арбитр. "
+    },
+    {
+      "locator": "body.18",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Attributes - Атрибуты"
+    },
+    {
+      "locator": "body.19",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Proficiencies - Навыки"
+    },
+    {
+      "locator": "body.20",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Class powers - классовые способности"
+    },
+    {
+      "locator": "body.21",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Armor Class (AC) - Класс брони (КБ)"
+    },
+    {
+      "locator": "body.22",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Stone - Стоун"
+    },
+    {
+      "locator": "body.23",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Hit Dice - Кости Здоровья (КЗ)"
+    },
+    {
+      "locator": "body.24",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Hit Points - хиты(какие нахуй хиты у нас или хит дайс это хд и хиты это хп или всё на русском) Очки Здоровья (ОЗ)"
+    },
+    {
+      "locator": "body.25",
+      "kind": "paragraph",
+      "style": null,
+      "text": "PC - ПИ"
+    },
+    {
+      "locator": "body.26",
+      "kind": "paragraph",
+      "style": null,
+      "text": "NPC - НИП "
+    },
+    {
+      "locator": "body.27",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Exp - Опыт"
+    },
+    {
+      "locator": "body.28",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Mercantile Ventures - коммерческая деятельность"
+    },
+    {
+      "locator": "body.29",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Arcane power - Магическая сила"
+    },
+    {
+      "locator": "body.30",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Hex - гекс"
+    },
+    {
+      "locator": "body.31",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Populating - популяция "
+    },
+    {
+      "locator": "body.32",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Strength (STR) - Сила (СИЛ)"
+    },
+    {
+      "locator": "body.33",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Intellect (INT) - Интеллект (ИНТ)"
+    },
+    {
+      "locator": "body.34",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Will (WIL) - Воля (ВОЛ)"
+    },
+    {
+      "locator": "body.35",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Constitution (CON) - Телосложение (ТЕЛ)"
+    },
+    {
+      "locator": "body.36",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Dexterity (DEX) - Ловкость (ЛОВ)"
+    },
+    {
+      "locator": "body.37",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Charisma (CHA) - Харизма (ХАР)"
+    },
+    {
+      "locator": "body.38",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Longbowman - стрелок/стрелки"
+    },
+    {
+      "locator": "body.39",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Equipment  - Снаряжение"
+    },
+    {
+      "locator": "body.40",
+      "kind": "paragraph",
+      "style": null,
+      "text": "equip - снарядить"
+    },
+    {
+      "locator": "body.41",
+      "kind": "paragraph",
+      "style": null,
+      "text": "party - группа"
+    },
+    {
+      "locator": "body.42",
+      "kind": "paragraph",
+      "style": null,
+      "text": "adventurers - авантюристы, искатели приключений"
+    },
+    {
+      "locator": "body.43",
+      "kind": "paragraph",
+      "style": null,
+      "text": "party formation/ marching - Боевой / походный порядок"
+    },
+    {
+      "locator": "body.44",
+      "kind": "paragraph",
+      "style": null,
+      "text": "secret doors - секретные двери"
+    },
+    {
+      "locator": "body.45",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Hunting and Foraging - охота и собирательство"
+    },
+    {
+      "locator": "body.46",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Wild - дикие земли"
+    },
+    {
+      "locator": "body.47",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Evasion - Избегание"
+    },
+    {
+      "locator": "body.48",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Simulating / simulation - Симуляция/Симулирование"
+    },
+    {
+      "locator": "body.49",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Reactions - Реакция"
+    },
+    {
+      "locator": "body.50",
+      "kind": "paragraph",
+      "style": null,
+      "text": "round - Раунд"
+    },
+    {
+      "locator": "body.51",
+      "kind": "paragraph",
+      "style": null,
+      "text": "initiative segment - сегмент инициативы"
+    },
+    {
+      "locator": "body.52",
+      "kind": "paragraph",
+      "style": null,
+      "text": "retreat - отступление"
+    },
+    {
+      "locator": "body.53",
+      "kind": "paragraph",
+      "style": null,
+      "text": "withdraw - отход"
+    },
+    {
+      "locator": "body.54",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Readied to Attack/combat action - подготовленная атака / боевое действие"
+    },
+    {
+      "locator": "body.55",
+      "kind": "paragraph",
+      "style": null,
+      "text": "initiative number - номер инициативы"
+    },
+    {
+      "locator": "body.56",
+      "kind": "paragraph",
+      "style": null,
+      "text": "March - маршировать"
+    },
+    {
+      "locator": "body.57",
+      "kind": "paragraph",
+      "style": null,
+      "text": "take cover - укрыться"
+    },
+    {
+      "locator": "body.58",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Escape - побег"
+    },
+    {
+      "locator": "body.59",
+      "kind": "paragraph",
+      "style": null,
+      "text": "To hit - бросок атаки"
+    },
+    {
+      "locator": "body.60",
+      "kind": "paragraph",
+      "style": null,
+      "text": "attack sequence - последовательность атак"
+    },
+    {
+      "locator": "body.61",
+      "kind": "paragraph",
+      "style": null,
+      "text": "missile - дальнобойный"
+    },
+    {
+      "locator": "body.62",
+      "kind": "paragraph",
+      "style": null,
+      "text": "line of sight - линия видимости"
+    },
+    {
+      "locator": "body.63",
+      "kind": "paragraph",
+      "style": null,
+      "text": "range - радиус действия"
+    },
+    {
+      "locator": "body.64",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Unholy, Holy - Проклятая, Святая"
+    },
+    {
+      "locator": "body.65",
+      "kind": "paragraph",
+      "style": null,
+      "text": "extraordinary (damage) - Особый (урон)"
+    },
+    {
+      "locator": "body.66",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Resistance - устойчивость"
+    },
+    {
+      "locator": "body.67",
+      "kind": "paragraph",
+      "style": null,
+      "text": "enchanted - заколдованный, зачарованный"
+    },
+    {
+      "locator": "body.68",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Fear - страх "
+    },
+    {
+      "locator": "body.69",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Halt - остановка (?)"
+    },
+    {
+      "locator": "body.70",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Spell-like - подобный заклинанию"
+    },
+    {
+      "locator": "body.71",
+      "kind": "paragraph",
+      "style": null,
+      "text": "concentration - концентрация"
+    },
+    {
+      "locator": "body.72",
+      "kind": "paragraph",
+      "style": null,
+      "text": "a second-rank combatant’s - боец второго ряда"
+    },
+    {
+      "locator": "body.73",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Lance - кавалерийское копье"
+    },
+    {
+      "locator": "body.74",
+      "kind": "paragraph",
+      "style": null,
+      "text": "noiseleness - бесшумный"
+    },
+    {
+      "locator": "body.75",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Staff - посох"
+    },
+    {
+      "locator": "body.76",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Rod - жезл"
+    },
+    {
+      "locator": "body.77",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Wand - волшебная палочка?"
+    },
+    {
+      "locator": "body.78",
+      "kind": "paragraph",
+      "style": null,
+      "text": "flail - цеп"
+    },
+    {
+      "locator": "body.79",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Polearm - древковое (оружие. Имеется ввиду что это может быть любое оружие, алебарды копья, глефы и прочее)"
+    },
+    {
+      "locator": "body.80",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Hide - прятаться"
+    },
+    {
+      "locator": "body.82",
+      "kind": "paragraph",
+      "style": null,
+      "text": "optional - опциональное правило"
+    },
+    {
+      "locator": "body.83",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Full Round Actions - действие полного раунда"
+    },
+    {
+      "locator": "body.84",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Movement Actions - действие движения"
+    },
+    {
+      "locator": "body.85",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Combat Actions - боевое действие"
+    },
+    {
+      "locator": "body.87",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Cast a spell - Произносить заклинание"
+    },
+    {
+      "locator": "body.89",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Ready or loosen a shield - поднять или опустить щит"
+    },
+    {
+      "locator": "body.90",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Ready Action - подготовить действие"
+    },
+    {
+      "locator": "body.91",
+      "kind": "paragraph",
+      "style": null,
+      "text": "vehicle - транспортные средства, Транспорт"
+    },
+    {
+      "locator": "body.92",
+      "kind": "paragraph",
+      "style": null,
+      "text": "mount - ездовое животное"
+    },
+    {
+      "locator": "body.93",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Mortal Wounds - смертельные раны"
+    },
+    {
+      "locator": "body.94",
+      "kind": "paragraph",
+      "style": null,
+      "text": "permanent wound - необратимые раны"
+    },
+    {
+      "locator": "body.95",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Tampering with Mortality - игра со смертью"
+    },
+    {
+      "locator": "body.97",
+      "kind": "paragraph",
+      "style": null,
+      "text": "nonlethal - Нелетальный"
+    },
+    {
+      "locator": "body.99",
+      "kind": "paragraph",
+      "style": null,
+      "text": "lay on hands - возложение рук"
+    },
+    {
+      "locator": "body.100",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Countercharge - противодействие натиску"
+    },
+    {
+      "locator": "body.101",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Horsetail - Хвощ"
+    },
+    {
+      "locator": "body.102",
+      "kind": "paragraph",
+      "style": null,
+      "text": "proselytizing - проповедование"
+    },
+    {
+      "locator": "body.103",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Caster - заклинатель"
+    },
+    {
+      "locator": "body.105",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Encumbrance - Нагрузка"
+    },
+    {
+      "locator": "body.106",
+      "kind": "paragraph",
+      "style": null,
+      "text": "alignment - Мировоззрение"
+    },
+    {
+      "locator": "body.107",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Order, lawful - порядочное"
+    },
+    {
+      "locator": "body.108",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Chaos - хаотичное"
+    },
+    {
+      "locator": "body.110",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Hijinks - Происки"
+    },
+    {
+      "locator": "body.112",
+      "kind": "paragraph",
+      "style": "Heading3",
+      "text": "Авантюрные предприятия"
+    },
+    {
+      "locator": "body.113",
+      "kind": "paragraph",
+      "style": null,
+      "text": "DELVES - Вылазки"
+    },
+    {
+      "locator": "body.114",
+      "kind": "paragraph",
+      "style": null,
+      "text": "EXPEDITIONS - Экспедиции"
+    },
+    {
+      "locator": "body.115",
+      "kind": "paragraph",
+      "style": null,
+      "text": "VOYAGES - Плавания"
+    },
+    {
+      "locator": "body.116",
+      "kind": "paragraph",
+      "style": null,
+      "text": "ENCOUNTERS - Столкновения"
+    },
+    {
+      "locator": "body.118",
+      "kind": "paragraph",
+      "style": "Heading3",
+      "text": "Возрасты"
+    },
+    {
+      "locator": "body.119",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Youth - Юность"
+    },
+    {
+      "locator": "body.120",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Adult - Взрослый"
+    },
+    {
+      "locator": "body.121",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Middle Aged - Средний возраст"
+    },
+    {
+      "locator": "body.122",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Old - Старый"
+    },
+    {
+      "locator": "body.123",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Ancient - Древний"
+    },
+    {
+      "locator": "body.125",
+      "kind": "paragraph",
+      "style": "Heading3",
+      "text": "Типы (активности) деятельности"
+    },
+    {
+      "locator": "body.126",
+      "kind": "paragraph",
+      "style": null,
+      "text": "dedicated activities - Целенаправленная деятельность"
+    },
+    {
+      "locator": "body.127",
+      "kind": "paragraph",
+      "style": null,
+      "text": "ancillary activities - Вспомогательная деятельность"
+    },
+    {
+      "locator": "body.128",
+      "kind": "paragraph",
+      "style": null,
+      "text": "incidental activities - Несущественная деятельность"
+    },
+    {
+      "locator": "body.129",
+      "kind": "paragraph",
+      "style": null,
+      "text": "strenuous activities - Утомительная деятельность"
+    },
+    {
+      "locator": "body.130",
+      "kind": "paragraph",
+      "style": null,
+      "text": "mercantile activity - Коммерческая активность"
+    },
+    {
+      "locator": "body.131",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Монеты"
+    },
+    {
+      "locator": "body.135",
+      "kind": "paragraph",
+      "style": "Heading2",
+      "text": "Классы"
+    },
+    {
+      "locator": "body.136",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Assassin - Ассасин"
+    },
+    {
+      "locator": "body.137",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Barbarian - Варвар"
+    },
+    {
+      "locator": "body.138",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Bard - Бард"
+    },
+    {
+      "locator": "body.139",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Bladedancer - Дева клинков"
+    },
+    {
+      "locator": "body.140",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Crusader - Крестоносец "
+    },
+    {
+      "locator": "body.141",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Explorer - Исследователь"
+    },
+    {
+      "locator": "body.142",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Fighter - Воин"
+    },
+    {
+      "locator": "body.143",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Mage - Маг"
+    },
+    {
+      "locator": "body.144",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Paladin - Паладин"
+    },
+    {
+      "locator": "body.145",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Priestess - Жрица "
+    },
+    {
+      "locator": "body.146",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Thief - Вор"
+    },
+    {
+      "locator": "body.147",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Shaman - Шаман"
+    },
+    {
+      "locator": "body.148",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Venturer - Торговец"
+    },
+    {
+      "locator": "body.149",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Warlock - Колдун"
+    },
+    {
+      "locator": "body.150",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Witch - Ведьма / Ворожей"
+    },
+    {
+      "locator": "body.152",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Dwarven Vaultguard - Дварфийский страж убежищ"
+    },
+    {
+      "locator": "body.153",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Dwarven Craftpriest - Дварфийский мастер-жрец"
+    },
+    {
+      "locator": "body.154",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Elven nightblade - Эльфийский ночной клинок"
+    },
+    {
+      "locator": "body.155",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Elven spellswords - Эльфийский мечник-чародей"
+    },
+    {
+      "locator": "body.156",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Nobiran wonderworker - Нобирийский чудотворцец?"
+    },
+    {
+      "locator": "body.157",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Нобириец"
+    },
+    {
+      "locator": "body.158",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Zaharan ruinguard - Захарийский страж руин?"
+    },
+    {
+      "locator": "body.159",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Захариец"
+    },
+    {
+      "locator": "body.161",
+      "kind": "paragraph",
+      "style": "Heading3",
+      "text": "Class Power Способности класса (стартовые и дополнительные)"
+    },
+    {
+      "locator": "body.162",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Searching - поиск "
+    },
+    {
+      "locator": "body.163",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Lockpicking - взлом"
+    },
+    {
+      "locator": "body.164",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Listening - подслушивание "
+    },
+    {
+      "locator": "body.165",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Avoid surprise - раунд внезапности"
+    },
+    {
+      "locator": "body.166",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Graceful Fighting - грациозный бой"
+    },
+    {
+      "locator": "body.168",
+      "kind": "paragraph",
+      "style": "Heading2",
+      "text": "Saving throw - Спасбросок"
+    },
+    {
+      "locator": "body.169",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Paralysis - от паралича"
+    },
+    {
+      "locator": "body.170",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Death - от смерти"
+    },
+    {
+      "locator": "body.171",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Blast - от разрушений"
+    },
+    {
+      "locator": "body.172",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Implements - от артефактов (от магических инструментов)"
+    },
+    {
+      "locator": "body.173",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Spells - от заклинаний"
+    },
+    {
+      "locator": "body.175",
+      "kind": "paragraph",
+      "style": "Heading2",
+      "text": "Места"
+    },
+    {
+      "locator": "body.176",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Realm - Владение"
+    },
+    {
+      "locator": "body.177",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Domain - Домен"
+    },
+    {
+      "locator": "body.180",
+      "kind": "paragraph",
+      "style": "Heading3",
+      "text": "Крепости"
+    },
+    {
+      "locator": "body.182",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Hideout - Укрытие"
+    },
+    {
+      "locator": "body.183",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Vault - Убежище"
+    },
+    {
+      "locator": "body.184",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Lair - ЛоговоFastness - ОплотSanctum - Санктум"
+    },
+    {
+      "locator": "body.185",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Dungeon - Подземелья"
+    },
+    {
+      "locator": "body.186",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Cloister - Монастырь"
+    },
+    {
+      "locator": "body.187",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Castle - Замок"
+    },
+    {
+      "locator": "body.188",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Chieftain Hall - Зал вождей"
+    },
+    {
+      "locator": "body.189",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Great Hall - Большой залFortress - КрепостьMedicine Lodge - Капище??Cottage - ИзбаGuildhouse - Торговый домDark Fortress - Тёмная крепостьBorder Fort - Пограничный фортFortified Church  - Укреплённая церковь"
+    },
+    {
+      "locator": "body.191",
+      "kind": "paragraph",
+      "style": "Heading3",
+      "text": "Топонимы"
+    },
+    {
+      "locator": "body.192",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Auran (Empire) - Ауранская (Империя)"
+    },
+    {
+      "locator": "body.193",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Jutland (coast) - Ютландское (побережье)"
+    },
+    {
+      "locator": "body.194",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Skysos - Скизия - название страны. Скизийский - прилагательное. Скизийцы  - название народа."
+    },
+    {
+      "locator": "body.195",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Ivory Kingdoms - Королевства слоновой кости"
+    },
+    {
+      "locator": "body.198",
+      "kind": "paragraph",
+      "style": "Heading3",
+      "text": "Terrain types Типы местности "
+    },
+    {
+      "locator": "body.199",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Clear - Равнины"
+    },
+    {
+      "locator": "body.200",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Grass - Поля"
+    },
+    {
+      "locator": "body.201",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Scrub - СаваннаHills - ХолмыBarren - СтепьDesert - ПустыняMountains - ГорыWoods - ЛесSwamp - БолотаJugnle - Джунгли"
+    },
+    {
+      "locator": "body.202",
+      "kind": "paragraph",
+      "style": "Heading3",
+      "text": "Наёмники и прочие типы"
+    },
+    {
+      "locator": "body.203",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Apprentice - ученик"
+    },
+    {
+      "locator": "body.204",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Companion - компаньон"
+    },
+    {
+      "locator": "body.205",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Military troops - военные"
+    },
+    {
+      "locator": "body.206",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Syndicate Members - члены синдиката"
+    },
+    {
+      "locator": "body.208",
+      "kind": "paragraph",
+      "style": "Heading2",
+      "text": "Особенности"
+    },
+    {
+      "locator": "body.209",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Cleave - рассечение"
+    },
+    {
+      "locator": "body.210",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Backstab - Удар в спину"
+    },
+    {
+      "locator": "body.211",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Traversing - прорывание"
+    },
+    {
+      "locator": "body.212",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Shadowy senses - теневое чутье"
+    },
+    {
+      "locator": "body.213",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Lightless vision - тёмное зрение"
+    },
+    {
+      "locator": "body.214",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Rebuke undead - Изгнание нежити"
+    },
+    {
+      "locator": "body.215",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Manual of Arms - военная подготовка"
+    },
+    {
+      "locator": "body.216",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Adventuring - Авантюризм"
+    },
+    {
+      "locator": "body.217",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Ambushing - Засада (там по смыслу вообще не засада - внезапный удар или удар исподтишка)"
+    },
+    {
+      "locator": "body.218",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Battlefield Prowess - Боевая доблесть"
+    },
+    {
+      "locator": "body.219",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Animal Reflexes - Животные инстинкты "
+    },
+    {
+      "locator": "body.222",
+      "kind": "paragraph",
+      "style": "Heading2",
+      "text": "Размер"
+    },
+    {
+      "locator": "body.223",
+      "kind": "paragraph",
+      "style": null,
+      "text": "small - малый"
+    },
+    {
+      "locator": "body.224",
+      "kind": "paragraph",
+      "style": null,
+      "text": "tiny - крошечный"
+    },
+    {
+      "locator": "body.225",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Large - Большие"
+    },
+    {
+      "locator": "body.226",
+      "kind": "paragraph",
+      "style": null,
+      "text": "huge - Огромные"
+    },
+    {
+      "locator": "body.227",
+      "kind": "paragraph",
+      "style": null,
+      "text": "gigantic - Гигантский"
+    },
+    {
+      "locator": "body.228",
+      "kind": "paragraph",
+      "style": null,
+      "text": "colossal - Колоссальные"
+    },
+    {
+      "locator": "body.229",
+      "kind": "paragraph",
+      "style": "Heading2",
+      "text": "НПС"
+    },
+    {
+      "locator": "body.230",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Venturers - Купцы"
+    },
+    {
+      "locator": "body.231",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Hireling - Спутник"
+    },
+    {
+      "locator": "body.232",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Henchmen - Приспешник"
+    },
+    {
+      "locator": "body.233",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Mercenary - Наемник"
+    },
+    {
+      "locator": "body.234",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Specialist - специалист"
+    },
+    {
+      "locator": "body.235",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Studious Spellcasters - Учёные заклинатели"
+    },
+    {
+      "locator": "body.236",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Sell-sword / Man-at-arms - Наёмник"
+    },
+    {
+      "locator": "body.237",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Swordmaster - Мастер меча"
+    },
+    {
+      "locator": "body.238",
+      "kind": "paragraph",
+      "style": "Heading3",
+      "text": "Название существ"
+    },
+    {
+      "locator": "body.239",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Oozes - слизь"
+    },
+    {
+      "locator": "body.240",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Incarnations - воплощения"
+    },
+    {
+      "locator": "body.241",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Vermin - вредители"
+    },
+    {
+      "locator": "body.242",
+      "kind": "paragraph",
+      "style": "Heading3",
+      "text": "Имена"
+    },
+    {
+      "locator": "body.243",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Ravila - Равила"
+    },
+    {
+      "locator": "body.244",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Augilar - Огилар"
+    },
+    {
+      "locator": "body.245",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Skandara - Скандара"
+    },
+    {
+      "locator": "body.246",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Orm - Орм"
+    },
+    {
+      "locator": "body.247",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Quintus - Квинт"
+    },
+    {
+      "locator": "body.248",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Norden - Норден"
+    },
+    {
+      "locator": "body.249",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Athelstan - Этельстан"
+    },
+    {
+      "locator": "body.250",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Marcus - Маркус"
+    },
+    {
+      "locator": "body.251",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Balbus - Бальбус"
+    },
+    {
+      "locator": "body.252",
+      "kind": "paragraph",
+      "style": "Heading2",
+      "text": "▶ Навыки"
+    },
+    {
+      "locator": "body.253",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Adventuring (O) - Авантюризм"
+    },
+    {
+      "locator": "body.254",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Acrobatics - Акробатика"
+    },
+    {
+      "locator": "body.255",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Alchemy (G) - Алхимия"
+    },
+    {
+      "locator": "body.256",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Alertness - Внимательность"
+    },
+    {
+      "locator": "body.257",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Ambushing - Засада"
+    },
+    {
+      "locator": "body.258",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Animal Husbandry (G) - Уход за животными"
+    },
+    {
+      "locator": "body.259",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Animal Reflexes - Животные инстинкты"
+    },
+    {
+      "locator": "body.260",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Animal Training (G) - Дрессировка"
+    },
+    {
+      "locator": "body.261",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Arcane Dabbling - Основы магии"
+    },
+    {
+      "locator": "body.262",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Armor Training - Тренировка в доспехах"
+    },
+    {
+      "locator": "body.263",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Art/Craft (G) - Искусство/Ремесло"
+    },
+    {
+      "locator": "body.264",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Backstabbing - Удар в спину"
+    },
+    {
+      "locator": "body.265",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Bargaining (G) - Торг"
+    },
+    {
+      "locator": "body.266",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Battle Magic - Боевая магия"
+    },
+    {
+      "locator": "body.267",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Beast Friendship - Дружба с животными"
+    },
+    {
+      "locator": "body.268",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Berserkergang - Берсерк"
+    },
+    {
+      "locator": "body.269",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Black Lore of Zahar - Темные знания Захарийцев"
+    },
+    {
+      "locator": "body.270",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Blind Fighting - Бой вслепую"
+    },
+    {
+      "locator": "body.271",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Bribery - Подкуп"
+    },
+    {
+      "locator": "body.272",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Bright Lore of Aura - Светлые знания Ауры"
+    },
+    {
+      "locator": "body.273",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Cat Burglary - Кошачья грация"
+    },
+    {
+      "locator": "body.274",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Caving (G) - Исследователь подземелий"
+    },
+    {
+      "locator": "body.275",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Climbing - Лазание"
+    },
+    {
+      "locator": "body.276",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Collegiate Wizardry (G) - Школа магии"
+    },
+    {
+      "locator": "body.277",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Combat Ferocity - Боевая свирепость"
+    },
+    {
+      "locator": "body.278",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Combat Reflexes - Боевые рефлексы"
+    },
+    {
+      "locator": "body.279",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Combat Trickery - Боевая хитрость"
+    },
+    {
+      "locator": "body.280",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Command - Командование"
+    },
+    {
+      "locator": "body.281",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Contemplation - Созерцание"
+    },
+    {
+      "locator": "body.282",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Contortionism - Гибкость"
+    },
+    {
+      "locator": "body.283",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Counterspelling - Рассеивание магии"
+    },
+    {
+      "locator": "body.284",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Craft (locksmithing) - Изготовление отмычек"
+    },
+    {
+      "locator": "body.285",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Deciphering - Дешифрирование"
+    },
+    {
+      "locator": "body.286",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Diplomacy (G) - Дипломатия"
+    },
+    {
+      "locator": "body.287",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Disguise (G) - Маскировка"
+    },
+    {
+      "locator": "body.288",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Divine Blessing - Божественное благословение"
+    },
+    {
+      "locator": "body.289",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Divine Health - Божественное здоровье"
+    },
+    {
+      "locator": "body.290",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Driving (G) - Возничий"
+    },
+    {
+      "locator": "body.291",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Dungeonbashing Expertise - Эксперт выбивания дверей"
+    },
+    {
+      "locator": "body.292",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Dwarven Brewing - Дварфийское пивоварение"
+    },
+    {
+      "locator": "body.293",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Eavesdropping - Чутье"
+    },
+    {
+      "locator": "body.294",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Elementalism - Элементализм"
+    },
+    {
+      "locator": "body.295",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Elven Bloodline - Эльфийская кровь"
+    },
+    {
+      "locator": "body.296",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Endurance (G) - Стойкость"
+    },
+    {
+      "locator": "body.297",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Engineering (G) - Инженерное дело"
+    },
+    {
+      "locator": "body.298",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Expanded Repertoire - Расширенный репертуар"
+    },
+    {
+      "locator": "body.299",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Experimenting - Экспериментаторство"
+    },
+    {
+      "locator": "body.300",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Expert Bargaining - Торговый эксперт"
+    },
+    {
+      "locator": "body.301",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Expert Traveling - Эксперт путешествий"
+    },
+    {
+      "locator": "body.302",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Familiar - Фамильяр"
+    },
+    {
+      "locator": "body.303",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Fighting Style Specialization - Специализация на боевом стиле?"
+    },
+    {
+      "locator": "body.304",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Folkways (G) - Фольклор"
+    },
+    {
+      "locator": "body.305",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Gambling (G) - Азартные игры "
+    },
+    {
+      "locator": "body.306",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Goblin-Slaying - Убийца гоблинов"
+    },
+    {
+      "locator": "body.307",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Healing (G) - Целительство"
+    },
+    {
+      "locator": "body.308",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Illusion Resistance - Устойчивость к иллюзиям"
+    },
+    {
+      "locator": "body.309",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Intimidation (G) - Запугивание"
+    },
+    {
+      "locator": "body.310",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Kin-Slaying - Убийца родичей"
+    },
+    {
+      "locator": "body.311",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Knowledge (G) - Знания"
+    },
+    {
+      "locator": "body.312",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Labor (G) - Труд"
+    },
+    {
+      "locator": "body.313",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Land Surveying - Геодезия"
+    },
+    {
+      "locator": "body.314",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Language (G) - Язык"
+    },
+    {
+      "locator": "body.315",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Laying on Hands - Возложение рук"
+    },
+    {
+      "locator": "body.316",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Leadership (G) - Лидерство"
+    },
+    {
+      "locator": "body.317",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Lip Reading (G) - Чтение по губам"
+    },
+    {
+      "locator": "body.318",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Listening - Подслушивание"
+    },
+    {
+      "locator": "body.319",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Lockpicking Expertise - Мастерство взлома"
+    },
+    {
+      "locator": "body.320",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Loremastery - Мифография"
+    },
+    {
+      "locator": "body.321",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Magical Engineering - Магическая Инженерия"
+    },
+    {
+      "locator": "body.322",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Magical Music - Волшебное музицирование"
+    },
+    {
+      "locator": "body.323",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Manual of Arms (G) - Военная подготовка"
+    },
+    {
+      "locator": "body.324",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Mapping (G) - Картография"
+    },
+    {
+      "locator": "body.325",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Martial Training - Боевая подготовка"
+    },
+    {
+      "locator": "body.326",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Mastery of Conjuration & Summoning - Мастерство колдовства и призыва"
+    },
+    {
+      "locator": "body.327",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Mastery of Enchantments & Illusions - Мастерство зачарования и иллюзий"
+    },
+    {
+      "locator": "body.328",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Mercantile Network - Торговая сеть"
+    },
+    {
+      "locator": "body.329",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Military Strategy (G) - Военная стратегия"
+    },
+    {
+      "locator": "body.330",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Mimicry (G) - Мимикрия"
+    },
+    {
+      "locator": "body.331",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Mountaineering (G) - Альпинизм"
+    },
+    {
+      "locator": "body.332",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Mounted Combat - Бой верхом"
+    },
+    {
+      "locator": "body.333",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Multilingual - Полиглот"
+    },
+    {
+      "locator": "body.334",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Mystic Aura -Мистическая аура "
+    },
+    {
+      "locator": "body.335",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Natural Stealth - Природная скрытность"
+    },
+    {
+      "locator": "body.336",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Naturalism (G) - Природоведение"
+    },
+    {
+      "locator": "body.337",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Navigation - Навигация"
+    },
+    {
+      "locator": "body.338",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Overrun - Пробиться"
+    },
+    {
+      "locator": "body.339",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Pathfinding - Поиск пути"
+    },
+    {
+      "locator": "body.340",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Passing Without Trace - Проход без следа"
+    },
+    {
+      "locator": "body.341",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Performance (G) - Выступление"
+    },
+    {
+      "locator": "body.342",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Pickpocketing - Карманные кражи"
+    },
+    {
+      "locator": "body.343",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Poisoning - Знание ядов"
+    },
+    {
+      "locator": "body.344",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Precise Shooting - Точная стрельба"
+    },
+    {
+      "locator": "body.345",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Prestidigitation - Фокусничество? (нет такого слова, Волшебные фокусы, просто Фокусы, или Фокусник)"
+    },
+    {
+      "locator": "body.346",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Profession (G) - Профессия?"
+    },
+    {
+      "locator": "body.347",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Prophecy - Пророчество"
+    },
+    {
+      "locator": "body.348",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Prospecting - Геолог"
+    },
+    {
+      "locator": "body.349",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Quiet Magic - Тихая магия"
+    },
+    {
+      "locator": "body.350",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Reliquarianism - Реликварианизм (нет такого слова, Почитание реликвий)"
+    },
+    {
+      "locator": "body.351",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Revelry (G) - Гуляка"
+    },
+    {
+      "locator": "body.352",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Riding (G) -Верховая езда"
+    },
+    {
+      "locator": "body.353",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Righteous Rebuke - Праведное изгнание"
+    },
+    {
+      "locator": "body.354",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Running - Бегун"
+    },
+    {
+      "locator": "body.355",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Rowing - Гребля"
+    },
+    {
+      "locator": "body.356",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Rumormongering - Распускание слухов"
+    },
+    {
+      "locator": "body.357",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Sailing - Хождение под парусом"
+    },
+    {
+      "locator": "body.358",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Scrollreading - Чтение свитков"
+    },
+    {
+      "locator": "body.359",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Seafaring (G) - Мореплавание"
+    },
+    {
+      "locator": "body.360",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Seduction (G) - Соблазнение  "
+    },
+    {
+      "locator": "body.361",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Sensing Evil - Чувство зла"
+    },
+    {
+      "locator": "body.362",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Sensing Good - Чувство добра"
+    },
+    {
+      "locator": "body.363",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Sensing Power - Чувство силы"
+    },
+    {
+      "locator": "body.364",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Shadowy Senses - Теневые чувства"
+    },
+    {
+      "locator": "body.365",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Siege Engineering (G) - Осадное дело"
+    },
+    {
+      "locator": "body.366",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Signaling (G) - Сигналы?"
+    },
+    {
+      "locator": "body.367",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Skirmishing - Бей и беги"
+    },
+    {
+      "locator": "body.368",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Skulking - Поиск укрытий"
+    },
+    {
+      "locator": "body.369",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Sneaking - Подкрадывание"
+    },
+    {
+      "locator": "body.370",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Sniping - Подготовка снайпера"
+    },
+    {
+      "locator": "body.371",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Soothsaying - Гадание"
+    },
+    {
+      "locator": "body.372",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Streetwise (G) - Знание улиц"
+    },
+    {
+      "locator": "body.373",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Sunder - Разделение"
+    },
+    {
+      "locator": "body.374",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Survival (G) - Выживание"
+    },
+    {
+      "locator": "body.375",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Swashbuckling - Бравада"
+    },
+    {
+      "locator": "body.376",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Swimming (G) - Плавание"
+    },
+    {
+      "locator": "body.377",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Syncretism - Синкретизм"
+    },
+    {
+      "locator": "body.378",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Theology (G) - Теология"
+    },
+    {
+      "locator": "body.379",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Tracking (G) - ВыслеживаниеTransmogrification - Трансмогрификация"
+    },
+    {
+      "locator": "body.380",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Trapfinding - Поиск ловушек"
+    },
+    {
+      "locator": "body.381",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Trapping (G) - Создание ловушек"
+    },
+    {
+      "locator": "body.382",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Treachery - Вероломство"
+    },
+    {
+      "locator": "body.383",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Unarmed Fighting - Рукопашный бой"
+    },
+    {
+      "locator": "body.384",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Unflappable Casting - Непоколебимый заклинатель"
+    },
+    {
+      "locator": "body.385",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Vermin-Slaying - Убийца вредителей"
+    },
+    {
+      "locator": "body.386",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Wakefulness - Транс"
+    },
+    {
+      "locator": "body.387",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Weapon Finesse - Изящное владение оружием"
+    },
+    {
+      "locator": "body.388",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Weapon Focus - Любимое оружие"
+    },
+    {
+      "locator": "body.391",
+      "kind": "paragraph",
+      "style": "Heading2",
+      "text": "◈ Состояния"
+    },
+    {
+      "locator": "body.392",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Beholding - Наблюдающий"
+    },
+    {
+      "locator": "body.393",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Berserk - Берсерк"
+    },
+    {
+      "locator": "body.394",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Bewitched - Околдованный (Заколдованный)"
+    },
+    {
+      "locator": "body.395",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Blessed/Inspired - Благословленный/Воодушевленный"
+    },
+    {
+      "locator": "body.396",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Blinded - Ослепленный"
+    },
+    {
+      "locator": "body.397",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Burning - Горящий"
+    },
+    {
+      "locator": "body.398",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Charging - В натиске"
+    },
+    {
+      "locator": "body.399",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Choking / Vomiting - Удушение/Рвота"
+    },
+    {
+      "locator": "body.400",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Clambering - Карабкающийся"
+    },
+    {
+      "locator": "body.401",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Concentrating - Концентрирующийся"
+    },
+    {
+      "locator": "body.402",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Concentrating and Stationary - Концентрирующийся и Неподвижно (концентрирующийся)"
+    },
+    {
+      "locator": "body.403",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Cowering - Трясущийся"
+    },
+    {
+      "locator": "body.404",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Deafened - Глухой"
+    },
+    {
+      "locator": "body.405",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Dehydrated - Обезвоженный"
+    },
+    {
+      "locator": "body.406",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Disfavored - Неугодный"
+    },
+    {
+      "locator": "body.407",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Disordered - В беспорядке"
+    },
+    {
+      "locator": "body.408",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Dominated - ЗАДОМИНИРОВАННЫЙ"
+    },
+    {
+      "locator": "body.409",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Drowning - Утопающий"
+    },
+    {
+      "locator": "body.410",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Enervated - Обессиленный"
+    },
+    {
+      "locator": "body.411",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Engaged - Вплотную "
+    },
+    {
+      "locator": "body.412",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Enlarged - Увеличенный"
+    },
+    {
+      "locator": "body.413",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Enslaved - Порабощенный"
+    },
+    {
+      "locator": "body.414",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Enthralled - Одурманенный"
+    },
+    {
+      "locator": "body.415",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Faltering - Нерешительный"
+    },
+    {
+      "locator": "body.416",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Fatigued - Истощённый"
+    },
+    {
+      "locator": "body.417",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Flanked - Фланкированный"
+    },
+    {
+      "locator": "body.418",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Forgetful - Забывчивый?"
+    },
+    {
+      "locator": "body.419",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Frightened - Устрашенный"
+    },
+    {
+      "locator": "body.420",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Grabbed - Схваченный "
+    },
+    {
+      "locator": "body.421",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Helpless - Беспомощный"
+    },
+    {
+      "locator": "body.422",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Hidden - Спрятанный"
+    },
+    {
+      "locator": "body.423",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Hungry - Голодный"
+    },
+    {
+      "locator": "body.424",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Hypothermic - переохлажденный"
+    },
+    {
+      "locator": "body.425",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Immune - Неуязвимый "
+    },
+    {
+      "locator": "body.426",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Incapacitated - Недееспособный"
+    },
+    {
+      "locator": "body.427",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Infuriated - Разъяренный"
+    },
+    {
+      "locator": "body.428",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Mesmerized - Загипнотизированный"
+    },
+    {
+      "locator": "body.429",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Mad - Безумный"
+    },
+    {
+      "locator": "body.430",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Mute - Немой"
+    },
+    {
+      "locator": "body.431",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Paralyzed - Парализованный"
+    },
+    {
+      "locator": "body.432",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Petrified - Окаменевший"
+    },
+    {
+      "locator": "body.433",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Prone - Опрокинутый (лежащий?)"
+    },
+    {
+      "locator": "body.434",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Queasy - Недомогание"
+    },
+    {
+      "locator": "body.435",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Resistant - Устойчивый"
+    },
+    {
+      "locator": "body.436",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Restrained - Скованный"
+    },
+    {
+      "locator": "body.437",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Shaken - Трясущийся"
+    },
+    {
+      "locator": "body.438",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Shrunk - Сжатый"
+    },
+    {
+      "locator": "body.439",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Slumbering - Дремлющий"
+    },
+    {
+      "locator": "body.440",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Starving - Оголодавший"
+    },
+    {
+      "locator": "body.441",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Sneaking - Крадущийся"
+    },
+    {
+      "locator": "body.442",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Stuck - Застрявшая"
+    },
+    {
+      "locator": "body.443",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Subjacent - Нижестоящий"
+    },
+    {
+      "locator": "body.444",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Surprised - Ошарашен"
+    },
+    {
+      "locator": "body.445",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Unconscious - Бессознательный"
+    },
+    {
+      "locator": "body.446",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Underfed - Недокормленный"
+    },
+    {
+      "locator": "body.447",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Vexed - Раздраженный (как кожа)?"
+    },
+    {
+      "locator": "body.448",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Vulnerable - Уязвимый"
+    },
+    {
+      "locator": "body.449",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Webbed - Опутанный"
+    },
+    {
+      "locator": "body.450",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Winded - Запыхавшийся"
+    },
+    {
+      "locator": "body.451",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Wrestled - Скрученный"
+    },
+    {
+      "locator": "body.453",
+      "kind": "paragraph",
+      "style": "Heading2",
+      "text": "𓀑Типы урона"
+    },
+    {
+      "locator": "body.455",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Acidic Кислота🧪  🍋⚗Ac mAc"
+    },
+    {
+      "locator": "body.456",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Arcane Мистический☄️ 🧙★ Ar mAr"
+    },
+    {
+      "locator": "body.457",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Bludgeoning Дробящий🔨 ⚒Bl mBl   "
+    },
+    {
+      "locator": "body.458",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Cold Холод❄️✱Co mCo"
+    },
+    {
+      "locator": "body.459",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Electric Электричество⚡↯El mEl"
+    },
+    {
+      "locator": "body.460",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Fire Огонь🔥♨Fi mFi"
+    },
+    {
+      "locator": "body.461",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Luminous Излучения🔅 ☀☥Lu mLu"
+    },
+    {
+      "locator": "body.462",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Necrotic Некротический💀✠☠Ne mNe"
+    },
+    {
+      "locator": "body.463",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Piercing Колющий🏹➹Pi mPi"
+    },
+    {
+      "locator": "body.464",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Poisonous Яд🐍🌢Po mPo"
+    },
+    {
+      "locator": "body.465",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Seismic Сейсмический💥⭓Se mSe"
+    },
+    {
+      "locator": "body.466",
+      "kind": "paragraph",
+      "style": null,
+      "text": "Slashing Рубящий🪓⚔Sl mSl"
+    },
+    {
+      "locator": "body.467",
+      "kind": "paragraph",
+      "style": null,
+      "text": "By weapon Зависит от оружия⚔️☭♺Va mVa"
+    }
+  ]
+}

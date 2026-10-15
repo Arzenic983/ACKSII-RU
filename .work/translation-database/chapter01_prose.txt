@@ -1,0 +1,455 @@
+[rr.p0014.b001] heading
+1 CHARACTERS
+
+[rr.p0015.b001] heading
+CHARACTERS
+
+[rr.p0015.b002] heading
+CREATING A CHARACTER
+
+[rr.p0015.b003] paragraph
+You’ve taken the first step on your adventure, but you are still a 0th level human. Don’t despair, because you become 1st level when you create your first character, and progress from there! To create a character, follow the eleven steps below:
+
+[rr.p0015.b004] list_item
+1. Break out a new character sheet. You can use the one provided in this book, download and print one of the many fan-made character sheets, or reproduce an existing sheet by hand on a piece of paper. If all else fails, just scribble down notes on scratch paper!
+
+[rr.p0015.b005] list_item
+2. Roll for your character’s **attributes,** as described below in **Character Attributes.** Write the results after the names of the abilities and record the attribute bonus or penalty for each score. (Some campaigns might use optional rules that change how attributes are rolled. Your Judge will let you know if so.)
+
+[rr.p0015.b006] list_item
+3. Choose a **character class** which suits your character’s abilities from this chapter in the **Character Classes** section. All classes have key attributes (requiring a minimum score of 9), and some classes require that the character have minimum scores for other attributes. Write down the combat characteristics and class powers of your class. Note that, unlike some games, in ***ACKS*** a character’s race is part of his class; you do not separately choose a race.
+
+[rr.p0015.b007] list_item
+4. Note on your character sheet that your character has zero (0) **experience points** (or **XP);** you might also want to note the number needed to advance to second level, as shown in the table for your class. Gaining experience points is explained in the **Adventures** and **Campaigns** chapters.
+
+[rr.p0015.b008] list_item
+5. Roll **hit points** (hp) using the designated die for your class. If you roll 4 or less, treat the result as a 4. Add your Constitution bonus or penalty to the roll and note the result as your hit points on your character sheet. (Some campaigns might use optional rules that change starting hp. Your Judge will let you know if so.)
+
+[rr.p0015.b009] list_item
+6. Find the appropriate template table for your character’s class, and roll 3d6 on the table to determine your character’s starting template. If you don’t like the template you rolled, you can choose a **template** from a lower roll, but not from a higher roll. Write down the name of the template you settle on.
+
+[rr.p0015.b010] list_item
+7. Write down your character’s starting **proficiencies** as listed for your template. All characters always begin with the Adventuring proficiency in addition to those listed. Apply any modifiers to your attributes, hit points, attack throws, or saving throws from proficiencies. Write down your character’s proficiency throws.
+
+[rr.p0015.b011] list_item
+8. If you have chosen to play a caster, write down your repertoire of starting **spells** from your template. If you aren’t playing a spellcaster, skip this step.
+
+[rr.p0015.b012] list_item
+9. Write your character’s **starting equipment** and gold pieces as listed for your template. Since you now know what armor your character is wearing, what your Dexterity modifier is, and what powers and proficiencies modify your defenses, you can calculate and note your **Armor Class** (AC) on the character sheet. Calculate your character’s **encumbrance** based on how much weight he is carrying and use that to determine his four **speeds** (p. 18).
+
+[rr.p0015.b013] list_item
+10. Decide your character’s **homeland** and whether your character is male or female. (In the Auran Empire campaign setting, some classes are restricted to certain sexes.) Roll for your character’s **starting age** and write down your character’s starting **languages** based on your race. Record your character’s size **(man-sized)** and weight (usually **15 stone).**
+
+[rr.p0015.b014] list_item
+11. Give your character a name, and create a brief summary of your character’s appearance, background, and personality based on his attributes, class, template, age, and other characteristics. Choose an appropriate **alignment** for your character. Your Judge will have information on the setting of your character’s world that can be helpful in naming your new character and developing his background. He can also advise you on how the characters are coming together to form an **adventuring party.**
+
+[rr.p0015.b015] heading
+OPTIONAL RULES FOR CHARACTER CREATION
+
+[rr.p0015.b016] paragraph
+Depending on the Judge’s preferences, either or both of the following optional rules might apply.
+
+[rr.p0015.b017] heading
+GENERATING CHARACTERS WITHOUT TEMPLATES (OPTIONAL)
+
+[rr.p0015.b018] paragraph
+Instead of rolling 3d6 to determine a template, roll 3d6 × 10 to determine your character’s starting gold pieces. Use the gold to select any weapons, armor, and equipment that the Judge says are available. Select your starting proficiencies and (if a caster) starting spells, subject to the Judge’s discretion. This rule is only recommended for experienced players.
+
+[rr.p0015.b019] heading
+GENERATING MULTIPLE CHARACTERS (OPTIONAL)
+
+[rr.p0015.b020] paragraph
+At the start of play, each player generates five characters and selects one primary and two back-up characters. The remaining two characters are given to the Judge to use as NPCs to populate the campaign setting. If the primary and back-ups are all killed, the player generates five additional characters, again picking three and giving the Judge two. This ensures that the player always has a variety of characters to choose from to find one he likes, and gives the Judge some additional NPCs to populate the world.
+
+[rr.p0015.b021] paragraph
+The ***ACKS II Judges Journal*** has other optional rules for character creation. Be sure to ask your Judge what rules he’s using!
+
+[rr.p0016.b001] heading
+CHARACTER ATTRIBUTES
+
+[rr.p0016.b002] paragraph
+Character attributes are determined by rolling randomly. Pick one attribute and roll 5d6; drop the lowest 2 dice and tally the rest. If less than 13, increase to 13. Pick a second and third attribute and roll 4d6 for each; drop the lowest die and tally the rest. If less than 9, increase to 9. Roll 3d6 for each of the remaining three attributes.
+
+[rr.p0016.b003] paragraph
+When complete, your character will have a score ranging from 3 to 18 in each of the following abilities. A bonus or penalty is associated with each score, as shown on the table below. Add up those bonuses and penalties; if the sum is less than 0, you can discard the character and re-roll.
+
+[rr.p0016.b004] paragraph
+**Strength (STR):** As the name implies, this attribute measures the character’s raw physical power. Strength is a key attribute for assassins, barbarians, dwarven vaultguards, elven spellswords, and fighters. Apply the attribute bonus or penalty for Strength to all attack throws and damage rolls in melee combat as well as to damage rolls with thrown weapons (excluding certain splash weapons such as burning oil). Note that a penalty here will not reduce damage from a successful attack below one point, unless the target is otherwise invulnerable to the attack (see the **Adventures** chapter for details). Strength also aids in opening doors, smashing crates, and so on; apply 4× the bonus or penalty to all Dungeonbashing throws, i.e. ±4/8/12.
+
+[rr.p0016.b006] paragraph
+**Intellect (INT):** This attribute measures learning ability and critical thinking. Intellect is a key attribute for elven nightblades, elven spellswords, mages, Nobiran wonderworkers, and Zaharan ruinguards. The attribute bonus for Intellect is added to the number of general proficiencies the character begins play with (see the **Proficiencies** chapter for details) and the number of languages the character is able to learn to read and write (described below). Studious spellcasters increase the number of spells of each level in their repertoire by their Intellect bonus (see the **Spells** chapter for details).
+
+[rr.p0016.b007] paragraph
+**Will (WIL):** This attribute measures mental fortitude, whether due to inherent wisdom or faith in a higher power. Will is a key attribute for bladedancers, crusaders, dwarven craftpriests, Nobiran wonderworkers, priestesses, and shamans, who must have the self-discipline to uphold their clerical codes of behavior. The Will bonus or penalty applies to all saving throws.
+
+[rr.p0016.b008] paragraph
+**Dexterity (DEX):** This attribute measures the character’s agility and reflexes. Dexterity is a key attribute for assassins, bards, bladedancers, elven nightblades, and thieves. A character’s Dexterity bonus or penalty is applied to his attack throws with missile weapons, armor class value, and initiative die rolls.
+
+[rr.p0016.b009] paragraph
+**Constitution (CON):** Constitution is a combination of general health and vitality. Constitution is a key attribute for barbarians and explorers. Apply the Constitution bonus or penalty to each Hit Die rolled by the character to determine hit points. Note that a penalty here cannot reduce any Hit Die roll to less than 1 point.
+
+[rr.p0016.b010] paragraph
+**Charisma (CHA):** This attribute measures how well a character can influence or even lead people; those with high Charisma are well-liked, or at least highly respected. Charisma is a key attribute for bards, priestesses, and venturers. Apply the Charisma bonus or penalty to the character’s reaction rolls. Charisma also determines the maximum number of henchmen the character can employ, and modifies their morale and loyalty. The number of henchmen a character can hire is equal to 4 plus the Charisma bonus or penalty (and therefore ranges from 1 to 7); the average morale of any such henchmen will vary with their equipment and experience; the average loyalty of any such henchmen will be 0, modified by the character’s Charisma bonus or penalty.
+
+[rr.p0016.b011] heading
+CLASSES AND ATTRIBUTES
+
+[rr.p0016.b012] paragraph
+Once abilities have been determined, each player must choose a class. Classes are a gestalt of background, profession, and race, which dictates what sorts of training and capabilities characters can develop. All player characters begin at 1st level in a particular class. Normal people, lacking the call to adventure, are generally 0th level characters.
+
+[rr.p0016.b013] paragraph
+Each class has one or more **key attributes.** A character must have an attribute of at least 9 in a class’s key attribute(s) in order to choose a particular class. Some classes have additional minimum attribute requirements. If so, a character must meet the minimum attribute requirements in order to choose a particular class.
+
+[rr.p0016.b014] paragraph
+If a character’s key attribute is high enough, the character will receive a bonus to experience points earned during play. The Key Attribute table details the effect a score in a key attribute has on experience points earned by characters. If a class has two key attributes, calculate the character’s experience adjustment based on whichever key attribute is lower.
+
+[rr.p0017.b001] heading
+COMBAT CHARACTERISTICS
+
+[rr.p0017.b002] paragraph
+Combat characteristics determine how effective a class is in battle. There are two distinct combat characteristics, **Combat** **Proficiencies** and **Combat Progression.**
+
+[rr.p0017.b003] heading
+COMBAT PROFICIENCIES
+
+[rr.p0017.b004] paragraph
+Each class has a set of combat proficiencies that determine which weapons it can fight with, in what manner, while wearing which armor.
+
+[rr.p0017.b005] heading
+ARMOR
+
+[rr.p0017.b006] paragraph
+A class can be proficient in all, heavy, medium, light, or very light armor. Some classes are not proficient in any armor at all. Note that very light armor weighs 1 stone or less; light armor weighs 2 stone; medium armor weighs 3 – 4 stone; and heavy armor weighs 5 stone or more. (Some masterwork or magical armor might actually be less encumbering, but that doesn’t change its type for purposes of armor proficiency.) The **Equipment** chapter on p. 128 lists the available types of armor.
+
+[rr.p0017.b007] heading
+WEAPONS
+
+[rr.p0017.b008] paragraph
+A class can be proficient in all weapons. Most classes, however, are limited in their proficiency with weapons to specific categories, types, and sizes of weapons.
+
+[rr.p0017.b009] list_item
+♦ A class can be proficient in all missile weapons; all tiny, small, and medium melee weapons; and/or all large melee weapons.
+
+[rr.p0017.b010] list_item
+♦ A class can be proficient in all types of axes, all types of bludgeons, all types of bows and crossbows, all types of spears and polearms, and/or all types of swords and daggers.
+
+[rr.p0017.b011] list_item
+♦ A class can be proficient in a list of specific weapons, often those which are traditional to its class or race.
+
+[rr.p0017.b012] paragraph
+For melee weapons capable of being thrown (such as daggers, hand axes, or spears), weapon proficiency includes the ability to use it as a missile weapon. Note that tiny and small weapons are wielded with just one hand, medium weapons can be wielded with either one or two hands, and large weapons can only be wielded with two hands. The **Equipment** chapter lists the available weapons and their characteristics and costs.
+
+[rr.p0017.b013] paragraph
+Regardless of class, all characters are considered proficient when throwing bottles, flasks, rocks, sticks, and torches.
+
+[rr.p0017.b014] heading
+FIGHTING STYLES
+
+[rr.p0017.b015] paragraph
+There are five styles of fighting.
+
+[rr.p0017.b016] list_item
+♦ *Missile Weapon:* Fighting while wielding a missile weapon in one, both, or each hand (depending on the weapon).
+
+[rr.p0017.b017] list_item
+♦ *Single Weapon:* Fighting while wielding a single tiny, small, or medium melee weapon.
+
+[rr.p0017.b018] list_item
+♦ *Dual Weapon:* Fighting while wielding a tiny, small, or medium melee weapon in each hand.
+
+[rr.p0017.b019] list_item
+♦ *Two-Handed Weapon:* Fighting while wielding a medium or large melee weapon in both hands.
+
+[rr.p0017.b020] list_item
+♦ *Weapon and Shield:* Fighting while wielding a small, tiny, or medium weapon or missile weapon in one hand and a shield in the other. Classes which lack this style do not gain any benefit from shields.
+
+[rr.p0017.b021] paragraph
+All classes are proficient in the single weapon and missile weapon styles, which are mandatory when creating a class using the ***ACKS*** class building rules. The other three fighting styles are optional. Some classes have proficiency in one or more, and some do not, as noted in their class entries. Note that fighting style proficiency is distinct from weapon proficiency and both are required to avoid the non-proficiency penalty. For instance, the thief class is proficient in the two-handed weapon style, but does not have proficiency in any large melee weapons. Therefore a thief would be proficient fighting two-handed with a sword (a medium weapon) but not with a great axe (a large weapon).
+
+[rr.p0017.b022] heading
+NON-PROFICIENT USE OF WEAPONS AND ARMOR
+
+[rr.p0017.b023] paragraph
+Nothing stops a panicked thief from picking up a great axe in a moment of desperation and swinging it at his foe. Regardless of class limitations, characters of any class can purchase, carry, and use any weapons or armor desired. However, characters of 1st level or higher who equip themselves with weapons and armor unusable by their class attack as 0th level fighters while so equipped. 0th level characters such as mercenaries or militia equipped with weapons and armor with which they are not proficient still fight as 0th level characters, but suffer an additional -1 penalty. Regardless of level, the characters will receive no bonus on their attack throws or armor class from attributes, cannot use any of their class powers, and do not gain XP from adventures in which they were so equipped.
+
+[rr.p0017.b024] heading
+COMBAT PROGRESSION
+
+[rr.p0017.b025] paragraph
+As classes advance in level, they become better at fighting and surviving the perils of adventure. A class’s combat progression determines the rate at which its **attack throws** and **saving throws** progress. Fighters improve the most rapidly, while mages improve the least rapidly, with other classes falling in between.
+
+[rr.p0017.b026] paragraph
+In addition to gaining better attack throws and saving throws, some classes gain **damage bonuses** by level, either with all or some weapons. In addition, some classes gain the ability to **cleave** after killing a foe. The mechanics of cleaving are explained in the **Adventures** chapter (p. 302).
+
+[rr.p0017.b027] heading
+CLASS POWERS
+
+[rr.p0017.b028] paragraph
+Class powers are the special abilities that make classes effective within their niche. Some class powers are simply bonus proficiencies that are automatically assigned to every member of the class (such as the fighter’s Manual of Arms class power), but most class powers are unique to the class.
+
+[rr.p0017.b029] paragraph
+Each class has a mix of Starting and Additional Class Powers. Starting Class Powers are available at 1st level and should be recorded on your character sheet at the start of play. Additional Class Powers will become available as your character ascends to higher levels.
+
+[rr.p0018.b001] heading
+HIT POINTS
+
+[rr.p0018.b002] paragraph
+Hit points (hp) are a measure of a character’s ability to survive in combat. When a character is brought down to 0 or fewer hit points, he is incapacitated and possibly dead. Hit points are not a direct representation of the character’s capacity to receive physical injury. Rather, they represent a holistic combination of fighting skill, stamina, luck, and the favor of the gods, all of which contribute to helping the character roll with blows and survive attacks that would have killed a lesser combatant.
+
+[rr.p0018.b003] paragraph
+At 1st level, you roll your character’s hit points with one hit die (HD). Each character class rolls a different type of hit die to determine hit points, based on their toughness in battle, as explained in the **Character Classes** section. If you roll 4 or less, treat the result as a 4. Add your Constitution bonus or penalty to the roll and note the result as your hit points on your character sheet.
+
+[rr.p0018.b004] paragraph
+Thereafter, each time the character gains an additional hit die from leveling, you reroll his hit points using your character’s new number of Hit Dice, adding his Constitution bonus or penalty to each die rolled. You note the result as your new hit points on your character sheet. If, due to ill luck, your new hit points would be less than or equal to your hit points at your prior level of experience, you just gain 1 hit point. Once you reach 10th level, you no longer gain Hit Dice or add your Constitution bonus or penalty, you simply gain additional hit points (making 9th level the last level at which you gain a new hit die). Even at 10th level and higher, however, you reroll all Hit Dice gained up to that point when determining your new hit point total.
+
+[rr.p0018.b005] heading
+OPTIONAL RULES FOR HIT POINTS
+
+[rr.p0018.b006] paragraph
+At the Judge’s discretion, any of the following optional rules can be used to make characters hardier. The Judge can even apply different rules for different classes if desired. For instance, if he wants to encourage players to roll up human characters, he could allow all human classes to start with maximum hit points, but not demi-human classes.
+
+[rr.p0018.b007] heading
+BLESSED BY THE GODS
+
+[rr.p0018.b008] paragraph
+Do not roll for your character’s hit points at 1st level. Instead, give your character the maximum hit points he could have rolled, e.g. 8 for fighters, 6 for explorers and crusaders, and 4 for thieves, mages, and venturers, modified by his Constitution.
+
+[rr.p0018.b009] heading
+CURSED BY THE GODS
+
+[rr.p0018.b010] paragraph
+Roll your character’s hit points with one Hit Die. Do not apply any minimums. If you roll a 1, well, good luck.
+
+[rr.p0018.b011] heading
+FROM ORDINARY TO EXTRAORDINARY
+
+[rr.p0018.b012] paragraph
+Before he became an adventurer, your character was just an ordinary 0th-level member of his race. Roll 1d6 hit points to determine his hit points at 0th level. When your character earned his 1st level of experience (prior to play), he might have gained more hit points. Roll the appropriate Hit Die for your class. If the result of the roll is greater than your 0th level hit points, record the new roll. If the roll is less than or equal to your 0th level hit points, you begin play with your 0th level hit points +1.
+
+[rr.p0019.b001] paragraph
+**EXAMPLE:** Zach has rolled up Norden, a 1st level dwarven vaultguard. Before Norden became a 1st level dwarven vaultguard, he was just an ordinary 0th-level dwarf. To find out how many hit points he had at that level, Zach rolls 1d6. The result is a 4. Zach now rolls 1d8 for Norden’s hit points at first level. If the result is 1, 2, 3, or 4, Norden starts with his 0th level hit points +1, or 5 hit points. If the result is 5 or more, Norden starts with hit points equal to the result.
+
+[rr.p0019.b002] heading
+ARMOR CLASS
+
+[rr.p0019.b003] paragraph
+Armor class (AC) is a measure of how challenging it is to damage your character. An unarmored character of average attributes has an AC of 0. AC is determined by what kind of armor the character is wearing and whether he has a shield equipped. AC can be modified by the character’s DEX modifier and certain class powers, proficiencies, conditions, magic items, and spells. After you buy your equipment, calculate your character’s AC and record it on your character sheet.
+
+[rr.p0019.b004] heading
+PROFICIENCIES
+
+[rr.p0019.b005] paragraph
+Proficiencies represent particular areas of expertise that your character has developed due to his background, homeland, and training. Each class has a **class list** of proficiencies, representing training that is particularly useful to the specific profession. In addition, there is a **general list** of proficiencies, which represent trade skills and knowledge that is widely available to all.
+
+[rr.p0019.b006] paragraph
+All characters begin with the Adventuring proficiency as well as one proficiency chosen from their class list and one proficiency chosen from the general list. Characters with an Intellect bonus may choose to begin the game knowing one or more additional proficiencies from the general list. During play, characters will learn proficiencies from both lists over time as they advance in level. Each class gains proficiencies at a different rate. See the **Proficiencies** chapter (p. 102) for more details.
+
+[rr.p0019.b007] heading
+ADVENTURING PROFICIENCY
+
+[rr.p0019.b008] paragraph
+The Adventuring proficiency grants your character the ability to do the following defined activities:
+
+[rr.p0019.b009] list_item
+♦ Bash down stuck doors as a combat action by succeeding on a Dungeonbashing proficiency throw of 18+.
+
+[rr.p0019.b010] list_item
+♦ Climb easy-to-scale obstacles such as ropes or branchy trees by succeeding on a Climbing proficiency throw of 8+.
+
+[rr.p0019.b011] list_item
+♦ Methodically search for concealed traps, secret doors, buried treasure, and other hidden features by spending one turn (10 minutes) and succeeding on a Searching proficiency throw of 18+.
+
+[rr.p0019.b012] list_item
+♦ Methodically disarm traps by spending one turn (10 minutes) and succeeding on a Trapbreaking proficiency throw of 18+.
+
+[rr.p0019.b013] list_item
+♦ Pause and listen for noises by spending one round and succeeding on a Listening proficiency throw of 18+.
+
+[rr.p0019.b014] paragraph
+Write these target values down on your character sheet. Remember to apply 4× your character’s STR bonus or penalty to Dungeonbashing throws, e.g. you adjust the target value by ±4/8/12. For more information on the Adventuring proficiency, see p. 105.
+
+[rr.p0019.b015] heading
+SPEED AND ENCUMBRANCE
+
+[rr.p0019.b016] paragraph
+Characters can move at one of four basic speeds: exploration speed, combat speed, running speed, and expedition speed. (Special types of movement, including climbing, crawling, rappelling, sneaking, swimming, and traversing, are discussed later.)
+
+[rr.p0019.b017] list_item
+♦ **Exploration speed** is measured in feet per turn and represents a pace appropriate to cautious exploration and careful mapping in an area of treacherous ground, shadowy obscurity, and dangerous pitfalls. An unencumbered human has an exploration speed of 120 feet per turn.
+
+[rr.p0019.b018] list_item
+♦ **Combat speed** is measured in feet per round and represents a brief hustle in conditions of danger and distraction. Combat speed is generally used only during encounters or other circumstances where time is tracked in rounds. An unencumbered human has a combat speed of 40 feet per round.
+
+[rr.p0019.b019] list_item
+♦ **Running speed** is measured in feet per round and represents the fastest pace an adventurer can maintain in combat. Characters can only run for brief periods of time before needing rest. An unencumbered human has a running speed of 120 feet per round.
+
+[rr.p0019.b020] list_item
+♦ **Expedition speed** is measured in miles per day and represents the distance which a character travels for each day spent traveling as the party’s dedicated activity. An unencumbered human has an expedition speed of 24 miles per day.
+
+[rr.p0019.b021] paragraph
+The relationship between the four speeds is shown in the Movement Speeds table.
+
+[rr.p0019.b022] paragraph
+Speed is modified by **encumbrance.** Encumbrance indicates how much equipment and treasure characters are carrying. Encumbrance is important because characters can only carry so much, and if they are heavily weighed down with equipment they cannot carry as much treasure, nor move as fast.
+
+[rr.p0019.b023] paragraph
+Encumbrance is measured in **stones.** Stones are an abstract unit of weight for creatures, objects, and other things in the game world. Historically a stone varied from 8 to 14 lbs depending on what was being measured. ***ACKS II*** assumes a stone weighs around 10 lbs, but it is left purposefully abstract to represent an amalgam of weight, bulk, and general portability. A typical item like a sword weighs 1/6 stone. A typical man-sized creature weighs 15 stone (abstractly representing anywhere from 120 and 210 lbs). The maximum encumbrance any man-sized character can carry is 20 stone, plus his Strength modifier.
+
+[rr.p0019.b024] heading
+MOVEMENT SPEEDS
+
+[rr.p0020.b001] heading
+CALCULATING ENCUMBRANCE
+
+[rr.p0020.b002] paragraph
+If your character is built using a template, your template will indicate your character’s starting encumbrance. If you are purchasing equipment for your character, you will need to calculate your character’s encumbrance. The Equipment tables will list the amount of encumbrance per item. You can also use the adjoining table to determine the number of stone encumbering your character.
+
+[rr.p0020.b004] paragraph
+When counting items, each weapon, scroll, potion, vial, wand, magic item, or other object counts as an item. Multiple small items sold as a bundle (such as 6 iron spikes, 20 arrows, etc.) count as one item for this purpose. Very small single items (such as 1 silver arrow) can be ignored for encumbrance purposes, but if carried in number should be counted as 1 item. (No, a character can’t carry 20 silver arrows and have no encumbrance.)
+
+[rr.p0020.b005] paragraph
+Heavy items generally include any large melee weapon; any item that is more than two-thirds as tall as the carrying character (including composite bows, long bows, spears, staffs, and 10’ poles); any item that weighs 8 lbs or more; and any item that requires two hands to carry (such as chairs or chests). Items weighing more than 14 lbs will weigh more than 1 stone. Armor weighs 1 stone per point of AC it offers, while simple clothing weighs 0 st.
+
+[rr.p0020.b006] paragraph
+For purposes of encumbrance, 1,000 coins are considered 1 stone. When a carrying device, such as a backpack, lists the weight it can carry in stone, this weight can be converted at 1:1000 from stone to coins to determine how many coins it can carry.
+
+[rr.p0020.b007] heading
+CALCULATING SPEED
+
+[rr.p0020.b008] paragraph
+Once your character’s encumbrance is known, it’s time to calculate his speed. A character’s speed will be affected based on encumbrance, as shown on the Character Speed and Encumbrance table. For additional information on movement, see the **Speed and** **Movement** section in the **Adventures** chapter.
+
+[rr.p0020.b009] paragraph
+**EXAMPLE:** Marcus is carrying a two-handed sword (1 heavy item), a crossbow (1 item), a mace (1 item), 2 daggers (1 item each), a backpack (1 item), 1 week’s iron rations (1 heavy item), a tinderbox (1 item), 2 flasks of oil (1 item each), a small mirror (1 item), a pound of wolfsbane (1 item), a pound of garlic (1 item), and a case with 20 bolts (1 item). He is carrying 12 items, which counts as 2 stone. His two-handed sword and iron rations, together count as heavy items, add another 2 stone. Finally, he is wearing plate armor (AC 6), which counts as 6 stone. His total encumbrance is 10 stone, so his exploration movement is 60’ per turn. Later, he picks up 8,000 silver pieces. This increases his encumbrance to 18 stone, and reduces his exploration movement to 30’ per turn. His combat speed, running speed, and expedition speed all change when his exploration speed changes.
+
+[rr.p0020.b010] heading
+HOMELAND
+
+[rr.p0020.b011] paragraph
+Every adventurer comes from somewhere. A character’s homeland can (but doesn’t have to) be used to inform your choice of name, height, weight, appearance, and other factors. If your Judge is running ***ACKS*** using the Auran Empire campaign setting, head to Appendix A (p. 487) and check out the available homelands to pick yours. If your Judge is running ***ACKS*** in another campaign setting, check with him to find out his plans.
+
+[rr.p0020.b012] paragraph
+**EXAMPLE:** Norden is a vaultguard in the Auran Empire campaign setting. Reading Appendix A, Zach sees that dwarves can hail from either the Jutting Mountains or Meniri Mountains. Zach chooses to make Norden’s homeland the Meniri Mountains. Based on the information found in Appendix A, he describes Norden as having grey-brown eyes, medium brown skin, and wavy chestnut hair and beard.
+
+[rr.p0020.b013] heading
+LANGUAGES
+
+[rr.p0020.b014] paragraph
+All characters begin the game knowing their native language as well as at least one additional language. Humans in the Auran Empire each know the language of their homeland as well as the vulgarized version of the Classical Auran tongue that is often called “Common.” The demi-human races in and around the Empire each have their own languages, and members of these races normally begin play knowing their racial language, Common (or the local human language if it isn’t called Common), and certain other languages based on the race.
+
+[rr.p0020.b015] paragraph
+Characters with an Intellect penalty are illiterate and cannot read more than a word or two. Characters with at least average Intellect (9 – 12) will be literate in any languages they can speak. Characters with an Intellect bonus can begin the game knowing one or more languages other than those given above; the number of additional languages that can be learned is equal to the Intellect bonus (+1, +2, or +3). The player can also choose to leave one or more bonus language slots open, to be filled during play.
+
+[rr.p0020.b016] heading
+CHARACTER SPEED AND ENCUMBRANCE
+
+[rr.p0021.b001] paragraph
+The languages available to characters include the regional languages (such as Krysean or Somirean in the Auran Empire), demi-human languages (Elven, Dwarven, Gnomish, and Halfling) and the various beastmen dialects (e.g. Orc, Goblin). At the Judge’s discretion, player characters can also begin play knowing ancient or archaic tongues, or exotic languages such as Draconic (the language of dragons). The specific languages available will depend on the campaign setting. In the Auran Empire setting, two important archaic languages are Classical Auran (the predecessor to Common, used for ceremonial, religious, and magical purposes within the empire) and Zaharan (a predecessor to the various beastmen dialects, once used by the fallen Kingdom of Zahar and now remembered by black magicians and necromancers). See Appendix A for an Auran language tree (p. 505).
+
+[rr.p0021.b002] heading
+STARTING AGE
+
+[rr.p0021.b003] paragraph
+Roll on the Character Starting Age table to determine the age of your 1st level character. Starting age has no immediate effect on the character, but an ***ACKS*** campaign can span many game years of time, during which adventurers can grow old and die. In addition, some monsters and magic can cause premature aging and death.
+
+[rr.p0021.b004] paragraph
+The Character Aging table shows the lifespan of the human, demi-human, and humanoid races, broken into five age categories (Youth, Adult, Middle Aged, Old, and Ancient). Elves and Nobir, being ageless, never progress past adult.
+
+[rr.p0021.b005] paragraph
+At each stage, progressively adjust the character’s attributes as noted on the Attribute Score Adjustments by Age table. For characters generated at an already advanced age, the cumulative attribute adjustments appropriate to the character’s age can be used. Attribute adjustments from aging cannot reduce an attribute below a class minimum, and in no case lower than 3.
+
+[rr.p0021.b006] heading
+DEATH FROM OLD AGE
+
+[rr.p0021.b007] paragraph
+Characters can die of old age, though this is a rare fate for adventurers! The chance of death from old age is resolved with a Death saving throw. Characters must make a Death saving throw within 1d12 months of reaching the following ages:
+
+[rr.p0021.b008] list_item
+♦ Racial minimum Old age + character’s Constitution
+
+[rr.p0021.b009] list_item
+♦ Racial minimum Ancient age + character’s Constitution
+
+[rr.p0021.b010] list_item
+♦ Racial maximum listed age, and each year thereafter
+
+[rr.p0021.b011] paragraph
+**EXAMPLE:** Marcus has CON 18 as an adult. By the time he reaches the Old age category (56), his CON is reduced to 14. He must save versus Death when he reaches (56 + 14) age 70. He succeeds, so he will not perish due to natural causes just yet. When he reaches the Ancient age category (76), his CON is down to 12. He must save versus Death when he reaches (76 + 12) age 88. He succeeds again. When Marcus reaches age 95, and each year thereafter, he will have to save versus Death again.
+
+[rr.p0021.b012] paragraph
+Neither *restore life and limb* nor *resurrection* can raise characters who have died from old age. However, a *miracle* or *wish* can do so, bringing the character back to life as an adult.
+
+[rr.p0021.b013] heading
+CHARACTER STARTING AGE
+
+[rr.p0021.b015] heading
+CHARACTER AGING
+
+[rr.p0021.b017] heading
+ATTRIBUTE ADJUSTMENTS BY AGE
+
+[rr.p0022.b001] heading
+SIZE & WEIGHT
+
+[rr.p0022.b003] heading
+SIZE AND WEIGHT
+
+[rr.p0022.b004] paragraph
+**Size categories** are an abstract measure of a creature’s or object’s overall mass and bulk. In order from smallest to largest: small, man-sized, large, huge, gigantic, colossal. The table above shows the typical range of heights and weights for each size category. All of the playable races in this book are **man-sized.** On your character sheet, you should record your size as man-sized and weight as 15 stone.
+
+[rr.p0022.b005] heading
+ALIGNMENT
+
+[rr.p0022.b006] paragraph
+In the ***Adventurer Conqueror King System,*** your character will enter a world of ceaseless violent struggle, where civilization is ever-assailed by forces intent on its destruction. In this perilous realm, he will be called to choose a side: Will he pledge to defend civilization and its allies against those who seek to destroy it? Will he sell his sword to any who can offer fame or fortune? Or will he become an agent of entropy and destruction undermining peace and order? This choice is called **Alignment,** and the three choices are Lawful, Neutral, and Chaotic.
+
+[rr.p0022.b007] paragraph
+**Law:** Lawful beings believe that civilization is worth fighting for. Despite its vices and villainies, civilization must be defended against those who would destroy it. Lawful beings tend to see wars among civilizations as aiding the cause of Chaos, and so they seek peace among Lawful civilizations where possible. However, Lawful characters are not pacifists, nor are they necessarily altruists. Indeed, most would think something was wrong with a hero who turned down fame and fortune; chests of gold, magnificent weapons, comely consorts, and grants of land are, after all, the rightful rewards for great deeds of valor on behalf of Law.
+
+[rr.p0022.b008] paragraph
+**Neutrality:** Neutral beings generally enjoy the benefits of law and civilization, but it is not something they directly fight for. They tend to focus on their own ends, whether those are family, fame, fortune, pleasure, or power. A Neutral mercenary might be found fighting on behalf of Law or Chaos; a Neutral farmer tends his crops and pays his taxes, whether to the Patriarch or the Lich-King.
+
+[rr.p0022.b009] paragraph
+**Chaos:** Chaotic beings actively seek to destroy civil society. Chaotic characters are often madmen or cultists of forgotten, chthonic gods. To the extent they have any order at all, societies of Chaotic characters are ruled by force and fear, and are often characterized by all manner of corruption and vice. Even decadent Lawful civilizations at least pay homage to civilizing virtue, but chaotic civilizations embrace their corruption.
+
+[rr.p0022.b010] paragraph
+Note that a character’s choice of Alignment doesn’t determine whether or not he takes care of his children, cheats on his wife, or steals from the merchant’s guild. It is concerned only with the weighty issue of where his allegiance lies in the grand struggles of existence. To have an alignment of Lawful or Chaotic is to have chosen a side in this perpetual struggle. Many people, choosing no side, are Neutral, although it is important to remember that most Neutrals still want the protection of Law even though they are not willing to die for it. (To paraphrase George Orwell, Neutral humans sleep peaceably in their beds at night only because Lawful heroes stand ready to do violence on their behalf.)
+
+[rr.p0022.b011] paragraph
+Human vices, such as greed, lust, and vanity, are widespread and common even in Lawful societies. But Chaotic societies are characterized by their monstrous vices: Genocide, human sacrifice, wanton destruction, cannibalism, and so on. Evil is all too human in every civilization, but Chaos is something both less and more than human.
+
+[rr.p0023.b001] heading
+ADVENTURING PARTIES
+
+[rr.p0023.b002] paragraph
+The worlds of ***Adventurer Conqueror King*** are dangerous and hostile. For the sake of survival, characters team up to undertake adventures because any number or type of monsters could lie in wait. Such groups, known as **adventuring parties,** are generally composed of a diverse array of classes, so that different characters are able to contribute their specific talents for any given situation. Thieves can search for traps, for instance, and fighters can slay monsters or defend allies. Crusaders have spells for healing and divination, while mages are capable of powerful offensive and defensive magic. Occasionally, there are not enough party members to take on the challenges of an adventure. The party can hire NPCs, such as **henchmen** or **mercenaries,** for extra hands. The rules for hiring henchmen and mercenaries are discussed in Chapter 4, **Equipment.**
+
+[rr.p0023.b003] heading
+ACTIVITIES
+
+[rr.p0023.b004] paragraph
+Throughout the course of playing ***ACKS,*** characters will have the opportunity to undertake many activities, ranging from going on adventures to constructing buildings to running domains to performing magical research.
+
+[rr.p0023.b005] paragraph
+Activities are divided into **dedicated activities, ancillary activities,** and **incidental activities.** Dedicated activities are laborious tasks requiring eight hours to perform. A character who undertakes a dedicated activity is sometimes said to “dedicate the day to that activity.” For instance, “Balbus dedicated the day to magic research” or “the party dedicated the day to travel.”
+
+[rr.p0023.b006] paragraph
+Ancillary activities are errands or pastimes requiring about one hour (6 turns) to perform. Incidental activities require virtually no time at all. Each game day, an adventurer can undertake one dedicated activity and four ancillary activities, or perform up to 12 ancillary activities. A character can perform any reasonable number of incidental activities.
+
+[rr.p0023.b007] paragraph
+Most campaign activities are **singular activities** that take place within a single game day, and can be repeated as often as desired within the limits of available activity. A **restricted activity** takes place within a single day, but cannot be repeated until a certain time period elapses. An **ongoing activity** requires more than one game day to complete, such that the character will have to perform the activity throughout the given time period. Both dedicated and ancillary activities can be ongoing. A **dedicated ongoing** **activity** represents a period of full-time labor in order to complete a complex project or task. Magical research, for instance, is a dedicated ongoing activity typically requiring days, weeks, or even months. An **ancillary ongoing activity** represents an intermittent effort occurring in short bursts that must be sustained over a lengthy period of time. Managing a subordinate, for instance, typically requires a short period of time every day for as long as the subordinate is employed. An ongoing activity can generally be interrupted without penalty or disruption.
+
+[rr.p0023.b008] paragraph
+Most campaign activities are **unstrenuous,** but some are **strenuous.** For every six game days of strenuous activity, a character must dedicate one day to **rest.** Characters who do not get the appropriate rest after six game days of strenuous activity become **fatigued** until they have caught up on required rest. (This is why wilderness travel requires rest and recuperation!) Unstrenuous activities do not require rest.
+
+[rr.p0023.b009] paragraph
+Sometimes adventurers might wish to completely dedicate themselves to an activity, that is, to use both their dedicated activity and some of their ancillary activities that day on the task. This is known as **working overtime** (for most activities) or **force marching** (for travel). A character who is force marching completely dedicates his day to travel and cannot take any ancillary activities, but he increases time spent and distance traveled by up to 50%. Working overtime on an unstrenuous activity makes the activity count as a strenuous activity. Force marching or working overtime on a strenuous activity counts as six days of strenuous activity, immediately requiring rest.
+
+[rr.p0023.b010] paragraph
+In desperate circumstances, characters might want to work all day and through the night. Each additional four ancillary activities (four hours) after working overtime or force marching increases the fatigue penalty by 1 point (rounded up).
+
+[rr.p0023.b011] paragraph
+Most campaign activities are open to any character. Others can only be undertaken if the character meets particular requirements of class, level, location, proficiency, or equipment. The requirements are noted in the activity’s description.
+
+[rr.p0023.b012] paragraph
+The activities rules are implicitly present in all aspects of play. For instance, delving a dungeon requires an ancillary activity for every 6 turns of exploration. Traveling at expedition speed requires making travel the party’s dedicated activity. Foraging for food is an ancillary activity, so it can be done on the same day dedicated to wilderness travel, but hunting is a dedicated activity so it cannot. A more expansive list of activities is provided in Chapter 8, **Campaigns.**

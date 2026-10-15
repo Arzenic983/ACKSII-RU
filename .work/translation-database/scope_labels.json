@@ -1,0 +1,2270 @@
+{
+  "Contents": [
+    "rr.p0005.t01.r001.c01",
+    "rr.p0006.t01.r001.c01",
+    "rr.p0007.t01.r001.c01"
+  ],
+  "Printed page": [
+    "rr.p0005.t01.r001.c02",
+    "rr.p0006.t01.r001.c02",
+    "rr.p0007.t01.r001.c02"
+  ],
+  "CREDITS": [
+    "rr.p0005.t01.r002.c01"
+  ],
+  "INTRODUCTION": [
+    "rr.p0005.t01.r003.c01"
+  ],
+  "About the Game": [
+    "rr.p0005.t01.r004.c01"
+  ],
+  "How to Use This Book": [
+    "rr.p0005.t01.r005.c01"
+  ],
+  "The Basics of The Game": [
+    "rr.p0005.t01.r006.c01"
+  ],
+  "Dice": [
+    "rr.p0005.t01.r007.c01"
+  ],
+  "Rolling and Throwing the Dice": [
+    "rr.p0005.t01.r008.c01"
+  ],
+  "Rolling the Dice": [
+    "rr.p0005.t01.r009.c01"
+  ],
+  "Throwing the Dice": [
+    "rr.p0005.t01.r010.c01"
+  ],
+  "What Kind of Die Should You Use?": [
+    "rr.p0005.t01.r011.c01"
+  ],
+  "Common Abbreviations and Icons": [
+    "rr.p0005.t01.r012.c01"
+  ],
+  "CHARACTERS": [
+    "rr.p0005.t01.r013.c01"
+  ],
+  "Creating a Character": [
+    "rr.p0005.t01.r014.c01"
+  ],
+  "Optional Rules For Character Creation": [
+    "rr.p0005.t01.r015.c01"
+  ],
+  "Character Attributes": [
+    "rr.p0005.t01.r016.c01"
+  ],
+  "Classes and Attributes": [
+    "rr.p0005.t01.r017.c01"
+  ],
+  "Combat Characteristics": [
+    "rr.p0005.t01.r018.c01"
+  ],
+  "Combat Proficiencies": [
+    "rr.p0005.t01.r019.c01"
+  ],
+  "Combat Progression": [
+    "rr.p0005.t01.r020.c01"
+  ],
+  "Class Powers": [
+    "rr.p0005.t01.r021.c01"
+  ],
+  "Hit Points": [
+    "rr.p0005.t01.r022.c01"
+  ],
+  "Optional Rules for Hit Points": [
+    "rr.p0005.t01.r023.c01"
+  ],
+  "Armor Class": [
+    "rr.p0005.t01.r024.c01",
+    "rr.p0013.t01.r013.c02"
+  ],
+  "Proficiencies": [
+    "rr.p0005.t01.r025.c01"
+  ],
+  "Adventuring Proficiency": [
+    "rr.p0005.t01.r026.c01"
+  ],
+  "Speed and Encumbrance": [
+    "rr.p0005.t01.r027.c01"
+  ],
+  "Calculating Encumbrance": [
+    "rr.p0005.t01.r028.c01"
+  ],
+  "Calculating Speed": [
+    "rr.p0005.t01.r029.c01"
+  ],
+  "Homeland": [
+    "rr.p0005.t01.r030.c01"
+  ],
+  "Languages": [
+    "rr.p0005.t01.r031.c01",
+    "rr.p0007.t01.r163.c01"
+  ],
+  "Starting Age": [
+    "rr.p0005.t01.r032.c01"
+  ],
+  "Death From Old Age": [
+    "rr.p0005.t01.r033.c01"
+  ],
+  "Size and Weight": [
+    "rr.p0005.t01.r034.c01"
+  ],
+  "Alignment": [
+    "rr.p0005.t01.r035.c01"
+  ],
+  "Adventuring Parties": [
+    "rr.p0005.t01.r036.c01"
+  ],
+  "Activities": [
+    "rr.p0005.t01.r037.c01"
+  ],
+  "CLASSES": [
+    "rr.p0005.t01.r038.c01"
+  ],
+  "Character Templates and Intellect": [
+    "rr.p0005.t01.r039.c01"
+  ],
+  "Intellect Scores of Studious Spellcasters": [
+    "rr.p0005.t01.r040.c01"
+  ],
+  "Core Classes": [
+    "rr.p0005.t01.r041.c01"
+  ],
+  "Fighter": [
+    "rr.p0005.t01.r042.c01",
+    "rr.p0021.t01.r005.c03"
+  ],
+  "Explorer": [
+    "rr.p0005.t01.r043.c01",
+    "rr.p0021.t01.r004.c03"
+  ],
+  "Thief": [
+    "rr.p0005.t01.r044.c01",
+    "rr.p0021.t01.r004.c05"
+  ],
+  "Mage": [
+    "rr.p0005.t01.r045.c01",
+    "rr.p0021.t01.r006.c03"
+  ],
+  "Crusader": [
+    "rr.p0005.t01.r046.c01",
+    "rr.p0021.t01.r006.c01"
+  ],
+  "Venturer": [
+    "rr.p0005.t01.r047.c01",
+    "rr.p0021.t01.r005.c05"
+  ],
+  "Campaign Classes": [
+    "rr.p0005.t01.r048.c01"
+  ],
+  "Assassin": [
+    "rr.p0005.t01.r049.c01",
+    "rr.p0021.t01.r002.c01"
+  ],
+  "Barbarian": [
+    "rr.p0005.t01.r050.c01",
+    "rr.p0021.t01.r003.c01"
+  ],
+  "Bard": [
+    "rr.p0005.t01.r051.c01",
+    "rr.p0021.t01.r004.c01"
+  ],
+  "Bladedancer": [
+    "rr.p0005.t01.r052.c01",
+    "rr.p0021.t01.r005.c01"
+  ],
+  "Paladin": [
+    "rr.p0005.t01.r053.c01",
+    "rr.p0021.t01.r008.c03"
+  ],
+  "Priestess": [
+    "rr.p0005.t01.r054.c01",
+    "rr.p0021.t01.r002.c05"
+  ],
+  "Shaman": [
+    "rr.p0005.t01.r055.c01",
+    "rr.p0021.t01.r003.c05"
+  ],
+  "Warlock": [
+    "rr.p0005.t01.r056.c01",
+    "rr.p0021.t01.r006.c05"
+  ],
+  "Witch": [
+    "rr.p0005.t01.r057.c01",
+    "rr.p0021.t01.r007.c05"
+  ],
+  "Demi-Human Classes": [
+    "rr.p0005.t01.r058.c01"
+  ],
+  "Dwarven Craftpriest": [
+    "rr.p0005.t01.r059.c01",
+    "rr.p0021.t01.r007.c01"
+  ],
+  "Dwarven Vaultguard": [
+    "rr.p0005.t01.r060.c01",
+    "rr.p0021.t01.r008.c01"
+  ],
+  "Elven Nightblade": [
+    "rr.p0005.t01.r061.c01",
+    "rr.p0021.t01.r002.c03"
+  ],
+  "Elven Spellsword": [
+    "rr.p0005.t01.r062.c01",
+    "rr.p0021.t01.r003.c03"
+  ],
+  "Nobiran Wonderworker": [
+    "rr.p0005.t01.r063.c01",
+    "rr.p0021.t01.r007.c03"
+  ],
+  "Zaharan Ruinguard": [
+    "rr.p0005.t01.r064.c01",
+    "rr.p0021.t01.r008.c05"
+  ],
+  "PROFICIENCIES": [
+    "rr.p0005.t01.r065.c01"
+  ],
+  "The Basics of Proficiencies": [
+    "rr.p0005.t01.r066.c01"
+  ],
+  "Starting Proficiencies": [
+    "rr.p0005.t01.r067.c01"
+  ],
+  "Gaining Proficiencies": [
+    "rr.p0005.t01.r068.c01"
+  ],
+  "Gaining Proficiencies by Time and Training (Optional)": [
+    "rr.p0005.t01.r069.c01"
+  ],
+  "Retraining Proficiencies (Optional)": [
+    "rr.p0005.t01.r070.c01"
+  ],
+  "Proficiencies of Normal Humans and Demi-Humans": [
+    "rr.p0005.t01.r071.c01"
+  ],
+  "Proficiency Lists": [
+    "rr.p0005.t01.r072.c01"
+  ],
+  "Proficiency Descriptions": [
+    "rr.p0005.t01.r073.c01"
+  ],
+  "Adventuring (G)": [
+    "rr.p0005.t01.r074.c01"
+  ],
+  "Acrobatics": [
+    "rr.p0005.t01.r075.c01"
+  ],
+  "Alchemy (G)": [
+    "rr.p0005.t01.r076.c01"
+  ],
+  "Alertness": [
+    "rr.p0005.t01.r077.c01"
+  ],
+  "Ambushing": [
+    "rr.p0005.t01.r078.c01"
+  ],
+  "Animal Husbandry (G)": [
+    "rr.p0005.t01.r079.c01"
+  ],
+  "Animal Training (G)": [
+    "rr.p0005.t01.r080.c01"
+  ],
+  "Arcane Dabbling": [
+    "rr.p0005.t01.r081.c01"
+  ],
+  "Armor Training": [
+    "rr.p0005.t01.r082.c01"
+  ],
+  "Art/Craft (G)": [
+    "rr.p0005.t01.r083.c01"
+  ],
+  "Bargaining (G)": [
+    "rr.p0005.t01.r084.c01"
+  ],
+  "Battle Magic": [
+    "rr.p0005.t01.r085.c01"
+  ],
+  "Beast Friendship": [
+    "rr.p0005.t01.r086.c01"
+  ],
+  "Berserkergang": [
+    "rr.p0005.t01.r087.c01"
+  ],
+  "Black Lore of Zahar": [
+    "rr.p0005.t01.r088.c01"
+  ],
+  "Blind Fighting": [
+    "rr.p0005.t01.r089.c01"
+  ],
+  "Bribery": [
+    "rr.p0005.t01.r090.c01"
+  ],
+  "Bright Lore of Aura": [
+    "rr.p0005.t01.r091.c01"
+  ],
+  "Cat Burglary": [
+    "rr.p0005.t01.r092.c01"
+  ],
+  "Caving (G)": [
+    "rr.p0005.t01.r093.c01"
+  ],
+  "Climbing": [
+    "rr.p0005.t01.r094.c01"
+  ],
+  "Collegiate Wizardry (G)": [
+    "rr.p0005.t01.r095.c01"
+  ],
+  "Combat Ferocity": [
+    "rr.p0005.t01.r096.c01"
+  ],
+  "Combat Reflexes": [
+    "rr.p0005.t01.r097.c01"
+  ],
+  "Combat Trickery": [
+    "rr.p0005.t01.r098.c01"
+  ],
+  "Command": [
+    "rr.p0005.t01.r099.c01"
+  ],
+  "Contemplation": [
+    "rr.p0005.t01.r100.c01"
+  ],
+  "Contortionism": [
+    "rr.p0005.t01.r101.c01"
+  ],
+  "Counterspelling": [
+    "rr.p0005.t01.r102.c01"
+  ],
+  "Diplomacy (G)": [
+    "rr.p0005.t01.r103.c01"
+  ],
+  "Disguise (G)": [
+    "rr.p0005.t01.r104.c01"
+  ],
+  "Divine Blessing": [
+    "rr.p0005.t01.r105.c01"
+  ],
+  "Divine Health": [
+    "rr.p0005.t01.r106.c01"
+  ],
+  "Driving (G)": [
+    "rr.p0005.t01.r107.c01"
+  ],
+  "Dungeonbashing Expertise": [
+    "rr.p0005.t01.r108.c01"
+  ],
+  "Dwarven Brewing": [
+    "rr.p0005.t01.r109.c01"
+  ],
+  "Eavesdropping": [
+    "rr.p0005.t01.r110.c01"
+  ],
+  "Elementalism": [
+    "rr.p0005.t01.r111.c01"
+  ],
+  "Elven Bloodline": [
+    "rr.p0005.t01.r112.c01"
+  ],
+  "Endurance (G)": [
+    "rr.p0005.t01.r113.c01"
+  ],
+  "Engineering (G)": [
+    "rr.p0005.t01.r114.c01"
+  ],
+  "Expanded Repertoire": [
+    "rr.p0005.t01.r115.c01"
+  ],
+  "Experimenting": [
+    "rr.p0005.t01.r116.c01"
+  ],
+  "Familiar": [
+    "rr.p0005.t01.r117.c01"
+  ],
+  "Fighting Style Specialization": [
+    "rr.p0005.t01.r118.c01"
+  ],
+  "Folkways (G)": [
+    "rr.p0005.t01.r119.c01"
+  ],
+  "Gambling (G)": [
+    "rr.p0005.t01.r120.c01"
+  ],
+  "Goblin-Slaying": [
+    "rr.p0005.t01.r121.c01"
+  ],
+  "Healing (G)": [
+    "rr.p0005.t01.r122.c01"
+  ],
+  "Illusion Resistance": [
+    "rr.p0005.t01.r123.c01"
+  ],
+  "Intimidation (G)": [
+    "rr.p0005.t01.r124.c01"
+  ],
+  "Kin-Slaying": [
+    "rr.p0005.t01.r125.c01"
+  ],
+  "Knowledge (G)": [
+    "rr.p0005.t01.r126.c01"
+  ],
+  "Labor (G)": [
+    "rr.p0005.t01.r127.c01"
+  ],
+  "Land Surveying": [
+    "rr.p0005.t01.r128.c01"
+  ],
+  "Language (G)": [
+    "rr.p0005.t01.r129.c01"
+  ],
+  "Laying on Hands": [
+    "rr.p0005.t01.r130.c01"
+  ],
+  "Leadership (G)": [
+    "rr.p0005.t01.r131.c01"
+  ],
+  "Lip Reading (G)": [
+    "rr.p0005.t01.r132.c01"
+  ],
+  "Lockpicking Expertise": [
+    "rr.p0005.t01.r133.c01"
+  ],
+  "Loremastery": [
+    "rr.p0005.t01.r134.c01"
+  ],
+  "Magical Engineering": [
+    "rr.p0005.t01.r135.c01"
+  ],
+  "Magical Music": [
+    "rr.p0005.t01.r136.c01"
+  ],
+  "Manual of Arms (G)": [
+    "rr.p0005.t01.r137.c01"
+  ],
+  "Mapping (G)": [
+    "rr.p0005.t01.r138.c01"
+  ],
+  "Martial Training": [
+    "rr.p0005.t01.r139.c01"
+  ],
+  "Mastery of Conj. & Summoning": [
+    "rr.p0005.t01.r140.c01"
+  ],
+  "Mastery of Enchantments & Illusions": [
+    "rr.p0005.t01.r141.c01"
+  ],
+  "Military Strategy (G)": [
+    "rr.p0005.t01.r142.c01"
+  ],
+  "Mimicry (G)": [
+    "rr.p0005.t01.r143.c01"
+  ],
+  "Mountaineering (G)": [
+    "rr.p0005.t01.r144.c01"
+  ],
+  "Mounted Combat": [
+    "rr.p0005.t01.r145.c01",
+    "rr.p0006.t01.r120.c01"
+  ],
+  "Mystic Aura": [
+    "rr.p0005.t01.r146.c01"
+  ],
+  "Naturalism (G)": [
+    "rr.p0005.t01.r147.c01"
+  ],
+  "Navigation (G)": [
+    "rr.p0005.t01.r148.c01"
+  ],
+  "Passing Without Trace": [
+    "rr.p0005.t01.r149.c01"
+  ],
+  "Performance (G)": [
+    "rr.p0005.t01.r150.c01"
+  ],
+  "Poisoning": [
+    "rr.p0005.t01.r151.c01"
+  ],
+  "Precise Shooting": [
+    "rr.p0005.t01.r152.c01"
+  ],
+  "Prestidigitation": [
+    "rr.p0005.t01.r153.c01"
+  ],
+  "Profession (G)": [
+    "rr.p0005.t01.r154.c01"
+  ],
+  "Prophecy": [
+    "rr.p0005.t01.r155.c01"
+  ],
+  "Prospecting": [
+    "rr.p0005.t01.r156.c01"
+  ],
+  "Quiet Magic": [
+    "rr.p0005.t01.r157.c01"
+  ],
+  "Reliquarianism": [
+    "rr.p0005.t01.r158.c01"
+  ],
+  "Revelry (G)": [
+    "rr.p0005.t01.r159.c01"
+  ],
+  "Riding (G)": [
+    "rr.p0005.t01.r160.c01"
+  ],
+  "Righteous Rebuke": [
+    "rr.p0005.t01.r161.c01"
+  ],
+  "Running": [
+    "rr.p0005.t01.r162.c01"
+  ],
+  "Seafaring (G)": [
+    "rr.p0005.t01.r163.c01"
+  ],
+  "Seduction (G)": [
+    "rr.p0005.t01.r164.c01"
+  ],
+  "Sensing Evil": [
+    "rr.p0005.t01.r165.c01"
+  ],
+  "Sensing Good": [
+    "rr.p0005.t01.r166.c01"
+  ],
+  "Sensing Power": [
+    "rr.p0005.t01.r167.c01"
+  ],
+  "Siege Engineering (G)": [
+    "rr.p0005.t01.r168.c01"
+  ],
+  "Signaling (G)": [
+    "rr.p0005.t01.r169.c01"
+  ],
+  "Skirmishing": [
+    "rr.p0005.t01.r170.c01"
+  ],
+  "Skulking": [
+    "rr.p0005.t01.r171.c01"
+  ],
+  "Sniping": [
+    "rr.p0005.t01.r172.c01"
+  ],
+  "Soothsaying": [
+    "rr.p0005.t01.r173.c01"
+  ],
+  "Streetwise (G)": [
+    "rr.p0005.t01.r174.c01"
+  ],
+  "Survival (G)": [
+    "rr.p0005.t01.r175.c01"
+  ],
+  "Swashbuckling": [
+    "rr.p0005.t01.r176.c01"
+  ],
+  "Swimming (G)": [
+    "rr.p0005.t01.r177.c01"
+  ],
+  "Syncretism": [
+    "rr.p0005.t01.r178.c01"
+  ],
+  "Theology (G)": [
+    "rr.p0005.t01.r179.c01"
+  ],
+  "Tracking (G)": [
+    "rr.p0005.t01.r180.c01"
+  ],
+  "Transmogrification": [
+    "rr.p0005.t01.r181.c01"
+  ],
+  "Trapfinding": [
+    "rr.p0005.t01.r182.c01"
+  ],
+  "Trapping (G)": [
+    "rr.p0005.t01.r183.c01"
+  ],
+  "Unarmed Fighting": [
+    "rr.p0006.t01.r002.c01"
+  ],
+  "Unflappable Casting": [
+    "rr.p0006.t01.r003.c01"
+  ],
+  "Vermin-Slaying": [
+    "rr.p0006.t01.r004.c01"
+  ],
+  "Wakefulness": [
+    "rr.p0006.t01.r005.c01"
+  ],
+  "Weapon Finesse": [
+    "rr.p0006.t01.r006.c01"
+  ],
+  "Weapon Focus": [
+    "rr.p0006.t01.r007.c01"
+  ],
+  "EQUIPMENT": [
+    "rr.p0006.t01.r008.c01"
+  ],
+  "The Basics of Equipment": [
+    "rr.p0006.t01.r009.c01"
+  ],
+  "Coins and Money": [
+    "rr.p0006.t01.r010.c01",
+    "rr.p0007.t01.r136.c01"
+  ],
+  "What’s a Gold Piece Worth?": [
+    "rr.p0006.t01.r011.c01"
+  ],
+  "Purchasing Equipment": [
+    "rr.p0006.t01.r012.c01"
+  ],
+  "Equipment Availability": [
+    "rr.p0006.t01.r013.c01"
+  ],
+  "Importing Equipment": [
+    "rr.p0006.t01.r014.c01"
+  ],
+  "Equipment Lists": [
+    "rr.p0006.t01.r015.c01"
+  ],
+  "Weapons": [
+    "rr.p0006.t01.r016.c01"
+  ],
+  "Armor and Barding": [
+    "rr.p0006.t01.r017.c01"
+  ],
+  "Adventuring Equipment": [
+    "rr.p0006.t01.r018.c01"
+  ],
+  "Clothing": [
+    "rr.p0006.t01.r019.c01"
+  ],
+  "Domesticated Animals": [
+    "rr.p0006.t01.r020.c01",
+    "rr.p0006.t01.r033.c01"
+  ],
+  "Foodstuffs": [
+    "rr.p0006.t01.r021.c01"
+  ],
+  "Lodging": [
+    "rr.p0006.t01.r022.c01"
+  ],
+  "Poisons": [
+    "rr.p0006.t01.r023.c01"
+  ],
+  "Structures": [
+    "rr.p0006.t01.r024.c01"
+  ],
+  "Vehicles": [
+    "rr.p0006.t01.r025.c01"
+  ],
+  "Vessels": [
+    "rr.p0006.t01.r026.c01"
+  ],
+  "War Machines": [
+    "rr.p0006.t01.r027.c01"
+  ],
+  "Equipment Descriptions": [
+    "rr.p0006.t01.r028.c01"
+  ],
+  "Weapon Descriptions": [
+    "rr.p0006.t01.r029.c01"
+  ],
+  "Armor and Barding Descriptions": [
+    "rr.p0006.t01.r030.c01"
+  ],
+  "Adventuring Equipment Descriptions": [
+    "rr.p0006.t01.r031.c01"
+  ],
+  "Clothing Descriptions": [
+    "rr.p0006.t01.r032.c01"
+  ],
+  "Foodstuff Descriptions": [
+    "rr.p0006.t01.r034.c01"
+  ],
+  "Lodging Descriptions": [
+    "rr.p0006.t01.r035.c01"
+  ],
+  "Structure Descriptions": [
+    "rr.p0006.t01.r036.c01"
+  ],
+  "Vehicle Descriptions": [
+    "rr.p0006.t01.r037.c01"
+  ],
+  "Vessel Descriptions": [
+    "rr.p0006.t01.r038.c01"
+  ],
+  "War Machine (Artillery) Descriptions": [
+    "rr.p0006.t01.r039.c01"
+  ],
+  "War Machine (Naval) Descriptions": [
+    "rr.p0006.t01.r040.c01"
+  ],
+  "War Machine (Siege) Descriptions": [
+    "rr.p0006.t01.r041.c01"
+  ],
+  "Masterwork Equipment (Optional)": [
+    "rr.p0006.t01.r042.c01"
+  ],
+  "Availability of Masterwork Items": [
+    "rr.p0006.t01.r043.c01"
+  ],
+  "Masterwork and Magical Items": [
+    "rr.p0006.t01.r044.c01"
+  ],
+  "Scavenged Equipment": [
+    "rr.p0006.t01.r045.c01"
+  ],
+  "Encumbrance and Equipment": [
+    "rr.p0006.t01.r046.c01"
+  ],
+  "Hirelings, Henchmen, Mercenaries, and Specialists": [
+    "rr.p0006.t01.r047.c01"
+  ],
+  "Recruiting Hirelings": [
+    "rr.p0006.t01.r048.c01"
+  ],
+  "Morale and Loyalty": [
+    "rr.p0006.t01.r049.c01"
+  ],
+  "Henchmen": [
+    "rr.p0006.t01.r050.c01"
+  ],
+  "Mercenaries": [
+    "rr.p0006.t01.r051.c01",
+    "rr.p0007.t01.r034.c01"
+  ],
+  "Specialists": [
+    "rr.p0006.t01.r052.c01"
+  ],
+  "Spellcasting Services": [
+    "rr.p0006.t01.r053.c01"
+  ],
+  "Expected Living Expenses (Optional)": [
+    "rr.p0006.t01.r054.c01"
+  ],
+  "Abstract Living Expenses": [
+    "rr.p0006.t01.r055.c01"
+  ],
+  "Concrete Living Expenses": [
+    "rr.p0006.t01.r056.c01"
+  ],
+  "Construction Projects": [
+    "rr.p0006.t01.r057.c01"
+  ],
+  "Construct. Cost, Rate, & Supervision": [
+    "rr.p0006.t01.r058.c01"
+  ],
+  "Construction Sites": [
+    "rr.p0006.t01.r059.c01"
+  ],
+  "Construction Materials": [
+    "rr.p0006.t01.r060.c01"
+  ],
+  "Construction Project Customization (Optional)": [
+    "rr.p0006.t01.r061.c01"
+  ],
+  "Assisting Construction with Magic": [
+    "rr.p0006.t01.r062.c01"
+  ],
+  "Structure Construction": [
+    "rr.p0006.t01.r063.c01"
+  ],
+  "Vehicle & War Machine Construction": [
+    "rr.p0006.t01.r064.c01"
+  ],
+  "Vessel Construction": [
+    "rr.p0006.t01.r065.c01"
+  ],
+  "SPELLS": [
+    "rr.p0006.t01.r066.c01"
+  ],
+  "Spells and Spell Casters": [
+    "rr.p0006.t01.r067.c01"
+  ],
+  "Castings per Day": [
+    "rr.p0006.t01.r068.c01"
+  ],
+  "Casting Requirements": [
+    "rr.p0006.t01.r069.c01"
+  ],
+  "Spell Lists By Magic Type": [
+    "rr.p0006.t01.r070.c01"
+  ],
+  "Spell Repertoires": [
+    "rr.p0006.t01.r071.c01"
+  ],
+  "Prayerful Repertoire": [
+    "rr.p0006.t01.r072.c01"
+  ],
+  "Studious Spell Repertoire": [
+    "rr.p0006.t01.r073.c01"
+  ],
+  "Spell Reversal": [
+    "rr.p0006.t01.r074.c01"
+  ],
+  "Spell Signatures": [
+    "rr.p0006.t01.r075.c01"
+  ],
+  "Spell Types": [
+    "rr.p0006.t01.r076.c01"
+  ],
+  "List of Spell Types": [
+    "rr.p0006.t01.r077.c01"
+  ],
+  "Spell Type Abbreviations": [
+    "rr.p0006.t01.r078.c01"
+  ],
+  "Spell Lists & Repertoires": [
+    "rr.p0006.t01.r079.c01"
+  ],
+  "Spell Descriptions": [
+    "rr.p0006.t01.r080.c01"
+  ],
+  "ADVENTURES": [
+    "rr.p0006.t01.r081.c01"
+  ],
+  "Delves, Expeditions, and Voyages": [
+    "rr.p0006.t01.r082.c01"
+  ],
+  "Dungeon Delves": [
+    "rr.p0006.t01.r083.c01"
+  ],
+  "Turns and Rounds": [
+    "rr.p0006.t01.r084.c01"
+  ],
+  "Speed and Distance": [
+    "rr.p0006.t01.r085.c01",
+    "rr.p0006.t01.r096.c01"
+  ],
+  "Marching and Mapping": [
+    "rr.p0006.t01.r086.c01",
+    "rr.p0006.t01.r097.c01"
+  ],
+  "Light and Darkness": [
+    "rr.p0006.t01.r087.c01"
+  ],
+  "Searching and Listening": [
+    "rr.p0006.t01.r088.c01"
+  ],
+  "Doors and Dungeonbashing": [
+    "rr.p0006.t01.r089.c01"
+  ],
+  "Traps and Trapbreaking": [
+    "rr.p0006.t01.r090.c01"
+  ],
+  "Caving and Spelunking": [
+    "rr.p0006.t01.r091.c01"
+  ],
+  "Swimming and Drowning": [
+    "rr.p0006.t01.r092.c01"
+  ],
+  "Rest and Recuperation": [
+    "rr.p0006.t01.r093.c01",
+    "rr.p0007.t01.r058.c01"
+  ],
+  "Wilderness Expeditions": [
+    "rr.p0006.t01.r094.c01"
+  ],
+  "Hours and Days": [
+    "rr.p0006.t01.r095.c01"
+  ],
+  "Visibility in the Wild": [
+    "rr.p0006.t01.r098.c01"
+  ],
+  "Searching the Wild": [
+    "rr.p0006.t01.r099.c01"
+  ],
+  "Navigating the Wild": [
+    "rr.p0006.t01.r100.c01"
+  ],
+  "Surviving the Wild": [
+    "rr.p0006.t01.r101.c01"
+  ],
+  "Weathering the Wild": [
+    "rr.p0006.t01.r102.c01"
+  ],
+  "Encounters": [
+    "rr.p0006.t01.r103.c01"
+  ],
+  "Encounter Distance": [
+    "rr.p0006.t01.r104.c01",
+    "rr.p0006.t01.r144.c01"
+  ],
+  "Surprise": [
+    "rr.p0006.t01.r105.c01"
+  ],
+  "Evasion": [
+    "rr.p0006.t01.r106.c01"
+  ],
+  "Reactions": [
+    "rr.p0006.t01.r107.c01"
+  ],
+  "Combat": [
+    "rr.p0006.t01.r108.c01"
+  ],
+  "Round and Initiative": [
+    "rr.p0006.t01.r109.c01"
+  ],
+  "Round Sequence": [
+    "rr.p0006.t01.r110.c01",
+    "rr.p0006.t01.r148.c01"
+  ],
+  "Actions": [
+    "rr.p0006.t01.r111.c01"
+  ],
+  "Conducting an Attack": [
+    "rr.p0006.t01.r112.c01"
+  ],
+  "Dealing Damage": [
+    "rr.p0006.t01.r113.c01"
+  ],
+  "Cleaving": [
+    "rr.p0006.t01.r114.c01"
+  ],
+  "Saving Throws": [
+    "rr.p0006.t01.r115.c01"
+  ],
+  "Casting Spells and Using Magic": [
+    "rr.p0006.t01.r116.c01"
+  ],
+  "Special Maneuvers": [
+    "rr.p0006.t01.r117.c01"
+  ],
+  "Conditions": [
+    "rr.p0006.t01.r118.c01"
+  ],
+  "Morale": [
+    "rr.p0006.t01.r119.c01"
+  ],
+  "Vehicle Combat": [
+    "rr.p0006.t01.r121.c01"
+  ],
+  "Earning Experience from Adventures": [
+    "rr.p0006.t01.r122.c01"
+  ],
+  "Experience from Treasure": [
+    "rr.p0006.t01.r123.c01"
+  ],
+  "Experience from Monsters": [
+    "rr.p0006.t01.r124.c01"
+  ],
+  "Allocating XP": [
+    "rr.p0006.t01.r125.c01"
+  ],
+  "Adjustments to XP": [
+    "rr.p0006.t01.r126.c01"
+  ],
+  "Character Advancement": [
+    "rr.p0006.t01.r127.c01"
+  ],
+  "Character Death": [
+    "rr.p0006.t01.r128.c01"
+  ],
+  "0th Level Characters and Experience from Adventuring": [
+    "rr.p0006.t01.r129.c01"
+  ],
+  "VOYAGES": [
+    "rr.p0006.t01.r130.c01"
+  ],
+  "Seafarers": [
+    "rr.p0006.t01.r131.c01"
+  ],
+  "Mariners": [
+    "rr.p0006.t01.r132.c01"
+  ],
+  "Marines": [
+    "rr.p0006.t01.r133.c01"
+  ],
+  "Seafarer Morale and Loyalty": [
+    "rr.p0006.t01.r134.c01"
+  ],
+  "Sea Vessels": [
+    "rr.p0006.t01.r135.c01"
+  ],
+  "Sea Voyages": [
+    "rr.p0006.t01.r136.c01"
+  ],
+  "Sailing the Seas": [
+    "rr.p0006.t01.r137.c01"
+  ],
+  "Visibility at Sea": [
+    "rr.p0006.t01.r138.c01"
+  ],
+  "Navigating the Seas": [
+    "rr.p0006.t01.r139.c01"
+  ],
+  "Surviving the Seas": [
+    "rr.p0006.t01.r140.c01"
+  ],
+  "Weathering the Seas": [
+    "rr.p0006.t01.r141.c01"
+  ],
+  "Casualties, Damage, Rest, & Repair": [
+    "rr.p0006.t01.r142.c01"
+  ],
+  "Sea Encounters": [
+    "rr.p0006.t01.r143.c01"
+  ],
+  "Evasion at Sea": [
+    "rr.p0006.t01.r145.c01"
+  ],
+  "Sea Combat": [
+    "rr.p0006.t01.r146.c01"
+  ],
+  "Simulating Sea Combat on Battlemap": [
+    "rr.p0006.t01.r147.c01"
+  ],
+  "Movement During Sea Combat": [
+    "rr.p0006.t01.r149.c01"
+  ],
+  "Naval Tactics": [
+    "rr.p0006.t01.r150.c01"
+  ],
+  "River Voyages": [
+    "rr.p0006.t01.r151.c01"
+  ],
+  "River Current": [
+    "rr.p0006.t01.r152.c01"
+  ],
+  "River Depth": [
+    "rr.p0006.t01.r153.c01"
+  ],
+  "CAMPAIGNS": [
+    "rr.p0006.t01.r154.c01"
+  ],
+  "Activities During the Campaign": [
+    "rr.p0006.t01.r155.c01"
+  ],
+  "Followers and Strongholds": [
+    "rr.p0006.t01.r156.c01"
+  ],
+  "Domains and Realms": [
+    "rr.p0006.t01.r157.c01"
+  ],
+  "Acquiring the Domain": [
+    "rr.p0006.t01.r158.c01"
+  ],
+  "Securing the Domain": [
+    "rr.p0006.t01.r159.c01"
+  ],
+  "Attracting Peasants": [
+    "rr.p0006.t01.r160.c01"
+  ],
+  "Collecting Revenue": [
+    "rr.p0006.t01.r161.c01"
+  ],
+  "Paying Expenses": [
+    "rr.p0006.t01.r162.c01"
+  ],
+  "Earning Domain Income": [
+    "rr.p0006.t01.r163.c01"
+  ],
+  "Establishing the Realm": [
+    "rr.p0006.t01.r164.c01"
+  ],
+  "Keeping the Peace": [
+    "rr.p0006.t01.r165.c01"
+  ],
+  "Founding Settlements": [
+    "rr.p0006.t01.r166.c01"
+  ],
+  "Ruling the Realm": [
+    "rr.p0006.t01.r167.c01"
+  ],
+  "Special Domain Types": [
+    "rr.p0006.t01.r168.c01"
+  ],
+  "Politics and Power": [
+    "rr.p0006.t01.r169.c01"
+  ],
+  "Benefits of a Senate": [
+    "rr.p0006.t01.r170.c01"
+  ],
+  "Restrictions of a Senate": [
+    "rr.p0006.t01.r171.c01"
+  ],
+  "Establishing a Senatorial Republic": [
+    "rr.p0006.t01.r172.c01"
+  ],
+  "Disputes with the Senate": [
+    "rr.p0006.t01.r173.c01"
+  ],
+  "Senatorial Shenanigans": [
+    "rr.p0006.t01.r174.c01"
+  ],
+  "Gaining Influence": [
+    "rr.p0006.t01.r175.c01"
+  ],
+  "Politics Is Just War Continued By Other Means": [
+    "rr.p0006.t01.r176.c01"
+  ],
+  "Hideouts and Hijinks": [
+    "rr.p0006.t01.r177.c01"
+  ],
+  "Building a Hideout": [
+    "rr.p0006.t01.r178.c01"
+  ],
+  "Establishing a Syndicate": [
+    "rr.p0006.t01.r179.c01"
+  ],
+  "Assigning, Planning, and Perpetrating Hijinks": [
+    "rr.p0006.t01.r180.c01"
+  ],
+  "List of Hijinks": [
+    "rr.p0006.t01.r181.c01"
+  ],
+  "Getting Caught": [
+    "rr.p0006.t01.r182.c01"
+  ],
+  "Creating a Criminal Guild": [
+    "rr.p0006.t01.r183.c01"
+  ],
+  "Managing a Criminal Guild": [
+    "rr.p0006.t01.r184.c01"
+  ],
+  "Mercantile Ventures": [
+    "rr.p0006.t01.r185.c01"
+  ],
+  "Entering the Market": [
+    "rr.p0006.t01.r186.c01"
+  ],
+  "Engaging in Mercantile Ventures": [
+    "rr.p0006.t01.r187.c01"
+  ],
+  "Arbitrage Trading": [
+    "rr.p0006.t01.r188.c01"
+  ],
+  "Passenger and Cargo Carriage": [
+    "rr.p0006.t01.r189.c01"
+  ],
+  "Passive Investment": [
+    "rr.p0006.t01.r190.c01"
+  ],
+  "Sanctums and Dungeons": [
+    "rr.p0006.t01.r191.c01"
+  ],
+  "Constructing a Dungeon": [
+    "rr.p0006.t01.r192.c01"
+  ],
+  "Populating a Dungeon": [
+    "rr.p0006.t01.r193.c01"
+  ],
+  "Peasants and Dungeons": [
+    "rr.p0007.t01.r002.c01"
+  ],
+  "Harvesting Dungeons for Monster Parts": [
+    "rr.p0007.t01.r003.c01"
+  ],
+  "Extracting Arcane Power from a Dungeon": [
+    "rr.p0007.t01.r004.c01"
+  ],
+  "Magic Research": [
+    "rr.p0007.t01.r005.c01"
+  ],
+  "Component Cost": [
+    "rr.p0007.t01.r006.c01"
+  ],
+  "Research Assistants": [
+    "rr.p0007.t01.r007.c01"
+  ],
+  "Proficiencies and Powers": [
+    "rr.p0007.t01.r008.c01"
+  ],
+  "Researching Spells": [
+    "rr.p0007.t01.r009.c01"
+  ],
+  "Creating Magic Items": [
+    "rr.p0007.t01.r010.c01"
+  ],
+  "Identifying Magic Items": [
+    "rr.p0007.t01.r011.c01"
+  ],
+  "Designing Constructs": [
+    "rr.p0007.t01.r012.c01"
+  ],
+  "Manufacturing Constructs": [
+    "rr.p0007.t01.r013.c01"
+  ],
+  "Crossbreeds": [
+    "rr.p0007.t01.r014.c01"
+  ],
+  "Performing Necromancy": [
+    "rr.p0007.t01.r015.c01"
+  ],
+  "Learning Ritual Spells": [
+    "rr.p0007.t01.r016.c01"
+  ],
+  "Casting Ritual Spells": [
+    "rr.p0007.t01.r017.c01"
+  ],
+  "Sample Ritual Spells": [
+    "rr.p0007.t01.r018.c01"
+  ],
+  "Magic Experimentation": [
+    "rr.p0007.t01.r019.c01"
+  ],
+  "Congregants and Divine Power": [
+    "rr.p0007.t01.r020.c01"
+  ],
+  "Congregations": [
+    "rr.p0007.t01.r021.c01"
+  ],
+  "Blood Sacrifice": [
+    "rr.p0007.t01.r022.c01"
+  ],
+  "Using Divine Power": [
+    "rr.p0007.t01.r023.c01"
+  ],
+  "Earning Experience from Campaigns": [
+    "rr.p0007.t01.r024.c01"
+  ],
+  "Experience from Construction": [
+    "rr.p0007.t01.r025.c01"
+  ],
+  "Experience from Domains": [
+    "rr.p0007.t01.r026.c01"
+  ],
+  "Experience from Hijinks": [
+    "rr.p0007.t01.r027.c01"
+  ],
+  "Experience from Mercantile Income": [
+    "rr.p0007.t01.r028.c01"
+  ],
+  "Experience from Magical Research": [
+    "rr.p0007.t01.r029.c01"
+  ],
+  "Experience from Divine Power": [
+    "rr.p0007.t01.r030.c01"
+  ],
+  "0th Level Characters and Experience from Campaigns": [
+    "rr.p0007.t01.r031.c01"
+  ],
+  "ARMIES": [
+    "rr.p0007.t01.r032.c01"
+  ],
+  "Army Troops": [
+    "rr.p0007.t01.r033.c01"
+  ],
+  "Conscripts": [
+    "rr.p0007.t01.r035.c01"
+  ],
+  "Militia": [
+    "rr.p0007.t01.r036.c01"
+  ],
+  "Clanhold Warriors": [
+    "rr.p0007.t01.r037.c01"
+  ],
+  "Followers": [
+    "rr.p0007.t01.r038.c01"
+  ],
+  "Vassal Troops": [
+    "rr.p0007.t01.r039.c01"
+  ],
+  "Elite Troops (Optional)": [
+    "rr.p0007.t01.r040.c01"
+  ],
+  "Army Organization": [
+    "rr.p0007.t01.r041.c01"
+  ],
+  "Units": [
+    "rr.p0007.t01.r042.c01"
+  ],
+  "Divisions": [
+    "rr.p0007.t01.r043.c01"
+  ],
+  "Army Command": [
+    "rr.p0007.t01.r044.c01"
+  ],
+  "Qualifying as an Officer": [
+    "rr.p0007.t01.r045.c01"
+  ],
+  "Officer Characteristics": [
+    "rr.p0007.t01.r046.c01"
+  ],
+  "Role of Officers": [
+    "rr.p0007.t01.r047.c01"
+  ],
+  "Organization and Command in Very Small or Very Large Armies": [
+    "rr.p0007.t01.r048.c01"
+  ],
+  "Beastmen Officers": [
+    "rr.p0007.t01.r049.c01"
+  ],
+  "Rump Troops": [
+    "rr.p0007.t01.r050.c01"
+  ],
+  "Troop Characteristics Summary": [
+    "rr.p0007.t01.r051.c01"
+  ],
+  "Unit Characteristics Summary": [
+    "rr.p0007.t01.r052.c01"
+  ],
+  "MANEUVERS": [
+    "rr.p0007.t01.r053.c01"
+  ],
+  "Regions": [
+    "rr.p0007.t01.r054.c01"
+  ],
+  "Campaign Activities": [
+    "rr.p0007.t01.r055.c01"
+  ],
+  "Strategic Stance": [
+    "rr.p0007.t01.r056.c01"
+  ],
+  "Moving Armies": [
+    "rr.p0007.t01.r057.c01"
+  ],
+  "Forced Marching": [
+    "rr.p0007.t01.r059.c01"
+  ],
+  "Movement of Large Armies": [
+    "rr.p0007.t01.r060.c01"
+  ],
+  "Movement of War Machines": [
+    "rr.p0007.t01.r061.c01"
+  ],
+  "Effects of Weather Conditions": [
+    "rr.p0007.t01.r062.c01"
+  ],
+  "Supplying Armies": [
+    "rr.p0007.t01.r063.c01"
+  ],
+  "Supply Cost": [
+    "rr.p0007.t01.r064.c01"
+  ],
+  "Supply Base": [
+    "rr.p0007.t01.r065.c01"
+  ],
+  "Line and Length of Supply": [
+    "rr.p0007.t01.r066.c01"
+  ],
+  "Requisitioning and Looting Supplies": [
+    "rr.p0007.t01.r067.c01"
+  ],
+  "Consequences of Lack of Supplies": [
+    "rr.p0007.t01.r068.c01"
+  ],
+  "Supply Simplified": [
+    "rr.p0007.t01.r069.c01"
+  ],
+  "Equipment Availability on Campaign": [
+    "rr.p0007.t01.r070.c01"
+  ],
+  "Reconnaissance and Intelligence": [
+    "rr.p0007.t01.r071.c01"
+  ],
+  "Frequency of Reconnaissance rolls": [
+    "rr.p0007.t01.r072.c01"
+  ],
+  "Reconnaissance Roll Procedure": [
+    "rr.p0007.t01.r073.c01"
+  ],
+  "Results of Reconnaissance Rolls": [
+    "rr.p0007.t01.r074.c01"
+  ],
+  "Stratagems": [
+    "rr.p0007.t01.r075.c01"
+  ],
+  "Hijinks": [
+    "rr.p0007.t01.r076.c01"
+  ],
+  "Invading, Conquering, Occupying, and Pillaging Domains": [
+    "rr.p0007.t01.r077.c01"
+  ],
+  "Occupying Domains": [
+    "rr.p0007.t01.r078.c01"
+  ],
+  "Conquering Domains": [
+    "rr.p0007.t01.r079.c01"
+  ],
+  "Pillaging Domains": [
+    "rr.p0007.t01.r080.c01"
+  ],
+  "Handling Very Small or Large Domains and Urban Settlements": [
+    "rr.p0007.t01.r081.c01"
+  ],
+  "Pillaging Supply Bases": [
+    "rr.p0007.t01.r082.c01"
+  ],
+  "BATTLES": [
+    "rr.p0007.t01.r083.c01"
+  ],
+  "Strategic Situations": [
+    "rr.p0007.t01.r084.c01"
+  ],
+  "Running a Battle": [
+    "rr.p0007.t01.r085.c01"
+  ],
+  "Gathering the Units": [
+    "rr.p0007.t01.r086.c01",
+    "rr.p0007.t01.r118.c01"
+  ],
+  "Calculating the Battle Ratings": [
+    "rr.p0007.t01.r087.c01"
+  ],
+  "Setting Up the Battlefield": [
+    "rr.p0007.t01.r088.c01"
+  ],
+  "Fighting the Battle": [
+    "rr.p0007.t01.r089.c01"
+  ],
+  "Heroes in Battle": [
+    "rr.p0007.t01.r090.c01"
+  ],
+  "Ending Battles": [
+    "rr.p0007.t01.r091.c01"
+  ],
+  "Annihilation": [
+    "rr.p0007.t01.r092.c01"
+  ],
+  "Voluntary Withdrawal": [
+    "rr.p0007.t01.r093.c01"
+  ],
+  "Morale Collapse": [
+    "rr.p0007.t01.r094.c01"
+  ],
+  "Morale Rolls": [
+    "rr.p0007.t01.r095.c01"
+  ],
+  "Aftermath of Battles": [
+    "rr.p0007.t01.r096.c01"
+  ],
+  "Retreat": [
+    "rr.p0007.t01.r097.c01"
+  ],
+  "Pursuit": [
+    "rr.p0007.t01.r098.c01"
+  ],
+  "Casualties": [
+    "rr.p0007.t01.r099.c01"
+  ],
+  "Spoils of War": [
+    "rr.p0007.t01.r100.c01"
+  ],
+  "SIEGES": [
+    "rr.p0007.t01.r101.c01"
+  ],
+  "Methods of Siege": [
+    "rr.p0007.t01.r102.c01"
+  ],
+  "Siege Mechanics": [
+    "rr.p0007.t01.r103.c01"
+  ],
+  "Blockade": [
+    "rr.p0007.t01.r104.c01"
+  ],
+  "Blockading with Units": [
+    "rr.p0007.t01.r105.c01"
+  ],
+  "Blockading with Ships": [
+    "rr.p0007.t01.r106.c01"
+  ],
+  "Blockading with Fortifications (Circumvallation)": [
+    "rr.p0007.t01.r107.c01"
+  ],
+  "Effects of a Blockade": [
+    "rr.p0007.t01.r108.c01"
+  ],
+  "Hijinks During Blockade": [
+    "rr.p0007.t01.r109.c01"
+  ],
+  "Reduction": [
+    "rr.p0007.t01.r110.c01"
+  ],
+  "Reduction by Bombardment": [
+    "rr.p0007.t01.r111.c01"
+  ],
+  "Reduction by Magic": [
+    "rr.p0007.t01.r112.c01"
+  ],
+  "Reduction by Monsters": [
+    "rr.p0007.t01.r113.c01"
+  ],
+  "Reduction by Siege-Mining": [
+    "rr.p0007.t01.r114.c01"
+  ],
+  "Reduction by Hijinks": [
+    "rr.p0007.t01.r115.c01"
+  ],
+  "Stronghold Repair": [
+    "rr.p0007.t01.r116.c01"
+  ],
+  "Assault": [
+    "rr.p0007.t01.r117.c01"
+  ],
+  "Setting up the Assault": [
+    "rr.p0007.t01.r119.c01"
+  ],
+  "Deploying the Armies": [
+    "rr.p0007.t01.r120.c01"
+  ],
+  "Resolving the Assaults": [
+    "rr.p0007.t01.r121.c01"
+  ],
+  "Special Rules for Dungeon Assaults": [
+    "rr.p0007.t01.r122.c01"
+  ],
+  "Ending Sieges": [
+    "rr.p0007.t01.r123.c01"
+  ],
+  "Defending Army Sallies Forth": [
+    "rr.p0007.t01.r124.c01"
+  ],
+  "Defending Army Surrenders": [
+    "rr.p0007.t01.r125.c01"
+  ],
+  "Besieging Army Departs the Hex": [
+    "rr.p0007.t01.r126.c01"
+  ],
+  "Besieging Army Captures Stronghold": [
+    "rr.p0007.t01.r127.c01"
+  ],
+  "Spoils of Sieges": [
+    "rr.p0007.t01.r128.c01"
+  ],
+  "Sieges, Simplified": [
+    "rr.p0007.t01.r129.c01"
+  ],
+  "SETTING": [
+    "rr.p0007.t01.r130.c01"
+  ],
+  "Overview": [
+    "rr.p0007.t01.r131.c01"
+  ],
+  "Lands": [
+    "rr.p0007.t01.r132.c01"
+  ],
+  "Timeline": [
+    "rr.p0007.t01.r133.c01"
+  ],
+  "Customs": [
+    "rr.p0007.t01.r134.c01"
+  ],
+  "Laws And Governance": [
+    "rr.p0007.t01.r135.c01"
+  ],
+  "Fashion and Dress": [
+    "rr.p0007.t01.r137.c01"
+  ],
+  "Slavery and Indenture": [
+    "rr.p0007.t01.r138.c01"
+  ],
+  "Taxation": [
+    "rr.p0007.t01.r139.c01"
+  ],
+  "Travel and Vehicles": [
+    "rr.p0007.t01.r140.c01"
+  ],
+  "Engineering and Construction": [
+    "rr.p0007.t01.r141.c01"
+  ],
+  "Knowledge and Learning": [
+    "rr.p0007.t01.r142.c01"
+  ],
+  "Weapons and Warfare": [
+    "rr.p0007.t01.r143.c01"
+  ],
+  "Religion and Myth": [
+    "rr.p0007.t01.r144.c01"
+  ],
+  "Clergy and Churches": [
+    "rr.p0007.t01.r145.c01"
+  ],
+  "People": [
+    "rr.p0007.t01.r146.c01"
+  ],
+  "Celdorean": [
+    "rr.p0007.t01.r147.c01"
+  ],
+  "Dwarven (Jutting & Meniri Mountains)": [
+    "rr.p0007.t01.r148.c01"
+  ],
+  "Elven (Argollëan)": [
+    "rr.p0007.t01.r149.c01"
+  ],
+  "Jutlandic": [
+    "rr.p0007.t01.r150.c01"
+  ],
+  "Kemeshi": [
+    "rr.p0007.t01.r151.c01"
+  ],
+  "Krysean": [
+    "rr.p0007.t01.r152.c01"
+  ],
+  "Kushtu": [
+    "rr.p0007.t01.r153.c01"
+  ],
+  "Nicean": [
+    "rr.p0007.t01.r154.c01"
+  ],
+  "Opelenean": [
+    "rr.p0007.t01.r155.c01"
+  ],
+  "Rornish": [
+    "rr.p0007.t01.r156.c01"
+  ],
+  "Shebatean": [
+    "rr.p0007.t01.r157.c01"
+  ],
+  "Skysos": [
+    "rr.p0007.t01.r158.c01"
+  ],
+  "Somirean": [
+    "rr.p0007.t01.r159.c01"
+  ],
+  "Thrassian": [
+    "rr.p0007.t01.r160.c01"
+  ],
+  "Tirenean": [
+    "rr.p0007.t01.r161.c01"
+  ],
+  "Zaharan": [
+    "rr.p0007.t01.r162.c01",
+    "rr.p0021.t02.r007.c01"
+  ],
+  "Cybelean Language": [
+    "rr.p0007.t01.r164.c01"
+  ],
+  "Real-World Language Counterpart": [
+    "rr.p0007.t01.r165.c01"
+  ],
+  "CONDITIONS": [
+    "rr.p0007.t01.r166.c01"
+  ],
+  "General Rules for Conditions": [
+    "rr.p0007.t01.r167.c01"
+  ],
+  "Escaping from the Grabbed, Restrained, Webbed, and Wrestled Conditions": [
+    "rr.p0007.t01.r168.c01"
+  ],
+  "List of Conditions": [
+    "rr.p0007.t01.r169.c01"
+  ],
+  "WOUNDS AND WOE": [
+    "rr.p0007.t01.r170.c01"
+  ],
+  "Scarring": [
+    "rr.p0007.t01.r171.c01"
+  ],
+  "Other Permanent Wounds & Side Effects": [
+    "rr.p0007.t01.r172.c01"
+  ],
+  "RESOURCES": [
+    "rr.p0007.t01.r173.c01"
+  ],
+  "Character Sheet, Front": [
+    "rr.p0007.t01.r174.c01"
+  ],
+  "Character Sheet, Rear": [
+    "rr.p0007.t01.r175.c01"
+  ],
+  "Character Sheet, Spell Sheet": [
+    "rr.p0007.t01.r176.c01"
+  ],
+  "Domain Sheet": [
+    "rr.p0007.t01.r177.c01"
+  ],
+  "Henchmen Sheet": [
+    "rr.p0007.t01.r178.c01"
+  ],
+  "INDEX": [
+    "rr.p0007.t01.r179.c01"
+  ],
+  "ACKS II Backer Memorial": [
+    "rr.p0007.t01.r180.c01"
+  ],
+  "Indexes": [
+    "rr.p0007.t01.r181.c01"
+  ],
+  "NOTATION": [
+    "rr.p0010.t01.r001.c01"
+  ],
+  "MEANING": [
+    "rr.p0010.t01.r001.c02",
+    "rr.p0013.t01.r001.c02"
+  ],
+  "Two-sided die, implicitly rolled with 1d6, treating 1 – 3 as 1 and 4 – 6 as 2.": [
+    "rr.p0010.t01.r002.c02"
+  ],
+  "Three-sided die, implicitly rolled with 1d6, treating 1 – 2 as 1, 3 – 4 as 2, and 5 – 6 as 3.": [
+    "rr.p0010.t01.r003.c02"
+  ],
+  "Four-sided die.": [
+    "rr.p0010.t01.r004.c02"
+  ],
+  "Six-sided die.": [
+    "rr.p0010.t01.r005.c02"
+  ],
+  "Eight-sided die.": [
+    "rr.p0010.t01.r006.c02"
+  ],
+  "Ten-sided die, where “0” indicates a 10.": [
+    "rr.p0010.t01.r007.c02"
+  ],
+  "Twelve-sided die.": [
+    "rr.p0010.t01.r008.c02"
+  ],
+  "Twenty-sided die.": [
+    "rr.p0010.t01.r009.c02"
+  ],
+  "Percentile dice, where a number between 1 and 100 is generated by rolling two different ten-sided dice. One, designated before rolling, is the tens digit. The other is the ones digit. A roll of 00 indicates the maximum result of 100.": [
+    "rr.p0010.t01.r010.c02"
+  ],
+  "ABBREVIATION": [
+    "rr.p0013.t01.r001.c01"
+  ],
+  "ATTRIBUTES": [
+    "rr.p0013.t01.r002.c01"
+  ],
+  "STR": [
+    "rr.p0013.t01.r003.c01"
+  ],
+  "Strength": [
+    "rr.p0013.t01.r003.c02"
+  ],
+  "INT": [
+    "rr.p0013.t01.r004.c01"
+  ],
+  "Intellect": [
+    "rr.p0013.t01.r004.c02"
+  ],
+  "WIL": [
+    "rr.p0013.t01.r005.c01"
+  ],
+  "Will": [
+    "rr.p0013.t01.r005.c02"
+  ],
+  "DEX": [
+    "rr.p0013.t01.r006.c01"
+  ],
+  "Dexterity": [
+    "rr.p0013.t01.r006.c02"
+  ],
+  "CON": [
+    "rr.p0013.t01.r007.c01"
+  ],
+  "Constitution": [
+    "rr.p0013.t01.r007.c02"
+  ],
+  "CHA": [
+    "rr.p0013.t01.r008.c01"
+  ],
+  "Charisma": [
+    "rr.p0013.t01.r008.c02"
+  ],
+  "OTHER": [
+    "rr.p0013.t01.r009.c01"
+  ],
+  "hp": [
+    "rr.p0013.t01.r010.c01"
+  ],
+  "Hit points": [
+    "rr.p0013.t01.r010.c02"
+  ],
+  "shp": [
+    "rr.p0013.t01.r011.c01"
+  ],
+  "Structural hit points": [
+    "rr.p0013.t01.r011.c02"
+  ],
+  "HD": [
+    "rr.p0013.t01.r012.c01"
+  ],
+  "Hit Dice (or Hit Die)": [
+    "rr.p0013.t01.r012.c02"
+  ],
+  "AC": [
+    "rr.p0013.t01.r013.c01"
+  ],
+  "XP": [
+    "rr.p0013.t01.r014.c01"
+  ],
+  "Experience points": [
+    "rr.p0013.t01.r014.c02"
+  ],
+  "PC": [
+    "rr.p0013.t01.r015.c01"
+  ],
+  "Player character": [
+    "rr.p0013.t01.r015.c02"
+  ],
+  "NPC": [
+    "rr.p0013.t01.r016.c01"
+  ],
+  "Non-player character": [
+    "rr.p0013.t01.r016.c02"
+  ],
+  "cp": [
+    "rr.p0013.t01.r017.c01"
+  ],
+  "Copper pieces": [
+    "rr.p0013.t01.r017.c02"
+  ],
+  "sp": [
+    "rr.p0013.t01.r018.c01"
+  ],
+  "Silver pieces": [
+    "rr.p0013.t01.r018.c02"
+  ],
+  "ep": [
+    "rr.p0013.t01.r019.c01"
+  ],
+  "Electrum pieces": [
+    "rr.p0013.t01.r019.c02"
+  ],
+  "gp": [
+    "rr.p0013.t01.r020.c01"
+  ],
+  "Gold pieces": [
+    "rr.p0013.t01.r020.c02"
+  ],
+  "pp": [
+    "rr.p0013.t01.r021.c01"
+  ],
+  "Platinum pieces": [
+    "rr.p0013.t01.r021.c02"
+  ],
+  "TT": [
+    "rr.p0013.t01.r022.c01"
+  ],
+  "Treasure Type": [
+    "rr.p0013.t01.r022.c02"
+  ],
+  "DAMAGE TYPE": [
+    "rr.p0013.t02.r001.c01"
+  ],
+  "MUNDANE ICON": [
+    "rr.p0013.t02.r001.c02"
+  ],
+  "EXTRAORDINARY ICON": [
+    "rr.p0013.t02.r001.c03"
+  ],
+  "Acidic": [
+    "rr.p0013.t02.r002.c01"
+  ],
+  "[mundane acidic]": [
+    "rr.p0013.t02.r002.c02"
+  ],
+  "[extraordinary acidic]": [
+    "rr.p0013.t02.r002.c03"
+  ],
+  "Arcane": [
+    "rr.p0013.t02.r003.c01"
+  ],
+  "[mundane arcane]": [
+    "rr.p0013.t02.r003.c02"
+  ],
+  "[extraordinary arcane]": [
+    "rr.p0013.t02.r003.c03"
+  ],
+  "Bludgeoning": [
+    "rr.p0013.t02.r004.c01"
+  ],
+  "[mundane bludgeoning]": [
+    "rr.p0013.t02.r004.c02"
+  ],
+  "[extraordinary bludgeoning]": [
+    "rr.p0013.t02.r004.c03"
+  ],
+  "Cold": [
+    "rr.p0013.t02.r005.c01"
+  ],
+  "[mundane cold]": [
+    "rr.p0013.t02.r005.c02"
+  ],
+  "[extraordinary cold]": [
+    "rr.p0013.t02.r005.c03"
+  ],
+  "Electrical": [
+    "rr.p0013.t02.r006.c01"
+  ],
+  "[mundane electric]": [
+    "rr.p0013.t02.r006.c02"
+  ],
+  "[extraordinary electric]": [
+    "rr.p0013.t02.r006.c03"
+  ],
+  "Fire": [
+    "rr.p0013.t02.r007.c01"
+  ],
+  "[mundane fire]": [
+    "rr.p0013.t02.r007.c02"
+  ],
+  "[extraordinary fire]": [
+    "rr.p0013.t02.r007.c03"
+  ],
+  "Luminous": [
+    "rr.p0013.t02.r008.c01"
+  ],
+  "[mundane luminous]": [
+    "rr.p0013.t02.r008.c02"
+  ],
+  "[extraordinary luminous]": [
+    "rr.p0013.t02.r008.c03"
+  ],
+  "Necrotic": [
+    "rr.p0013.t02.r009.c01"
+  ],
+  "[mundane necrotic]": [
+    "rr.p0013.t02.r009.c02"
+  ],
+  "[extraordinary necrotic]": [
+    "rr.p0013.t02.r009.c03"
+  ],
+  "Piercing": [
+    "rr.p0013.t02.r010.c01"
+  ],
+  "[mundane piercing]": [
+    "rr.p0013.t02.r010.c02"
+  ],
+  "[extraordinary piercing]": [
+    "rr.p0013.t02.r010.c03"
+  ],
+  "Poisonous": [
+    "rr.p0013.t02.r011.c01"
+  ],
+  "[mundane poisonous]": [
+    "rr.p0013.t02.r011.c02"
+  ],
+  "[extraordinary poisonous]": [
+    "rr.p0013.t02.r011.c03"
+  ],
+  "Seismic": [
+    "rr.p0013.t02.r012.c01"
+  ],
+  "[mundane seismic]": [
+    "rr.p0013.t02.r012.c02"
+  ],
+  "[extraordinary seismic]": [
+    "rr.p0013.t02.r012.c03"
+  ],
+  "Slashing": [
+    "rr.p0013.t02.r013.c01"
+  ],
+  "[mundane slashing]": [
+    "rr.p0013.t02.r013.c02"
+  ],
+  "[extraordinary slashing]": [
+    "rr.p0013.t02.r013.c03"
+  ],
+  "Varies by Weapon": [
+    "rr.p0013.t02.r014.c01"
+  ],
+  "[mundane varies by weapon]": [
+    "rr.p0013.t02.r014.c02"
+  ],
+  "[extraordinary varies by weapon]": [
+    "rr.p0013.t02.r014.c03"
+  ],
+  "ATTRIBUTE MODIFIERS": [
+    "rr.p0016.t01.r001.c01"
+  ],
+  "ATTRIBUTE": [
+    "rr.p0016.t01.r002.c01"
+  ],
+  "BONUS/PENALTY": [
+    "rr.p0016.t01.r002.c02"
+  ],
+  "KEY ATTRIBUTE": [
+    "rr.p0016.t02.r001.c01"
+  ],
+  "SCORE": [
+    "rr.p0016.t02.r002.c01"
+  ],
+  "EXPERIENCE ADJUSTMENT": [
+    "rr.p0016.t02.r002.c02"
+  ],
+  "EXPLORATION SPEED": [
+    "rr.p0019.t01.r001.c01",
+    "rr.p0020.t02.r001.c02"
+  ],
+  "COMBAT SPEED": [
+    "rr.p0019.t01.r001.c02",
+    "rr.p0020.t02.r001.c03"
+  ],
+  "RUNNING SPEED": [
+    "rr.p0019.t01.r001.c03",
+    "rr.p0020.t02.r001.c04"
+  ],
+  "EXPEDITION SPEED": [
+    "rr.p0019.t01.r001.c04",
+    "rr.p0020.t02.r001.c05"
+  ],
+  "120 feet per turn": [
+    "rr.p0019.t01.r002.c01"
+  ],
+  "40 feet per round": [
+    "rr.p0019.t01.r002.c02"
+  ],
+  "120 feet per round": [
+    "rr.p0019.t01.r002.c03"
+  ],
+  "24 miles per day": [
+    "rr.p0019.t01.r002.c04"
+  ],
+  "(Speed) feet per turn": [
+    "rr.p0019.t01.r003.c01"
+  ],
+  "(Speed / 3) feet per round": [
+    "rr.p0019.t01.r003.c02"
+  ],
+  "(Speed) feet per round": [
+    "rr.p0019.t01.r003.c03"
+  ],
+  "(Speed / 5) miles per day": [
+    "rr.p0019.t01.r003.c04"
+  ],
+  "ITEM": [
+    "rr.p0020.t01.r001.c01"
+  ],
+  "ENCUMBRANCE IN STONE": [
+    "rr.p0020.t01.r001.c02"
+  ],
+  "Worn clothing": [
+    "rr.p0020.t01.r002.c01"
+  ],
+  "0 stone": [
+    "rr.p0020.t01.r002.c02"
+  ],
+  "Armor": [
+    "rr.p0020.t01.r003.c01"
+  ],
+  "1 stone per point of AC": [
+    "rr.p0020.t01.r003.c02"
+  ],
+  "Shield": [
+    "rr.p0020.t01.r004.c01"
+  ],
+  "1 stone per shield": [
+    "rr.p0020.t01.r004.c02"
+  ],
+  "Typical Item": [
+    "rr.p0020.t01.r005.c01"
+  ],
+  "1 stone per 6 items": [
+    "rr.p0020.t01.r005.c02"
+  ],
+  "Heavy Item": [
+    "rr.p0020.t01.r006.c01"
+  ],
+  "1 stone or more": [
+    "rr.p0020.t01.r006.c02"
+  ],
+  "Treasure": [
+    "rr.p0020.t01.r007.c01"
+  ],
+  "1 stone per 1,000 coins or gems": [
+    "rr.p0020.t01.r007.c02"
+  ],
+  "ENCUMBRANCE": [
+    "rr.p0020.t02.r001.c01"
+  ],
+  "Up to 5 stone": [
+    "rr.p0020.t02.r002.c01"
+  ],
+  "120’ per turn": [
+    "rr.p0020.t02.r002.c02"
+  ],
+  "40’ per round": [
+    "rr.p0020.t02.r002.c03"
+  ],
+  "120’ per round": [
+    "rr.p0020.t02.r002.c04"
+  ],
+  "24 miles": [
+    "rr.p0020.t02.r002.c05"
+  ],
+  "Up to 7 stone": [
+    "rr.p0020.t02.r003.c01"
+  ],
+  "90’ per turn": [
+    "rr.p0020.t02.r003.c02"
+  ],
+  "30’ per round": [
+    "rr.p0020.t02.r003.c03",
+    "rr.p0020.t02.r005.c04"
+  ],
+  "90’ per round": [
+    "rr.p0020.t02.r003.c04"
+  ],
+  "18 miles": [
+    "rr.p0020.t02.r003.c05"
+  ],
+  "Up to 10 stone": [
+    "rr.p0020.t02.r004.c01"
+  ],
+  "60’ per turn": [
+    "rr.p0020.t02.r004.c02"
+  ],
+  "20’ per round": [
+    "rr.p0020.t02.r004.c03"
+  ],
+  "60’ per round": [
+    "rr.p0020.t02.r004.c04"
+  ],
+  "12 miles": [
+    "rr.p0020.t02.r004.c05"
+  ],
+  "Up to 20 stone + STR mod": [
+    "rr.p0020.t02.r005.c01"
+  ],
+  "30’ per turn": [
+    "rr.p0020.t02.r005.c02"
+  ],
+  "10’ per round": [
+    "rr.p0020.t02.r005.c03"
+  ],
+  "6 miles": [
+    "rr.p0020.t02.r005.c05"
+  ],
+  "CLASS": [
+    "rr.p0021.t01.r001.c01",
+    "rr.p0021.t01.r001.c03",
+    "rr.p0021.t01.r001.c05"
+  ],
+  "STARTING AGE": [
+    "rr.p0021.t01.r001.c02",
+    "rr.p0021.t01.r001.c04",
+    "rr.p0021.t01.r001.c06"
+  ],
+  "RACE": [
+    "rr.p0021.t02.r001.c01"
+  ],
+  "YOUTH": [
+    "rr.p0021.t02.r001.c02"
+  ],
+  "ADULT": [
+    "rr.p0021.t02.r001.c03"
+  ],
+  "MIDDLE AGED": [
+    "rr.p0021.t02.r001.c04"
+  ],
+  "OLD": [
+    "rr.p0021.t02.r001.c05"
+  ],
+  "ANCIENT": [
+    "rr.p0021.t02.r001.c06"
+  ],
+  "Beastman": [
+    "rr.p0021.t02.r002.c01"
+  ],
+  "Dwarf": [
+    "rr.p0021.t02.r003.c01"
+  ],
+  "Elf": [
+    "rr.p0021.t02.r004.c01"
+  ],
+  "Human": [
+    "rr.p0021.t02.r005.c01"
+  ],
+  "Nobiran": [
+    "rr.p0021.t02.r006.c01"
+  ],
+  "AGE CATEGORY": [
+    "rr.p0021.t03.r001.c01"
+  ],
+  "PROGRESSIVE ATTRIBUTE ADJUSTMENTS": [
+    "rr.p0021.t03.r001.c02"
+  ],
+  "CUMULATIVE ATTRIBUTE ADJUSTMENTS": [
+    "rr.p0021.t03.r001.c03"
+  ],
+  "Youth": [
+    "rr.p0021.t03.r002.c01"
+  ],
+  "-2 STR, -2 INT, -2 WIL": [
+    "rr.p0021.t03.r002.c02",
+    "rr.p0021.t03.r002.c03"
+  ],
+  "Adult": [
+    "rr.p0021.t03.r003.c01"
+  ],
+  "+2 STR, +2 INT, +2 WIL": [
+    "rr.p0021.t03.r003.c02"
+  ],
+  "No adjustments": [
+    "rr.p0021.t03.r003.c03"
+  ],
+  "Middle Aged": [
+    "rr.p0021.t03.r004.c01"
+  ],
+  "-2 STR, -2 DEX, -2 CON": [
+    "rr.p0021.t03.r004.c02",
+    "rr.p0021.t03.r004.c03"
+  ],
+  "Old": [
+    "rr.p0021.t03.r005.c01"
+  ],
+  "-2 STR, -2 DEX, -2 CON, -2 CHA": [
+    "rr.p0021.t03.r005.c02",
+    "rr.p0021.t03.r006.c02"
+  ],
+  "-4 STR, -4 DEX, -4 CON, -2 CHA": [
+    "rr.p0021.t03.r005.c03"
+  ],
+  "Ancient": [
+    "rr.p0021.t03.r006.c01"
+  ],
+  "-6 STR, -6 DEX, -6 CON, -4 CHA": [
+    "rr.p0021.t03.r006.c03"
+  ],
+  "WEIGHT": [
+    "rr.p0022.t01.r001.c01"
+  ],
+  "3 STONE OR LESS": [
+    "rr.p0022.t01.r001.c02"
+  ],
+  "4 TO 40 STONE": [
+    "rr.p0022.t01.r001.c03"
+  ],
+  "41 TO 200 STONE": [
+    "rr.p0022.t01.r001.c04"
+  ],
+  "201 TO 800 STONE": [
+    "rr.p0022.t01.r001.c05"
+  ],
+  "801 TO 3200 STONE": [
+    "rr.p0022.t01.r001.c06"
+  ],
+  "MORE THAN 3200 STONE": [
+    "rr.p0022.t01.r001.c07"
+  ],
+  "Size Category": [
+    "rr.p0022.t01.r002.c01"
+  ],
+  "Small": [
+    "rr.p0022.t01.r002.c02"
+  ],
+  "Man-Sized": [
+    "rr.p0022.t01.r002.c03"
+  ],
+  "Large": [
+    "rr.p0022.t01.r002.c04"
+  ],
+  "Huge": [
+    "rr.p0022.t01.r002.c05"
+  ],
+  "Gigantic": [
+    "rr.p0022.t01.r002.c06"
+  ],
+  "Colossal": [
+    "rr.p0022.t01.r002.c07"
+  ],
+  "Length/Height": [
+    "rr.p0022.t01.r003.c01"
+  ],
+  "Less than 2’ long/tall": [
+    "rr.p0022.t01.r003.c02"
+  ],
+  "2’ to 8’ long/tall": [
+    "rr.p0022.t01.r003.c03"
+  ],
+  "8’ to 12’ long/tall": [
+    "rr.p0022.t01.r003.c04"
+  ],
+  "12’ to 20’ long/tall": [
+    "rr.p0022.t01.r003.c05"
+  ],
+  "20’ to 32’ long/tall": [
+    "rr.p0022.t01.r003.c06"
+  ],
+  "32’ or more long/tall": [
+    "rr.p0022.t01.r003.c07"
+  ]
+}

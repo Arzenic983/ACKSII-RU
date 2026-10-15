@@ -1,0 +1,36 @@
+{
+  "counts": {
+    "pages": 550,
+    "raw_chars": 2512909,
+    "deduplicated_chars": 2488103,
+    "duplicate_chars_removed": 24806,
+    "candidate_tables": 361,
+    "pages_below_100_chars": 40
+  },
+  "unusual_by_font": {
+    "TrajanPro3-Bold": {
+      "U+FFFD": 546
+    },
+    "MinionPro-Semibold": {
+      "U+FFFD": 3858
+    },
+    "ACKS2e-Damage-Icons": {
+      "U+E900": 8,
+      "U+E901": 6,
+      "U+E902": 111,
+      "U+E904": 16,
+      "U+E905": 15,
+      "U+E906": 125,
+      "U+E907": 19,
+      "U+E903": 22,
+      "U+E90B": 58,
+      "U+E90C": 35,
+      "U+E90D": 33,
+      "U+E908": 26,
+      "U+E910": 2
+    },
+    "Wingdings-Regular": {
+      "U+0009": 10
+    }
+  }
+}

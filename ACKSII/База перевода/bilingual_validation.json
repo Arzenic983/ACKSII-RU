@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-15",
+  "scope_pdf_pages": [
+    1,
+    101
+  ],
+  "source_headings_with_english": 268,
+  "additional_subheadings_with_english": 6,
+  "table_header_cells_with_english": 430,
+  "body_term_annotations": 4825,
+  "annotation_variants": 792,
+  "mythography_uses_verified": 20,
+  "russian_text_preserved": true,
+  "nested_english_brackets": 0,
+  "docx_modified": false,
+  "database_translation_modified": false,
+  "files": {
+    "00 Начало.md": {
+      "russian_letters_unchanged": true,
+      "unit_ids_unchanged": true,
+      "english_subtitles": 41,
+      "english_labels": 343,
+      "sha256_normalized_newlines": "f43947d0911a5c9da9c8b6f14023bb4eeca11d7264321a3c851f996778ac4ff9"
+    },
+    "01 Персонажи.md": {
+      "russian_letters_unchanged": true,
+      "unit_ids_unchanged": true,
+      "english_subtitles": 77,
+      "english_labels": 321,
+      "sha256_normalized_newlines": "08f2cbc906f4bc568bbff732c9a39decf381fab36b844369afe38fd824d1b639"
+    },
+    "02 Классы.md": {
+      "russian_letters_unchanged": true,
+      "unit_ids_unchanged": true,
+      "english_subtitles": 589,
+      "english_labels": 4298,
+      "sha256_normalized_newlines": "8ae628aabf3dedffa72e82d39364e779d748716a38e20d9c9c1c9fcc377c1cbb"
+    },
+    "ACKS II — Начало и главы 1–2.md": {
+      "russian_letters_unchanged": true,
+      "unit_ids_unchanged": true,
+      "english_subtitles": 708,
+      "english_labels": 4962,
+      "sha256_normalized_newlines": "37db438ab7cc5c220ea8cd476022d1cb9a0395a7e3f0a9ece5a5647a16721a4c"
+    },
+    "Примечания редактора.md": {
+      "russian_letters_unchanged": true,
+      "unit_ids_unchanged": true,
+      "english_subtitles": 1,
+      "english_labels": 107,
+      "sha256_normalized_newlines": "2c315661c665a63a4de6941815e79df01b61ffc869c568d6ab79351c4a84d055"
+    }
+  },
+  "rendered_structure": {
+    "rendered_tables": 89,
+    "rendered_unit_anchors": 7652,
+    "rendered_pdf_page_anchors": 101,
+    "rendered_duplicate_anchors": 0,
+    "rendered_table_row_column_spans": "passed",
+    "markdown_notes_escaping": "passed",
+    "known_review_fixes": "passed",
+    "content_sha256": "37db438ab7cc5c220ea8cd476022d1cb9a0395a7e3f0a9ece5a5647a16721a4c"
+  }
+}

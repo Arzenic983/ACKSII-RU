@@ -1,0 +1,12 @@
+{
+  "source_count": 84,
+  "target_count": 84,
+  "ids_and_order_equal": true,
+  "duplicate_ids": [],
+  "missing_ids": [],
+  "unexpected_ids": [],
+  "numeric_token_mismatches": [],
+  "formatting_mismatches": [],
+  "untranslated_latin_tokens": [],
+  "empty_translations": []
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "front_matter",
+    "title_en": "Front matter",
+    "title_ru": "Материалы перед первой главой",
+    "first_pdf_page": 1,
+    "last_pdf_page": 13,
+    "review_state": "reviewed_by_Codex",
+    "source_units": 1331,
+    "translated_units": 1331,
+    "pending_units": 0
+  },
+  {
+    "id": "01",
+    "title_en": "Characters",
+    "title_ru": "Персонажи",
+    "first_pdf_page": 14,
+    "last_pdf_page": 23,
+    "review_state": "reviewed_by_Codex",
+    "source_units": 358,
+    "translated_units": 358,
+    "pending_units": 0
+  },
+  {
+    "id": "02",
+    "title_en": "Classes",
+    "title_ru": "Классы",
+    "first_pdf_page": 24,
+    "last_pdf_page": 101,
+    "review_state": "reviewed_by_Codex",
+    "source_units": 5963,
+    "translated_units": 5963,
+    "pending_units": 0
+  },
+  {
+    "id": "03",
+    "title_en": "Proficiencies",
+    "title_ru": "Навыки",
+    "first_pdf_page": 102,
+    "last_pdf_page": 123,
+    "review_state": "pending",
+    "source_units": 704,
+    "translated_units": 0,
+    "pending_units": 704
+  },
+  {
+    "id": "04",
+    "title_en": "Equipment",
+    "title_ru": "Снаряжение",
+    "first_pdf_page": 124,
+    "last_pdf_page": 179,
+    "review_state": "pending",
+    "source_units": 4566,
+    "translated_units": 0,
+    "pending_units": 4566
+  },
+  {
+    "id": "05",
+    "title_en": "Spells",
+    "title_ru": "Заклинания",
+    "first_pdf_page": 180,
+    "last_pdf_page": 263,
+    "review_state": "pending",
+    "source_units": 2861,
+    "translated_units": 0,
+    "pending_units": 2861
+  },
+  {
+    "id": "06",
+    "title_en": "Adventures",
+    "title_ru": "Приключения",
+    "first_pdf_page": 264,
+    "last_pdf_page": 315,
+    "review_state": "pending",
+    "source_units": 2144,
+    "translated_units": 0,
+    "pending_units": 2144
+  },
+  {
+    "id": "07",
+    "title_en": "Voyages",
+    "title_ru": "Плавания",
+    "first_pdf_page": 316,
+    "last_pdf_page": 333,
+    "review_state": "pending",
+    "source_units": 964,
+    "translated_units": 0,
+    "pending_units": 964
+  },
+  {
+    "id": "08",
+    "title_en": "Campaigns",
+    "title_ru": "Кампании",
+    "first_pdf_page": 334,
+    "last_pdf_page": 427,
+    "review_state": "pending",
+    "source_units": 4906,
+    "translated_units": 0,
+    "pending_units": 4906
+  },
+  {
+    "id": "09",
+    "title_en": "Armies",
+    "title_ru": "Армии",
+    "first_pdf_page": 428,
+    "last_pdf_page": 447,
+    "review_state": "pending",
+    "source_units": 3179,
+    "translated_units": 0,
+    "pending_units": 3179
+  },
+  {
+    "id": "10",
+    "title_en": "Maneuvers",
+    "title_ru": "Манёвры",
+    "first_pdf_page": 448,
+    "last_pdf_page": 461,
+    "review_state": "pending",
+    "source_units": 521,
+    "translated_units": 0,
+    "pending_units": 521
+  },
+  {
+    "id": "11",
+    "title_en": "Battles",
+    "title_ru": "Сражения",
+    "first_pdf_page": 462,
+    "last_pdf_page": 473,
+    "review_state": "pending",
+    "source_units": 618,
+    "translated_units": 0,
+    "pending_units": 618
+  },
+  {
+    "id": "12",
+    "title_en": "Sieges",
+    "title_ru": "Осады",
+    "first_pdf_page": 474,
+    "last_pdf_page": 487,
+    "review_state": "pending",
+    "source_units": 809,
+    "translated_units": 0,
+    "pending_units": 809
+  },
+  {
+    "id": "A",
+    "title_en": "Setting",
+    "title_ru": "Сеттинг",
+    "first_pdf_page": 488,
+    "last_pdf_page": 507,
+    "review_state": "pending",
+    "source_units": 344,
+    "translated_units": 0,
+    "pending_units": 344
+  },
+  {
+    "id": "B",
+    "title_en": "Conditions",
+    "title_ru": "Состояния",
+    "first_pdf_page": 508,
+    "last_pdf_page": 517,
+    "review_state": "pending",
+    "source_units": 283,
+    "translated_units": 0,
+    "pending_units": 283
+  },
+  {
+    "id": "C",
+    "title_en": "Wounds and Woe",
+    "title_ru": "Раны и страдания",
+    "first_pdf_page": 518,
+    "last_pdf_page": 531,
+    "review_state": "pending",
+    "source_units": 827,
+    "translated_units": 0,
+    "pending_units": 827
+  },
+  {
+    "id": "D",
+    "title_en": "Resources",
+    "title_ru": "Материалы",
+    "first_pdf_page": 532,
+    "last_pdf_page": 537,
+    "review_state": "pending",
+    "source_units": 163,
+    "translated_units": 0,
+    "pending_units": 163
+  },
+  {
+    "id": "E",
+    "title_en": "Index",
+    "title_ru": "Предметный указатель",
+    "first_pdf_page": 538,
+    "last_pdf_page": 550,
+    "review_state": "pending",
+    "source_units": 83,
+    "translated_units": 0,
+    "pending_units": 83
+  }
+]

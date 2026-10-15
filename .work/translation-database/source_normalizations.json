@@ -1,0 +1,65 @@
+[
+  {
+    "page": 4,
+    "kind": "paragraph_join",
+    "before": [
+      "***Adventurer Conqueror King System*** Imperial Imprint ©2024 Autarch ™ LLC. All proper names, dialogue, plots, storylines, locations, and characters relating thereto are copyright 2008 – 2024 by Autarch™ LLC. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the written permission of the copyright owners. ***Adventurer Conqueror King System™, ACKS™, ACKS*** ***II™,*** Autarch™, and Imperial Imprint™ are trademarks of Autarch LLC. Auran Empire™ is a trademark of Alexander Macris. This product is a work of fiction. Any similarity to actual people, organizations,",
+      "places, or events is purely coincidental."
+    ],
+    "after": "***Adventurer Conqueror King System*** Imperial Imprint ©2024 Autarch ™ LLC. All proper names, dialogue, plots, storylines, locations, and characters relating thereto are copyright 2008 – 2024 by Autarch™ LLC. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the written permission of the copyright owners. ***Adventurer Conqueror King System™, ACKS™, ACKS*** ***II™,*** Autarch™, and Imperial Imprint™ are trademarks of Autarch LLC. Auran Empire™ is a trademark of Alexander Macris. This product is a work of fiction. Any similarity to actual people, organizations, places, or events is purely coincidental."
+  },
+  {
+    "page": 10,
+    "kind": "paragraph_join",
+    "before": [
+      "If an adventurer is not slain or otherwise removed from play, he will eventually reach a high level. At this time, adventurers often begin to buy, construct, or conquer **strongholds,** such as castles or towers. Strongholds enable a character to attract **followers** and open up new campaign activities and new avenues of gameplay. Some types of strongholds enable adventurers to establish criminal syndicates, monster-filled dungeons, or hidden fastnesses. Other types enable adventurers to establish **domains** over which they exert sovereign control. With careful play, an adventurer may establish or conquer",
+      "multiple domains and ultimately establish himself as ruler of a **realm.** Becoming the ruler of a vast realm is the ultimate goal of many adventurers in ***Adventurer Conqueror King*** campaigns."
+    ],
+    "after": "If an adventurer is not slain or otherwise removed from play, he will eventually reach a high level. At this time, adventurers often begin to buy, construct, or conquer **strongholds,** such as castles or towers. Strongholds enable a character to attract **followers** and open up new campaign activities and new avenues of gameplay. Some types of strongholds enable adventurers to establish criminal syndicates, monster-filled dungeons, or hidden fastnesses. Other types enable adventurers to establish **domains** over which they exert sovereign control. With careful play, an adventurer may establish or conquer multiple domains and ultimately establish himself as ruler of a **realm.** Becoming the ruler of a vast realm is the ultimate goal of many adventurers in ***Adventurer Conqueror King*** campaigns."
+  },
+  {
+    "page": 16,
+    "kind": "paragraph_join",
+    "before": [
+      "**Strength (STR):** As the name implies, this attribute measures the character’s raw physical power. Strength is a key attribute for assassins, barbarians, dwarven vaultguards, elven spellswords, and fighters. Apply the attribute bonus or penalty for Strength to all attack throws and",
+      "damage rolls in melee combat as well as to damage rolls with thrown weapons (excluding certain splash weapons such as burning oil). Note that a penalty here will not reduce damage from a successful attack below one point, unless the target is otherwise invulnerable to the attack (see the **Adventures** chapter for details). Strength also aids in opening doors, smashing crates, and so on; apply 4× the bonus or penalty to all Dungeonbashing throws, i.e. ±4/8/12."
+    ],
+    "after": "**Strength (STR):** As the name implies, this attribute measures the character’s raw physical power. Strength is a key attribute for assassins, barbarians, dwarven vaultguards, elven spellswords, and fighters. Apply the attribute bonus or penalty for Strength to all attack throws and damage rolls in melee combat as well as to damage rolls with thrown weapons (excluding certain splash weapons such as burning oil). Note that a penalty here will not reduce damage from a successful attack below one point, unless the target is otherwise invulnerable to the attack (see the **Adventures** chapter for details). Strength also aids in opening doors, smashing crates, and so on; apply 4× the bonus or penalty to all Dungeonbashing throws, i.e. ±4/8/12."
+  },
+  {
+    "page": 16,
+    "kind": "paragraph_join",
+    "before": [
+      "If a character’s key attribute is high enough, the character will receive a bonus to experience points earned during play. The Key Attribute table details the effect a score in a key",
+      "attribute has on experience points earned by characters. If a class has two key attributes, calculate the character’s experience adjustment based on whichever key attribute is lower."
+    ],
+    "after": "If a character’s key attribute is high enough, the character will receive a bonus to experience points earned during play. The Key Attribute table details the effect a score in a key attribute has on experience points earned by characters. If a class has two key attributes, calculate the character’s experience adjustment based on whichever key attribute is lower."
+  },
+  {
+    "page": 18,
+    "kind": "paragraph_join",
+    "before": [
+      "At 1st level, you roll your character’s hit points with one hit die (HD). Each character class rolls a different type of hit die to determine hit points, based on their toughness in battle, as explained in the **Character Classes** section. If you roll 4 or less, treat the result as a",
+      "4. Add your Constitution bonus or penalty to the roll and note the result as your hit points on your character sheet."
+    ],
+    "after": "At 1st level, you roll your character’s hit points with one hit die (HD). Each character class rolls a different type of hit die to determine hit points, based on their toughness in battle, as explained in the **Character Classes** section. If you roll 4 or less, treat the result as a 4. Add your Constitution bonus or penalty to the roll and note the result as your hit points on your character sheet."
+  },
+  {
+    "page": 21,
+    "kind": "paragraph_join",
+    "before": [
+      "At each stage, progressively adjust the character’s attributes as noted on the Attribute Score Adjustments by Age table. For characters generated at an already advanced age, the cumulative",
+      "attribute adjustments appropriate to the character’s age can be used. Attribute adjustments from aging cannot reduce an attribute below a class minimum, and in no case lower than 3."
+    ],
+    "after": "At each stage, progressively adjust the character’s attributes as noted on the Attribute Score Adjustments by Age table. For characters generated at an already advanced age, the cumulative attribute adjustments appropriate to the character’s age can be used. Attribute adjustments from aging cannot reduce an attribute below a class minimum, and in no case lower than 3."
+  },
+  {
+    "page": 21,
+    "kind": "paragraph_join",
+    "before": [
+      "**EXAMPLE:** Marcus has CON 18 as an adult. By the time he reaches the Old age category (56), his CON is reduced to 14. He must save versus Death when he reaches (56 + 14) age",
+      "70. He succeeds, so he will not perish due to natural causes just yet. When he reaches the Ancient age category (76), his CON is down to 12. He must save versus Death when he reaches (76 + 12) age 88. He succeeds again. When Marcus reaches age 95, and each year thereafter, he will have to save versus Death again."
+    ],
+    "after": "**EXAMPLE:** Marcus has CON 18 as an adult. By the time he reaches the Old age category (56), his CON is reduced to 14. He must save versus Death when he reaches (56 + 14) age 70. He succeeds, so he will not perish due to natural causes just yet. When he reaches the Ancient age category (76), his CON is down to 12. He must save versus Death when he reaches (76 + 12) age 88. He succeeds again. When Marcus reaches age 95, and each year thereafter, he will have to save versus Death again."
+  }
+]
