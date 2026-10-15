@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-16",
+  "chapter_id": "03",
+  "book": "Revised Rulebook",
+  "pdf_pages": [
+    102,
+    123
+  ],
+  "first_id": "rr.p0102.b001",
+  "last_id": "rr.p0123.b019",
+  "source_units": 704,
+  "translated_units": 704,
+  "pending_units": 0,
+  "table_count": 10,
+  "nonempty_source_table_cells": 332,
+  "rendered_table_cells_including_original_blanks": 490,
+  "headings_with_english_subtitles": 135,
+  "table_headers_with_english_subtitles": 35,
+  "editorial_notes": 23,
+  "unit_order_anchors_and_coverage": "passed",
+  "numeric_values_dice_modifiers_percentages": "passed",
+  "rendered_table_geometry_and_blank_cell_positions": "passed",
+  "original_units_pages_tables_glossary_unchanged": true,
+  "previous_translations_unchanged": true,
+  "protected_source_and_docx_files_unchanged": 65,
+  "exchange_package_revision": 0,
+  "database_chapter_translations": 704,
+  "csv_jsonl_content_equal": true,
+  "csv_encoding": "UTF-8 BOM",
+  "csv_delimiter": ";",
+  "reviewer": "Codex",
+  "user_approved": false,
+  "pdf_images_inspected": [
+    104,
+    107,
+    113,
+    118,
+    119,
+    122
+  ],
+  "markdown_sha256_normalized_newlines": "7a2753ebf9bab810396adeba2680b6bf549d8d15a92b04df505e24b6fcfd8bcd"
+}

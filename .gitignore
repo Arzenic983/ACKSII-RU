@@ -25,3 +25,13 @@ desktop.ini
 # Local checks of the GitHub upload and disposable exports
 .work/github-upload/
 contributions/_export/
+
+# Chapter 3: regenerable reading/review files and local PDF inspections
+.work/ch03-md/source_*.md
+.work/ch03-md/review_*.md
+.work/ch03-md/pdf-*.png
+.work/ch03-md/chapter_preview.html
+.work/ch03-md/automatic.md
+.work/ch03-md/tables.md
+.work/ch03-md/pure_translations.json
+.work/ch03-md/numeric_review.json

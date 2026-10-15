@@ -1,0 +1,92 @@
+[
+  {
+    "id": "rr.p0104.t01",
+    "pdf_page": 104,
+    "chapter_id": "03",
+    "block_order": 2,
+    "row_count": 22,
+    "column_count": 15,
+    "source_markup": "| CLASS | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Assassin | C + G |  | C |  | G | C |  |  | C + G |  |  | C | G |  |\n| Barbarian | C + G |  | C |  | G | C |  |  | C + G |  |  | C | G |  |\n| Bard | C + G |  | C |  | G | C |  |  | C + G |  |  | C | G |  |\n| Bladedancer | C + G |  |  | C | G |  |  | C | G |  |  | C | G |  |\n| Crusader | C + G |  |  | C | G |  |  | C | G |  |  | C | G |  |\n| Dwarven Craftpriest | C + G |  |  | C | G |  |  | C | G |  |  |  |  |  |\n| Dwarven Vaultguard | C + G |  | C |  | G | C |  |  | C + G |  |  | C | G |  |\n| Elven Nightblade | C + G |  |  | C | G |  |  | C | G |  |  |  |  |  |\n| Elven Spellsword | C + G |  | C |  | G | C |  |  | C + G |  |  |  |  |  |\n| Explorer | C + G |  | C |  | G | C |  |  | C + G |  |  | C | G |  |\n| Fighter | C + G |  | C |  | G | C |  |  | C + G |  |  | C | G |  |\n| Mage | C + G |  |  |  | G | C |  |  | G |  |  | C | G |  |\n| Nobiran Wonderworker | C + G |  |  |  | G | C |  |  | G |  |  | C |  |  |\n| Paladin | C + G |  | C |  | G | C |  |  | C + G |  |  | C | G |  |\n| Priestess | C + G |  |  | C | G |  |  | C | G |  |  | C | G |  |\n| Shaman | C + G |  |  | C | G |  |  | C | G |  |  | C | G |  |\n| Thief | C + G |  |  | C | G |  |  | C | G |  |  | C | G |  |\n| Venturer | C + G |  |  | C | G |  |  | C | G |  |  | C | G |  |\n| Warlock | C + G |  |  |  | G | C |  |  | G |  |  | C | G |  |\n| Witch | C + G |  |  | C | G |  |  | C | G |  |  | C | G |  |\n| Zaharan Ruinguard | C + G |  | C |  | G | C |  |  | C + G |  |  | C |  |  |"
+  },
+  {
+    "id": "rr.p0108.t01",
+    "pdf_page": 108,
+    "chapter_id": "03",
+    "block_order": 2,
+    "row_count": 4,
+    "column_count": 5,
+    "source_markup": "| TITLE | RANK (# OF<br>TIMES TAKEN) | GP EARNED<br>/ MONTH | PATIENTS<br>/ DAY | SKILLS |\n| --- | --- | --- | --- | --- |\n| Animal Husband | 1 | 25gp | 3 | Identify 11+, extra 1d3 hit points per day |\n| Veterinarian | 2 | 50gp | 4 | Identify 7+, *neutralize poison, cure disease, cure light* 18+ |\n| Veterinary Surgeon | 3 | 100gp | 5 | Identify 3+, *neutralize poison, cure disease, cure serious* 14+ |"
+  },
+  {
+    "id": "rr.p0108.t02",
+    "pdf_page": 108,
+    "chapter_id": "03",
+    "block_order": 18,
+    "row_count": 5,
+    "column_count": 4,
+    "source_markup": "| TITLE | RANK (# OF<br>TIMES TAKEN) | WAGE | TRAINABLE ANIMALS |\n| --- | --- | --- | --- |\n| Apprentice | 1 | 25gp | Domestic animal (dog, hawk, horse, etc.) |\n| Journeyman | 2 | 75gp | Wild animal (bear, lion, etc.) |\n| Master | 3 | 150gp | Dire, giant, or prehistoric animal (cave bear, dire wolf, etc.) |\n| Grand Master | 4 | 250gp | Monstrosity or vermin (griffon, owlbeast, giant black worm, etc.) |"
+  },
+  {
+    "id": "rr.p0109.t01",
+    "pdf_page": 109,
+    "chapter_id": "03",
+    "block_order": 2,
+    "row_count": 5,
+    "column_count": 4,
+    "source_markup": "| TITLE | RANK (# OF<br>TIMES TAKEN) | CONSTRUCTION<br>RATE | NUMBER OF WORKERS ALLOWED |\n| --- | --- | --- | --- |\n| Apprentice | 1 | 10gp | N. A. |\n| Journeyman | 2 | 20gp | 3 Apprentices |\n| Master | 3 | 40gp | 2 Journeymen, 4 Apprentices |\n| Grand Master | 4 | 80gp | 2 Masters, 4 Journeymen, 8 Apprentices |"
+  },
+  {
+    "id": "rr.p0113.t01",
+    "pdf_page": 113,
+    "chapter_id": "03",
+    "block_order": 1,
+    "row_count": 10,
+    "column_count": 2,
+    "source_markup": "| FAMILIAR | CHARACTERISTICS |\n| --- | --- |\n| Bat | Spd 120’ fly, AC 3, HD 1/4, #AT 1, Dmg 1, echolocation |\n| Cat | Spd 210’, AC 3, HD 1/2, #AT 3, Dmg 1/1/1, acute hearing & olfaction, agile, climber 6+, pounce, naturally stealthy |\n| Crow/Raven | Spd 330 fly, AC 3, HD 1/4, #AT 1, Dmg 1d2-1, acute vision |\n| Eagle | Spd 480’ fly, AC 3, HD 1/2, #AT 2, Dmg 1d2/1d2, acute vision, alertness, dive |\n| Jackal | Spd 180’, AC 2, HD 1-1, #AT 1, Dmg 1d4, acute & olfaction, tracking |\n| Owl | Spd 300’ fly, AC 3, HD 1/4, #AT 2, Dmg 1/1, acute hearing, acute vision, alertness, dive, night vision, sneak 6+ |\n| Rat | Spd 120’/60’ swim, AC 2, HD 1/2, #AT 1, Dmg 1d3, acute hearing, skilled climber 5+ |\n| Tokay Gull | Spd 150’ fly, AC 2, HD 1/2, #AT 1, Dmg 1d3, bark, night vision, natural climber |\n| Vulture | Spd 300’ fly, AC 3, HD 1/2, #AT 2, Dmg 1d2/1d2, acute olfaction & vision, immunity (mundane disease, poison) |"
+  },
+  {
+    "id": "rr.p0113.t02",
+    "pdf_page": 113,
+    "chapter_id": "03",
+    "block_order": 7,
+    "row_count": 6,
+    "column_count": 2,
+    "source_markup": "| FIGHTING STYLE | BONUS |\n| --- | --- |\n| Missile weapon | +1 to attack throws |\n| Single weapon | +1 to initiative |\n| Dual weapons | +1 to attack throws |\n| Two-handed weapon | +1 to damage rolls |\n| Weapon and shield | +1 to armor class |"
+  },
+  {
+    "id": "rr.p0114.t01",
+    "pdf_page": 114,
+    "chapter_id": "03",
+    "block_order": 2,
+    "row_count": 4,
+    "column_count": 5,
+    "source_markup": "| TITLE | RANK (# OF<br>TIMES TAKEN) | GP EARNED<br>/ MONTH | PATIENTS<br>/ DAY | SKILLS |\n| --- | --- | --- | --- | --- |\n| Healer | 1 | 25gp | 4 | Diagnose 11+, extra 1d3 hit points per day |\n| Physicker | 2 | 50gp | 5 | Diagnose 7+, *neutralize poison, cure disease, cure light* 18+ |\n| Chirurgeon | 3 | 100gp | 6 | Diagnose 3+, *neutralize poison, cure disease, cure serious* 14+ |"
+  },
+  {
+    "id": "rr.p0114.t02",
+    "pdf_page": 114,
+    "chapter_id": "03",
+    "block_order": 19,
+    "row_count": 4,
+    "column_count": 4,
+    "source_markup": "| TITLE | RANK (# OF<br>TIMES TAKEN) | GP EARNED<br>/ MONTH | SKILLS |\n| --- | --- | --- | --- |\n| Student | 1 | 25gp | Identify 11+ |\n| Expert | 2 | 50gp | Identify 7+ |\n| Scholar | 3 | 100gp | Identify 3+ |"
+  },
+  {
+    "id": "rr.p0118.t01",
+    "pdf_page": 118,
+    "chapter_id": "03",
+    "block_order": 11,
+    "row_count": 4,
+    "column_count": 4,
+    "source_markup": "| TITLE | FO<br>#(<br>KNAR<br>)NEKAT<br>SEMIT | /<br>DENRAE<br>PG<br>HTNOM | NUMBER OF WORKERS<br>ALLOWED |\n| --- | --- | --- | --- |\n| Apprentice | 1 | 10gp | N. A. |\n| Journeyman | 2 | 20gp | 3 Apprentices |\n| Master Performer | 3 | 40gp | 2 Journeymen, 4 Apprentices |"
+  },
+  {
+    "id": "rr.p0119.t01",
+    "pdf_page": 119,
+    "chapter_id": "03",
+    "block_order": 4,
+    "row_count": 4,
+    "column_count": 4,
+    "source_markup": "| TITLE | FO<br>#(<br>KNAR<br>)NEKAT<br>SEMIT | /<br>DENRAE<br>PG<br>HTNOM | NUMBER OF WORKERS<br>ALLOWED |\n| --- | --- | --- | --- |\n| Apprentice | 1 | 25gp | N. A. |\n| Licensed Practitioner | 2 | 50gp | 3 Apprentices |\n| Master of Profession | 3 | 100gp | 2 Journeymen, 4 Apprentices |"
+  }
+]

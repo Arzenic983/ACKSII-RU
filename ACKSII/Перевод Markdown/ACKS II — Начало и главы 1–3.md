@@ -1,6 +1,6 @@
-# ACKS II — Начало и главы 1–2
+# ACKS II — Начало и главы 1–3
 
-<small>ACKS II — FRONT MATTER AND CHAPTERS 1–2</small>
+<small>ACKS II — FRONT MATTER AND CHAPTERS 1–3</small>
 
 <p align="right" id="pdf-page-0005"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=5" title="Страница PDF 5 · печатная стр. 3">страница 5</a></small></p>
 
@@ -7233,3 +7233,1588 @@ Oppian, *«Эпос об Эмпирейских войнах»*
 *Бальзамируйте и мумифицируйте своих мертвецов в гробницах на священной земле и оставляйте им погребальные дары для грядущей жизни.*
 
 Бальтазар, *«Обряды Диргиона»*
+
+---
+
+<p align="right" id="pdf-page-0102"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=102" title="Страница PDF 102">страница 102</a></small></p>
+
+# Глава 3. Навыки
+
+<small>CHAPTER 3: PROFICIENCIES</small>
+
+---
+
+<p align="right" id="pdf-page-0103"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=103" title="Страница PDF 103 · печатная стр. 101">страница 103</a></small></p>
+
+## Основы навыков
+
+<small>THE BASICS OF PROFICIENCIES</small>
+
+Навыки отражают особые области знаний и умений, которые персонаж освоил благодаря своему происхождению, родине и обучению. У каждого класса есть **классовый список [class list]** навыков, особенно полезных для его занятий. Кроме того, существует **общий список [general list]** навыков, включающий ремесленные умения и знания, доступные всем. Со временем персонажи осваивают навыки из обоих списков.
+
+## Начальные навыки
+
+<small>STARTING PROFICIENCIES</small>
+
+Все персонажи начинают игру с навыком Авантюризм [Adventuring], одним навыком на выбор из классового списка [class list] и одним — из общего списка [general list]. Персонажи с бонусом Интеллекта [Intellect] могут начать игру с одним или несколькими дополнительными навыками из общего списка [general list]. Число этих дополнительных общих навыков [general proficiencies] равно бонусу Интеллекта [Intellect] (+1, +2 или +3). Игрок может оставить одно или несколько дополнительных «мест» под навыки незаполненными, чтобы выбрать их во время игры, когда обстоятельства подскажут подходящий вариант. Однако дополнительные навыки за высокий Интеллект [Intellect] можно выбирать только из общего списка [general list].
+
+Некоторые навыки входят и в общий список [general list], и в классовые списки [class lists]. Например, Военная стратегия [Military Strategy] есть как в общем списке [general list], так и в списке воина [Fighter]. Причина в том, что Военная стратегия [Military Strategy] одновременно является распространённым профессиональным умением и специальной подготовкой, полезной воинам [Fighters].
+
+## Получение навыков
+
+<small>GAINING PROFICIENCIES</small>
+
+Все персонажи могут выбрать по одному дополнительному навыку из общего списка [general list] на 5-м, 9-м и, если позволяет максимальный уровень, 13-м уровне. Дополнительный навык из классового списка [class list] персонаж получает каждый раз, когда завершает полный шаг развития спасбросков [saving throw progression], то есть улучшает их на два пункта. Это показано в таблице «Навыки, получаемые по уровням» [Proficiencies Gained per Level]. Уровни, превышающие максимальный уровень класса, отмечены знаком «-».
+
+Если в описании не сказано иное, каждый навык можно выбрать только один раз. Если общий навык [general proficiency] допускает повторный выбор, то необходимое для успеха целевое значение обычно уменьшается на 4 при каждом новом выборе. Некоторые навыки при повторном выборе дают дополнительные преимущества. Если не указано иное, все броски навыков [proficiency throws] выполняются на 1d20.
+
+Арбитр [Judge] может ограничить выбор определённых навыков в зависимости от кампании или сеттинга. В остальных случаях персонажи могут выбирать любые навыки из соответствующего списка.
+
+### Получение навыков со временем и через обучение (опциональное правило)<sup>*</sup>
+
+<small>GAINING PROFICIENCIES BY TIME AND TRAINING (OPTIONAL)</small>
+
+> \* В описании обучения сохранены сроки и варианты распределения рангов из оригинала. Из текста не вполне ясно, обозначают ли последующие сроки суммарное обучение или отдельные этапы; дополнительное правило не добавлено.
+
+Помимо начальных навыков и навыков, получаемых за уровни, у каждого персонажа есть четыре «неявных» места под общие навыки [general proficiency slots], отражающие естественное накопление знаний со временем. Персонажи, не проявляющие особого усердия в тренировках, автоматически заполняют эти места после 5, 15, 35 и 70 лет работы. Так НИП [NPCs] 0-го уровня получают навыки, не отправляясь на приключения. При обычном ходе игры эти навыки не имеют значения для авантюристов.
+
+Однако в качестве опционального правила [optional rule] Арбитр [Judge] может разрешить авантюристам ускорить заполнение этих мест под навыки целенаправленным обучением:
+
+♦ 60 дней (2 месяца) обучения как целенаправленной деятельности [dedicated activity] дают первый ранг одного общего навыка [general proficiency].
+
+♦ 240 дней (8 месяцев) обучения как целенаправленной деятельности [dedicated activity] дают второй ранг либо первый ранг второго навыка.
+
+♦ 540 дней (18 месяцев) обучения как целенаправленной деятельности [dedicated activity] дают третий ранг либо первый ранг третьего навыка.
+
+♦ 960 дней (32 месяца) обучения как целенаправленной деятельности [dedicated activity] дают четвёртый ранг либо первый ранг четвёртого навыка.
+
+Авантюристу нужен либо наставник, знающий этот навык, либо трактат, соответствующий осваиваемому рангу. Обучением можно получить не более четырёх общих навыков [general proficiencies].
+
+### Переобучение навыкам (опциональное правило)
+
+<small>RETRAINING PROFICIENCIES (OPTIONAL)</small>
+
+Иногда персонаж выбирает навык, полезный на определённом этапе его пути, но теряющий значение по мере роста его могущества. В качестве опционального правила [optional rule] Арбитр [Judge] может разрешить авантюристам заменить уже освоенный классовый [class proficiency] или общий навык [general proficiency] другим навыком того же типа. Для переобучения требуется 120 дней межприключенческого времени [downtime], в течение которых персонажу нужен либо наставник, знающий новый навык, либо трактат. Вернуть ранее известный навык можно за 60 дней межприключенческого времени [downtime] без наставника или руководства. Переобучением нельзя заменять следующие навыки: Дружба с животными [Beast Friendship], Божественное благословение [Divine Blessing], Божественное здоровье [Divine Health], Эльфийская кровь [Elven Bloodline], Устойчивость к иллюзиям [Illusion Resistance], Возложение рук [Laying on Hands], Пророчество [Prophecy], Гадание [Soothsaying].
+
+*Успех строится на сотне неудач, а слава — всего на одном успехе.*
+
+Бешерадская пословица
+
+---
+
+<p align="right" id="pdf-page-0104"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=104" title="Страница PDF 104 · печатная стр. 102">страница 104</a></small></p>
+
+### Навыки, получаемые по уровням
+
+<small>PROFICIENCIES GAINED PER LEVEL</small>
+
+<table>
+<tr>
+<th>Класс<br><small>CLASS</small><sup>*1</sup></th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+</tr>
+<tr>
+<td>Ассасин [Assassin]</td>
+<td>C + G</td>
+<td></td>
+<td>C</td>
+<td></td>
+<td>G</td>
+<td>C</td>
+<td></td>
+<td></td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+</tr>
+<tr>
+<td>Варвар [Barbarian]</td>
+<td>C + G</td>
+<td></td>
+<td>C</td>
+<td></td>
+<td>G</td>
+<td>C</td>
+<td></td>
+<td></td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+</tr>
+<tr>
+<td>Бард [Bard]</td>
+<td>C + G</td>
+<td></td>
+<td>C</td>
+<td></td>
+<td>G</td>
+<td>C</td>
+<td></td>
+<td></td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+</tr>
+<tr>
+<td>Дева клинков [Bladedancer]</td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+</tr>
+<tr>
+<td>Крестоносец [Crusader]</td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+</tr>
+<tr>
+<td>Дварфийский мастер-жрец [Dwarven Craftpriest]</td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td title="Уровень недоступен" style="background:#5b1333;color:#fff">-</td>
+<td title="Уровень недоступен" style="background:#5b1333;color:#fff">-</td>
+<td title="Уровень недоступен" style="background:#5b1333;color:#fff">-</td>
+<td title="Уровень недоступен" style="background:#5b1333;color:#fff">-</td>
+</tr>
+<tr>
+<td>Дварфийский страж убежищ [Dwarven Vaultguard]</td>
+<td>C + G</td>
+<td></td>
+<td>C</td>
+<td></td>
+<td>G</td>
+<td>C</td>
+<td></td>
+<td></td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td title="Уровень недоступен" style="background:#5b1333;color:#fff">-</td>
+</tr>
+<tr>
+<td>Эльфийский ночной клинок [Elven Nightblade]</td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td title="Уровень недоступен" style="background:#5b1333;color:#fff">-</td>
+<td title="Уровень недоступен" style="background:#5b1333;color:#fff">-</td>
+<td title="Уровень недоступен" style="background:#5b1333;color:#fff">-</td>
+</tr>
+<tr>
+<td>Эльфийский мечник-чародей [Elven Spellsword]</td>
+<td>C + G</td>
+<td></td>
+<td>C</td>
+<td></td>
+<td>G</td>
+<td>C</td>
+<td></td>
+<td></td>
+<td>C + G</td>
+<td></td>
+<td title="Уровень недоступен" style="background:#5b1333;color:#fff">-</td>
+<td title="Уровень недоступен" style="background:#5b1333;color:#fff">-</td>
+<td title="Уровень недоступен" style="background:#5b1333;color:#fff">-</td>
+<td title="Уровень недоступен" style="background:#5b1333;color:#fff">-</td>
+</tr>
+<tr>
+<td>Исследователь [Explorer]</td>
+<td>C + G</td>
+<td></td>
+<td>C</td>
+<td></td>
+<td>G</td>
+<td>C</td>
+<td></td>
+<td></td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+</tr>
+<tr>
+<td>Воин [Fighter]</td>
+<td>C + G</td>
+<td></td>
+<td>C</td>
+<td></td>
+<td>G</td>
+<td>C</td>
+<td></td>
+<td></td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+</tr>
+<tr>
+<td>Маг [Mage]</td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td></td>
+<td>G</td>
+<td>C</td>
+<td></td>
+<td></td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+</tr>
+<tr>
+<td>Нобирийский чудотворцец [Nobiran Wonderworker]<sup>*2</sup></td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td></td>
+<td>G</td>
+<td>C</td>
+<td></td>
+<td></td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td title="Уровень недоступен" style="background:#5b1333;color:#fff">-</td>
+<td title="Уровень недоступен" style="background:#5b1333;color:#fff">-</td>
+</tr>
+<tr>
+<td>Паладин [Paladin]</td>
+<td>C + G</td>
+<td></td>
+<td>C</td>
+<td></td>
+<td>G</td>
+<td>C</td>
+<td></td>
+<td></td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+</tr>
+<tr>
+<td>Жрица [Priestess]</td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+</tr>
+<tr>
+<td>Шаман [Shaman]</td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+</tr>
+<tr>
+<td>Вор [Thief]</td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+</tr>
+<tr>
+<td>Торговец [Venturer]</td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+</tr>
+<tr>
+<td>Колдун [Warlock]</td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td></td>
+<td>G</td>
+<td>C</td>
+<td></td>
+<td></td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+</tr>
+<tr>
+<td>Ведьма [Witch]</td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td>G</td>
+<td></td>
+</tr>
+<tr>
+<td>Захарийский страж руин [Zaharan Ruinguard]</td>
+<td>C + G</td>
+<td></td>
+<td>C</td>
+<td></td>
+<td>G</td>
+<td>C</td>
+<td></td>
+<td></td>
+<td>C + G</td>
+<td></td>
+<td></td>
+<td>C</td>
+<td title="Уровень недоступен" style="background:#5b1333;color:#fff">-</td>
+<td title="Уровень недоступен" style="background:#5b1333;color:#fff">-</td>
+</tr>
+</table>
+
+> \*1 В PDF недоступные уровни залиты тёмным цветом, хотя текст говорит о знаке «-». В подготовленном английском Markdown заливка утрачена. По изображению PDF недоступные уровни отмечены здесь тёмными ячейками со знаком «-»: мастер-жрец [Dwarven Craftpriest] — 11–14, страж убежищ [Dwarven Vaultguard] — 14, ночной клинок [Elven Nightblade] — 12–14, мечник-чародей [Elven Spellsword] — 11–14, нобирийский чудотворцец [Nobiran Wonderworker] и страж руин [Zaharan Ruinguard] — 13–14. Пустые клетки в пределах доступных уровней сохранены; новые ID не создавались.
+
+> \*2 Сохранено словарное написание «Нобирийский чудотворцец [Nobiran Wonderworker]». Вероятная опечатка «чудотворцец» уже отмечена в главе 2; утверждённого исправления словаря нет.
+
+**Примечания:** C = классовый навык [class proficiency], G = общий навык [general proficiency].
+
+### Навыки обычных людей и полулюдей
+
+<small>PROFICIENCIES OF NORMAL HUMANS AND DEMI-HUMANS</small>
+
+Обычные люди и полулюди — персонажи 0-го уровня, не участвующие в приключениях, — начинают свой путь с четырьмя общими навыками [general proficiencies]. В редких случаях у персонажей 0-го уровня могут быть и классовые навыки [class proficiencies]. Если их Интеллект [Intellect] равен 13 или выше, они получают дополнительные общие навыки [general proficiencies] в количестве, равном бонусу Интеллекта [Intellect]. Четыре начальных навыка нельзя потратить на повторный выбор одного и того же навыка, но дополнительные навыки за высокий ИНТ [INT] использовать для этого можно.
+
+Как описано в разделе «Получение навыков со временем» [Gaining Proficiencies by Time], НИП [NPCs] 0-го уровня получают дополнительные навыки с годами. Обычные люди получают по одному дополнительному общему навыку [general proficiency] после 5, 15 и 35 лет работы. Обычные дварфы и эльфы получают их после 5, 15, 35 и 70 лет работы. По усмотрению Арбитра [Judge] некоторые выдающиеся НИП [NPCs] 0-го уровня могут, подобно авантюристам, обучаться в межприключенческое время [downtime] и получать дополнительные общие навыки [general proficiencies] быстрее, чем за 5–35 лет.
+
+**ПРИМЕР:** Тав — очень умный юноша 0-го уровня с ИНТ [INT] 16. В 18 лет он начинает свой путь с шестью общими навыками [general proficiencies]: четырьмя основными и ещё двумя за высокий ИНТ [INT]. В качестве четырёх начальных навыков он выбирает Ремесло (плотник) [Craft (Carpenter)], Инженерное дело [Engineering], Труд (каменотёс) [Labor (Stonecutting)] и Картографию [Mapping]. Два дополнительных выбора он тратит на ещё два ранга Инженерного дела [Engineering]. В 23 года он получает ещё один навык и тратит его на четвёртый ранг Инженерного дела [Engineering]. Теперь он достаточно квалифицирован, чтобы работать специалистом-инженером [Engineer] (см. «Специалисты» [Specialists] в главе 4), и становится одним из самых молодых инженеров своей гильдии. Персонажу со средним Интеллектом [Intellect] для достижения такого мастерства могла бы понадобиться целая жизнь.
+
+## Списки навыков
+
+<small>PROFICIENCY LISTS</small>
+
+**Общий список навыков:** Авантюризм [Adventuring], Алхимия [Alchemy], Уход за животными [Animal Husbandry], Дрессировка [Animal Training], Искусство [Art], Торг [Bargaining], Исследователь подземелий [Caving], Школа магии [Collegiate Wizardry], Ремесло [Craft], Дипломатия [Diplomacy], Маскировка [Disguise], Возничий [Driving], Стойкость [Endurance], Инженерное дело [Engineering], Фольклор [Folkways], Азартные игры [Gambling], Целительство [Healing], Запугивание [Intimidation], Знания [Knowledge], Труд [Labor], Язык [Language], Лидерство [Leadership], Чтение по губам [Lip Reading], Военная подготовка [Manual of Arms], Картография [Mapping], Военная стратегия [Military Strategy], Мимикрия [Mimicry], Альпинизм [Mountaineering], Природоведение [Naturalism], Навигация [Navigation], Выступление [Performance], Профессия [Profession], Гуляка [Revelry], Верховая езда [Riding], Мореплавание [Seafaring], Соблазнение [Seduction], Осадное дело [Siege Engineering], Сигналы [Signaling], Знание улиц [Streetwise], Выживание [Survival], Плавание [Swimming], Теология [Theology], Выслеживание [Tracking], Создание ловушек [Trapping]<sup>*</sup>
+
+> \* Названия навыков следуют глоссарию проекта, включая «Природоведение [Naturalism]» и «Мифография [Loremastery]» в последующих списках. Формы без словарного утверждения, названия заклинаний, существ и отдельных механик остаются рабочими. Маркеры C и G в таблице сохранены как в оригинале.
+
+**Список навыков: Ассасин [Assassin]:** Акробатика [Acrobatics], Алхимия [Alchemy], Внимательность [Alertness], Основы магии [Arcane Dabbling], Тренировка в доспехах [Armor Training], Подкуп [Bribery], Кошачья грация [Cat Burglary], Лазание [Climbing], Боевые рефлексы [Combat Reflexes], Боевая хитрость [Combat Trickery] (обезоруживание [disarm], выведение из строя [incapacitate]), Гибкость [Contortionism], Маскировка [Disguise], Чутье [Eavesdropping], Специализация на боевом стиле [Fighting Style Specialization], Азартные игры [Gambling], Запугивание [Intimidation], Убийца родичей [Kin-Slaying], Мимикрия [Mimicry], Знание ядов [Poisoning], Точная стрельба [Precise Shooting], Бегун [Running], Бей и беги [Skirmishing], Поиск укрытий [Skulking], Подготовка снайпера [Sniping], Бравада [Swashbuckling], Изящное владение оружием [Weapon Finesse], Любимое оружие [Weapon Focus]
+
+**Список навыков: Варвар [Barbarian]:** Внимательность [Alertness], Засада [Ambushing], Тренировка в доспехах [Armor Training], Дружба с животными [Beast Friendship], Берсерк [Berserkergang], Бой вслепую [Blind Fighting], Лазание [Climbing], Боевая свирепость [Combat Ferocity], Боевые рефлексы [Combat Reflexes], Боевая хитрость [Combat Trickery] (оттеснение [force back], сбивание с ног [knock down], Пробиться [Overrun], борьба [wrestling]), Командование [Command], Специализация на боевом стиле [Fighting Style Specialization], Боевая подготовка [Martial Training], Альпинизм [Mountaineering], Бой верхом [Mounted Combat], Проход без следа [Passing Without Trace], Точная стрельба [Precise Shooting], Верховая езда [Riding], Бегун [Running], Мореплавание [Seafaring], Бей и беги [Skirmishing], Подготовка снайпера [Sniping], Бравада [Swashbuckling], Изящное владение оружием [Weapon Finesse], Любимое оружие [Weapon Focus]
+
+---
+
+<p align="right" id="pdf-page-0105"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=105" title="Страница PDF 105 · печатная стр. 103">страница 105</a></small></p>
+
+**Список навыков: Бард [Bard]:** Акробатика [Acrobatics], Искусство [Art], Торг [Bargaining], Дружба с животными [Beast Friendship], Подкуп [Bribery], Боевая хитрость [Combat Trickery] (обезоруживание [disarm]), Командование [Command], Дипломатия [Diplomacy], Эльфийская кровь [Elven Bloodline], Специализация на боевом стиле [Fighting Style Specialization], Целительство [Healing], Знания [Knowledge], Язык [Language], Лидерство [Leadership], Чтение по губам [Lip Reading], Магическая Инженерия [Magical Engineering], Волшебное музицирование [Magical Music], Мимикрия [Mimicry], Мистическая аура [Mystic Aura], Выступление [Performance], Точная стрельба [Precise Shooting], Фокусничество [Prestidigitation], Бегун [Running], Соблазнение [Seduction], Бей и беги [Skirmishing], Бравада [Swashbuckling], Изящное владение оружием [Weapon Finesse], Любимое оружие [Weapon Focus]<sup>*</sup>
+
+> \* Списки барда [Bard] в главах 2 и 3 различаются: на PDF-странице 57 есть Маскировка [Disguise], а здесь вместо неё — Искусство [Art]. Переведён список именно главы 3; согласование двух исходных списков требует решения главного переводчика.
+
+**Список навыков: Дева клинков [Bladedancer]:** Акробатика [Acrobatics], Боевая магия [Battle Magic], Дружба с животными [Beast Friendship], Боевые рефлексы [Combat Reflexes], Боевая хитрость [Combat Trickery] (обезоруживание [disarm], сбивание с ног [knock down]), Созерцание [Contemplation], Дипломатия [Diplomacy], Божественное благословение [Divine Blessing], Божественное здоровье [Divine Health], Эльфийская кровь [Elven Bloodline], Специализация на боевом стиле [Fighting Style Specialization], Возложение рук [Laying on Hands], Волшебное музицирование [Magical Music], Боевая подготовка [Martial Training], Бой верхом [Mounted Combat], Мистическая аура [Mystic Aura], Фокусничество [Prestidigitation], Пророчество [Prophecy], Тихая магия [Quiet Magic], Бегун [Running], Соблазнение [Seduction], Бей и беги [Skirmishing], Бравада [Swashbuckling], Синкретизм [Syncretism], Рукопашный бой [Unarmed Fighting], Непоколебимый заклинатель [Unflappable Casting], Любимое оружие [Weapon Focus]
+
+**Список навыков: Крестоносец [Crusader]:** Боевая магия [Battle Magic], Дружба с животными [Beast Friendship], Боевая хитрость [Combat Trickery] (оттеснение [force back], Пробиться [Overrun], Разделение [Sunder]), Командование [Command], Созерцание [Contemplation], Дипломатия [Diplomacy], Божественное благословение [Divine Blessing], Божественное здоровье [Divine Health], Специализация на боевом стиле [Fighting Style Specialization], Целительство [Healing], Возложение рук [Laying on Hands], Лидерство [Leadership], Мифография [Loremastery], Магическая Инженерия [Magical Engineering], Боевая подготовка [Martial Training], Бой верхом [Mounted Combat], Фокусничество [Prestidigitation], Пророчество [Prophecy], Тихая магия [Quiet Magic], Праведное изгнание [Righteous Rebuke], Чувство зла [Sensing Evil], Чувство силы [Sensing Power], Синкретизм [Syncretism], Теология [Theology], Непоколебимый заклинатель [Unflappable Casting], Любимое оружие [Weapon Focus]
+
+**Список навыков: Дварфийский мастер-жрец [Dwarven Craftpriest]:** Алхимия [Alchemy], Боевая магия [Battle Magic], Исследователь подземелий [Caving], Школа магии [Collegiate Wizardry], Созерцание [Contemplation], Ремесло [Craft], Дипломатия [Diplomacy], Божественное благословение [Divine Blessing], Божественное здоровье [Divine Health], Дварфийское пивоварение [Dwarven Brewing], Инженерное дело [Engineering], Расширенный репертуар [Expanded Repertoire], Экспериментаторство [Experimenting], Специализация на боевом стиле [Fighting Style Specialization], Убийца гоблинов [Goblin-Slaying], Целительство [Healing], Устойчивость к иллюзиям [Illusion Resistance], Знания [Knowledge], Возложение рук [Laying on Hands], Мифография [Loremastery], Магическая Инженерия [Magical Engineering], Картография [Mapping], Фокусничество [Prestidigitation], Профессия [Profession] (судья [judge]), Пророчество [Prophecy], Тихая магия [Quiet Magic], Реликварианизм [Reliquarianism], Праведное изгнание [Righteous Rebuke], Чувство зла [Sensing Evil], Осадное дело [Siege Engineering], Теология [Theology], Непоколебимый заклинатель [Unflappable Casting], Любимое оружие [Weapon Focus]
+
+**Список навыков: Дварфийский страж убежищ [Dwarven Vaultguard]:** Внимательность [Alertness], Берсерк [Berserkergang], Бой вслепую [Blind Fighting], Исследователь подземелий [Caving], Боевая свирепость [Combat Ferocity], Боевые рефлексы [Combat Reflexes], Боевая хитрость [Combat Trickery] (оттеснение [force back], сбивание с ног [knock down], Пробиться [Overrun], Разделение [Sunder], борьба [wrestling]), Командование [Command], Эксперт выбивания дверей [Dungeonbashing Expertise], Дварфийское пивоварение [Dwarven Brewing], Специализация на боевом стиле [Fighting Style Specialization], Убийца гоблинов [Goblin-Slaying], Устойчивость к иллюзиям [Illusion Resistance], Запугивание [Intimidation], Геодезия [Land Surveying], Лидерство [Leadership], Военная стратегия [Military Strategy], Альпинизм [Mountaineering], Точная стрельба [Precise Shooting], Геолог [Prospecting], Бегун [Running], Осадное дело [Siege Engineering], Убийца вредителей [Vermin-Slaying], Любимое оружие [Weapon Focus]
+
+**Список навыков: Эльфийский ночной клинок [Elven Nightblade]:** Боевая магия [Battle Magic], Дружба с животными [Beast Friendship], Темные знания Захарийцев [Black Lore of Zahar], Бой вслепую [Blind Fighting], Боевые рефлексы [Combat Reflexes], Гибкость [Contortionism], Рассеивание магии [Counterspelling], Чутье [Eavesdropping], Элементализм [Elementalism], Расширенный репертуар [Expanded Repertoire], Фамильяр [Familiar], Специализация на боевом стиле [Fighting Style Specialization], Убийца родичей [Kin-Slaying], Магическая Инженерия [Magical Engineering], Мастерство зачарования и иллюзий [Mastery of Enchantments & Illusions], Мистическая аура [Mystic Aura], Проход без следа [Passing Without Trace], Знание ядов [Poisoning], Точная стрельба [Precise Shooting], Фокусничество [Prestidigitation], Бегун [Running], Чувство силы [Sensing Power], Бей и беги [Skirmishing], Поиск укрытий [Skulking], Подготовка снайпера [Sniping], Бравада [Swashbuckling], Непоколебимый заклинатель [Unflappable Casting], Рукопашный бой [Unarmed Fighting], Транс [Wakefulness], Любимое оружие [Weapon Focus], Изящное владение оружием [Weapon Finesse]
+
+**Список навыков: Эльфийский мечник-чародей [Elven Spellsword]:** Боевая магия [Battle Magic], Дружба с животными [Beast Friendship], Темные знания Захарийцев [Black Lore of Zahar], Бой вслепую [Blind Fighting], Боевые рефлексы [Combat Reflexes], Боевая хитрость [Combat Trickery] (обезоруживание [disarm], сбивание с ног [knock down]), Командование [Command], Рассеивание магии [Counterspelling], Элементализм [Elementalism], Расширенный репертуар [Expanded Repertoire], Экспериментаторство [Experimenting], Фамильяр [Familiar], Специализация на боевом стиле [Fighting Style Specialization], Мифография [Loremastery], Магическая Инженерия [Magical Engineering], Волшебное музицирование [Magical Music], Мастерство зачарования и иллюзий [Mastery of Enchantments & Illusions], Бой верхом [Mounted Combat], Мистическая аура [Mystic Aura], Тихая магия [Quiet Magic], Точная стрельба [Precise Shooting], Фокусничество [Prestidigitation], Бегун [Running], Чувство силы [Sensing Power], Бей и беги [Skirmishing], Гадание [Soothsaying], Бравада [Swashbuckling], Непоколебимый заклинатель [Unflappable Casting], Транс [Wakefulness], Любимое оружие [Weapon Focus], Изящное владение оружием [Weapon Finesse]
+
+**Список навыков: Исследователь [Explorer]:** Дружба с животными [Beast Friendship], Лазание [Climbing], Боевые рефлексы [Combat Reflexes], Боевая свирепость [Combat Ferocity], Боевая хитрость [Combat Trickery] (обезоруживание [disarm], сбивание с ног [knock down]), Возничий [Driving], Чутье [Eavesdropping], Эльфийская кровь [Elven Bloodline], Специализация на боевом стиле [Fighting Style Specialization], Устойчивость к иллюзиям [Illusion Resistance], Геодезия [Land Surveying], Картография [Mapping], Альпинизм [Mountaineering], Бой верхом [Mounted Combat], Природоведение [Naturalism], Навигация [Navigation], Проход без следа [Passing Without Trace], Точная стрельба [Precise Shooting], Геолог [Prospecting], Верховая езда [Riding], Бегун [Running], Мореплавание [Seafaring], Бей и беги [Skirmishing], Подготовка снайпера [Sniping], Бравада [Swashbuckling], Изящное владение оружием [Weapon Finesse], Любимое оружие [Weapon Focus]
+
+**Список навыков: Воин [Fighter]:** Акробатика [Acrobatics], Внимательность [Alertness], Берсерк [Berserkergang], Бой вслепую [Blind Fighting], Боевая свирепость [Combat Ferocity], Боевые рефлексы [Combat Reflexes], Боевая хитрость [Combat Trickery] (обезоруживание [disarm], оттеснение [force back], сбивание с ног [knock down], Пробиться [Overrun], Разделение [Sunder], борьба [wrestling]), Командование [Command], Эксперт выбивания дверей [Dungeonbashing Expertise], Специализация на боевом стиле [Fighting Style Specialization], Лидерство [Leadership], Военная подготовка [Manual of Arms], Военная стратегия [Military Strategy], Бой верхом [Mounted Combat], Точная стрельба [Precise Shooting], Верховая езда [Riding], Бегун [Running], Осадное дело [Siege Engineering], Бей и беги [Skirmishing], Бравада [Swashbuckling], Рукопашный бой [Unarmed Fighting], Изящное владение оружием [Weapon Finesse], Любимое оружие [Weapon Focus]
+
+**Список навыков: Маг [Mage]:** Алхимия [Alchemy], Боевая магия [Battle Magic], Дружба с животными [Beast Friendship], Темные знания Захарийцев [Black Lore of Zahar], Светлые знания Ауры [Bright Lore of Aura], Рассеивание магии [Counterspelling], Дипломатия [Diplomacy], Элементализм [Elementalism], Эльфийская кровь [Elven Bloodline], Инженерное дело [Engineering], Расширенный репертуар [Expanded Repertoire], Экспериментаторство [Experimenting], Фамильяр [Familiar], Целительство [Healing], Устойчивость к иллюзиям [Illusion Resistance], Знания [Knowledge], Язык [Language], Мифография [Loremastery], Магическая Инженерия [Magical Engineering], Мастерство зачарования и иллюзий [Mastery of Enchantments & Illusions], Мастерство колдовства и призыва [Mastery of Conjuration & Summoning], Мистическая аура [Mystic Aura], Тихая магия [Quiet Magic], Фокусничество [Prestidigitation], Чувство силы [Sensing Power], Гадание [Soothsaying], Трансмогрификация [Transmogrification], Непоколебимый заклинатель [Unflappable Casting]
+
+**Список навыков: Нобирийский чудотворцец [Nobiran Wonderworker]:** Алхимия [Alchemy], Боевая магия [Battle Magic], Темные знания Захарийцев [Black Lore of Zahar], Дружба с животными [Beast Friendship], Светлые знания Ауры [Bright Lore of Aura], Командование [Command], Созерцание [Contemplation], Рассеивание магии [Counterspelling], Элементализм [Elementalism], Расширенный репертуар [Expanded Repertoire], Экспериментаторство [Experimenting], Фамильяр [Familiar], Целительство [Healing], Устойчивость к иллюзиям [Illusion Resistance], Возложение рук [Laying on Hands], Мифография [Loremastery], Магическая Инженерия [Magical Engineering], Боевая подготовка [Martial Training], Мастерство зачарования и иллюзий [Mastery of Enchantments & Illusions], Мастерство колдовства и призыва [Mastery of Conjuration & Summoning], Мистическая аура [Mystic Aura], Фокусничество [Prestidigitation], Пророчество [Prophecy], Тихая магия [Quiet Magic], Чувство зла [Sensing Evil], Чувство силы [Sensing Power], Гадание [Soothsaying], Синкретизм [Syncretism], Трансмогрификация [Transmogrification], Непоколебимый заклинатель [Unflappable Casting]
+
+**Список навыков: Паладин [Paladin]:** Внимательность [Alertness], Дружба с животными [Beast Friendship], Берсерк [Berserkergang], Бой вслепую [Blind Fighting], Боевая свирепость [Combat Ferocity], Боевые рефлексы [Combat Reflexes], Боевая хитрость [Combat Trickery] (оттеснение [force back], выведение из строя [incapacitate], Пробиться [Overrun], Разделение [Sunder]), Командование [Command], Дипломатия [Diplomacy], Божественное благословение [Divine Blessing], Эксперт выбивания дверей [Dungeonbashing Expertise], Боевой стиль [Fighting Style], Убийца гоблинов [Goblin-Slaying], Целительство [Healing], Устойчивость к иллюзиям [Illusion Resistance], Возложение рук [Laying on Hands], Лидерство [Leadership], Военная подготовка [Manual of Arms], Боевая подготовка [Martial Training], Военная стратегия [Military Strategy], Бой верхом [Mounted Combat], Мистическая аура [Mystic Aura], Верховая езда [Riding], Бегун [Running], Любимое оружие [Weapon Focus]<sup>*</sup>
+
+> \* У паладина [Paladin] в оригинале указан Fighting Style, тогда как навык далее озаглавлен Fighting Style Specialization. Здесь сохранён «Боевой стиль [Fighting Style]»; тождество названий не исправлено молча.
+
+---
+
+<p align="right" id="pdf-page-0106"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=106" title="Страница PDF 106 · печатная стр. 104">страница 106</a></small></p>
+
+**Список навыков: Жрица [Priestess]:** Алхимия [Alchemy], Уход за животными [Animal Husbandry], Основы магии [Arcane Dabbling], Тренировка в доспехах [Armor Training], Дружба с животными [Beast Friendship], Светлые знания Ауры [Bright Lore of Aura], Созерцание [Contemplation], Божественное благословение [Divine Blessing], Фамильяр [Familiar], Целительство [Healing], Устойчивость к иллюзиям [Illusion Resistance], Знания [Knowledge], Возложение рук [Laying on Hands], Мифография [Loremastery], Магическая Инженерия [Magical Engineering], Волшебное музицирование [Magical Music], Мастерство зачарования и иллюзий [Mastery of Enchantments & Illusions], Мистическая аура [Mystic Aura], Природоведение [Naturalism], Выступление [Performance], Фокусничество [Prestidigitation], Профессия [Profession], Пророчество [Prophecy], Тихая магия [Quiet Magic], Чувство зла [Sensing Evil], Чувство силы [Sensing Power], Синкретизм [Syncretism], Непоколебимый заклинатель [Unflappable Casting]
+
+**Список навыков: Шаман [Shaman]:** Уход за животными [Animal Husbandry], Дрессировка [Animal Training], Боевая магия [Battle Magic], Дружба с животными [Beast Friendship], Берсерк [Berserkergang], Командование [Command], Дипломатия [Diplomacy], Божественное благословение [Divine Blessing], Божественное здоровье [Divine Health], Элементализм [Elementalism], Специализация на боевом стиле [Fighting Style Specialization], Целительство [Healing], Возложение рук [Laying on Hands], Лидерство [Leadership], Мифография [Loremastery], Магическая Инженерия [Magical Engineering], Волшебное музицирование [Magical Music], Природоведение [Naturalism], Проход без следа [Passing Without Trace], Фокусничество [Prestidigitation], Тихая магия [Quiet Magic], Чувство зла [Sensing Evil], Чувство силы [Sensing Power], Синкретизм [Syncretism], Теология [Theology], Выслеживание [Tracking], Непоколебимый заклинатель [Unflappable Casting], Любимое оружие [Weapon Focus]<sup>*</sup>
+
+> \* В списке шамана [Shaman] на PDF-странице 73 указан Элементализм (воздух) [Elementalism (air)], а здесь — Элементализм [Elementalism] без ограничения стихии. Различие оригинала сохранено.
+
+**Список навыков: Вор [Thief]:** Акробатика [Acrobatics], Внимательность [Alertness], Основы магии [Arcane Dabbling], Подкуп [Bribery], Кошачья грация [Cat Burglary], Боевые рефлексы [Combat Reflexes], Боевая хитрость [Combat Trickery] (обезоруживание [disarm], выведение из строя [incapacitate]), Гибкость [Contortionism], Специализация на боевом стиле [Fighting Style Specialization], Азартные игры [Gambling], Запугивание [Intimidation], Чтение по губам [Lip Reading], Мастерство взлома [Lockpicking Expertise], Картография [Mapping], Знание ядов [Poisoning], Точная стрельба [Precise Shooting], Верховая езда [Riding], Бегун [Running], Мореплавание [Seafaring], Бей и беги [Skirmishing], Поиск укрытий [Skulking], Подготовка снайпера [Sniping], Бравада [Swashbuckling], Поиск ловушек [Trapfinding], Рукопашный бой [Unarmed Fighting], Изящное владение оружием [Weapon Finesse], Любимое оружие [Weapon Focus]
+
+**Список навыков: Торговец [Venturer]:** Внимательность [Alertness], Засада [Ambushing], Основы магии [Arcane Dabbling], Торг [Bargaining], Лазание [Climbing], Боевые рефлексы [Combat Reflexes], Боевая хитрость [Combat Trickery] (обезоруживание [disarm], выведение из строя [incapacitate]), Командование [Command], Возничий [Driving], Чутье [Eavesdropping], Эльфийская кровь [Elven Bloodline], Запугивание [Intimidation], Геодезия [Land Surveying], Лидерство [Leadership], Чтение по губам [Lip Reading], Магическая Инженерия [Magical Engineering], Картография [Mapping], Альпинизм [Mountaineering], Бой верхом [Mounted Combat], Проход без следа [Passing Without Trace], Точная стрельба [Precise Shooting], Геолог [Prospecting], Верховая езда [Riding], Бегун [Running], Мореплавание [Seafaring], Бей и беги [Skirmishing], Бравада [Swashbuckling], Изящное владение оружием [Weapon Finesse]
+
+**Список навыков: Колдун [Warlock]:** Алхимия [Alchemy], Боевая магия [Battle Magic], Дружба с животными [Beast Friendship], Темные знания Захарийцев [Black Lore of Zahar], Рассеивание магии [Counterspelling], Божественное благословение [Divine Blessing], Элементализм [Elementalism], Эльфийская кровь [Elven Bloodline], Расширенный репертуар [Expanded Repertoire], Экспериментаторство [Experimenting], Фамильяр [Familiar], Устойчивость к иллюзиям [Illusion Resistance], Знания [Knowledge], Язык [Language], Мифография [Loremastery], Магическая Инженерия [Magical Engineering], Мастерство зачарования и иллюзий [Mastery of Enchantments & Illusions], Мастерство колдовства и призыва [Mastery of Conjuration & Summoning], Мистическая аура [Mystic Aura], Природоведение [Naturalism], Знание ядов [Poisoning], Фокусничество [Prestidigitation], Тихая магия [Quiet Magic], Чувство добра [Sensing Good], Чувство силы [Sensing Power], Гадание [Soothsaying], Трансмогрификация [Transmogrification], Непоколебимый заклинатель [Unflappable Casting]
+
+**Список навыков: Ведьма [Witch]:** Алхимия [Alchemy], Основы магии [Arcane Dabbling], Дружба с животными [Beast Friendship], Темные знания Захарийцев [Black Lore of Zahar], Созерцание [Contemplation], Божественное благословение [Divine Blessing], Божественное здоровье [Divine Health], Элементализм [Elementalism], Эльфийская кровь [Elven Bloodline], Расширенный репертуар [Expanded Repertoire], Фамильяр [Familiar], Устойчивость к иллюзиям [Illusion Resistance], Возложение рук [Laying on Hands], Мифография [Loremastery], Магическая Инженерия [Magical Engineering], Волшебное музицирование [Magical Music], Мастерство зачарования и иллюзий [Mastery of Enchantments & Illusions], Мистическая аура [Mystic Aura], Природоведение [Naturalism], Проход без следа [Passing without Trace], Знание ядов [Poisoning], Фокусничество [Prestidigitation], Пророчество [Prophecy], Тихая магия [Quiet Magic], Чувство силы [Sensing Power], Гадание [Soothsaying], Трансмогрификация [Transmogrification], Непоколебимый заклинатель [Unflappable Casting]
+
+**Список навыков: Захарийский страж руин [Zaharan Ruinguard]:** Внимательность [Alertness], Засада [Ambushing], Боевая магия [Battle Magic], Берсерк [Berserkergang], Темные знания Захарийцев [Black Lore of Zahar], Бой вслепую [Blind Fighting], Боевая свирепость [Combat Ferocity], Боевая хитрость [Combat Trickery] (оттеснение [force back], сбивание с ног [knock down], Пробиться [Overrun], Разделение [Sunder]), Командование [Command], Эксперт выбивания дверей [Dungeonbashing Expertise], Элементализм [Elementalism], Фамильяр [Familiar], Специализация на боевом стиле [Fighting Style Specialization], Убийца родичей [Kin-Slaying], Лидерство [Leadership], Боевая подготовка [Martial Training], Мастерство колдовства и призыва [Mastery of Conjuration & Summoning], Военная стратегия [Military Strategy], Бой верхом [Mounted Combat], Мистическая аура [Mystic Aura], Чувство добра [Sensing Good], Чувство силы [Sensing Power], Трансмогрификация [Transmogrification], Непоколебимый заклинатель [Unflappable Casting], Транс [Wakefulness]<sup>*</sup>
+
+> \* В списке захарийского стража руин [Zaharan Ruinguard] на PDF-странице 101 есть Бей и беги [Skirmishing], а здесь вместо него — Трансмогрификация [Transmogrification]. Сохранён список главы 3. Переносное написание Kin- Slaying передано как обычное имя навыка «Убийца родичей [Kin-Slaying]».
+
+---
+
+<p align="right" id="pdf-page-0107"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=107" title="Страница PDF 107 · печатная стр. 105">страница 107</a></small></p>
+
+## Описания навыков
+
+<small>PROFICIENCY DESCRIPTIONS</small>
+
+Для удобства навыки из общего списка [general list] отмечены знаком (G). Остальные навыки входят только в один или несколько классовых списков [class lists].
+
+### Авантюризм (G)
+
+<small>ADVENTURING (G)</small>
+
+Персонаж хорошо подготовлен к жизни авантюриста. Он умеет чистить и точить оружие, разбивать лагерь, готовить на открытом огне, седлать лошадь и ездить на ней вне боя, а также оказывать простейшую первую помощь. Он примерно представляет ценность распространённых монет, торговых товаров, самоцветов и украшений, а также природу различных видов магии и чудовищ. Кроме того, персонаж может:
+
+♦ Выбить застрявшую дверь боевым действием [combat action], успешно выполнив бросок Выбивания дверей [Dungeonbashing] на 18+;
+
+♦ Взобраться по несложному препятствию, например верёвке или ветвистому дереву, успешно выполнив бросок Лазания [Climbing] на 8+;
+
+♦ Тщательно искать замаскированные ловушки, секретные двери, зарытые сокровища и другие скрытые объекты, потратив один ход [turn] (10 минут) и успешно выполнив бросок Поиска [Searching] на 18+;
+
+♦ Осторожно обезвредить ловушку, потратив один ход [turn] (10 минут) и успешно выполнив бросок Обезвреживания ловушек [Trapbreaking] на 18+;
+
+♦ Остановиться и прислушаться к звукам, потратив один раунд [round] и успешно выполнив бросок Подслушивания [Listening] на 18+.
+
+Подробности этих действий приведены в описании классовых способностей [class powers] вора [Thief] (стр. 30) и в главе 6 «Приключения» [Adventures] (стр. 263). Считается, что Авантюризм [Adventuring] есть у всех персонажей игроков [player characters]. У большинства НИП [NPCs] с классом он также есть, но у большинства НИП [NPCs] 0-го уровня его нет. Если Авантюризм [Adventuring] выбирается после начала игры, он считается классовым навыком [class proficiency].
+
+### Акробатика
+
+<small>ACROBATICS</small>
+
+Персонаж обучен прыжкам, кувыркам, сальто и свободному преодолению препятствий. Он получает +2 к спасброскам [saving throws] в случаях, когда проворство помогает избежать опасности, например на наклоняющемся полу или над ловушкой-ямой. При определении дальности и высоты прыжка он прибавляет свой уровень класса к ЛОВ [DEX]. К спасброскам от паралича [Paralysis], позволяющим избежать падения, он также прибавляет свой уровень класса.
+
+Действием движения [movement action] персонаж может попытаться перекувырнуться мимо противника, с которым находится вплотную [engaged], выполнив бросок навыка [proficiency throw]. На 1-м уровне для успеха требуется 18+; с каждым уровнем целевое значение уменьшается на 1. При провале персонаж остаётся на месте. При успехе он перекатывается прямо мимо противника на противоположную сторону и оказывается лицом к нему либо спиной к нему, по выбору игрока. Если место по другую сторону противника занято, перекувырнуться нельзя. Оказавшись спиной к противнику, персонаж при желании может совершить боевое перемещение [combat movement] вместо атаки. Оказавшись лицом к нему, он может атаковать и, возможно, нанести Удар в спину [backstab]. Нельзя перекувырнуться при нагрузке [encumbrance] более 5 стоунов [stone]. Нельзя перекувыриваться мимо одного и того же противника два раунда [rounds] подряд.
+
+### Алхимия (G)
+
+<small>ALCHEMY (G)</small>
+
+Персонаж обучен приготовлению и распознаванию алхимических веществ: зелий, ядов, масел и тому подобного. Этот навык весьма полезен авантюристам.
+
+С одним рангом Алхимии [Alchemy] персонаж автоматически извлекает особые компоненты [special components] из слизи [oozes] и может за один ход [turn] определить распространённое алхимическое вещество по запаху и цвету, выполнив бросок навыка [proficiency throw] на 11+. Бросок на 14+ позволяет определить, какие части чудовища являются особыми компонентами [special components]. Кроме того, персонаж может извлекать токсины из ядовитых растений. Каждая попытка требует одного дня целенаправленной деятельности [dedicated activity] и броска навыка [proficiency throw] на 20+ для свежих растений или на 24+ для сушёных. При успехе он получает одну дозу яда; при провале случайно портит растения. Если при провале на кости без модификаторов выпало 1, персонаж случайно подвергается воздействию токсина и должен немедленно успешно выполнить спасбросок от смерти [Death] либо испытать его действие. Кроме того, для приготовления зелий персонаж считается магом [Mage] 1-го уровня; если его уровень заклинателя [caster level] уже выше, он вместо этого получает +1 к броскам магических исследований [magic research throws], связанным с алхимией. Он получает темп исследований [research rate] 5 зм для алхимии либо увеличивает свой существующий темп исследований [research rate] на 5%.
+
+С двумя рангами Алхимии [Alchemy] персонаж автоматически извлекает особые компоненты [special components] из слизи [oozes], воплощений [incarnations] и бестелесной нежити [incorporeal undead]; определяет вещества на 7+, особые компоненты [special components] на 11+ и извлекает токсины на 16+/20+. Для приготовления зелий он считается магом [Mage] 3-го уровня; если его уровень заклинателя [caster level] уже выше, он вместо этого получает +2 к связанным с алхимией броскам магических исследований [magic research throws]. Он получает темп исследований [research rate] 15 зм для алхимии либо увеличивает существующий темп исследований [research rate] на 10%.
+
+С тремя рангами Алхимии [Alchemy] персонаж определяет вещества на 3+, особые компоненты [special components] на 7+ и извлекает токсины на 12+/16+. Для приготовления зелий он считается магом [Mage] 5-го уровня либо получает +3 к связанным с алхимией броскам магических исследований [magic research throws], если это даёт более высокий уровень заклинателя [caster level]. Он может руководить другими заклинателями [casters] или алхимиками при приготовлении зелий. Он получает темп исследований [research rate] 50 зм для алхимии либо увеличивает существующий темп исследований [research rate] на 15%, в зависимости от того, что больше. Он может работать алхимиком, как описано в разделе «Специалисты» [Specialists] (стр. 170).<sup>*</sup>
+
+> \* Для третьего ранга Алхимии [Alchemy] оригинал говорит «if that would grant higher caster level», тогда как для первых двух — «if already of higher caster level». Различие формулировок сохранено; условие бонуса +3 требует решения главного переводчика.
+
+*Любое зелье — яд, пока алхимик не скажет обратного.*
+
+Изречение авантюристов
+
+### Внимательность
+
+<small>ALERTNESS</small>
+
+Персонаж бдителен к опасности. Он получает бонус +1 к избеганию внезапности [surprise]. Применяя Авантюризм [Adventuring] для поиска или подслушивания, он преуспевает при броске навыка [proficiency throw] на 14+ вместо обычных 18+. Если он отдельно владеет Поиском [Searching] или Подслушиванием [Listening], то вместо этого получает +2 к соответствующему броску.
+
+### Засада
+
+<small>AMBUSHING</small>
+
+Персонаж умеет нападать на неподготовленного врага. Он может атаковать из засады [ambush] любого **уязвимого [vulnerable]** противника. Атака из засады [ambush] возможна в ближнем бою или дальнобойным оружием [missile weapons] на короткой дистанции, но невозможна дальнобойным оружием [missile weapons] на средней и большей дистанции. Атакуя из засады [ambushing], персонаж получает +4 к броскам атаки [attack throws] и наносит этой атакой одну дополнительную кость урона.
+
+---
+
+<p align="right" id="pdf-page-0108"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=108" title="Страница PDF 108 · печатная стр. 106">страница 108</a></small></p>
+
+### Развитие навыка «Уход за животными»
+
+<small>ANIMAL HUSBANDRY PROFICIENCY PROGRESSION</small>
+
+| Звание<br><small>TITLE</small> | Ранг (число<br>выборов навыка)<br><small>RANK (# OF<br>TIMES TAKEN)</small> | Заработок,<br>зм/месяц<br><small>GP EARNED<br>/ MONTH</small> | Пациентов<br>в день<br><small>PATIENTS<br>/ DAY</small> | Умения<br><small>SKILLS</small> |
+| --- | --- | --- | --- | --- |
+| Животновод [Animal Husband] | 1 | 25 зм | 3 | Определение 11+, дополнительно 1d3 ОЗ [hit points] в день |
+| Ветеринар [Veterinarian] | 2 | 50 зм | 4 | Определение 7+; *Нейтрализация яда [neutralize poison]*, *Исцеление болезни [cure disease]*, *Исцеление лёгкой травмы [cure light]* 18+ |
+| Ветеринарный хирург [Veterinary Surgeon] | 3 | 100 зм | 5 | Определение 3+; *Нейтрализация яда [neutralize poison]*, *Исцеление болезни [cure disease]*, *Исцеление серьёзной травмы [cure serious]* 14+ |
+
+### Уход за животными (G)
+
+<small>ANIMAL HUSBANDRY (G)</small>
+
+Персонаж умеет ухаживать за животными. Занимаясь этим как целенаправленной деятельностью [dedicated activity], он может заботиться о трёх животных и ещё об одном за каждый последующий выбор Ухода за животными [Animal Husbandry]. Раненое животное под его присмотром автоматически восстанавливает на 1d3 ОЗ [hit points] больше за каждый день отдыха, если содержится в чистоте и получает подходящий корм. Если животное заболело или отравлено, персонаж может попытаться определить болезнь или яд. Для этого нужны один ход [turn] (10 минут) медицинского осмотра и бросок навыка [proficiency throw] на 11+. При успехе персонаж определяет, имеет ли болезнь или яд магическую или обычную природу, а в обычном случае также ставит диагноз. При провале он ничего не определяет и не может повторить попытку, пока у животного не появятся новые симптомы.
+
+Дважды выбрав Уход за животными [Animal Husbandry], персонаж становится ветеринаром [veterinarian]. Теперь он ставит диагноз на 7+. Кроме того, он может немагическим способом воспроизвести *Нейтрализацию яда [neutralize poison]*, *Исцеление болезни [cure disease]* или *Исцеление лёгкой травмы [cure light injury]* на отравленном, больном или раненом животном. Прежде чем лечить болезнь или отравление, он должен успешно поставить диагноз. Каждая попытка требует одного хода [turn] (10 минут) и броска навыка [proficiency throw] на 18+. При успехе возникает такой же лечебный эффект, как от соответствующего заклинания. При провале повторить попытку с тем же эффектом на том же животном можно лишь на следующий день. Трижды выбрав Уход за животными [Animal Husbandry], персонаж становится ветеринарным хирургом [veterinary surgeon]. Теперь он ставит диагноз на 3+ и может воспроизвести *Нейтрализацию яда [neutralize poison]*, *Исцеление болезни [cure disease]* или *Исцеление серьёзной травмы [cure serious injury]* на отравленном, больном или раненом животном броском навыка [proficiency throw] на 14+.<sup>*</sup>
+
+> \* Уход за животными [Animal Husbandry] запрещает повторить лечебный эффект на том же животном до следующего дня только после провала. Целительство [Healing] на PDF-странице 114 явно устанавливает запрет независимо от успеха. Различие оригинала сохранено.
+
+Умение ухаживать за животными даёт и другие полезные возможности. Один ранг Ухода за животными [Animal Husbandry] позволяет добывать компоненты из животных, два ранга — из вредителей [vermin]. В сумме два ранга Ухода за животными [Animal Husbandry] и/или Целительства [Healing] позволяют добывать компоненты из зверолюдей [beastmen], а три ранга в сумме — из чудовищных созданий [monstrosities].
+
+Персонаж также может извлекать яд из убитых животных. Каждая попытка требует одного часа вспомогательной деятельности [ancillary activity] и броска навыка [proficiency throw] на 18+. При успехе он получает одну дозу яда; при провале может попробовать снова. Если при провале на кости без модификаторов выпало 1, персонаж случайно задевает ядовитый клык или жало и должен немедленно выполнить спасбросок от смерти [Death]. При провале он испытывает действие яда.
+
+Поскольку у большинства существ есть общие анатомические черты, персонаж может применять этот навык к гуманоидам [humanoids], чудовищным созданиям [monstrosities] и вредителям [vermin] со штрафом -4.
+
+### Дрессировка (G)
+
+<small>ANIMAL TRAINING (G)</small>
+
+Персонаж умеет разводить, обихаживать и обучать различных животных. Один ранг Дрессировки [Animal Training] позволяет обучать домашних животных, например собак, соколов и лошадей. Два ранга позволяют обучать диких животных, например медведей и львов. Три ранга позволяют обучать лютых [dire], гигантских [giant] и доисторических [prehistoric] животных, например пещерных медведей и гигантских ястребов. Четыре ранга позволяют обучать чудовищных созданий [monstrosities] с животным интеллектом, например грифонов и совомедведей [owlbears], а также вредителей [vermin], например падальных ужасов [carrion horrors] и чёрных червей [black worms].
+
+У каждого животного есть период обучения [training period], зависящий от его вида и обычно составляющий от одного до трёх месяцев. Если обучение начинается в раннем возрасте, пока животное ещё детёныш, на первоначальное приручение требуется один период обучения [training period], а на первый трюк — ещё один. После освоения первого трюка каждый последующий занимает половину периода обучения [training period]. Если приручение и обучение начинаются, когда чудовище уже взрослое или подросток, период обучения [training period] увеличивается в 6× для приручения и в 2× для каждого трюка. Обычно животное способно освоить не более 2d4 разных задач или трюков, хотя особенно покладистые, упрямые, глупые или умные особи могут освоить больше или меньше. Дрессировщик узнаёт предел животного лишь тогда, когда достигнет его.
+
+Один дрессировщик может одновременно обучать до шести животных и управлять ими как целенаправленной деятельностью [dedicated activity]. Однако если он работает с одним животным на протяжении всего курса — такой подход иногда называют «разговором с животными» [animal whispering], — предельное число трюков этого животного увеличивается на два. После приручения и обучения дрессировщик может одновременно управлять одним ездовым [mount] или боевым ездовым животным [warmount], 6 рабочими животными [workbeasts], 6 перегоняемыми животными [droving creatures] либо 20 сторожевыми существами [guard creatures]. При приближении к приручённым животным, оставшимся без управления, он получает +1 к броскам реакции [reaction rolls], если умеет обучать животных этого типа.
+
+*Молодая собака любит учиться, старая — своего учителя.*
+
+Бешерадская пословица
+
+### Основы магии
+
+<small>ARCANE DABBLING</small>
+
+Персонаж может пытаться пользоваться волшебными палочками [wands], посохами [staffs] и другими магическими предметами, доступными только тайным заклинателям [arcane spellcasters]. Знать командное слово [command word] предмета не требуется, но необходимо выполнить бросок навыка [proficiency throw] на 4+; иначе попытка оборачивается каким-либо непредсказуемым неприятным результатом по усмотрению Арбитра [Judge].
+
+### Развитие навыка «Дрессировка»
+
+<small>ANIMAL TRAINING PROFICIENCY PROGRESSION</small>
+
+| Звание<br><small>TITLE</small> | Ранг (число<br>выборов навыка)<br><small>RANK (# OF<br>TIMES TAKEN)</small> | Жалованье<br><small>WAGE</small> | Доступные для обучения животные<br><small>TRAINABLE ANIMALS</small> |
+| --- | --- | --- | --- |
+| Ученик [Apprentice] | 1 | 25 зм | Домашнее животное (собака, ястреб, лошадь и т. п.) |
+| Подмастерье [Journeyman] | 2 | 75 зм | Дикое животное (медведь, лев и т. п.) |
+| Мастер [Master] | 3 | 150 зм | Лютое [dire], гигантское [giant] или доисторическое [prehistoric] животное (пещерный медведь, лютый волк [dire wolf] и т. п.) |
+| Великий мастер [Grand Master] | 4 | 250 зм | Чудовищное создание [monstrosity] или вредитель [vermin] (грифон, совозверь [owlbeast], гигантский чёрный червь [giant black worm] и т. п.)<sup>*1</sup> |
+
+> \*1 В таблице написано owlbeast, а в тексте навыка — owlbear. Разные названия переданы как «совозверь [owlbeast]» и «совомедведь [owlbear]»; их тождество не предполагается.
+
+---
+
+<p align="right" id="pdf-page-0109"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=109" title="Страница PDF 109 · печатная стр. 107">страница 109</a></small></p>
+
+### Развитие навыка «Искусство/Ремесло»
+
+<small>ART/CRAFT PROFICIENCY PROGRESSION</small>
+
+| Звание<br><small>TITLE</small> | Ранг (число<br>выборов навыка)<br><small>RANK (# OF<br>TIMES TAKEN)</small> | Темп производства<br><small>CONSTRUCTION<br>RATE</small> | Допустимое число работников<br><small>NUMBER OF WORKERS ALLOWED</small> |
+| --- | --- | --- | --- |
+| Ученик [Apprentice] | 1 | 10 зм | Не применимо |
+| Подмастерье [Journeyman] | 2 | 20 зм | 3 ученика [Apprentices] |
+| Мастер [Master] | 3 | 40 зм | 2 подмастерья [Journeymen], 4 ученика [Apprentices] |
+| Великий мастер [Grand Master] | 4 | 80 зм | 2 мастера [Masters], 4 подмастерья [Journeymen], 8 учеников [Apprentices] |
+
+### Тренировка в доспехах
+
+<small>ARMOR TRAINING</small>
+
+Персонаж получает возможность без штрафа носить доспехи на одну весовую категорию тяжелее, чем обычно разрешено его классу. Тренировка в доспехах [Armor Training] не позволяет пользоваться воровскими умениями [thief skills] в средних или тяжёлых доспехах и не даёт преимуществ навыков или классовых способностей [class powers], требующих лёгких, очень лёгких доспехов либо отсутствия доспехов. Заклинатели [spellcasters] с Тренировкой в доспехах [Armor Training] могут произносить заклинания в освоенных благодаря ей доспехах.
+
+### Искусство/Ремесло (G)
+
+<small>ART/CRAFT (G)</small>
+
+Персонаж изучил один из видов изящного искусства, например живопись, скульптуру или мозаику, либо цеховое ремесло, например изготовление доспехов, луков, украшений, кожаных изделий, кузнечное дело, кораблестроение или изготовление оружия. В своей специальности он считается учеником [apprentice]. За месяц целенаправленной деятельности [dedicated activity] он может изготовить товары стоимостью 10 зм. Броском навыка [proficiency throw] на 11+ он распознаёт мастерские изделия [masterwork items], редкие материалы и знаменитых мастеров. Вид искусства или ремесла выбирается при получении навыка. Дополнительные выборы навыков можно потратить на освоение нескольких видов Искусства [Art] или Ремесла [Craft].
+
+Дважды выбрав один и тот же вид Искусства [Art] или Ремесла [Craft], персонаж считается подмастерьем [journeyman]. Для распознавания ему достаточно броска навыка [proficiency throw] на 7+. За месяц целенаправленной деятельности [dedicated activity] он может изготовить товары на 20 зм и руководить работой не более 3 учеников [apprentices], повышая их производительность на 50%. При оценке товаров своей специальности он считается экспертом [expert].
+
+Трижды выбрав одно и то же Ремесло [Craft], персонаж считается мастером [master craftsman]. Для распознавания ему достаточно броска навыка [proficiency throw] на 3+. За месяц целенаправленной деятельности [dedicated activity] он может изготовить товары на 40 зм и руководить работой не более 2 подмастерьев [journeymen] и 4 учеников [apprentices], повышая их производительность на 50%. Он может работать специалистом [specialist] в этом искусстве или ремесле.
+
+Четырежды выбрав один и тот же вид Искусства [Art] или Ремесла [Craft], персонаж считается великим мастером [grand master]. Для распознавания ему достаточно броска навыка [proficiency throw] на 2+. За месяц целенаправленной деятельности [dedicated activity] он может изготовить товары на 80 зм и руководить работой не более 2 мастеров [masters], 4 подмастерьев [journeymen] и 8 учеников [apprentices], повышая их производительность на 50%; общий темп производства [construction rate] при этом составляет 440 зм в месяц. Работая один или с подчинёнными, великий мастер [grand master] может создавать подходящие своей специальности **мастерские изделия [masterwork items]** (стр. 159). Обнаружив изделия великого мастера [grand master] или мастера ещё более высокого уровня, персонажи могут узнать его клеймо или стиль успешным соответствующим броском Искусства [Art], Ремесла [Craft], Знаний [Knowledge] или Мифографии [Loremastery].<sup>*</sup>
+
+> \* Общий темп 440 зм в месяц сохранён по оригиналу. Проверка: 80 + (2 × 40 + 4 × 20 + 8 × 10) × 1,5 = 440. Повышение на 50% применяется к подчинённым, а не к собственной выработке великого мастера [grand master].
+
+При Магическом экспериментировании [Magic Experimentation], связанном с его Искусством [Art] или Ремеслом [Craft] по решению ведущего [GM], персонаж может прибавить ранг навыка к броску исключительно для определения того, достигнут ли прорыв [breakthrough]. Кроме того, великий мастер [grandmaster] Искусства [Art] или Ремесла [Craft] получает одно дополнительное преимущество эксперимента [experimental advantage] всякий раз, когда эксперимент связан с его искусством или ремеслом.<sup>*</sup>
+
+> \* В этом абзаце оригинал использует GM вместо обычного для книги Judge. Передано «ведущий [GM]» без изменения английского источника.
+
+Мастеровой может заниматься искусством или ремеслом, смежным со своей специальностью, как если бы имел на один ранг навыка меньше. Например, мастер-кузнец [master blacksmith] может работать как подмастерье-доспешник [journeyman armorer], а подмастерье-тележник [journeyman cartwright] — как ученик колёсника [apprentice wheelwright]. Достаточно ли близки два искусства или ремесла для применения этого правила, решает Арбитр [Judge].
+
+### Торг (G)
+
+<small>BARGAINING (G)</small>
+
+Персонаж заключает самые выгодные сделки с товарами, услугами и сведениями. Все предметы он покупает на 10% дешевле указанной цены, а продаёт на 10% дороже. Если Торг [Bargaining] есть и у покупателя, и у продавца, они совершают встречные броски реакции [reaction rolls]; скидку получает тот, у кого результат выше. Для применения Торга [Bargaining] в коммерческой деятельности [mercantile ventures] действуют особые правила, см. стр. 376. При желании Торг [Bargaining] можно выбирать несколько раз. Каждый выбор даёт персонажу +2 к броску реакции [reaction roll] при переговорах с другими обладателями Торга [Bargaining].
+
+*Покупай бутылку наполовину пустой, продавай — наполовину полной.*
+
+Опеленская поговорка
+
+### Боевая магия
+
+<small>BATTLE MAGIC</small>
+
+Персонаж получает +1 к инициативе [initiative] при произнесении заклинаний. Для заклинаний, требующих броска атаки [attack throw], его целевое значение определяется по развитию воина [fighter progression]. Если персонаж уже использует развитие воина [fighter progression], он получает ещё +1 к попаданию [to hit].
+
+### Дружба с животными
+
+<small>BEAST FRIENDSHIP</small>
+
+Персонаж хорошо знает мир природы. Броском навыка [proficiency throw] на 11+ он определяет растения и животных. Он понимает звуки и язык тела птиц и зверей, а потому улавливает их простые сообщения, например: «рядом опасность, будь начеку», «ты чужой и странный» или «не подходи, мы охраняем логово!». Благодаря врождённому пониманию языка зверей он также считается обученным управлению дрессированными животными при выполнении их задач, например перегоне или выпасе. Он получает +2 ко всем броскам реакции [reaction rolls] при встречах с обычными животными и может брать животных в Приспешники [henchmen]. Он может обучать животных-Приспешников [animal henchmen] трюкам или определённым задачам и управлять ими, не имея отдельного навыка Дрессировка [Animal Training]. Если у персонажа есть классовая способность [class power] «Друг птиц и зверей» [Friend of Bird and Beasts], он определяет растения и животных на 7+ и может иметь на одного Приспешника [henchman] больше, чем позволяет его Харизма [Charisma], если хотя бы один из них — животное. Бонус к броскам реакции [reaction rolls] при этом не увеличивается.
+
+---
+
+<p align="right" id="pdf-page-0110"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=110" title="Страница PDF 110 · печатная стр. 108">страница 110</a></small></p>
+
+### Берсерк
+
+<small>BERSERKERGANG</small>
+
+Персонаж может впасть в ярость берсерка [berserker rage] всякий раз, когда совершает боевое действие [combat action]. В ярости он получает +2 к броскам атаки [attack throws] в ближнем бою и метательным оружием [thrown weapons], становится неуязвимым [immune] к состояниям «Трясущийся» [cowering], «Нерешительный» [faltering] и «Устрашённый» [frightened] и никогда не проверяет боевой дух [morale]. Однако он получает штраф -2 к КБ [AC] и ограничен в выборе тактики. Он не может совершать защитное перемещение [defensive movement], чтобы отступить [retreat] или отойти [withdraw] от противника в пределах 5 футов, и не может двигаться так, чтобы расстояние до ближайшей видимой угрозы увеличивалось. После рассечения [cleaving] он обязан продвинуться на 5 футов, если это нужно для вступления вплотную [engage] с врагом и у него осталось достаточно перемещения. Начавшуюся ярость берсерка [berserker rage] нельзя прекратить до окончания боя.
+
+### Темные знания Захарийцев
+
+<small>BLACK LORE OF ZAHAR</small>
+
+Персонаж изучил ужасающую некромантию древнего Захара [Zahar]. Он может подчинять нежить [control undead] как хаотичный крестоносец [Chaotic crusader] с уровнем, равным половине его уровня класса с округлением вниз. Цели его заклинаний смерти [death spells] получают штраф -2 к спасброскам [saving throws]. Эффекты произносимых им заклинаний смерти [death spells] или некромантии [necromancy spells], например *Оживления нежити [animate undead]*, рассчитываются так, словно его уровень класса на два выше фактического уровня опыта. Для определения доступности исследований магии смерти [death magic] и некромантии [necromancy magic] он считается заклинателем [caster] на два уровня выше фактического. При исследованиях такой магии он получает +2 к броскам магических исследований [magic research throws] и увеличивает темп исследований [research rate] на 10%. Тёмные знания Захарийцев [Black Lore of Zahar] складываются с классовой способностью [class power] «Тайны тёмных искусств» [Secrets of the Dark Arts]: в этом случае персонаж подчиняет нежить [control undead] как крестоносец [Crusader] с уровнем, равным двум третям его уровня класса с округлением вверх, а заклинания и исследования смерти и некромантии рассчитываются так, словно его уровень заклинателя [caster level] на три, а не на два выше фактического.
+
+### Бой вслепую
+
+<small>BLIND FIGHTING</small>
+
+Персонаж может сражаться с целью, не видя её. Бой вслепую [Blind Fighting] обычно применяется в темноте или когда цель находится за пределами видимости персонажа. Ослеплённый [blinded] персонаж с этим навыком или персонаж, сражающийся с невидимыми врагами, получает лишь -2 к броскам атаки [attack throws] вместо обычных -4. Ослепление [blinded] не даёт ему штрафа к броскам внезапности [surprise rolls] и не снижает его скорость.
+
+### Подкуп
+
+<small>BRIBERY</small>
+
+Персонаж исключительно искусен в подкупе должностных лиц деньгами или товарами. Предложив сумму дневного заработка цели, он получает +1 к броску реакции [reaction roll]; недельного заработка — +2; месячного — +3. Он действует настолько деликатно, что обе стороны могут учтиво отрицать сам факт попытки. Его действия становятся достаточно явными для обвинения в подкупе лишь при выпадении 2 без модификаторов. См. «Предложение взяток» [Offering Bribes] (стр. 287).
+
+### Светлые знания Ауры
+
+<small>BRIGHT LORE OF AURA</small>
+
+Персонаж изучил белую магию эмпиреев [Empyreans]. Он может изгонять нежить [rebuke undead] как крестоносец [Crusader] с уровнем, равным половине его уровня класса с округлением вниз. Цели его заклинаний, требующих спасброска от паралича [Paralysis], получают штраф -2 к этому спасброску [saving throw]. Эффекты его защитных заклинаний [protection spells], включая рассеивание [dispels], рассчитываются так, словно его уровень заклинателя [caster level] на два выше фактического. Для определения доступности исследований защитной магии [protection magic] он также считается заклинателем [caster] на два уровня выше. При исследованиях защитной магии [protection magic] он получает +2 к броскам магических исследований [magic research throws] и увеличивает темп исследований [research rate] на 10%.
+
+### Кошачья грация
+
+<small>CAT BURGLARY</small>
+
+Персонаж умеет ловко передвигаться по узким и ненадёжным опорам. Он получает +4 к проверкам преодоления с балансированием [balancing traverses]. На узких опорах [narrow paths] он никогда не падает, а на ненадёжных [precarious paths] терпит неудачу лишь при выпадении 1 без модификаторов. Он получает +2 к спасброскам [saving throws], когда безупречное равновесие помогает избежать опасности. Срываясь при лазании, он может выполнить второй бросок навыка [proficiency throw] со штрафом -4, чтобы ухватиться за опору и полностью избежать урона.
+
+### Исследователь подземелий (G)
+
+<small>CAVING (G)</small>
+
+Персонаж научился мысленно отмечать своё положение при исследовании подземных пещер, пещерных комплексов и подземных рек. Во время движения он почти безошибочно оценивает длину, ширину и глубину. Успешный бросок навыка [proficiency throw] на 11+ позволяет ему точно вспомнить путь, которым он пришёл в нынешнее место, если во время движения он был в сознании. Этот навык можно выбирать несколько раз.
+
+### Лазание
+
+<small>CLIMBING</small>
+
+Персонаж может лазать как вор [Thief] своего уровня класса. На каждые 100 футов подъёма или спуска он должен выполнить бросок Лазания [Climbing], но в любом случае требуется хотя бы одна проверка. При успехе персонаж безопасно поднимается или спускается на расстояние до 100 футов. При провале он падает с высоты, равной половине расстояния текущей попытки плюс расстояние, пройденное за предыдущие броски, и получает 1d6 [обычного дробящего] [mundane bludgeoning] урона за каждые 10 футов. Без штрафа персонаж может лазать со скоростью исследования [exploration speed] или одной третью боевой скорости [combat speed]. При движении с половиной боевой скорости [combat speed] он получает -5 к броску навыка [proficiency throw], а с полной боевой скоростью [combat speed] — -10.
+
+### Школа магии (G)
+
+<small>COLLEGIATE WIZARDRY (G)</small>
+
+Персонаж получил обучение тайной магии [arcane instruction] как ученик мага [Mage], воспитанник магической академии или член магической организации. Если он тайный заклинатель [arcane spellcaster], то по усмотрению Арбитра [Judge] может начать игру членом гильдии волшебников или подобного ордена. Он автоматически распознаёт тайные символы, следы заклинаний [spell signatures], атрибутику и гримуары своего ордена или традиции; относящиеся к другим орденам и традициям он узнаёт броском навыка [proficiency throw] на 11+. Редкие или эзотерические традиции распознать труднее. Этот навык можно выбирать повторно.
+
+### Боевая свирепость
+
+<small>COMBAT FEROCITY</small>
+
+Персонаж — напористый воин, который никогда не упускает преимущества. Его максимальное число рассечений [cleaves] увеличивается на 1.
+
+### Боевые рефлексы
+
+<small>COMBAT REFLEXES</small>
+
+Настоящий воин не медлит в бою. Персонаж получает +1 к броскам внезапности [surprise rolls] и инициативы [initiative rolls]. Этот бонус не действует при произнесении заклинаний.
+
+*Фортуна не может благоволить тому, кто не бросает костей.*
+
+Гай Тав, *«Размышления» [Meditations]*
+
+---
+
+<p align="right" id="pdf-page-0111"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=111" title="Страница PDF 111 · печатная стр. 109">страница 111</a></small></p>
+
+### Боевая хитрость
+
+<small>COMBAT TRICKERY</small>
+
+Персонаж — хитрый и изворотливый боец. Выберите один особый манёвр [special maneuver]: Обезоруживание [Disarm], Оттеснение [Force Back], Выведение из строя [Incapacitate], Сбивание с ног [Knock Down], Пробиться [Overrun], Разделение [Sunder] или Борьба [Wrestling]. При попытке выполнить этот манёвр обычный штраф уменьшается на 2, например с -4 до -2, а противник получает -2 к спасброску [saving throw] против него. Если манёвр не допускает спасброска [saving throw], штраф за его выполнение вместо этого уменьшается на 4, до 0. Подробности см. в разделе **«Особые манёвры» [Special Maneuvers]** (стр. 305). Боевую хитрость [Combat Trickery] можно выбирать несколько раз, каждый раз осваивая новый особый манёвр [special maneuver].
+
+### Командование
+
+<small>COMMAND</small>
+
+Персонаж овладел искусством командования. Его авторитет вдохновляет людей следовать за ним навстречу опасности. Его Приспешники [henchmen], Наёмники [mercenaries] и другие войска получают +2 к боевому духу [morale]. Правила боевого духа [morale] приведены в разделе **«Спутники, Приспешники, Наёмники и специалисты» [Hirelings, Henchmen, Mercenaries, and Specialists]** (стр. 166).
+
+### Созерцание
+
+<small>CONTEMPLATION</small>
+
+Персонаж может войти в медитативный транс и восстановить ранее израсходованную возможность произнести заклинание определённого круга. Созерцание [Contemplation] — вспомогательная деятельность [ancillary activity], требующая одного часа (6 ходов [turns]) непрерывной медитации. Восстановить возможность произнести заклинание одного и того же круга с помощью Созерцания [Contemplation] можно не более одного раза в день.
+
+### Гибкость
+
+<small>CONTORTIONISM</small>
+
+Персонаж необычайно гибок и может сжимать и изгибать тело почти невозможными для человека способами, в том числе протискиваться между прутьями и освобождаться от цепей и пут. Он получает +4 к спасброскам от паралича [Paralysis], позволяющим избежать состояний «Схваченный» [grabbed], «Скованный» [restrained], «Застрявший» [stuck] и «Скрученный» [wrestled]. Каждый раунд [round] он может выполнять бросок навыка [proficiency throw], чтобы освободиться от оков или проскользнуть между прутьями опускной решётки. На 1-м уровне для успеха требуется 18+; с каждым уровнем целевое значение уменьшается на 1. При провале персонаж остаётся в оковах; при успехе выскальзывает из пут.
+
+### Рассеивание магии
+
+<small>COUNTERSPELLING</small>
+
+Для рассеивания магии [dispelling magic] и преодоления устойчивости цели к магии [magic resistance] персонаж считается заклинателем [caster] на два уровня выше фактического уровня заклинателя [caster level]. Если у него также есть Светлые знания Ауры [Bright Lore of Aura], бонусы к уровню заклинателя [caster level] частично складываются: для рассеивания магии [dispelling magic] он считается на три, а не на два уровня выше.
+
+### Дипломатия (G)
+
+<small>DIPLOMACY (G)</small>
+
+Персонаж красноречив и знаком с правилами этикета. При попытках переговоров [parley] он получает +1 ко всем броскам реакции [reaction rolls]. Бонус складывается с Мистической аурой [Mystic Aura], но не с Запугиванием [Intimidation] или Соблазнением [Seduction].
+
+### Маскировка (G)
+
+<small>DISGUISE (G)</small>
+
+Персонаж может придать себе или другому лицу облик определённого человека. Это может быть реальный человек, например «жрица Генелен из Тюрос-Тема» [the priestess Genelen of Türos Tem], или вымышленная личность, придуманная для маскировки, например «орк-разведчик по имени Грик» [an orc scout named Grik]. Для создания маскировки персонажу необходим
+
+набор для маскировки [disguise kit] с косметикой и париками, а также нужные одежда и принадлежности. Чтобы изобразить реального человека своей расы или любого гуманоида [humanoid] другой расы, ему также нужен подробный рисунок этого человека или расы либо личное знакомство с ними. Нанесённая маскировка сохраняется, пока персонаж её не снимет, не искупается, не разденется или не промокнет. Снятие маскировки занимает один полный раунд [full round].
+
+Создание маскировки — вспомогательная деятельность [ancillary activity], занимающая 6 ходов [turns], то есть один час. По её окончании персонаж выполняет бросок навыка [proficiency throw] на 11+. Он получает +2, если создаёт облик придуманной им вымышленной личности, и -2, если изображает другой пол, другую расу или другой возраст; все штрафы складываются. При провале маскировка никого не обманывает, но персонаж может повторить попытку.
+
+При успехе персонаж создаёт превосходную маскировку, способную обмануть большинство людей. Однако существо, очень хорошо знакомое с замаскированным персонажем или изображаемой им личностью, может распознать обман. Проведя один раунд [round] во взаимодействии с замаскированным персонажем, оно может выполнить бросок навыка [proficiency throw] на 14+, прибавив модификатор Воли [Will]. Повторные проверки возможны после одного хода [turn] (10 минут), одного часа и затем каждых восьми часов взаимодействия.
+
+Этот навык можно выбирать несколько раз. Каждый выбор даёт персонажу +2 к его броску навыка [proficiency throw], а пытающиеся распознать маскировку получают штраф -2.
+
+### Божественное благословение
+
+<small>DIVINE BLESSING</small>
+
+Персонаж умеет умилостивить богов и заслужить их расположение. Он получает +2 ко всем спасброскам [saving throws].
+
+*Аммонар [Ammonar], владыка рассвета, защитник праведных, законодатель, несущий свет! Пусть твой огонь озаряет небеса, твоё сияние гонит тьму, а твоя воля направляет судьбы всех.*
+
+Азендор [Azendor], *«Семь сияющих свитков. Пеаны эмпиреям» [Seven Radiant Scrolls, Paeans to the Empyrean]*
+
+### Божественное здоровье
+
+<small>DIVINE HEALTH</small>
+
+Персонаж умеет очищать тело и душу. Он неуязвим [immune] ко всем болезням, в том числе магическим, вызванным заклинаниями, ликантропами или нежитью.
+
+### Возничий (G)
+
+<small>DRIVING (G)</small>
+
+Персонаж искусно управляет животными как при перегоне пешком, так и в упряжке колёсного транспорта. При перегоне он может управлять не более чем 6 животными, удерживая их на приемлемом расстоянии и направляя в нужную сторону. Когда он ведёт телегу, колесницу, повозку или иной транспорт по дороге или тропе, бонус к перемещению от дороги увеличивается до 2×, если позволяет состояние дороги.
+
+### Эксперт выбивания дверей
+
+<small>DUNGEONBASHING EXPERTISE</small>
+
+Персонаж привык к подъёму тяжестей и физическому труду при исследовании подземелий. Он получает +4 к броскам Выбивания дверей [Dungeonbashing] при вскрытии дверей и подобных применениях грубой силы.
+
+---
+
+<p align="right" id="pdf-page-0112"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=112" title="Страница PDF 112 · печатная стр. 110">страница 112</a></small></p>
+
+### Дварфийское пивоварение
+
+<small>DWARVEN BREWING</small>
+
+Персонаж знает секреты прославленных дварфийских пива и эля. Знакомство со смешиванием напитков позволяет ему определить магические свойства зелья или масла по запаху броском навыка [proficiency throw] на 11+. Имея оборудование для дварфийского пивоварения, пильтбир [piltbier] и особые грибы, он может готовить дварфийские напитки [dwarven brews]. Подробные правила приведены в главе 9 «Дварфийская микокультура» [Dwarven Mycoculture] книги ***By This Axe***. Если ***By This Axe*** не используется, действие дварфийских напитков [dwarven brews] определяет Арбитр [Judge].
+
+### Чутье
+
+<small>EAVESDROPPING</small>
+
+Персонаж может прислушиваться к звукам как вор [Thief] своего уровня класса. Арбитр [Judge] тайно выполняет за него бросок Подслушивания [Listening]. При успехе персонаж слышит все звуки в пределах слышимости. При провале или отсутствии звуков он ничего не слышит. Персонаж должен вести себя тихо и находиться в тихой обстановке. Подслушивание [Listening] занимает лишь один раунд [round], но если группа хоть как-то движется, его можно применять не чаще одного раза за ход [turn] (10 минут): людям нужно время, чтобы успокоиться и затихнуть.
+
+### Элементализм
+
+<small>ELEMENTALISM</small>
+
+Персонаж владеет одной из стихий: воздухом, землёй, огнём или водой. Заклинания этой стихии наносят +1 урона за каждую кость и дают цели штраф -2 к спасброску [saving throw]. Элементали [elementals], призванные из этой стихии, получают +1 ОЗ [hp] за каждую Кость Здоровья [Hit Die]. Его *Магические снаряды [mage missiles]* приобретают стихийную природу и дополнительно наносят урон типа, соответствующего стихии: электрический [electric] для воздуха, сейсмический [seismic] для земли, огненный [fire] для огня и холодом [cold] для воды. Войдя в связанное с его стихией место силы [place of power], персонаж автоматически распознаёт его и определяет ранг. Элементализм [Elementalism] можно выбирать несколько раз, каждый раз выбирая новую стихию.
+
+### Эльфийская кровь
+
+<small>ELVEN BLOODLINE</small>
+
+В жилах персонажа течёт кровь нестареющих эльфов. Он живёт так же долго, как эльф, и не проявляет признаков старения. Крепкая жизненная сила даёт ему +1 к броску КЗ [HD] на 1-м уровне. Он также обладает эльфийской неуязвимостью [immunity] к болезням, вызываемым нежитью. Происхождение как-то проявляется в его внешности: заострёнными ушами, золотыми глазами, странным родимым пятном или иной необычной чертой.
+
+### Стойкость (G)
+
+<small>ENDURANCE (G)</small>
+
+Персонаж почти не знает усталости. Ему не нужен отдых после каждых 6 ходов [turns] утомительной деятельности [strenuous activity]. Он получает +4 к спасброскам от паралича [Paralysis], позволяющим избежать состояния «Запыхавшийся» [winded]. Он может ежедневно заниматься утомительной целенаправленной деятельностью [strenuous dedicated activities], не становясь истощённым [fatigued]. Он может один день работать сверхурочно или совершать форсированный марш [force march], не становясь **истощённым [fatigued]**, и ещё по одному дню за каждый пункт бонуса Телосложения [Constitution]. Пока персонаж не истощён [fatigued], для обычной работы на следующий день ему достаточно ночи спокойного сна. Если у него также есть Труд [Labor], он может работать сверхурочно или совершать форсированный марш [force march] ещё на один день дольше.
+
+### Инженерное дело (G)
+
+<small>ENGINEERING (G)</small>
+
+Персонаж умеет планировать, проектировать и строить замки, башни, дороги и подобные сооружения. Броском навыка [proficiency throw] на 11+ он может оценить сооружение, через которое проходит группа: определить его состояние, время постройки, строителей и тому подобное. Занимаясь строительством лично как целенаправленной деятельностью [dedicated activity], он выполняет работы стоимостью 1,33 зм в день. Руководство чужой работой также является целенаправленной деятельностью [dedicated activity]; он может вести проекты стоимостью не более 25 000 зм. Этот навык можно выбирать несколько раз, повышая предельную стоимость проекта на 25 000 зм за каждый ранг. Четыре выбора навыка соответствуют квалификации инженера [engineer], описанного в разделе **«Специалисты» [Specialists]**.
+
+### Расширенный репертуар
+
+<small>EXPANDED REPERTOIRE</small>
+
+Репертуар заклинаний [spell repertoire] персонажа может содержать на одно заклинание больше каждого доступного ему круга. Например, маг [Mage] 1-го уровня с этим навыком имеет в репертуаре [repertoire] 2 заклинания 1-го круга, а маг [Mage] 5-го уровня — 3 заклинания 1-го круга, 3 заклинания 2-го и 2 заклинания 3-го.
+
+### Экспериментаторство
+
+<small>EXPERIMENTING</small>
+
+Персонаж — гений: возможно, безумный, но несомненно проницательный. Для требований к уровню при экспериментировании [experimenting] он считается на два уровня класса выше фактического. Автоматический провал эксперимента [experimenting] происходит у него лишь при выпадении 1–2 без модификаторов вместо 1–3.
+
+---
+
+<p align="right" id="pdf-page-0113"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=113" title="Страница PDF 113 · печатная стр. 111">страница 113</a></small></p>
+
+| Фамильяр<br><small>FAMILIAR</small> | Характеристики<br><small>CHARACTERISTICS</small> |
+| --- | --- |
+| Летучая мышь [Bat] | Скорость [Spd] полёта 120 футов, КБ [AC] 3, КЗ [HD] 1/4, атак [#AT] 1, урон [Dmg] 1, эхолокация [echolocation] |
+| Кошка [Cat] | Скорость [Spd] 210 футов, КБ [AC] 3, КЗ [HD] 1/2, атак [#AT] 3, урон [Dmg] 1/1/1, острый слух и обоняние [acute hearing & olfaction], проворство [agile], лазание [climber] 6+, наскок [pounce], природная скрытность [naturally stealthy] |
+| Ворона/ворон [Crow/Raven] | Скорость [Spd] полёта 330, КБ [AC] 3, КЗ [HD] 1/4, атак [#AT] 1, урон [Dmg] 1d2-1, острое зрение [acute vision]<sup>*1</sup> |
+| Орёл [Eagle] | Скорость [Spd] полёта 480 футов, КБ [AC] 3, КЗ [HD] 1/2, атак [#AT] 2, урон [Dmg] 1d2/1d2, острое зрение [acute vision], внимательность [alertness], пикирование [dive] |
+| Шакал [Jackal] | Скорость [Spd] 180 футов, КБ [AC] 2, КЗ [HD] 1-1, атак [#AT] 1, урон [Dmg] 1d4, острое … и обоняние [acute & olfaction], выслеживание [tracking]<sup>*2</sup> |
+| Сова [Owl] | Скорость [Spd] полёта 300 футов, КБ [AC] 3, КЗ [HD] 1/4, атак [#AT] 2, урон [Dmg] 1/1, острый слух [acute hearing], острое зрение [acute vision], внимательность [alertness], пикирование [dive], ночное зрение [night vision], подкрадывание [sneak] 6+ |
+| Крыса [Rat] | Скорость [Spd] 120 футов / плавание [swim] 60 футов, КБ [AC] 2, КЗ [HD] 1/2, атак [#AT] 1, урон [Dmg] 1d3, острый слух [acute hearing], умелое лазание [skilled climber] 5+ |
+| Токайская чайка [Tokay Gull]<sup>*3</sup> | Скорость [Spd] полёта 150 футов, КБ [AC] 2, КЗ [HD] 1/2, атак [#AT] 1, урон [Dmg] 1d3, лай [bark], ночное зрение [night vision], природное лазание [natural climber] |
+| Гриф [Vulture] | Скорость [Spd] полёта 300 футов, КБ [AC] 3, КЗ [HD] 1/2, атак [#AT] 2, урон [Dmg] 1d2/1d2, острое обоняние и зрение [acute olfaction & vision], неуязвимость [immunity] к обычным болезням [mundane disease] и яду [poison] |
+
+> \*1 У вороны/ворона [Crow/Raven] в PDF напечатано Spd 330 fly без знака футов после 330. Число сохранено без выдуманного исправления.
+
+> \*2 В строке шакала [Jackal] сам PDF содержит неполное «acute & olfaction». Пропущенный вид острого чувства не восстановлен по догадке.
+
+> \*3 В PDF действительно указано Tokay Gull с полётом, лаем, ночным зрением и природным лазанием. Необычное сочетание имени и свойств сохранено; «Токайская чайка [Tokay Gull]» — рабочий перевод.
+
+### Фамильяр
+
+<small>FAMILIAR</small>
+
+Персонажу начинает служить магический дух в облике зверя — Фамильяр [Familiar]. Его можно выбрать из приведённого списка либо придумать вместе с Арбитром [Judge]. Если не разрешено иное, все Фамильяры [Familiars] — животные с менее чем 1 КЗ [HD]. ОЗ [hit points] Фамильяра [Familiar] равны половине ОЗ [hit points] хозяина, а его атаки и спасброски [saving throws] соответствуют магу [Mage] уровня хозяина. Пока Фамильяр [Familiar] находится в пределах 30 футов от хозяина, хозяин получает +1 ко всем спасброскам [saving throws] и один классовый навык [class proficiency]. Этот навык выбирается из классового списка [class list] при выборе Фамильяра [Familiar] и не может совпадать с уже известным хозяину. Для *Ясновидения [clairvoyancy]* и *Яснослышания [clairaudiency]* Фамильяр [Familiar] всегда считается находящимся в пределах дальности хозяина. При снижении ОЗ [hp] до 0 Фамильяр [Familiar] погибает, а хозяин немедленно получает урон, равный максимальным ОЗ [hit points] Фамильяра [Familiar]. Вернуть его к жизни нельзя; вместо этого он возвращается, когда хозяин достигает следующего уровня опыта. Если хозяин уже достиг максимального уровня, Фамильяр [Familiar] не возвращается, а его прежний классовый навык [class proficiency] становится собственным навыком хозяина.<sup>*</sup>
+
+> \* В оригинале сказано «from the list below», хотя таблица фамильяров [Familiars] расположена выше. В переводе использовано нейтральное «из приведённого списка».
+
+### Специализация на боевом стиле
+
+<small>FIGHTING STYLE SPECIALIZATION</small>
+
+Персонаж специализируется на определённом боевом стиле [fighting style], которым уже владеет, например на бое двумя оружиями [dual weapon] или оружием и щитом [weapon and shield]. Знание этого стиля даёт особый бонус при его использовании. Стили и бонусы приведены в соседней таблице. Эти бонусы добавляются к обычным преимуществам соответствующего способа боя. Например, при специализации на оружии и щите [weapon and shield] суммарное улучшение КБ [AC] составляет 2 пункта. Обладатель навыка также может убрать оружие в ножны без затраты действия, вместо того чтобы просто бросить его. Навык можно выбирать несколько раз, каждый раз выбирая новый боевой стиль [fighting style]. Если в бою применимы две его специализации, персонаж должен в начале своей инициативы [initiative] выбрать, какой бонус будет действовать в текущем раунде [round]. Например, персонаж с пращой в одной руке и щитом в другой, имеющий Специализацию на боевом стиле [Fighting Style Specialization] для дальнобойного оружия [missile weapon] и для оружия и щита [weapon and shield], выбирает между +1 к броскам атаки [attack throws] и +1 к КБ [AC]; получить оба бонуса одновременно нельзя.
+
+### Специализации на боевом стиле
+
+<small>FIGHTING STYLE SPECIALIZATIONS</small>
+
+| Боевой стиль<br><small>FIGHTING STYLE</small> | Бонус<br><small>BONUS</small> |
+| --- | --- |
+| Дальнобойное оружие [Missile weapon] | +1 к броскам атаки [attack throws] |
+| Одно оружие [Single weapon] | +1 к инициативе [initiative] |
+| Два оружия [Dual weapons] | +1 к броскам атаки [attack throws] |
+| Двуручное оружие [Two-handed weapon] | +1 к броскам урона [damage rolls] |
+| Оружие и щит [Weapon and shield] | +1 к Классу брони [armor class] |
+
+### Фольклор (G)
+
+<small>FOLKWAYS (G)</small>
+
+Персонаж знаком с обычаями, оборотами речи, манерами и традициями определённого городского поселения. Он получает +1 к броскам реакции [reaction rolls] с персонажами 0-го уровня, встреченными в этом поселении. Он автоматически узнаёт его знаменитые достопримечательности и примечательные места и никогда не теряется при передвижении по нему. Этот навык можно выбирать несколько раз, каждый раз добавляя ещё одно знакомое поселение.
+
+### Азартные игры (G)
+
+<small>GAMBLING (G)</small>
+
+Персонаж умеет выигрывать деньги в играх на удачу и мастерство. Как профессиональный игрок он может зарабатывать 1d6! зм за неделю целенаправленной деятельности [dedicated activity]. Азартные игры [Gambling] можно выбирать повторно, каждый раз увеличивая недельный доход на 1d6! зм. Если несколько обладателей Азартных игр [Gambling] играют друг против друга, результат можно определить, бросив каждому игроку по 1d6! за каждый ранг навыка. Не имеющие навыка бросают 1d4. Игрок с наибольшим результатом на отдельной кости выигрывает раунд — раздачу, взятку и тому подобное — и забирает банк. Если наибольший результат совпал у нескольких игроков, остальные проигрывают, а претенденты перебрасывают кости между собой. В Ауранской Империи [Auran Empire] популярно множество игр на мастерство; некоторые перечислены ниже.<sup>*</sup>
+
+> \* Обозначение 1d6! сохранено: восклицательный знак относится к записи броска, а не к пунктуации предложения. При состязании сравнивается наибольшая отдельная кость, как прямо указано в оригинале; сумма костей не подставлялась.
+
+ИГРА [GAME] **Кирпегес [Kyrpeges]** («военная игра») — стратегическая настольная игра с миниатюрами на клетчатом поле. Двое играют, остальные делают ставки на исход. **Дестри Спевас [Destri Spevas]** («конь и колесница») — настольная игра, в которой до семи игроков бросают кости, чтобы провести свои фишки по овальной дорожке быстрее соперников. **Калефан Эсеви [Calefan Esevi]** («счастливые семёрки») — азартная игра с колодой из 49 карт. Игроки стараются набрать руку, как можно более близкую к 7. **Драксэс [Draxës]** («кости») — азартная игра с тремя шестигранными костями. До семи участников делают ставки и бросают кости по очереди.
+
+### Убийца гоблинов
+
+<small>GOBLIN-SLAYING</small>
+
+Персонаж обучен безжалостно истреблять гуманоидных врагов своей расы. Он получает +1 к броскам атаки [attack throws] против кобольдов, гоблинов, орков, гноллов, хобгоблинов, багбиров, огров, троллей и великанов. На 7-м уровне бонус увеличивается до +2, на 13-м — до +3.
+
+*Хороший гоблин — мёртвый гоблин.*
+
+Изречение авантюристов
+
+---
+
+<p align="right" id="pdf-page-0114"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=114" title="Страница PDF 114 · печатная стр. 112">страница 114</a></small></p>
+
+### Развитие навыка «Целительство»
+
+<small>HEALING PROFICIENCY PROGRESSION</small>
+
+| Звание<br><small>TITLE</small> | Ранг (число<br>выборов навыка)<br><small>RANK (# OF<br>TIMES TAKEN)</small> | Заработок,<br>зм/месяц<br><small>GP EARNED<br>/ MONTH</small> | Пациентов<br>в день<br><small>PATIENTS<br>/ DAY</small> | Умения<br><small>SKILLS</small> |
+| --- | --- | --- | --- | --- |
+| Целитель [Healer] | 1 | 25 зм | 4 | Диагностика 11+, дополнительно 1d3 ОЗ [hit points] в день |
+| Лекарь [Physicker] | 2 | 50 зм | 5 | Диагностика 7+; *Нейтрализация яда [neutralize poison]*, *Исцеление болезни [cure disease]*, *Исцеление лёгкой травмы [cure light]* 18+ |
+| Хирург [Chirurgeon] | 3 | 100 зм | 6 | Диагностика 3+; *Нейтрализация яда [neutralize poison]*, *Исцеление болезни [cure disease]*, *Исцеление серьёзной травмы [cure serious]* 14+ |
+
+### Целительство (G)
+
+<small>HEALING (G)</small>
+
+Персонаж умеет ухаживать за больными и ранеными людьми, полулюдьми, великанами и другими гуманоидами [humanoids]. Занимаясь этим как целенаправленной деятельностью [dedicated activity], он может одновременно заботиться о трёх пациентах и ещё об одном за каждый выбор Целительства [Healing]: например, о четырёх при одном ранге, пяти при двух и так далее. Раненый пациент под его присмотром автоматически восстанавливает на 1d3 ОЗ [hit points] больше за каждый день отдыха, если содержится в чистоте и правильно питается. Если пациент болен или отравлен, персонаж может попытаться определить болезнь или яд. Для этого требуются один ход [turn] (10 минут) медицинского осмотра и бросок навыка [proficiency throw] на 11+. При успехе персонаж определяет, имеет ли болезнь или яд магическую или обычную природу, а в обычном случае также ставит диагноз. При провале он ничего не определяет и не может повторить попытку до появления новых симптомов. Персонаж может применять целебные травы [healing herbs] (стр. 143) для лечения отравленных, больных и/или раненых пациентов.
+
+Дважды выбрав Целительство [Healing], персонаж становится лекарем [physicker]. Теперь он ставит диагноз на 7+. Кроме того, он может немагическим способом воспроизвести *Нейтрализацию яда [neutralize poison]*, *Исцеление болезни [cure disease]* или *Исцеление лёгкой травмы [cure light injury]* на отравленном, больном или раненом пациенте. Прежде чем лечить болезнь или отравление, он должен успешно поставить диагноз. Каждая попытка требует одного хода [turn] (10 минут) и броска навыка [proficiency throw] на 18+. При успехе возникает такой же лечебный эффект, как от соответствующего заклинания. При провале ничего не происходит. Независимо от успеха повторить попытку с тем же эффектом на том же пациенте можно лишь на следующий день, хотя другой целитель может сделать это раньше.
+
+Трижды выбрав Целительство [Healing], персонаж становится хирургом [chirurgeon]. Теперь он ставит диагноз на 3+ и может воспроизвести *Нейтрализацию яда [neutralize poison]*, *Исцеление болезни [cure disease]* или *Исцеление серьёзной травмы [cure serious injury]* на отравленном, больном или раненом пациенте броском навыка [proficiency throw] на 14+.
+
+Умение лечить больных даёт и другие полезные возможности. Один ранг Целительства [Healing] позволяет добывать компоненты из гуманоидов [humanoids], два ранга — из телесной нежити [corporeal undead]. В сумме два ранга Ухода за животными [Animal Husbandry] и/или Целительства [Healing] позволяют добывать компоненты из зверолюдей [beastmen], а три ранга в сумме — из чудовищных созданий [monstrosities].
+
+Поскольку у большинства существ есть общие анатомические черты, персонаж может применять этот навык к животным, чудовищным созданиям [monstrosities] и вредителям [vermin] со штрафом -4.
+
+### Устойчивость к иллюзиям
+
+<small>ILLUSION RESISTANCE</small>
+
+Персонажа так же трудно обмануть, как самого недоверчивого дварфа. Он автоматически пытается не поверить [disbelieve] любой встреченной иллюзии [illusion]. Арбитр [Judge] бросает кости тайно, чтобы персонаж не знал о провале. Если персонаж намеренно пытается не поверить [disbelieve] иллюзии [illusion], он получает +4 к броску.
+
+### Запугивание (G)
+
+<small>INTIMIDATION (G)</small>
+
+Персонаж умеет добиваться своего угрозами. Он получает +1 ко всем броскам реакции [reaction rolls], когда прямо или косвенно угрожает насилием либо тяжёлыми последствиями. У целей должно быть менее 5 КЗ [HD], либо персонаж и его союзники должны превосходить их числом или намного превосходить их по рангу. Бонус складывается с Мистической аурой [Mystic Aura], но не с Дипломатией [Diplomacy] или Соблазнением [Seduction].
+
+### Убийца родичей
+
+<small>KIN-SLAYING</small>
+
+Персонаж обучен безжалостно истреблять врагов своего хтонического владыки [chthonic master]. Он получает +1 к броскам атаки [attack throws] против людей, эльфов, дварфов, полуросликов, гномов и нобирийцев [Nobir]. На 7-м уровне бонус увеличивается до +2, на 13-м — до +3.
+
+### Знания (G)
+
+<small>KNOWLEDGE (G)</small>
+
+Персонаж специально изучал определённую область: например, архитектуру, астрологию, географию, историю, математику, метафизику, естественную историю, натурфилософию или политическую экономию. Обычно он может зарабатывать на жизнь как знаток этого предмета. Броском навыка [proficiency throw] на 11+ он вспоминает профессиональное толкование или сведения из своей области знаний. Область выбирается при получении навыка. Дополнительные выборы можно потратить на освоение нескольких разных областей Знаний [Knowledge].
+
+Дважды выбрав одну и ту же область Знаний [Knowledge], персонаж становится экспертом [expert], способным обучать учеников [students] и писать книги по теме. Трижды выбрав ту же область, он становится учёным [scholar], способным обучать экспертов [experts]. Если у него также есть Мифография [Loremastery] и Магическая Инженерия [Magical Engineering], он может работать мудрецом [sage], как описано в разделе **«Специалисты» [Specialists]** (стр. 172).
+
+### Развитие навыка «Знания»
+
+<small>KNOWLEDGE PROFICIENCY PROGRESSION</small>
+
+| Звание<br><small>TITLE</small> | Ранг (число<br>выборов навыка)<br><small>RANK (# OF<br>TIMES TAKEN)</small> | Заработок,<br>зм/месяц<br><small>GP EARNED<br>/ MONTH</small> | Умения<br><small>SKILLS</small> |
+| --- | --- | --- | --- |
+| Ученик [Student] | 1 | 25 зм | Распознавание 11+ |
+| Эксперт [Expert] | 2 | 50 зм | Распознавание 7+ |
+| Учёный [Scholar] | 3 | 100 зм | Распознавание 3+ |
+
+---
+
+<p align="right" id="pdf-page-0115"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=115" title="Страница PDF 115 · печатная стр. 113">страница 115</a></small></p>
+
+### Труд (G)
+
+<small>LABOR (G)</small>
+
+Персонаж весьма умел в определённом виде физического труда, например кирпичной кладке, земледелии, горном деле или обработке камня. На связанных с его навыком проектах он имеет темп строительства [construction rate] 2 см за день целенаправленной деятельности [dedicated activity]. Он может жить своим трудом, зарабатывая 6 зм в месяц. Привычка к работе позволяет ему ежедневно заниматься утомительной целенаправленной деятельностью [strenuous dedicated activities], не становясь истощённым [fatigued]. Повторные выборы Труда [Labor] позволяют осваивать другие виды работ. Труд [Labor] не требует настолько сложных умений, чтобы повторный выбор улучшал уже известный вид работ. Однако если у персонажа также есть Стойкость [Endurance], Труд [Labor] позволяет ему совершать форсированный марш [force march] на один день дольше.
+
+Некоторые виды труда дают дополнительные преимущества в приключениях. Труд (строительство) [Labor (construction)] позволяет возводить временные оборонительные сооружения. Труд (земледелие) [Labor (farming)] и Труд (мясник) [Labor (butchery)] позволяют снимать шкуры, мездрить и разделывать существ ради шкур и мяса. Труд (мясник) [Labor (butchery)] также позволяет извлекать особые компоненты [special components] из животных. При желании Арбитр [Judge] может придумать и другие преимущества.
+
+### Геодезия
+
+<small>LAND SURVEYING</small>
+
+Персонаж искусно обследует окружающую местность. Он может попытаться оценить ценность земли [land value] в гексе [hex], чтобы понять, стоит ли его заселять (см. стр. 338). По рельефу, следам возделывания земли и другим признакам он также может попытаться оценить общее число логов [lairs] в гексе [hex] (см. стр. 275). Двигаясь по диким землям со скоростью экспедиции [expedition speed] или исследования [exploration speed], он привычно высматривает обвалы, падающие деревья, камнепады, провалы и подобные опасности. Когда персонаж встречает такую опасность, Арбитр [Judge] тайно выполняет за него бросок Геодезии [Land Surveying]. На 14+ персонаж замечает угрозу. Потратив один ход [turn] (10 минут), он может тщательно обследовать на такие опасности участок площадью не более 10 000 квадратных футов; в этом случае достаточно 10+.
+
+### Язык (G)
+
+<small>LANGUAGE (G)</small>
+
+Навык позволяет научиться говорить, читать и писать ещё на трёх языках по выбору. Уровень грамотности на новом языке определяется Интеллектом [Intellect]. Персонажи с Интеллектом [Intellect] 8 и ниже обычно неграмотны. Однако персонаж с низким Интеллектом [Intellect] (8 и ниже) может выбрать этот навык, чтобы научиться читать и писать на уже известных ему языках. Навык можно выбирать несколько раз, каждый раз осваивая ещё три языка.
+
+*Блудница возлежит во многих постелях, а купец лжёт на многих языках.*
+
+Бешерадская пословица
+
+### Возложение рук
+
+<small>LAYING ON HANDS</small>
+
+Один раз в день персонаж может исцелить себя или другого возложением рук [laying on hands]. На раненом существе он восстанавливает 2 ОЗ [hit points] за каждый уровень опыта. Недееспособное [incapacitated] существо получает бонус к броску Смертельных ран [Mortal Wounds], равный половине уровня класса персонажа с округлением вверх. У парализованного [paralyzed] существа он снимает паралич. Этот навык можно выбирать несколько раз; каждый выбор позволяет применять возложение рук [laying on hands] ещё один раз в день.
+
+### Лидерство (G)
+
+<small>LEADERSHIP (G)</small>
+
+Персонаж — вдохновляющий лидер, заслуживающий большую преданность. Он может нанять на одного Приспешника [henchman] больше, чем позволяет его Харизма [Charisma], а базовый боевой дух [base morale] любого управляемого им Домена [domain] увеличивается на 1. Боевой дух Домена [domain morale] описан в главе **«Кампании» [Campaigns]** (стр. 347).
+
+### Чтение по губам (G)
+
+<small>LIP READING (G)</small>
+
+Персонаж может «подслушивать» разговоры на известном ему языке, читая по губам. Если собеседник говорит недостаточно отчётливо или находится не на ярком свету, для получения нужных сведений может потребоваться успешный бросок Подслушивания [Listening].
+
+### Мастерство взлома
+
+<small>LOCKPICKING EXPERTISE</small>
+
+Персонаж — знаток замков. Он получает +2 к броскам Взлома [Lockpicking]. При поспешном взломе [hastily picking] критическая неудача [botch] происходит только при выпадении 1 без модификаторов вместо 1–3; при методичном взломе [methodically picking] критических неудач [botches] у него не бывает.
+
+### Мифография
+
+<small>LOREMASTERY</small>
+
+Персонаж разбирается во множестве сокровенных предметов. На 1-м уровне он может выполнить бросок навыка [proficiency throw] на 18+, чтобы расшифровать оккультные руны, вспомнить древнюю историю либо опознать исторический артефакт или особую часть чудовища. С каждым уровнем необходимое целевое значение уменьшается на 1. Он может опознавать магические предметы как заклинатель [spellcaster] 5-го уровня. Если он уже умеет опознавать магические предметы, то получает для этого +2 к броску магических исследований [magic research throw] и +10% к темпу исследований [research rate].
+
+### Магическая Инженерия
+
+<small>MAGICAL ENGINEERING</small>
+
+Персонаж обладает особыми знаниями о магических предметах. Один ранг Магической Инженерии [Magical Engineering] даёт +1 к броскам магических исследований [magic research throws] и увеличивает темп исследований [research rate] на 5%. Осматривая предмет один ход [turn] (10 минут), персонаж может распознать распространённые и обычные магические предметы или особые компоненты [special components] броском навыка [proficiency throw] на 11+. Он может извлекать особые компоненты [special components] из конструктов [constructs]. Однако он не может распознавать необычные или уникальные магические предметы, узнавать командные слова [command words], отличать проклятые или снабжённые ловушкой предметы от безопасных либо определять точный бонус или число оставшихся зарядов [charges]. Навык можно выбирать несколько раз; каждый выбор добавляет ещё +1 к броскам магических исследований [magic research throws], увеличивает темп исследований [research rate] на 5% и улучшает на 4 целевое значение броска распознавания распространённых предметов.
+
+---
+
+<p align="right" id="pdf-page-0116"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=116" title="Страница PDF 116 · печатная стр. 114">страница 116</a></small></p>
+
+### Волшебное музицирование
+
+<small>MAGICAL MUSIC</small>
+
+Выступление персонажа может вызывать у зрителей определённые чувства. При выборе навыка он изучает два музыкальных эффекта [musical effects], каждый из которых соответствует заклинанию зачарования [enchantment spell] 1-го круга. Доступны следующие эффекты:
+
+♦ **Сонливость [Drowsiness]:** мелодичная колыбельная накладывает *Дремоту [slumber]* на аудиторию из одного или нескольких существ.
+
+♦ **Расположение [Goodwill]:** песня, восхваляющая достоинства слушателя, накладывает *Обольщение гуманоида [beguile humanoid]* на аудиторию из одного существа.
+
+♦ **Ужас [Horror]:** песня с тревожными, зловещими созвучиями накладывает *Устрашение гуманоида [frighten humanoid]* на аудиторию из одного существа.
+
+♦ **Негодование [Outrage]:** песня, высмеивающая убеждения и репутацию слушателя, накладывает *Ярость гуманоида [infuriate humanoid]* на аудиторию из одного существа.
+
+Арбитр [Judge] может добавлять или придумывать другие музыкальные эффекты [musical effects]. Для применения Волшебного музицирования [Magical Music] персонаж выбирает эффект выступления и в соответствии с ним определяет аудиторию, то есть существ-целей. Он выделяет их взглядом, жестами рук и другими выразительными приёмами; цели понимают, что выступление обращено к ним. Они должны слышать персонажа, находиться в его линии видимости [line of sight], понимать его язык и ещё не участвовать в бою. Дружба с животными [Beast Friendship] считается пониманием языка животных; при её наличии музыкальные эффекты [musical effects], рассчитанные на гуманоидов [humanoids], можно вместо этого направлять на животных.
+
+Выбрав аудиторию, персонаж начинает выступление и выполняет бросок навыка [proficiency throw] с целевым значением 11+. С каждым уровнем требуемое значение уменьшается на 1. У персонажа должен быть хотя бы один ранг Выступления [Performance], полученный от классовой способности [class power] или навыка. Дополнительные ранги Выступления [Performance] дают по +1 к броску, но учитываются не более двух дополнительных рангов. При успехе музыкальный эффект [musical effect] начинается немедленно и длится до окончания выступления. Если персонаж выступает полный ход [turn] (10 минут), эффект сохраняется до конца выступления и затем ещё на срок действия соответствующего заклинания. При провале волшебная музыка не действует, и в этом ходу [turn] её нельзя повторно применить к той же аудитории. Навык можно выбирать несколько раз, каждый раз изучая ещё два музыкальных эффекта [musical effects].
+
+### Военная подготовка (G)
+
+<small>MANUAL OF ARMS (G)</small>
+
+Персонаж хорошо знаком с воинской дисциплиной, физической подготовкой и упражнениями с оружием. Он автоматически узнаёт боевые знамёна, снаряжение, знаменитых полководцев, военный жаргон и знаки различия своей родины; для других Владений [realms] требуется бросок навыка [proficiency throw] на 11+. Он может сражаться как регулярный [regular], а не иррегулярный [irregular] воин в подразделениях сомкнутого [formed] и рассыпного [loose] строя. По усмотрению Арбитра [Judge] он может начать игру членом легиона, гильдии наёмников или другой военной организации.
+
+Дополнительные ранги Военной подготовки [Manual of Arms] позволяют персонажу служить военным наставником [marshal] и одновременно обучать до 60 воинов как целенаправленной деятельностью [dedicated activity].
+
+♦ При двух рангах персонаж может обучать лёгкую пехоту [light infantry] и пращников [slingers]; период обучения — 1 месяц. Если у него также есть Бой верхом [Mounted Combat] или Верховая езда [Riding], он может обучать лёгкую конницу [light cavalry] за 3 месяца. Если у него есть Специализация на боевом стиле (дальнобойное оружие) [Fighting Style Specialization (missile weapons)] или Любимое оружие (луки и арбалеты) [Weapon Focus (bows & crossbows)], он также может обучать арбалетчиков [crossbowmen] за 1 месяц, лучников [bowmen] за 2 месяца и стрелков [longbowmen] за 3 месяца. Умея обучать и лучников [bowmen], и лёгкую конницу [light cavalry], он может обучать конных лучников [horse archers] за 6 месяцев.
+
+♦ При трёх рангах персонаж может обучать тяжёлую пехоту [heavy infantry] за 1 месяц. Умея обучать и тяжёлую пехоту [heavy infantry], и лёгкую конницу [light cavalry], он может обучать среднюю [medium cavalry] и тяжёлую конницу [heavy cavalry] за 6 месяцев. Умея обучать и лучников [bowmen], и тяжёлую конницу [heavy cavalry], он может обучать катафрактов [cataphract cavalry] за 12 месяцев.
+
+Обучив войска, персонаж может поддерживать их высокую боеготовность, проводя смотры. Смотр занимает один ход [turn] (10 минут) на каждые 60 воинов и даёт +1 к боевому духу [morale] на один день. Персонаж может проводить смотр только тех типов войск, которые умеет обучать.
+
+### Картография (G)
+
+<small>MAPPING (G)</small>
+
+Персонаж умеет читать и составлять карты, даже если неграмотен. Он может делать пригодные для использования карты при свете факела, двигаясь со скоростью исследования [exploration speed] или медленнее. Потратив один ход [turn] (10 минут) на размышление и выполнив бросок навыка [proficiency throw] на 11+, он может разобраться в сложном плане или начертить его, составить карту местности по памяти либо заметить несоответствие на собственной карте. Навык можно выбирать несколько раз.
+
+### Боевая подготовка
+
+<small>MARTIAL TRAINING</small>
+
+Персонаж владеет оружием, необычным для своего класса. Выберите один из следующих вариантов и добавьте его к списку доступного оружия: (1) топоры; (2) луки/арбалеты; (3) цепы/молоты/булавы; (4) мечи/кинжалы; (5) копья/древковое оружие [polearms]; (6) бола/сети/пращи/дубинки для оглушения [saps]/посохи/посохи-пращи [staff-slings]; (7) любые четыре оружия. При выборе варианта 7 составной [composite bow] или длинный лук [long bow] можно выбрать лишь при уже освоенном или одновременно выбираемом коротком луке [short bow]; копьё [spear] или древковое оружие [polearm] — лишь при уже освоенном или одновременно выбираемом дротике [javelin]. Боевая подготовка [Martial Training] не открывает недоступные персонажу боевые стили [fighting styles]: например, выбрав копья/древковое оружие [spears/polearms], он всё равно не сможет пользоваться древковым оружием [polearm], если уже не владеет стилем боя двуручным оружием [two-handed weapon fighting style]. Божественному заклинателю [divine caster] божество делает исключение, разрешая пользоваться выбранным оружием.
+
+---
+
+<p align="right" id="pdf-page-0117"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=117" title="Страница PDF 117 · печатная стр. 115">страница 117</a></small></p>
+
+### Мастерство колдовства и призыва
+
+<small>MASTERY OF CONJURATION & SUMMONING</small>
+
+Эффекты произносимых персонажем заклинаний призыва [summoning spells], например *Вызова исчадия [conjure fiend]* или *Призыва тени [summon shadow]*, рассчитываются так, словно его уровень заклинателя [caster level] на два выше фактического уровня опыта; это затрудняет их рассеивание [dispel]. Если, управляя вызванным существом, персонаж теряет концентрацию [concentration] из-за полученного урона, он должен выполнить спасбросок от заклинаний [Spells]. При успехе он сохраняет концентрацию [concentration]. Для определения доступности исследований магии призыва [summoning magic] он считается заклинателем [caster] на два уровня выше фактического. При исследованиях магии призыва [summoning magic] он получает +2 к броскам магических исследований [magic research throws] и увеличивает темп исследований [research rate] на 10%. Мастерство колдовства и призыва [Mastery of Conjuration and Summoning] складывается с классовой способностью [class power] «Вызов тёмных сил» [Conjure Dark Powers]: тогда его заклинания призыва [summoning spells] рассчитываются так, словно он на три, а не на два уровня заклинателя [caster levels] выше, а к спасброску от заклинаний [Spells] для сохранения концентрации [concentration] он получает +2.
+
+### Мастерство зачарования и иллюзий
+
+<small>MASTERY OF ENCHANTMENTS & ILLUSIONS</small>
+
+Эффекты заклинаний зачарования [enchantment spells], например *Околдовывания личности [bewitch person]*, и иллюзий [illusion spells], например *Призрачного образа [phantasmal figment]*, рассчитываются так, словно уровень заклинателя [caster level] персонажа на два выше фактического уровня опыта. Цели его заклинаний зачарования [enchantment spells] и иллюзий [illusion spells] получают -2 к спасброскам [saving throws]. Для определения доступности исследований магии зачарования [enchantment magic] и иллюзий [illusion magic] персонаж считается заклинателем [caster] на два уровня выше фактического. При исследованиях такой магии он получает +2 к броскам магических исследований [magic research throws] и увеличивает темп исследований [research rate] на 10%.
+
+### Военная стратегия (G)
+
+<small>MILITARY STRATEGY (G)</small>
+
+Персонаж изучал военное искусство и приёмы великих полководцев. Броском навыка [proficiency throw] на 11+ он узнаёт знаменитые исторические битвы, полководцев и оружие. Он получает +1 к Стратегическим способностям [Strategic Ability] (см. стр. 436). Навык можно выбирать несколько раз; каждый выбор улучшает на 4 целевое значение броска распознавания и даёт ещё +1 к Стратегическим способностям [Strategic Ability], до предела +3.
+
+### Мимикрия (G)
+
+<small>MIMICRY (G)</small>
+
+Персонаж умеет подражать голосам животных и чужеземным акцентам. При броске навыка [proficiency throw] на 11+ его подражание — например крику совы или другому животному звуку — настолько правдоподобно, что даже опытный натуралист поверит, будто слышал настоящее животное. Навык можно выбирать несколько раз.
+
+### Альпинизм (G)
+
+<small>MOUNTAINEERING (G)</small>
+
+Персонаж умеет пользоваться альпинистским снаряжением [mountaineering gear], чтобы подниматься по трудным горным склонам и скалам, и вести по ним группу численностью не более 30 персонажей. Для полного комплекта ему нужен крюк-кошка [grappling hook], а ему самому и каждому, кому он помогает, — ручной топор, небольшой молоток, набор из 6 железных шипов и не менее 50 футов верёвки. Если у персонажа нет Лазания [Climbing] или равнозначной классовой способности [class power], он и его спутники при подъёме, спуске по верёвке и преодолении препятствий с альпинистским снаряжением [mountaineering gear] используют бросок навыка [proficiency throw] вора [Thief] его уровня класса. Если Лазание [Climbing] у него есть, группа поднимается, спускается и преодолевает препятствия как воры [Thieves] его уровня класса, а его собственный бросок навыка [proficiency throw] проваливается лишь при выпадении без модификаторов
+
+1, если он движется не быстрее половины боевой скорости [combat speed]. Навык не позволяет взбираться по отвесным поверхностям во время боя или без альпинистского снаряжения [mountaineering gear].
+
+### Бой верхом
+
+<small>MOUNTED COMBAT</small>
+
+Персонаж может без штрафа ездить на осёдланном ездовом животном [riding animal] в боевых условиях. Верхом он получает +1 к броскам атаки [attack throws]. Если у него также есть Верховая езда [Riding], он может без штрафа сражаться верхом без седла, удил и уздечки.
+
+### Мистическая аура
+
+<small>MYSTIC AURA</small>
+
+Персонаж научился проявлять магическую силу так, что окружающие испытывают благоговение. Он получает +1 к броскам реакции [reaction rolls], когда хочет впечатлить или запугать встреченных людей. Если с этим бонусом итоговый результат равен 12 или выше, цели ведут себя как **околдованные [bewitched]**, пока находятся рядом с ним. Когда цель покидает его присутствие, **околдовывание [bewitchment]** прекращается. Если персонаж действовал тонко и тактично, ограничивая просьбы разумными пределами, цель может и не понять, что была **околдована [bewitched]**. Однако если он предъявлял опасные или необычные требования, на которые цель обычно не согласилась бы, после окончания эффекта она догадается, что была **околдована [bewitched]**. Те, кто бесстыдно злоупотребляет этой силой, приобретают репутацию чародеев или обладателей дурного глаза; люди избегают их и сторонятся, боясь стать очередными жертвами.
+
+---
+
+<p align="right" id="pdf-page-0118"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=118" title="Страница PDF 118 · печатная стр. 116">страница 118</a></small></p>
+
+### Природоведение (G)
+
+<small>NATURALISM (G)</small>
+
+Персонаж знает распространённые растения и животных. Потратив один ход [turn] (10 минут) и выполнив бросок навыка [proficiency throw] на 11+, он может оценить стоимость частей чудовища, определить ядовитых чудовищ, ядовитые растения и целебные травы [healing herbs], а также заметить признаки неестественной опасности: необычную тишину, нетипичное поведение животных и тому подобное. На 14+ он распознаёт особые компоненты [special components] (см. ***ACKS II MM***, стр. 371).
+
+Персонаж также может искать целебные травы [healing herbs] или ядовитые растения. Каждая попытка требует одного дня целенаправленной деятельности [dedicated activity] и броска навыка [proficiency throw]. Целевое значение задаёт Арбитр [Judge] в зависимости от редкости растения; обычно оно составляет 16–20. При успехе персонаж собирает 1 стоун [stone] свежих растений — достаточно для извлечения одной дозы яда или одной дозы целебных трав [healing herbs]. При провале поиски безрезультатны. Если при провале на кости без модификаторов выпало 1, персонаж случайно подвергается действию растительного токсина: искомого или случайного. Он должен немедленно успешно выполнить спасбросок от смерти [Death] либо испытать действие токсина.
+
+### Навигация (G)
+
+<small>NAVIGATION (G)</small>
+
+Персонаж может приблизительно определять своё местоположение по солнцу и звёздам. Он получает +4 к броскам навыков [proficiency throws], позволяющим не заблудиться в диких землях. Если у него есть хотя бы один ранг Мореплавания [Seafaring], он может служить штурманом [navigator] на морском судне, как описано в разделе **«Специалисты» [Specialists]**. Бонус складывается с классовой способностью [class power] Поиск пути [Pathfinding] исследователя [Explorer] и торговца [Venturer]. Навык можно выбирать несколько раз.
+
+### Проход без следа
+
+<small>PASSING WITHOUT TRACE</small>
+
+Персонаж не оставляет следов своего передвижения, и его нельзя выследить. За каждый уровень опыта он может скрыть следы ещё одного попутчика. Персонажи, применяющие Проход без следа [Passing Without Trace], не учитываются при определении численности группы для избегания [evasion] (стр. 284).
+
+### Выступление (G)
+
+<small>PERFORMANCE (G)</small>
+
+Персонаж умеет искусно играть на сцене, танцевать, петь, читать стихи, рассказывать истории или играть на музыкальных инструментах. Вид выступления выбирается при получении навыка; повторные выборы позволяют освоить несколько видов. В своём искусстве персонаж считается учеником [apprentice]. Выступления приносят ему 10 зм в месяц, а бросок навыка [proficiency throw] на 11+ позволяет узнавать знаменитых исполнителей, шедевры и редкие инструменты.
+
+### Развитие навыка «Выступление»
+
+<small>PERFORMANCE PROFICIENCY PROGRESSION</small>
+
+| Звание<br><small>TITLE</small> | Ранг (число выборов навыка)<br><small>RANK (# OF TIMES TAKEN)</small><sup>*1</sup> | Заработок, зм/месяц<br><small>GP EARNED / MONTH</small> | Допустимое число работников<br><small>NUMBER OF WORKERS<br>ALLOWED</small> |
+| --- | --- | --- | --- |
+| Ученик [Apprentice] | 1 | 10 зм | Не применимо |
+| Подмастерье [Journeyman] | 2 | 20 зм | 3 ученика [Apprentices] |
+| Мастер выступлений [Master Performer] | 3 | 40 зм | 2 подмастерья [Journeymen], 4 ученика [Apprentices] |
+
+> \*1 Повёрнутые заголовки двух столбцов повреждены при извлечении текста. По изображению PDF восстановлены Rank (# of Times Taken) и GP Earned / Month. Английские единицы в базе не изменены; читаемые английские подписи восстановлены только в Markdown.
+
+Дважды выбрав один и тот же вид Выступления [Performance], персонаж считается подмастерьем [journeyman]. За месяц целенаправленной деятельности [dedicated activity] он может заработать выступлениями 20 зм и руководить труппой не более чем из 3 учеников [apprentices], повышая их производительность на 50%. Трижды выбрав тот же вид, он становится мастером [master]. За месяц целенаправленной деятельности [dedicated activity] он зарабатывает выступлениями 40 зм и может руководить труппой из не более чем 2 подмастерьев [journeymen] и 4 учеников [apprentices], повышая их производительность на 50%.
+
+### Знание ядов
+
+<small>POISONING</small>
+
+Персонаж искусен в распознавании, извлечении и применении природных токсинов и ядов. Он распознаёт ядовитые растения и чудовищ и различает их яды, как если бы имел один ранг Природоведения [Naturalism]. Он извлекает яд из убитых существ, как если бы имел один ранг Ухода за животными [Animal Husbandry], и токсины из растений, как если бы имел один ранг Алхимии [Alchemy]. Если у него уже есть ранги Ухода за животными [Animal Husbandry], Алхимии [Alchemy] или Природоведения [Naturalism], для этих действий он считается имеющим ещё один ранг. При извлечении и применении ядов у него не бывает критических неудач [botches].
+
+### Точная стрельба
+
+<small>PRECISE SHOOTING</small>
+
+Персонаж может без штрафа совершать дальнобойную атаку [missile attack] по врагу, не находящемуся вплотную [unengaged] к противнику, даже мимо укрытия или союзников, уже **находящихся вплотную [engaged]** к врагу. По врагу, находящемуся вплотную [engaged], он может атаковать со штрафом -4. Навык можно выбирать несколько раз; каждый выбор уменьшает штраф за атаку противника в ближнем бою на 2. Без этого навыка нельзя совершать дальнобойные атаки [missile attacks] по противникам, находящимся вплотную [engaged] в ближнем бою; атаки по вражеским целям через ближний бой получают штраф -4.
+
+### Фокусничество
+
+<small>PRESTIDIGITATION</small>
+
+Персонаж может по желанию магически создавать простые иллюзии [illusions] и фокусы, впечатляющие крестьян, например зажечь свечу или перетасовать карты. Для этого он должен физически уметь выполнять соответствующее действие и иметь возможность говорить и жестикулировать. С помощью магической ловкости рук [magical sleight-of-hand] он может совершать Карманные кражи [pick pockets] как вор [Thief] с уровнем, равным половине его уровня класса с округлением вверх.
+
+---
+
+<p align="right" id="pdf-page-0119"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=119" title="Страница PDF 119 · печатная стр. 117">страница 119</a></small></p>
+
+### Профессия (G)
+
+<small>PROFESSION (G)</small>
+
+Персонаж искусен в гражданской профессии: например, актуария, банкира, камергера, судьи, законоведа, библиотекаря, купца, трактирщика, писца или сенешаля. В своей профессии он считается учеником [apprentice]. За месяц целенаправленной деятельности [dedicated activity] его услуги приносят 25 зм; бросок навыка [proficiency throw] на 11+ позволяет дать профессиональное заключение по связанному с профессией вопросу. Профессия выбирается при получении навыка. Дополнительные выборы позволяют освоить несколько профессий. Дважды выбрав одну и ту же Профессию [Profession], персонаж становится дипломированным практиком [licensed practitioner]. За месяц целенаправленной деятельности [dedicated activity] он зарабатывает услугами 50 зм и может руководить работой не более 3 учеников [apprentices], повышая их производительность на 50%. При оценке товаров своей области он считается экспертом [expert]. Трижды выбрав ту же Профессию [Profession], он становится мастером профессии [master of his profession]. За месяц целенаправленной деятельности [dedicated activity] он зарабатывает 100 зм и может руководить работой не более 2 практиков [practitioners] и 4 учеников [apprentices], повышая их производительность на 50%.
+
+### Развитие навыка «Профессия»
+
+<small>PROFESSION PROFICIENCY PROGRESSION</small>
+
+| Звание<br><small>TITLE</small> | Ранг (число выборов навыка)<br><small>RANK (# OF TIMES TAKEN)</small><sup>*1</sup> | Заработок, зм/месяц<br><small>GP EARNED / MONTH</small> | Допустимое число работников<br><small>NUMBER OF WORKERS<br>ALLOWED</small> |
+| --- | --- | --- | --- |
+| Ученик [Apprentice] | 1 | 25 зм | Не применимо |
+| Дипломированный практик [Licensed Practitioner] | 2 | 50 зм | 3 ученика [Apprentices] |
+| Мастер профессии [Master of Profession] | 3 | 100 зм | 2 подмастерья [Journeymen], 4 ученика [Apprentices] |
+
+> \*1 Повёрнутые заголовки восстановлены по изображению PDF: Rank (# of Times Taken), GP Earned / Month. Геометрия таблицы и английские единицы базы сохранены. В последней строке таблицы стоят Journeymen, а в описании навыка — practitioners; различие сохранено.
+
+### Пророчество
+
+<small>PROPHECY</small>
+
+Персонажа посещают предчувствия и сны о прошлом и будущем. Один раз в месяц ему снится *Пророческий сон [prophetic dream]*, содержание которого определяет Арбитр [Judge].
+
+### Геолог
+
+<small>PROSPECTING</small>
+
+Персонаж искусно находит рудные залежи и может обследовать 6-мильные гексы [hexes], чтобы определить наличие пригодной для добычи руды. Разведка одного 6-мильного гекса [hex] требует одного дня целенаправленной деятельности [dedicated activity] и успешного броска навыка [proficiency throw] на 18+. Геодезия [Land Surveying] даёт ещё +4 к броскам разведки руды [prospecting throws]. Подробные правила поиска руды приведены в главе 8 книги ***By This Axe***.
+
+### Тихая магия
+
+<small>QUIET MAGIC</small>
+
+Персонаж может произносить заклинания с минимумом слов и жестов. Жесты тоньше, чем у обычных заклинателей [casters], но всё ещё заметны внимательным наблюдателям, видящим персонажа напрямую. Слова же трудно расслышать даже в тихой комнате: чтобы услышать произнесение заклинания, требуется успешный бросок Подслушивания [Listening] для обнаружения звуков. Лишить персонажа возможности колдовать можно лишь полностью связав его и заткнув ему рот.
+
+### Реликварианизм
+
+<small>RELIQUARIANISM</small>
+
+Персонаж освоил тайную теургию, с помощью которой мастера-жрецы [craftpriests] направляют веру своего народа в реликвии предков. Он может хранить божественную силу [divine power], полученную от прихожан [congregants] или жертвоприношений [sacrifice], в реликварии [reliquary]. Реликварий [reliquary] должен находиться в том же 24-мильном гексе [hex], что и прихожане [congregants].
+
+При магических исследованиях [magic research] персонаж может пользоваться этой божественной силой [divine power], если за последний месяц лично провёл у реликвария [reliquary] хотя бы один ход [turn] и работает в Убежище [vault], где тот расположен. Предельный запас божественной силы [divine power] равен стоимости постройки реликвария [reliquary] плюс стоимости хранящихся в нём реликвий [relics] в зм. При разрушении реликвария [reliquary] или изъятии реликвий [relics] божественная сила [divine power] сверх оставшейся стоимости безвозвратно теряется. Поскольку навык управляет самой божественной силой [divine power], его нельзя зачарованием вложить в предмет.
+
+### Гуляка (G)
+
+<small>REVELRY (G)</small>
+
+Персонаж — знаток ярмарок, празднеств, еды и питья. В поселении, где он живёт, он автоматически узнаёт популярных исполнителей, питейные заведения, постоялые дворы и таверны. Высокая переносимость алкоголя даёт ему +2 к спасброскам [saving throws], связанным с употреблением зелий, дварфийских напитков [dwarven brews], обычного пива, вина и крепких напитков. У рядовых НИП [NPCs] 0-го уровня, ведущих размеренную жизнь, этот навык встречается часто, а у деятельных авантюристов — реже.
+
+### Верховая езда (G)
+
+<small>RIDING (G)</small>
+
+Персонаж — искусный наездник. Вне боя он может ездить без седла, удил и уздечки. В бою он может без штрафа ездить на осёдланном ездовом животном [riding animal]. Он может совершать форсированный марш [force-march] на осёдланном ездовом животном [riding animal], сам не становясь истощённым [fatigued]. Животное всё же истощается [fatigued], поэтому для продолжения марша наездник должен сменить его. На осёдланном животном, совершающем натиск [charging] или бег [running], он может направить его в прыжок высотой до 5 футов и дальностью до 25% его боевого перемещения [combat movement] в футах. При наличии Боя верхом [Mounted Combat] он может без штрафа ездить без седла, удил и уздечки также и в бою.
+
+### Праведное изгнание
+
+<small>RIGHTEOUS REBUKE</small>
+
+При изгнании нежити [rebuking undead] персонаж прибавляет бонус Воли [Will] к броскам изгнания [rebuking throws], а к числу изгнанных при успешном броске КЗ [HD] нежити — половину своего уровня божественного заклинателя [divine caster level] с округлением вверх.
+
+### Бегун
+
+<small>RUNNING</small>
+
+Базовая скорость [base speed] персонажа увеличивается на 30 футов, если он носит средние или более лёгкие доспехи и имеет нагрузку [encumbrance] не более 7 стоунов [stones].
+
+### Мореплавание (G)
+
+<small>SEAFARING (G)</small>
+
+Один выбор навыка позволяет ходить под парусом [sail] либо грести [row] — по выбору персонажа. Если у него также есть Навигация [Navigation], он может служить штурманом [navigator] на морском судне. Два выбора позволяют и ходить под парусом [sail], и грести [row], а также служить капитаном судна [vessel captain]. Три выбора делают его мастером-мореходом [master mariner]. Мастера-мореходы [master mariners] быстрее ходят против ветра и получают +4 к броскам Мореплавания [Seafaring] и таранным атакам [ramming attacks].
+
+### Соблазнение (G)
+
+<small>SEDUCTION (G)</small>
+
+Персонаж от природы привлекателен либо искусен в соблазнении. Он получает +1 к броскам реакции [reaction rolls] при общении с теми, кто потенциально может испытывать к нему влечение. Бонус складывается с Мистической аурой [Mystic Aura], но не с Дипломатией [Diplomacy] или Запугиванием [Intimidation].
+
+*Красота причиняет боль, ибо боль прекрасна.*
+
+Эксквизитрица Нетари [Exquisitrix Netari], *«Предписания плоти и духа» [Strictures of the Flesh and Soul]*
+
+---
+
+<p align="right" id="pdf-page-0120"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=120" title="Страница PDF 120 · печатная стр. 118">страница 120</a></small></p>
+
+### Чувство зла
+
+<small>SENSING EVIL</small>
+
+Персонаж может обнаруживать в пределах 45 футов существ со злыми намерениями, магические предметы со злыми чарами, провалы зла [sinkholes of evil], зачарованных существ [enchanted creatures] хаотичного мировоззрения [Chaotic alignment], воплощения [incarnations] хаотичного мировоззрения [Chaotic alignment] и нежить. Обычные персонажи, даже хаотичные [Chaotic], не обнаруживаются, если не имеют деятельных злых намерений против него. Яды, физические ловушки и обычные животные не являются ни добрыми, ни злыми, поэтому это заклинание [spell] их не обнаруживает. Персонаж видит вокруг злых существ и предметов зловещее красное свечение, невидимое остальным. Источник зла должен находиться в его линии видимости [line of sight]: способность не действует сквозь стены. Если существо или предмет скрыты [hidden] либо невидимы [invisible], персонаж видит лишь свечение, а не его источник. Для активации Чувства зла [Sensing Evil] нужен один полный раунд [full round] спокойной концентрации [concentration]. Эффект длится, пока сохраняется концентрация [concentration], но не более одного раунда [round] за уровень. Его можно применять один раз за ход [turn] (10 минут).<sup>*</sup>
+
+> \* В описании Чувства зла [Sensing Evil], как и Чувства добра [Sensing Good], источник называет способность «this spell». Слово «заклинание [spell]» сохранено; отдельного правила о типе способности не добавлено.
+
+### Чувство добра
+
+<small>SENSING GOOD</small>
+
+Персонаж может обнаруживать в пределах 45 футов существ с добрыми намерениями, магические предметы с добрыми чарами, вершины добра [pinnacles of good], зачарованных существ [enchanted creatures] порядочного мировоззрения [Lawful alignment] и воплощения [incarnations] порядочного мировоззрения [Lawful alignment]. Обычные персонажи не обнаруживаются, если не имеют деятельных добрых намерений по отношению к нему. Вкусная еда, удобная мебель и обычные животные не являются ни добрыми, ни злыми, поэтому это заклинание [spell] их не обнаруживает. Персонаж видит вокруг добрых существ и предметов раздражающее золотое свечение, невидимое остальным. Источник добра должен находиться в его линии видимости [line of sight]: способность не действует сквозь стены. Если существо или предмет скрыты [hidden] либо невидимы [invisible], персонаж видит лишь свечение, а не его источник. Для активации Чувства добра [Sensing Good] нужен один полный раунд [full round] спокойной концентрации [concentration]. Эффект длится, пока сохраняется концентрация [concentration], но не более одного раунда [round] за уровень. Его можно применять один раз за ход [turn] (10 минут).
+
+### Чувство силы
+
+<small>SENSING POWER</small>
+
+Персонаж может обнаруживать заклинателей [spellcasters] в пределах 45 футов и оценивать их могущество по сравнению со своим. Он определяет, применялась ли поблизости магия в течение последних 24 часов, и узнаёт след заклинания [spell signature] этого эффекта. Он не обязательно распознает магический предмет, если тот не использовался в течение последних 24 часов. Для активации Чувства силы [Sensing Power] нужен один полный раунд [full round] спокойной концентрации [concentration]. Эффект длится, пока сохраняется концентрация [concentration], но не более одного раунда [round] за уровень. Его можно применять один раз за ход [turn] (10 минут).
+
+### Осадное дело (G)
+
+<small>SIEGE ENGINEERING (G)</small>
+
+Персонаж обучен военному искусству осадного дела. При одном ранге он может возводить оборонительные сооружения: рвы, ямы, поля кольев и другие простые деревянные и земляные заграждения — с темпом строительства [construction rate] 2 см за день целенаправленной деятельности [dedicated activity]. Как артиллерист [artillerist] он может управлять тяжёлыми боевыми машинами [heavy war machines] и осадными орудиями [siege engines], например баллистами, катапультами, таранами, буравами [bores] и осадными башнями.
+
+При двух рангах персонаж может возводить оборонительные сооружения, тяжёлые боевые машины [heavy war machines], осадные орудия [siege engines] и осадные башни с темпом строительства [construction rate] 6,6 см за день целенаправленной деятельности [dedicated activity]. Он также может руководить чужой работой над осадными проектами стоимостью строительства [construction cost] не более 25 000 зм.
+
+---
+
+<p align="right" id="pdf-page-0121"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=121" title="Страница PDF 121 · печатная стр. 119">страница 121</a></small></p>
+
+### Сигналы (G)
+
+<small>SIGNALING (G)</small>
+
+Персонаж умеет передавать сообщения другим специалистам по сигналам [signaling specialists] той же военной силы, культуры, ремесленной гильдии или иной организации. Это подобно изучению дополнительного языка. При выборе навыка нужно указать освоенные способ и культуру сигналов. Примеры: морские флаги, кавалерийские трубы и дымовые сигналы.
+
+### Бей и беги
+
+<small>SKIRMISHING</small>
+
+Персонаж может отойти [withdraw] или отступить [retreat] из ближнего боя, не объявляя об этом в начале раунда [round]. Без этого навыка защитное перемещение [defensive movement] нужно объявлять до бросков инициативы [initiative]; см. **«Защитное перемещение» [Defensive Movement]** в главе 6. При натиске [charging] и беге [running] персонаж не получает штрафа к Классу брони [armor class], если носит средние или более лёгкие доспехи и имеет нагрузку [encumbrance] не более 7 стоунов [stones].
+
+### Поиск укрытий
+
+<small>SKULKING</small>
+
+Персонаж искусно движется украдкой и находит укрытия. Он получает +2 к броскам Прятания [Hiding] и Подкрадывания [Sneaking]. При подкрадывании [sneaking] быстрее половины боевой скорости [combat speed] штраф уменьшается до -2 вместо -5. При подкрадывании [sneaking] на бегу штраф уменьшается до -5 вместо -10.
+
+### Подготовка снайпера
+
+<small>SNIPING</small>
+
+Если остальные условия атаки из засады [ambush] или Удара в спину [backstab] выполнены, персонаж может применять их дальнобойным оружием [missile weapons] вплоть до дальней дистанции. Без этого навыка атака из засады [ambush] и Удар в спину [backstab] возможны только в ближнем бою или дальнобойным оружием [missile weapons] на короткой дистанции.
+
+### Гадание
+
+<small>SOOTHSAYING</small>
+
+Персонаж обучен читать предзнаменования в обычных вещах: броске костей, полёте птиц или чайных листьях. Один раз в 8 часов он может произнести **Предзнаменование [augury]** как одноимённое заклинание. Произнесение занимает 10 секунд (1 раунд [round]).
+
+### Знание улиц (G)
+
+<small>STREETWISE (G)</small>
+
+Персонаж усвоил суровые уроки преступной жизни. По усмотрению Арбитра [Judge] он может начать игру членом гильдии воров или другого преступного синдиката. При наличии нужных навыков он может заниматься происками [hijinks]. Он автоматически узнаёт жесты, знаки, жаргон и территории преступных организаций своего родного поселения; для других городских поселений требуется бросок навыка [proficiency throw] на 11+. Тайные организации и организации далёких городов распознать труднее. Навык можно выбирать повторно.
+
+### Выживание (G)
+
+<small>SURVIVAL (G)</small>
+
+Персонаж искусен в охоте на мелкую дичь, сборе плодов и овощей, поиске воды и укрытия. Он автоматически добывает достаточно пищи для себя, даже в пути. Для добычи пищи другим персонажам или поиска воды требуется бросок навыка [proficiency throw], описанный в разделе **«Приключения в диких землях» [Wilderness Adventures]** на стр. 276, но персонаж получает к нему +4.
+
+### Бравада
+
+<small>SWASHBUCKLING</small>
+
+В лёгких доспехах или без доспехов и при нагрузке [encumbrance] не более 5 стоунов [stones] персонаж получает +1 к Классу брони [Armor Class]. На 7-м уровне бонус увеличивается до +2, на 13-м — до +3. Бравада [Swashbuckling] складывается с классовой способностью [class power] девы клинков [Bladedancer] Грациозный бой [Graceful Fighting], повышая бонус к КБ [AC], но бонус самой Бравады [Swashbuckling] ограничен +1, если дева клинков [Bladedancer] носит доспехи.
+
+### Плавание (G)
+
+<small>SWIMMING (G)</small>
+
+Персонаж — умелый пловец. Он получает +4 к броскам Плавания [Swimming]. Если этот бонус улучшает целевое значение Плавания [Swimming] до 0+ или лучше, бросок Плавания [Swimming] вообще не нужен.
+
+### Синкретизм
+
+<small>SYNCRETISM</small>
+
+Персонаж включил знания других религий в свою божественную практику. Он может заменить 4 божественных заклинания [divine spells] в репертуаре [repertoire] другими божественными заклинаниями [divine spells], обычно недоступными последователям его бога. Сам выбор навыка не нарушает божественный кодекс поведения [divine code of behavior], но если отход от ортодоксального учения станет известен, персонаж может столкнуться с последствиями внутри своего ордена, по усмотрению Арбитра [Judge].
+
+### Теология (G)
+
+<small>THEOLOGY (G)</small>
+
+Персонаж получил религиозное образование в семинарии, монастыре или храме. Если он божественный заклинатель [divine spellcaster], то по усмотрению Арбитра [Judge] может начать игру членом религиозной иерархии. Он может привлекать прихожан [congregants] проповедованием [proselytizing]. Он автоматически узнаёт религиозные символы, следы заклинаний [spell signatures], атрибутику и священные дни своей веры, а относящиеся к другим верованиям распознаёт броском навыка [proficiency throw] на 11+. Редкие или тайные культы распознать труднее. Навык можно выбирать несколько раз.
+
+---
+
+<p align="right" id="pdf-page-0122"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=122" title="Страница PDF 122 · печатная стр. 120">страница 122</a></small></p>
+
+### Выслеживание (G)
+
+<small>TRACKING (G)</small>
+
+Персонаж может искать следы прошедших существ. Для поиска в окрестностях места столкновения [encounter] требуется один ход [turn] (10 минут). При провале повторить попытку в той же области можно не ранее чем через 6 ходов [turns], то есть один час. Поиск следов требует броска Выслеживания [Tracking] на 11+. Арбитр [Judge] должен увеличивать или уменьшать шанс успеха в зависимости от обстоятельств:
+
+♦ +2 при выслеживании 2–4 существ;<sup>*</sup>
+
+> \* В оригинале диапазоны 2–4, 4–8 и 8–16 пересекаются на 4 и 8 существах. Они сохранены без исправления; выбор бонуса на этих границах требует решения Арбитра [Judge].
+
+♦ +4 при выслеживании 4–8 существ;
+
+♦ +6 при выслеживании 8–16 существ;
+
+♦ +8 при выслеживании 17+ существ;
+
+♦ +4, если след идёт по мягкой или грязной земле;
+
+♦ -8, если след идёт по твёрдой или каменистой земле;
+
+♦ -1 за каждые 12 часов хорошей погоды с момента появления следа;
+
+♦ -4 за каждый час дождя или снега с момента появления следа;
+
+♦ -4 при тусклом освещении: факел, лунный свет и тому подобное.
+
+Обнаружив следы, персонаж может идти по ним с половиной скорости исследования [exploration speed] в подземелье и с половиной скорости экспедиции [expedition speed] в диких землях. Для движения по следу броски навыка [proficiency throws] не нужны. Однако если след уходит в воду или проходит час погодных условий «Дождь/Снег» [Rainy/Snowy], след теряется и для его обнаружения нужен новый поиск.
+
+Если хотя бы у одного члена группы есть Выслеживание [Tracking], группа получает +4 к броску навыка [proficiency throw] при поиске логов [lairs] в 6-мильном гексе [hex]. Навык можно выбирать несколько раз. Каждый дополнительный ранг улучшает бросок выслеживания [Tracking] на 4, но не увеличивает бонус к поиску логов [lairs].
+
+### Трансмогрификация
+
+<small>TRANSMOGRIFICATION</small>
+
+Персонаж овладел гротескным искусством превращений. Эффекты его заклинаний трансмогрификации [transmogrification spells] рассчитываются так, словно его уровень класса на два выше фактического уровня опыта. Для определения доступности создания гибридов [crossbreeds] и исследований магии трансмогрификации [transmogrification magic] он считается заклинателем [caster] на два уровня выше фактического. Цели его заклинаний трансмогрификации [transmogrification spells] получают -2 к спасброску [saving throw]. При создании гибридов [crossbreeds] и исследованиях магии трансмогрификации [transmogrification magic] он получает +2 к броскам магических исследований [magic research throws] и увеличивает темп исследований [research rate] на 10%. Подробности см. в разделе **«Скрещивание» [Crossbreeding]** (стр. 395).
+
+Трансмогрификация [Transmogrification] складывается с классовой способностью [class power] «Гротескные искусства превращения» [Grotesque Arts of Transformation]: тогда её заклинания рассчитываются так, словно персонаж на три, а не на два уровня заклинателя [caster levels] выше, а бонус к магическим исследованиям [magic research] и темпу исследований [research rate] увеличивается до +3 и 15% соответственно.
+
+---
+
+<p align="right" id="pdf-page-0123"><small><a href="../Source/ACKSII%20Revised%20Rulebook.pdf#page=123" title="Страница PDF 123 · печатная стр. 121">страница 123</a></small></p>
+
+### Поиск ловушек
+
+<small>TRAPFINDING</small>
+
+Персонаж искусно находит и обезвреживает ловушки. Он получает +2 к броскам Поиска [Searching] и Обезвреживания ловушек [Trapbreaking]. Необнаруженные ловушки он приводит в действие вдвое реже других авантюристов: при выпадении 1 на 1d6 вместо 1–2.
+
+### Создание ловушек (G)
+
+<small>TRAPPING (G)</small>
+
+Персонаж искусен в ловушках диких земель [wilderness traps]: падающих грузах, ямах, пружинящих петлях и хлещущих ветвях, способных поймать существо размером до слона, например великана, огра или виверну. Он может находить и обезвреживать ловушки диких земель [wilderness traps] как вор [Thief] с уровнем, равным половине его уровня класса с округлением вверх. Если он уже владеет Поиском [Searching] или Поиском ловушек [Trapfinding], то получает ещё +2 против ловушек диких земель [wilderness traps]. Он может изготавливать обычные [ordinary] или грубые [crude] ловушки диких земель [wilderness traps] с темпом строительства [construction rate] 1 см в час.<sup>*</sup>
+
+> \* Источник ссылается на Searching или Trapfinding, хотя Trapfinding — название навыка, усиливающего Searching и Trapbreaking. В переводе сохранены именно Поиск [Searching] и Поиск ловушек [Trapfinding].
+
+Грубая ловушка [crude trap] стоит 10% стоимости постоянной ловушки [permanent trap]; список цен приведён в главе 4 на стр. 133. Она действует сходным образом, но её легче заметить и она менее эффективна. Все персонажи получают +4 к обнаружению и обезвреживанию грубых ловушек [crude traps]. Если такая ловушка вызывает атаку, та получает -2; если допускает спасбросок [saving throw], цель получает к нему +2. Установленная грубая ловушка [crude trap] требует обслуживания: проверки добычи, мелкого ремонта и обновления приманок. Ежедневно на каждую ловушку нужно затрачивать работу ловца на 1 см, то есть один час; без обслуживания она перестаёт действовать.
+
+Ловушки диких земель [wilderness traps] могут приносить дичь. Каждый день Арбитр [Judge] выполняет бросок навыка [proficiency throw] на 1d20 с целевым значением 19+. Успех означает, что ловушка добыла достаточно пищи для 1d6 существ человеческого размера за каждый 1 см её стоимости. Если бросок провален на выпавшей без модификаторов 1, грубая ловушка [crude trap] полностью ломается. На каждые восемь обслуживаемых ловушек Арбитр [Judge] должен выполнить бросок столкновения [encounter throw], чтобы определить, находится ли поблизости подходящее местности бродячее чудовище [wandering monster]. На 1–2 на 1d6 чудовище попадает в ловушку; иначе оно будет скрываться поблизости при проверке ловушек.
+
+Создание ловушек [Trapping] также позволяет правильно добывать рога и бивни чудовищ, снимать шкуры, мездрить и разделывать существ ради шкур и мяса, а также извлекать особые компоненты [special components] из животных. Навык не даёт никаких умений в обращении с механическими ловушками подземелий и любыми магическими ловушками.
+
+### Рукопашный бой
+
+<small>UNARMED FIGHTING</small>
+
+Персонаж искусно бьёт кулаками и ногами. В драке [brawling] (см. **«Драка» [Brawling]** в главе 6) он может наносить летальный урон [lethal damage]. Он может наносить урон дракой [Brawling] персонажам в металлических доспехах, сам при этом не получая урона.
+
+### Непоколебимый заклинатель
+
+<small>UNFLAPPABLE CASTING</small>
+
+Если произнесение заклинания сорвано помехой или уроном в течение раунда [round], персонаж не теряет действие этого раунда [round]. Само заклинание всё равно теряется, но он может как обычно двигаться и атаковать. Без этого навыка прерванный при произнесении заклинания персонаж вообще лишается возможности действовать. См. **«Произнесение заклинаний» [Casting Spells]** в главах 5 и 6.
+
+### Убийца вредителей
+
+<small>VERMIN-SLAYING</small>
+
+Персонаж специализируется на истреблении насекомых, слизи и роёв, досаждающих обитателям подземного мира [underdark]. Броском навыка [proficiency throw] на 11+ он может определить способности и уязвимости слизи [oozes] и вредителей [vermin] по внешнему виду. Он получает +1 к попаданию [to hit] по слизи [oozes] и вредителям [vermin] и +1 к спасброскам [saving throws] против их особых атак [special attacks], например парализующего жала падального ужаса [carrion horror] или спор горчичной плесени [mustard mold]. Истребители вредителей Ауранской Империи [Auran Empire] считают слизь [oozes] разновидностью вредителей [vermin], хотя монстрологи с этим не согласны.
+
+### Транс
+
+<small>WAKEFULNESS</small>
+
+Персонаж отдыхает в спокойной медитации вместо сна. Он неуязвим [immune] к магическому **сну [sleep]** и может без штрафа нести стражу во время медитации, позволяя товарищам отдыхать.
+
+### Изящное владение оружием
+
+<small>WEAPON FINESSE</small>
+
+Атакуя крошечным [tiny], малым [small] или средним [medium] рукопашным оружием [melee weapons], персонаж может использовать в броске атаки [attack throw] модификатор Ловкости [Dexterity] вместо модификатора Силы [Strength].
+
+### Любимое оружие
+
+<small>WEAPON FOCUS</small>
+
+С любимым типом оружия персонаж способен наносить сокрушительные удары. Если при броске атаки [attack throw] этим оружием на кости без модификаторов выпало 20, атака наносит одну дополнительную кость урона соответствующего оружию типа. Навык можно выбирать несколько раз, каждый раз выбирая новое Любимое оружие [Weapon Focus]. Доступны следующие группы: топоры; булавы, цепы и молоты; мечи и кинжалы; луки и арбалеты; пращи и метательное оружие [thrown weapons]; копья и древковое оружие [polearms]. Любимое оружие [Weapon Focus] не позволяет пользоваться оружием, недоступным классу персонажа.

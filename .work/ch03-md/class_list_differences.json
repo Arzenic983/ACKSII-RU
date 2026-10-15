@@ -1,0 +1,48 @@
+[
+  {
+    "class": "Bard",
+    "chapter_2_id": "rr.p0057.b006",
+    "chapter_3_id": "rr.p0105.b001",
+    "only_chapter_2": [
+      "Disguise"
+    ],
+    "only_chapter_3": [
+      "Art"
+    ]
+  },
+  {
+    "class": "Paladin",
+    "chapter_2_id": "rr.p0064.b003",
+    "chapter_3_id": "rr.p0105.b012",
+    "only_chapter_2": [
+      "Fighting Style Specialization"
+    ],
+    "only_chapter_3": [
+      "Fighting Style"
+    ]
+  },
+  {
+    "class": "Shaman",
+    "chapter_2_id": "rr.p0073.b023",
+    "chapter_3_id": "rr.p0106.b002",
+    "only_chapter_2": [
+      "Elementalism (air)"
+    ],
+    "only_chapter_3": [
+      "Elementalism"
+    ]
+  },
+  {
+    "class": "Zaharan Ruinguard",
+    "chapter_2_id": "rr.p0101.b005",
+    "chapter_3_id": "rr.p0106.b007",
+    "only_chapter_2": [
+      "Kin-Slaying",
+      "Skirmishing"
+    ],
+    "only_chapter_3": [
+      "Kin- Slaying",
+      "Transmogrification"
+    ]
+  }
+]

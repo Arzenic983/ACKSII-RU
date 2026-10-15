@@ -38,10 +38,10 @@
     "title_ru": "Навыки",
     "first_pdf_page": 102,
     "last_pdf_page": 123,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 704,
-    "translated_units": 0,
-    "pending_units": 704
+    "translated_units": 704,
+    "pending_units": 0
   },
   {
     "id": "04",

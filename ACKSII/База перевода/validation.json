@@ -5,7 +5,7 @@
   "search_errors": 0,
   "english_hash_errors": 0,
   "units": 30624,
-  "translations": 7652,
+  "translations": 8356,
   "pages": 550,
   "tables": 370,
   "glossary_entries": 403,
@@ -15,7 +15,7 @@
     "existing_revised": 188,
     "invariant": 4197,
     "manual_edit": 8,
-    "new_translation": 2944,
+    "new_translation": 3648,
     "project_glossary": 166
   },
   "chapter_progress": [
@@ -58,10 +58,10 @@
       "title_ru": "Навыки",
       "first_pdf_page": 102,
       "last_pdf_page": 123,
-      "review_state": "pending",
+      "review_state": "reviewed_by_Codex",
       "source_units": 704,
-      "translated_units": 0,
-      "pending_units": 704
+      "translated_units": 704,
+      "pending_units": 0
     },
     {
       "id": "04",
@@ -218,10 +218,10 @@
       "pending_units": 83
     }
   ],
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "translated_scope_pdf_pages": [
     1,
-    101
+    123
   ],
   "chapter02_markdown": {
     "date": "2026-10-15",
@@ -368,5 +368,67 @@
         "content_sha256": "37db438ab7cc5c220ea8cd476022d1cb9a0395a7e3f0a9ece5a5647a16721a4c"
       }
     }
+  },
+  "chapter03_markdown": {
+    "date": "2026-10-16",
+    "chapter_id": "03",
+    "book": "Revised Rulebook",
+    "pdf_pages": [
+      102,
+      123
+    ],
+    "first_id": "rr.p0102.b001",
+    "last_id": "rr.p0123.b019",
+    "source_units": 704,
+    "translated_units": 704,
+    "pending_units": 0,
+    "table_count": 10,
+    "nonempty_source_table_cells": 332,
+    "rendered_table_cells_including_original_blanks": 490,
+    "headings_with_english_subtitles": 135,
+    "table_headers_with_english_subtitles": 35,
+    "editorial_notes": 23,
+    "unit_order_anchors_and_coverage": "passed",
+    "numeric_values_dice_modifiers_percentages": "passed",
+    "rendered_table_geometry_and_blank_cell_positions": "passed",
+    "original_units_pages_tables_glossary_unchanged": true,
+    "previous_translations_unchanged": true,
+    "protected_source_and_docx_files_unchanged": 65,
+    "exchange_package_revision": 0,
+    "database_chapter_translations": 704,
+    "csv_jsonl_content_equal": true,
+    "csv_encoding": "UTF-8 BOM",
+    "csv_delimiter": ";",
+    "reviewer": "Codex",
+    "user_approved": false,
+    "pdf_images_inspected": [
+      104,
+      107,
+      113,
+      118,
+      119,
+      122
+    ],
+    "markdown_sha256_normalized_newlines": "7a2753ebf9bab810396adeba2680b6bf549d8d15a92b04df505e24b6fcfd8bcd"
+  },
+  "current_reading_copy": {
+    "date": "2026-10-16",
+    "target": "ACKSII\\Перевод Markdown\\ACKS II — Начало и главы 1–3.md",
+    "pdf_pages": [
+      5,
+      123
+    ],
+    "compact_page_markers": 119,
+    "all_editorial_notes_preserved": 123,
+    "cover_note_relocated_to_pdf_page": 25,
+    "tables_preserved_verbatim_after_metadata_removal": 99,
+    "rendered_table_geometry_preserved": true,
+    "bilingual_headings_and_table_subtitles_preserved": true,
+    "rule_text_preserved_in_order": true,
+    "protected_files_unchanged": true,
+    "previous_reader_pages_5_101_unchanged": true,
+    "previous_reader_sha256_normalized_newlines": "4dcc3bae1b13b97eaf6a9f7d58e6297b9aacaf664f766a25960f0da145154cb7",
+    "bytes": 1077295,
+    "sha256": "6be011af2eba7d8b2559579e46272e520fc742fccbae5dc8b2aa246d7e72ed43"
   }
 }
