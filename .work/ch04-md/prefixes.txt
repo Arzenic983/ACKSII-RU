@@ -1,0 +1,121 @@
+Barbican, stone | Барбакан, каменный
+Barracks, concrete | Казарма, бетонная
+Battlement, stone | Зубчатый парапет, каменный
+Building, concrete | Здание, бетонное
+Building, wood | Здание, деревянное
+Chapterhouse, concrete | Дом капитула, бетонный
+Drawbridge, wood | Подъёмный мост, деревянный
+Gatehouse, stone | Надвратное укрепление, каменное
+Granary/warehouse, concrete | Зернохранилище/склад, бетонный
+Headquarters, concrete | Штаб, бетонный
+Hospital, concrete | Госпиталь, бетонный
+Keep, stone | Донжон, каменный
+Moat, filled | Ров, заполненный водой
+Moat, unfilled, crude | Ров, сухой, неукреплённый
+Moat, unfilled | Ров, сухой
+Palisade, wood | Частокол, деревянный
+Palisade, crude | Частокол, грубый
+Rampart, rammed earth | Вал, утрамбованная земля
+Rampart, piled earth | Вал, насыпная земля
+Stable-barracks, concrete | Конюшня-казарма, бетонная
+Tower, stone, small square | Башня, каменная, малая квадратная
+Tower, stone, small round | Башня, каменная, малая круглая
+Tower, stone, medium round | Башня, каменная, средняя круглая
+Tower, stone, large round | Башня, каменная, большая круглая
+Tower, stone, huge round | Башня, каменная, огромная круглая
+Wall, stone | Стена, каменная
+Wall-Walk, wood | Боевой ход, деревянный
+Cottage, wood | Изба, деревянная
+Hut, makeshift | Хижина, временная
+Hut, wood | Хижина, деревянная
+Longhouse, wood | Длинный дом, деревянный
+Roundhouse, wood | Круглый дом, деревянный
+Townhouse, concrete | Городской дом, бетонный
+Villa, concrete | Вилла, бетонная
+Adit, mine | Штольня, рудничная
+Canal | Канал
+Chamber, mine | Камера, рудничная
+Chamber, vault | Камера, сводчатая
+Corridor, vault | Коридор, сводчатый
+Shaft, mine | Шахтный ствол
+Door, wood | Дверь, деревянная
+Door, reinforced wood | Дверь, усиленная деревянная
+Door, iron/stone | Дверь, железная/каменная
+Door, secret | Дверь, потайная
+Floor/Roof, flagstone or tile | Пол/крыша, каменные плиты или черепица
+Floor/Roof, wood | Пол/крыша, дерево
+Shifting Wall | Подвижная стена
+Stairs, wood | Лестница, деревянная
+Stairs, stone | Лестница, каменная
+Road, leveled earth | Дорога, выровненная грунтовая
+Road, gravel | Дорога, гравийная
+Road, paved | Дорога, мощёная
+Public Bath | Общественные бани
+Public Theater | Общественный театр
+Statue, marble | Статуя, мраморная
+Triumphal arch, quadrifrontal | Триумфальная арка, четырёхсторонняя
+Cart, Large | Повозка, большая
+Cart, Small | Повозка, малая
+Chariot, Heavy | Колесница, тяжёлая
+Chariot, Light | Колесница, лёгкая
+Chariot, Medium | Колесница, средняя
+Howdah, Riding | Хауда, пассажирская
+Howdah, War | Хауда, боевая
+Wagon | Фургон
+Ballista, Light Repeating | Баллиста, лёгкая многозарядная
+Ballista, Light | Баллиста, лёгкая
+Ballista, Medium | Баллиста, средняя
+Ballista, Heavy Harpoon | Баллиста, тяжёлая гарпунная
+Ballista, Heavy | Баллиста, тяжёлая
+Catapult, Light | Катапульта, лёгкая
+Catapult, Medium | Катапульта, средняя
+Catapult, Heavy | Катапульта, тяжёлая
+Trebuchet, Light | Требушет, лёгкий
+Trebuchet, Medium | Требушет, средний
+Trebuchet, Heavy | Требушет, тяжёлый
+Light Ballista Shot, Crude | Снаряд лёгкой баллисты, необработанный
+Light Ballista Shot, Ballistic | Снаряд лёгкой баллисты, калиброванный
+Medium Ballista Shot, Crude | Снаряд средней баллисты, необработанный
+Medium Ballista Shot, Ballistic | Снаряд средней баллисты, калиброванный
+Heavy Ballista Shot, Crude | Снаряд тяжёлой баллисты, необработанный
+Heavy Ballista Shot, Ballistic | Снаряд тяжёлой баллисты, калиброванный
+Light Catapult Shot, Crude | Снаряд лёгкой катапульты, необработанный
+Light Catapult Shot, Ballistic | Снаряд лёгкой катапульты, калиброванный
+Light Catapult Shot, Pitch | Снаряд лёгкой катапульты, смоляной
+Medium Catapult Shot, Crude | Снаряд средней катапульты, необработанный
+Medium Catapult Shot, Ballistic | Снаряд средней катапульты, калиброванный
+Medium Catapult Shot, Pitch | Снаряд средней катапульты, смоляной
+Heavy Catapult Shot, Crude | Снаряд тяжёлой катапульты, необработанный
+Heavy Catapult Shot, Ballistic | Снаряд тяжёлой катапульты, калиброванный
+Heavy Catapult Shot, Pitch | Снаряд тяжёлой катапульты, смоляной
+Light Trebuchet Shot, Crude | Снаряд лёгкого требушета, необработанный
+Light Trebuchet Shot, Ballistic | Снаряд лёгкого требушета, калиброванный
+Light Trebuchet Shot, Pitch | Снаряд лёгкого требушета, смоляной
+Medium Trebuchet Shot, Crude | Снаряд среднего требушета, необработанный
+Medium Trebuchet Shot, Ballistic | Снаряд среднего требушета, калиброванный
+Medium Trebuchet Shot, Pitch | Снаряд среднего требушета, смоляной
+Heavy Trebuchet Shot, Crude | Снаряд тяжёлого требушета, необработанный
+Heavy Trebuchet Shot, Ballistic | Снаряд тяжёлого требушета, калиброванный
+Heavy Trebuchet Shot, Pitch | Снаряд тяжёлого требушета, смоляной
+Heavy Harpoon | Тяжёлый гарпун
+Fire-Bearing Siphon | Огнемётный сифон
+Military Oil | Зажигательное масло
+Common Oil | Обычное масло
+Anchor, lead | Якорь, свинцовый
+Fire Pot Pole | Шест для огневого горшка
+Boarding Bridge | Абордажный мост
+Naval Ram | Корабельный таран
+Boarding Ramp | Абордажные сходни
+Tower, Large | Башня, большая
+Tower, Small | Башня, малая
+Bulwark | Фальшборт
+Battering Ram/Screw | Таран/бур
+Caltrops, 20 ounce bag | Чеснок, мешок в 20 унций
+Cauldron, Suspended | Котёл, подвесной
+Fascine | Фашина
+Hoist | Подъёмник
+Siege Tower, Standard | Осадная башня, стандартная
+Siege Tower, Large | Осадная башня, большая
+Siege Tower, Huge | Осадная башня, огромная
+Movable Gallery | Передвижная галерея
+Movable Mantlet | Передвижной мантелет

@@ -1,0 +1,1630 @@
+## rr.p0125.t01 7×6
+EXCHANGE VALUE
+COINS
+CP
+SP
+EP
+GP
+PP
+Copper Piece (cp) =
+Silver Piece (sp) =
+Electrum Piece (ep) =
+Gold Piece (gp) =
+Platinum Piece (pp) =
+## rr.p0125.t02 10×3
+STANDARD OF LIVING
+MONTHLY COST
+COMMON PROFESSIONS
+Wretched
+1gp – 3gp
+Indentured servants, serfs, and unskilled laborers
+Meager
+3gp – 12gp
+Skilled laborers and apprentice artisans
+Adequate
+12gp – 40gp
+Journeyman artisans, 1st level adventurers
+Comfortable
+40gp – 100gp
+Master artisans or yeomen farmers (85 acres), 2nd level adventurers
+Prosperous
+100gp – 450gp
+Master professionals or landed patrician (200 acres), 3rd – 4th level adventurers
+Affluent
+450gp – 2,000gp
+Barons or wealthy patricians, 5th – 7th level adventurers
+Sumptuous
+2,000 – 12,000gp
+Viscounts or counts, 8th – 9th level adventurers
+Luxurious
+12,000 – 80,000gp
+Dukes or princes, 10th – 12th level adventurers
+Lavishly Opulent
+80,000gp+
+Kings or emperors, 13th – 14th level adventurers
+## rr.p0126.t01 7×7
+PRICE
+CLASS I
+CLASS II
+CLASS III
+CLASS IV
+CLASS V
+CLASS VI
+1gp or less
+2 – 10gp
+11 – 100gp
+101 – 1,000gp
+1,001 – 10,000gp
+10,001gp or more
+## rr.p0128.t01 44×9
+BOWS/CROSSBOWS
+TYPE
+DAMAGE
+ENC.<br>(STONE)
+SHORT
+MED.
+LONG
+COST
+SPECIAL
+Arbalest
+Missile
+1d8 [mundane piercing]
+Cleave 2, Handy, Slow
+Crossbow
+1d6 [mundane piercing]
+30gp
+Case, 20 Bolts
+Ammunition
+2gp
+Composite Bow
+Cleave 3 + STR mod
+Long Bow
+7gp
+Short Bow
+3gp
+Quiver, 20 Arrows
+1gp
+1 Silver Arrow
+5gp
+Silver
+AXES
+Battle Axe
+Medium Melee
+1d6/1d8 [mundane slashing]
+Great Axe
+Large Melee
+1d10 [mundane slashing]
+Hand Axe
+Small Melee/Missile
+1d6 [mundane slashing]
+4gp
+Thrown
+BLUDGEONS
+Club
+Tiny Melee
+1d4 [mundane bludgeoning]
+Flail
+1d6/1d8 [mundane bludgeoning]
+Mace
+Morning Star
+1d10 [mundane bludgeoning]
+Warhammer
+1d6 [mundane bludgeoning]
+SWORDS/DAGGERS
+Knife
+Tiny Melee/Missile
+1d3 [mundane piercing]
+Dagger
+1d4 [mundane piercing]
+Silver Dagger
+Silver, Thrown
+Short Sword
+Small Melee
+1d6 [mundane piercing] [mundane slashing]
+Sword
+1d6/1d8 [mundane piercing] [mundane slashing]
+Two-Handed Sword
+1d10 [mundane piercing] [mundane slashing]
+15gp
+SPEARS/POLEARMS
+Dart (5)
+Javelin
+Lance
+1d10 [mundane piercing]
+Impact, Long, Mounted
+Polearm
+Impact, Long
+Spear
+Med. Melee/Missile
+1d6/1d8 [mundane piercing]
+Impact, Long, Thrown
+OTHER WEAPONS
+Bola
+1d2 [mundane bludgeoning]
+Entangling, Thrown
+Military Oil
+1d8 [mundane fire]
+Cestus
+1d3 [mundane bludgeoning]
+Net
+Medium Melee/Missile
+Rock
+Sap
+Incapacitating
+Sling
+Handy
+Staff Sling
+1d4/1d6 [mundane bludgeoning]
+30 Sling Stones
+Staff
+Whip
+1d2 [mundane slashing]
+Flexible
+## rr.p0130.t01 24×6
+TYPE
+ENC. (STONE)
+COST
+SPECIAL
+Hide and Fur Armor
+Very Light Armor
+Padded Armor
+Leather Armor
+Light Armor
+Arena Armor, Light
+30gp
+Revealing
+Ring Mail
+Medium Armor
+Scale Armor
+Chain Mail Armor
+Laminated Linen Armor
+Arena Armor, Heavy
+Banded Plate Armor
+Heavy Armor
+Lamellar Armor
+Plate Armor
+60gp
+Scarce
+Shield, Mirror
+Helmet, Heavy
+Enclosing
+Helmet, Light
+0 gp (5gp)
+BARDING*
+Barding, Leather
+Barding
+Varies
+Barding, Scale
+Barding, Chain
+Barding, Lamellar
+Barding, Plate
+Barding, Spiked
+Spiked
+## rr.p0131.t01 48×6
+COST
+ENC.<br>(STONE)
+Adventurer’s Harness
+Lock
+Archery Target
+3sp
+Manacles
+2gp
+Army Emblem, Silver (1 lb)
+Mess Kit
+3gp
+Army Emblem, Gold (1 lb)
+Metamphora
+5gp/60gp value
+By Weight
+Backpack (holds 4 stone)
+Mirror (hand-sized, steel)
+5gp
+Barrel (20 gallon)
+Musical Instrument
+25 – 750 gp
+Blanket
+Oil, Common (1 pint)
+Boardgame
+Oil, Military (1 pint)
+Bowquiver
+Pavilion (20 men)
+Candle (tallow, 1 lb)
+2sp
+Pell
+12gp
+Candle (wax, 1 lb)
+6sp
+Pouch/Purse (holds 1/2 stone)
+5sp
+Chest, Ironbound (holds 20 st.)
+22gp
+Pole, Wooden
+1cp
+Craftsman’s Tools (any)
+Prosthesis, Arm
+Craftsman’s Workshop (any)
+350gp
+Prosthesis, Foot
+Crowbar
+1gp
+Prosthesis, Hand
+Crutch
+Prosthesis, Leg
+15gp
+Dice
+Quill, writing
+Disguise Kit
+Quintain
+Ear Trumpet
+Rations, Iron (one week)
+1 – 6gp
+Earplugs
+1sp
+Rations, Standard (one week)
+35cp – 3gp
+Firewood Bundle (5 logs)
+Rope, 50’
+Flag, Pennant (3’ × 1’)
+Rucksack (holds 2 stone)
+Flag, Banner (6’ × 2’)
+Sack, Large (holds 6 stone)
+8sp
+Flag, Standard (12’ × 4’)
+Sack, Small (holds 2 stone)
+Grappling Hook
+Saddle and Tack, Draft
+Hammer (small)
+Saddle and Tack, Riding
+Herb, Aloe (1 lb)
+Saddle and Tack, Military
+Herb, Belladonna (1 lb)
+Saddlebag (holds 3 stone)
+Herb, Birthwort (1 lb)
+Scabbard
+5sp+
+Herb, Bitterwood (1 lb)
+Special Components, Miscellaneous
+Varies
+Herb, Blessed Thistle (1 lb)
+Spell Book (blank)
+Herb, Comfrey (1 lb)
+Stakes (6) and Mallet
+Herb, Garlic (1 lb)
+Surgical Saw, Large
+Herb, Goldenrod (1 lb)
+Surgical Saw, Small
+Herb, Horsetail (1 lb)
+Tent, Large
+Herb, Lungwort (1 lb)
+Tent, Small
+Herb, Willow-bark (1 lb)
+Thieves’ Tools
+Herb, Wolfsbane (1 lb)
+Thieves’ Tools, Expanded
+200gp
+Herb, Woundwort (1 lb)
+Thieves’ Tools, Superior
+1,600gp
+Holy Book
+Tinderbox (flint & steel)
+Holy Symbol
+Torches (6)
+Holy Water (1 pint)
+Treatise, Apprentice
+400gp
+Ink (1 pint)
+7gp
+Treatise, Journeyman
+800gp
+Iron Spikes (6)
+Treatise, Master
+1,200gp
+Journal
+Treatise, Grandmaster
+Laborer’s Tools
+Waterskin
+Lantern
+Whistle
+## rr.p0132.t01 20×4
+CLOTHING
+COST
+Belt/Sash, Leather
+1sp
+Gloves, Leather or Wool, Long
+1gp
+Belt/Sash, Embossed Leather
+2sp
+Gloves, Leather or Wool, Short
+4sp
+Belt/Sash, Silk
+8gp
+Hat, Armiger
+10sp
+Boots, Leather, High
+Linen, Cheap (1 lb)
+Boots, Leather, Low
+Linen, Fine (1 lb)
+8sp
+Breastwrap, Linen or Wool
+Loincloth
+Breastwrap, Silk
+Robe, Linen or Wool
+5gp
+Caparison, Linen or Wool
+Sandals/Shoes, Leather, High
+3sp
+Cassock, Linen or Wool
+Sandals/Shoes, Leather, Low
+Chiton, Linen or Wool
+2gp
+Silk (1 lb)
+22gp
+Chiton, Silk
+45gp
+Skullcap
+3gp
+Cloak, Fur-lined
+Tunic and Pants, Serf
+Cloak, Leather, Hooded
+Tunic and Pants, Crafter/Freeholder
+Cloak, Linen or Wool, Hooded
+Tunic and Pants, Armiger
+Cloak, Silk, Hooded
+90gp
+Tunic and Pants, Noble
+Dress, Crafter/Freeholder
+Veil, Silk
+Dress, Armiger
+Wool, Cheap (1 lb)
+Gown, Lady-in-Waiting/Noble
+Wool, Good (1 lb)
+Gown, Duchess
+1000gp
+Wool, Fine (1 lb)
+## rr.p0132.t02 14×4
+ANIMAL
+COST
+Camel, Riding
+Horse, Light War
+Chicken (3 lbs)
+1sp
+Horse, Medium Draft
+30gp
+Cow (550 lbs)
+Horse, Medium Riding
+Dog, Hunting
+Horse, Medium War
+Dog, War
+Horse, Steppe Draft
+Donkey, Draft
+Horse, Steppe Riding
+60gp
+Elephant, Riding
+1,500gp
+Horse, Steppe War
+120gp
+Elephant War
+3,500gp
+Mule, Draft
+Goat (125 lbs)
+3gp
+Mule, Riding
+Hawk, Hunting
+Mule, War
+Horse, Heavy Draft
+Ox, Draft (2,000 lbs)
+Horse, Heavy War
+315gp
+Pig (125 lbs)
+Horse, Light Riding
+Sheep (80 lbs)
+2gp
+## rr.p0132.t03 15×4
+FOODSTUFF
+COST
+Animal Feed, Superior (1 lb)
+2cp
+Meat, Beef or Mutton (1 lb)
+4cp
+Animal Feed, Inferior (1 lb)
+1cp
+Meat, Chevon or Pork (1 lb)
+3cp
+Beer, Barley, Cheap (1 pint)
+Meat, Chicken or Fish (1 lb)
+Beer, Wheat, Good (1 pint)
+Milk (2 pints)
+Bread, White (4 lbs)
+1sp
+Oil, Olive (1 pint)
+7cp
+Bread, Wheat (8 lbs)
+Salt (1 lb)
+Bread, Coarse (12 lbs)
+Spice, Cinnamon or Ginger (1 lb)
+1gp
+Butter (1 lb)
+6cp
+Spice, Pepper (1 lb)
+15sp
+Cheese (1 lb)
+5cp
+Spice, Saffron (1 lb)
+7gp
+Chickpeas (1 quarter)
+4gp
+Vinegar (1 pint)
+Eggs (1 dozen)
+Wheat (1 quarter)
+Fish Sauce (1 lb)
+Wine, Cheap (1 pint)
+Honey (1 lb)
+Wine, Good (1 pint)
+Meal (1 person, poor to feast)
+1cp – 10gp
+Wine, Fine (1 pint)
+## rr.p0133.t01 4×4
+LODGING
+COST
+Inn, Slum (one night)
+1sp
+Kenneling (one night)
+1cp – 1sp
+Inn, Average (one night)
+5sp
+Stabling, Draft/riding (one night)
+2sp – 5sp
+Inn, Superb (one night)
+2gp
+Stabling, Warhorse (one night)
+5sp – 1gp
+## rr.p0133.t02 25×5
+MONSTER VENOMS
+ONSET TIME
+SAVE<br>MODIFIER
+EFFECT ON FAILED SAVE
+COST
+Giant Centipede
+1 turn
+**Incapacitation,** 1d10 turns
+Giant Killer Bee
+1d4 [mundane poisonous] damage
+Spitting Cobra
+1d6 [mundane poisonous] damage
+Giant Crab Spider
+1d8 turns
+2d6 [mundane poisonous] damage
+Pit Viper
+1d10 turns
+125gp
+Foul Attercop
+**Paralysis** 1d4 turns + 1d6 [mundane poisonous] damage
+Giant Parasitic Wasp
+**Paralysis** 1d6 turns
+175gp
+Amphisbaena, Child of Nasga
+4d4 [mundane poisonous] damage
+200gp
+Sea Snake
+King Cobra
+4d6 [mundane poisonous] damage
+Black Widow
+1d4 turns
+Hideous Attercop
+**Paralysis** 1d4 turns + 1d8 [mundane poisonous] damage
+Carrion Horror
+**Paralysis** 2d4 turns
+300gp
+Monstrous Attercop
+**Paralysis** 1d4 turns + 2d6 [mundane poisonous] damage
+325gp
+Arane
+6d6 [mundane poisonous] damage
+350gp
+Giant Tarantula
+3d10 [mundane poisonous] damage
+375gp
+Giant Scorpion
+2d10 [mundane poisonous] damage
+400gp
+Giant Rockfish
+1 round
+5d6 [mundane poisonous] damage
+450gp
+Wyvern
+7d6 [mundane poisonous] damage
+600gp
+Skittering Maw
+8d6 [mundane poisonous] damage
+700gp
+Greater Barghest, Rakshasa
+10d6 [mundane poisonous] damage
+800gp
+Demonic Attercop
+**Paralysis** 1d4 turns + 5d6 [mundane poisonous] damage
+Giant Constricting Viper
+Instant/1d4+2 turns
+**Madness** / Death
+Giant Black Worm, Dragon
+Instant
+Death
+1,500gp
+## rr.p0133.t03 9×6
+PLANT TOXINS
+FORAGE<br>THROW
+ONSET TIME
+SAVE<br>MODIFIER
+EFFECT ON FAILED SAVE
+COST
+Belladonna
+1 turn (injury)<br>1d3 turns (ingestion)
+2d8 [mundane poisonous] damage + **madness** 1d4 turns
+350gp
+Curare
+Instant (injury)
+2d12 [mundane poisonous] damage + **paralysis** 2d4 turns
+1,500gp
+Foxglove
+1d6 turns (ingestion)
+Hellebore
+1d6 [mundane poisonous] damage + **queasy** 1d10 days
+Hemlock
+2d4 turns (ingestion)
+2d12 [mundane poisonous] damage + **queasy** 1d10 days
+Henbane
+1 turn (injury)<br>1d6 turns (ingestion)
+1d6 [mundane poisonous] damage + **madness** 1d4 hours
+Wolfsbane
+1 turn (injury)<br>2d4 turns (ingestion)
+2d8 [mundane poisonous] damage + **paralysis** 2d4 turns
+325gp
+Yew
+1 hour (injury)<br>1d6 hours (ingestion)
+1d10 [mundane poisonous] damage
+65gp
+## rr.p0134.t01 34×5
+STRONGHOLD STRUCTURES
+COST
+STRUCTURAL HP
+UNIT CAPACITY
+Barbican, stone (gatehouse, 2 small towers, and drawbridge)
+20,000gp
+Barracks, concrete (140’ long × 30’ wide × 10’ high)
+2,750gp
+Battlement, stone (100’ long, crenellated parapets)
+500gp
+Building, concrete (30’ long × 30’ wide × 20’ high)
+1,700gp
+Building, wood (30’ long × 30’wide × 20’ high)
+350gp
+Chapterhouse, concrete (85’ long × 45’ wide × 10’ high)
+2,400gp
+Drawbridge, wood (10’ wide × 20’ tall, 1’ thick)
+300gp
+Gatehouse, stone (20’ long × 30’ wide × 20’ high)
+6,000gp
+Gatehouse, stone (30’ long × 30’ wide × 20’ high)
+7,500gp
+Granary/warehouse, concrete (180’ long × 30’ wide × 10’ tall)
+3,500gp
+Headquarters, concrete (125’ long × 85’ wide × 15-25’ high)
+Hospital, concrete (75’ long × 75’ wide × 10’ high)
+3,000gp
+Keep, stone (80’ high, 60’ square)
+125,000gp
+Moat, filled (100’ long × 20’wide × 10’ deep)
+800gp
+Moat, unfilled (100’ long × 20’ wide × 10’ deep)
+400gp
+Moat, unfilled, crude (100’ long × 20’ wide × 10’ deep)
+Palisade, wood (100’ long × 7.5’ high × 6” thick)
+125gp
+Palisade, crude (100’ long × 7.5’ high × 6” thick)
+125sp
+Rampart, rammed earth (100’ long × 10’ high × 15’ thick)
+Rampart, piled earth (100’ long × 10’ high × 15’ thick)
+30gp
+Stable-barracks, concrete (200’ long × 50’ wide × 15’ high)
+Tower, stone, small square (20’ long × 20’ wide × 30’ high)
+6,500gp
+Tower, stone, small round (20’ diameter × 30’ high)
+Tower, stone, medium round (20’ diameter × 40’ high)
+Tower, stone, large round (30’ diameter × 40’ high)
+18,500gp
+Tower, stone, huge round (30’ diameter × 60’ high)
+27,500gp
+Wall, stone (100’ long × 10’ high × 5’ thick)
+2,500gp
+Wall, stone (100’ long × 20’ high × 5’ thick)
+Wall, stone (100’ long × 30’ high × 5’ thick)
+Wall, stone (100’ long × 40’ high × 7.5’ thick)
+15,000gp
+Wall, stone (100’ long × 50’ high × 10’ thick)
+Wall, stone (100’ long × 60’ high × 10’ thick)
+30,000gp
+Wall-Walk, wood (100’ long × 5’ wide)
+## rr.p0134.t02 8×5
+CIVILIAN STRUCTURES
+COST
+STRUCTURAL HP
+UNIT CAPACITY
+Cottage, wood (30’ long × 30’ wide × 20’ high)
+350gp
+Hut, makeshift (10’ long × 10’ wide × 10’ high)
+Hut, wood (10’ long × 10’ wide × 10’ high)
+Longhouse, wood (30’ long × 15’ wide × 15’ high)
+175gp
+Roundhouse, wood (15’ diameter × 15’ high)
+Townhouse, concrete (30’ long × 30’ wide × 20’ high)
+1,500gp
+Villa, concrete (75’ long × 75’ wide × 10’ high)
+3,000gp
+## rr.p0134.t03 10×5
+SUBTERRANEAN STRUCTURES
+COST
+STRUCTURAL HP
+UNIT CAPACITY
+Adit, mine (10’ long × 5’ wide × 6’ high)
+15gp
+Adit, mine (10’ long × 15’ wide × 15’ high)
+115gp
+Canal (10’ long × 10’ wide × 5’ deep in adit)
++20gp
+Chamber, mine (30’ long × 30’ wide × 30’ high)
+1,350gp
+Chamber, mine (100’ long × 50’ wide × 40’ high)
+Chamber, vault (100’ long × 50’ wide × 40’ high)
+100,000gp
+Corridor, vault (10’ long × 10’ wide x10’ deep)
+500gp
+Shaft, mine (3’ diameter × 60’ deep)
+Shaft, mine (10’ diameter × 60’ deep)
+300gp
+## rr.p0135.t01 12×2
+STRUCTURE ACCESSORIES
+COST
+Arrow Slit/Window
+Door, wood (3’ × 7’)
+Door, reinforced wood (3’ × 7’)
+Door, iron/stone (3’ × 7’)
+Door, secret (3’ × 7’)
+By material ×5
+Floor/Roof, flagstone or tile (10’ × 10’)\*
+Floor/Roof, wood (10’ × 10’)\*
+Shutters (window)
+5gp
+Shifting Wall (10’ × 10’)
+1000gp
+Stairs, wood (one flight, 3’ × 10’)\*
+Stairs, stone (one flight, 3’ × 10’)\*
+60gp
+## rr.p0135.t02 7×2
+ROADS
+COST
+Road, leveled earth (8’ wide, 1 mile long)\*
+Road, leveled earth (10’ wide, 1 mile long)\*
+125gp
+Road, gravel (8’ wide, 1 mile long)\*
+200gp
+Road, gravel (10’ wide, 1 mile long\*
+Road, paved (8’ wide, 1 mile long)\*
+400gp
+Road, paved (10’ wide, 1 mile long)\*
+500gp
+## rr.p0135.t03 9×2
+CIVIC FACILITIES AND MONUMENTS
+COST
+Public Bath (55’ wide, 90’ long, 15’ tall + 15’ basement, hot pool, tepid pool, cold pool, sauna)
+13,250gp
+Public Theater (180’ wide stage, 32,000 square feet)
+16,000gp
+Statue, marble (10’ tall)\*
+200gp
+Statue, marble (25’ tall)\*
+3,125gp
+Statue, marble (50’ tall)\*
+Statue, marble (100’ tall)\*
+200,000gp
+Statue, marble (250’ tall)\*
+3,125,000gp
+Triumphal arch, quadrifrontal (30’ tall, 30’ wide, 30’ long)\*
+## rr.p0135.t04 19×2
+TRAPS
+COST
+Trap, arrow-firing (fires from hidden location, attacks as 1st level fighter, 1d6+1 [mundane piercing] damage)
+400gp
+Trap, ceiling collapse (10’ × 10’ area of effect, Blast save or 2d6 [mundane bludgeoning] damage)
+1,200gp
+Trap, dart-firing (fires from hidden location, attacks as 1st level fighter, 1d4+1 [mundane piercing] damage)
+380gp
+Trap, deadfall (5’ diameter area of effect, Blast save or 1d12 [mundane bludgeoning] damage)\*
+Trap, excavated earth pit, concealed by piled material (10’ × 10’ × 10’, 1d6 [mundane bludgeoning] damage)\*
+Trap, fire (flammable oil in 10’ diameter, Blast save or 1d8 [mundane fire] damage for 2 rounds)
+500gp
+Trap, needle-firing (1 damage)
+120gp
+Trap, portcullis (falls suddenly downward, Blast save or 3d6 [mundane bludgeoning] damage)
+1,850gp
+Trap, rock-cut pit, concealed by rug (10’ × 10’ × 10’, 1d6 [mundane bludgeoning] damage)
+Trap, rolling rock (5’ wide boulder rolls up to 30’, all in path Blast save or 3d6 [mundane bludgeoning] damage)
+Trap, scything blade (swings from hidden location in 10’ line, Blast save or 1d8 [mundane slashing] damage)
+550gp
+Trap, spring snare (snatches creature 10’ into air, Paralysis save or 1d6 [mundane seismic] damage and restrained)\*
+Trap, swinging log (swings from hidden location in 10’ line, Blast save or 1d8 [mundane bludgeoning] damage)\*
+55gp
+Trap, whipping branch (swings from tree, attacks as 1st level fighter, 1d6+1 [mundane piercing] damage)\*
+Trap accessory, pit spikes (1d4 spikes each dealing 1d6 [mundane piercing] damage)
++100gp
+Trap accessory, pit cover, concealed trap door (opens beneath feet)
++500gp
+Trap accessory, pit cover, concealed spring-loaded trap door (opens beneath feet and then closes)
++1,100gp
+Trap accessory, poison
+By type
+## rr.p0136.t01 20×8
+VEHICLE
+CREW
+MOVEMENT
+EXPEDITION<br>SPEED
+CARGO<br>(STONE)
+STRUCTURAL<br>HIT POINTS
+COST
+Cart, Large (1 heavy horse)
+Cart, Large (2 heavy horses)
+Cart, Small (1 mule)
+Cart, Small (2 mules)
+Chariot, Heavy (4 light horses)
+240gp
+Chariot, Light (2 light horses)
+120gp
+Chariot, Medium (2 medium horses)
+180gp
+Howdah, Riding (colossal creature)
+20 or 40
+By creature
+600gp
+Howdah, Riding (gigantic creature)
+6 or 12
+Howdah, Riding (huge creature)
+2 or 4
+30gp
+Howdah, War (colossal creature)
+1,200gp
+Howdah, War (gigantic creature)
+Howdah, War (huge creature)
+60gp
+Palanquin, Small
+Palanquin, Medium
+Palanquin, Large
+800gp
+Palanquin, Huge
+3,200gp
+Wagon (2 heavy horses)
+200gp
+Wagon (4 heavy horses)
+## rr.p0137.t01 22×14
+VESSEL
+CREW
+VOYAGE<br/>SPEED
+CARGO<br/>(STONE)
+SHP
+COST
+SAILORS
+ROWERS
+MARINES
+OAR<br/>SPRINT
+OAR<br/>CRUISE
+OAR SLOW
+SAIL
+OAR<br/>SLOW
+Barge, Small
+Barge, Large
+Barge, Huge
+Boat, Row
+200gp
+Boat, Sail
+1,500gp
+Canoe
+Galley, 1-Rower
+Galley, 1.5-Rower
+2,750gp
+Galley, 2-Rower
+3,350gp
+Galley, 2.5-Rower
+6,000gp
+Galley, 3-Rower
+7,500gp
+Galley, 4-Rower
+Galley, 5-Rower
+16,250gp
+Galley, 6-Rower
+20,000gp
+Galley, 8-Rower
+30,000gp
+Longship
+4,000gp
+Raft
+Sailing Ship, Small
+Sailing Ship, Large
+Sailing Ship, Huge
+60,000gp
+## rr.p0138.t01 21×5
+ARTILLERY
+COST
+Ballista, Light (75 lbs)
+Catapult, Heavy (4 tons)
+400gp
+Ballista, Light Repeating (75 lbs)
+200gp
+Heavy Catapult Shot, Crude (90 lbs)
+4gp
+Light Ballista Shot, Crude (1 lb)
+1cp
+Heavy Catapult Shot, Ballistic (90 lbs)
+Light Ballista Shot, Ballistic (1 lb)
+1gp
+Heavy Catapult Shot, Pitch (90 lbs)
+Ballista, Medium (800 lbs)
+Fire-Bearing Siphon (50 lbs)
+2,500gp
+Medium Ballista Shot, Crude (3 lbs)
+3cp
+Military Oil (100 lbs)
+Medium Ballista Shot, Ballistic (3 lbs)
+2gp
+Common Oil (100 lbs)
+30gp
+Ballista, Heavy (3,200 lbs)
+180gp
+Trebuchet, Light (3 tons)
+600gp
+Heavy Ballista Shot, Crude (6 lbs)
+15cp
+Light Trebuchet Shot, Crude (60 lbs)
+3gp
+Heavy Ballista Shot, Ballistic (6 lbs)
+Light Trebuchet Shot, Ballistic (60 lbs)
+15gp
+Ballista, Heavy Harpoon (3,200 lbs)
+Light Trebuchet Shot, Pitch (60 lbs)
+Heavy Harpoon (12 lbs)
+5gp
+Trebuchet, Medium (6 tons)
+1, 200gp
+Catapult, Light (1,200 lbs)
+Medium Trebuchet Shot, Crude (90 lbs)
+Light Catapult Shot, Crude (6 lbs)
+Medium Trebuchet Shot, Ballistic (90 lbs)
+Light Catapult Shot, Ballistic (6 lbs)
+Medium Trebuchet Shot, Pitch (90 lbs)
+Light Catapult Shot, Pitch (6 lbs)
+Trebuchet, Heavy (12 tons)
+Catapult, Medium (1,800 lbs)
+Heavy Trebuchet Shot, Crude (180 lbs)
+8gp
+Medium Catapult Shot, Crude (30 lbs)
+Heavy Trebuchet Shot, Ballistic (180 lbs)
+Medium Catapult Shot, Ballistic (30 lbs)
+Heavy Trebuchet Shot, Pitch (180 lbs)
+Medium Catapult Shot, Pitch (30 lbs)
+## rr.p0138.t02 5×5
+NAVAL MACHINES
+COST
+Anchor, lead (50 lbs)
+Fire Pot Pole (12 st)
+Boarding Bridge (36’ long × 4’ wide × 24’ tall, 250 st)
+Naval Ram (7’5” long, 100 st)
+10% vessel
+Boarding Ramp (20’ long × 3’ wide, 40 st)
+Tower, Large (15’ square × 20’ tall, 1200 st)
+700gp
+Bulwark (3’ tall, 3” thick)
+5% vessel
+Tower, Small (7’5” square × 12’ tall, 350 st)
+200gp
+## rr.p0138.t03 8×5
+SIEGE ENGINES
+COST
+Battering Ram/Screw (20’ long × 2’ diameter, 400 st)
+200gp
+Petard
+125gp/lb
+Caltrops, 20 ounce bag (1/6 st)
+Ram Catcher
+Cauldron, Suspended (50 gallon, 45 st)
+Siege Hook
+Fascine (5’ × 5’ × 5’, 450 st)
+Siege Ladder
+1sp/10’
+Hoist (30’ tall, 1000 st)
+300gp
+Siege Tower, Standard (40’ tall)
+2,500gp
+Movable Gallery (12’ × 12’ × 20, 2000 st)
+Siege Tower, Large (90’ tall)
+Movable Mantlet (8’ × 6’, 80 st)
+Siege Tower, Huge (135’ tall)
+40,000gp
+## rr.p0139.t01 13×10
+ARTILLERY TYPE
+SHP
+AMMO<br>WEIGHT
+RANGE
+DAMAGE
+SHP<br>DAMAGE
+CREW & RATE OF<br>FIRE
+COST
+Ballista, Light
+7 st
+1/6 st
+1d10 [extraordinary piercing] (5’ line)
+Wood ×1/10<br>Stone ×0
+1 Crew: 1/2 rounds<br>2 Crew: 1/1 rounds
+Ballista, Light Repeating
+1 Crew: 1/1 round<br>2 Crew: 2/1 round
+200gp
+Ballista, Medium
+80 st
+2/6 st
+3d6 [extraordinary piercing] (5’ line)
+2 Crew: 1/3 rounds<br>3 Crew: 1/2 rounds<br>4 Crew: 1/1 rounds
+Ballista, Heavy
+320 st
+4/6 st
+3d6 [extraordinary piercing] (15’ line or<br>10’ diameter)
+Wood ×1/3<br>Stone ×1/10
+2 Crew: 1/4 rounds<br>3 Crew: 1/3 rounds<br>4 Crew: 1/2 rounds
+180gp
+Ballista, Heavy Harpoon
+1 st
+4d6 [extraordinary piercing] + grapple
+Wood ×1/3<br>Stone ×0
+Catapult, Light
+120 st
+3d6 [extraordinary bludgeoning] (10’ diameter)<br>1d6 [mundane fire] (10’ diameter)
+Wood ×1/3\*<br>Stone ×1/10
+Catapult, Medium
+180 st
+3 st
+5d6 [extraordinary bludgeoning] (10’ diameter)<br>2d6 [mundane fire] (10’ diameter)
+Catapult, Heavy
+800 st
+9 st
+5d6 [extraordinary bludgeoning] (15’ diameter)<br>3d6 [mundane fire] (15’ diameter)
+Wood ×1<br>Stone ×1/3
+4 Crew: 1/4 rounds<br>6 Crew: 1/3 rounds<br>8 Crew: 1/2 rounds
+400gp
+Fire-Bearing Siphon
+100 st
+10 st
+5d6 [mundane fire] (60’ × 5’ line)
+Wood ×1<br>Stone ×1/10
+2 Crew: 1/4 rounds<br>3 Crew: 1/2 rounds<br>4 Crew: 1/1 rounds
+2,500gp
+Trebuchet, Light
+600 st
+6 st
+20 Crew: 1/6 rounds<br>30 Crew: 1/4 rounds<br>40 Crew: 1/3 rounds
+600gp
+Trebuchet, Medium
+1,200 st
+5d6 [extraordinary bludgeoning] (20’ diameter)<br>4d6 [mundane fire] (20’ diameter)
+Wood ×1<br>Stone ×1
+40 Crew: 1/8 rounds<br>60 Crew: 1/6 rounds<br>80 Crew: 1/4 rounds
+1,200gp
+Trebuchet, Heavy
+2,400 st
+18 st
+6d6 [extraordinary bludgeoning] (20’ diameter)<br>5d6 [mundane fire] (20’ diameter)
+50 Crew: 1/8 rounds<br>75 Crew: 1/6 rounds<br>100 Crew: 1/4 rounds
+## rr.p0142.t01 7×11
+BARDING<br/>MATERIAL
+COLOSSAL CREATURE
+GIGANTIC CREATURE
+HUGE CREATURE
+LARGE CREATURE
+MAN-SIZED CREATURE
+COST
+ENC
+Leather
+2,400gp
+90 st
+480gp
+18 st
+120gp
+4 3/6 st
+1 3/6 st
+1 st
+Scale
+4,500gp
+180 st
+900gp
+36 st
+225gp
+9 st
+3 st
+2 st
+Chain
+9,000gp
+270 st
+1,800gp
+54 st
+450gp
+13 3/6 st
+Lamellar
+18,000gp
+360 st
+3,600gp
+72 st
+300gp
+6 st
+200gp
+4 st
+Plate
+36,000gp
+450 st
+7,200gp
+22 3/6 st
+600gp
+7 3/6 st
+400gp
+5 st
+## rr.p0158.t01 4×2
+FUEL REMAINING
+EXPLOSION
+5 lbs or less
+1d6 fire in 5’ radius
+6 lbs – 89 lbs
+2d6 fire in 10’ radius
+90 lbs or more
+3d6 fire in 15’ radius
+## rr.p0160.t01 10×4
+CHARACTERISTICS
+STANDARD
+LARGE
+HUGE
+Base
+Height
+Stories
+Internal Crew
+External Crew
+Total Troops
+Total Siege Engines
+400 st
+800 st
+1,600 st
+Structural Hit points
+## rr.p0161.t01 8×4
+COST
+Masterwork Weapon (+1 to attack throw)
++80gp
+Masterwork Structure (+1 AC)
+Masterwork Weapon (+1 to damage)
+Masterwork Structure (+10% shp)
+Masterwork Weapon (+1 to damage & attack throw)
++650gp
+Masterwork Structure (+1 AC & +10% shp)
+Masterwork Armor (-1 stone weight)
+Masterwork Ship (+1 AC)
+Masterwork Armor (+1 AC)
+Masterwork Ship (+10% shp)
+Masterwork Instrument (+1 Performance)
+Masterwork Ship (+10% speed)
+Masterwork Instrument (+2 Performance)
+Masterwork Ship (+1 AC, +10% shp & speed)
+## rr.p0162.t01 9×4
+PIERCING/SLASHING WEAPONS
+D20
+CATEGORY
+EFFECT
+VALUE
+Serviceable
+Blade dented
+-1 damage
+Blade rusty
+Off balance
+-1 to attacks
+Loose hilt/haft
+-1 to initiative
+Shoddy construction
+Breaks
+Roll again twice
+## rr.p0162.t02 9×4
+ARMOR AND EQUIPMENT
+D20
+CATEGORY
+EFFECT
+VALUE
+Serviceable
+Broken straps
++1 stone encumbrance
+Rattles if moved
+Cannot sneak
+Dented/rotting
+-1 AC / breaks
+Makeshift work
+Torn/ripped
+Breaks
+Roll again twice
+## rr.p0162.t03 9×4
+BLUDGEONING WEAPONS
+D20
+CATEGORY
+EFFECT
+VALUE
+Serviceable
+Soft head
+-1 damage
+Wobbly head
+Off balance
+-1 to attacks
+Fragile haft
+-1 to initiative
+Shoddy construction
+Breaks
+Roll again twice
+## rr.p0162.t04 9×4
+VESSELS AND VEHICLES
+D20
+CATEGORY
+EFFECT
+VALUE
+Serviceable
+Leaky/creaky
+-20% cargo capacity
+Faulty
+-30’ max speed
+Fragile
+-1 AC, -10% shp
+Rotting
+Damaged
+-20% shp
+Roll again twice
+## rr.p0163.t01 7×2
+## rr.p0163.t02 16×7
+ANIMAL/VEHICLE
+EXPLORATION<br>SPEED
+COMBAT<br>SPEED
+RUNNING<br>SPEED
+EXPEDITION<br>SPEED
+NORMAL<br>LOAD
+MAXIMUM<br>LOAD
+Camel
+Donkey
+Elephant
+Horse, Heavy
+Horse, Light
+Horse, Medium
+Horse, Steppe
+Mule
+Ox
+Cart, Small, 1 Mule
+Cart, Small, 2 Mules
+Cart, Large, 1 Heavy Horse
+Cart, Large, 2 Heavy Horses
+Wagon, 2 Heavy Horses
+Wagon, 4 Heavy Horses
+## rr.p0164.t01 7×2
+MARKET<br>CLASS
+COST PER WEEK PER<br>HIRELING TYPE
+1d6+15gp
+1d10+10gp
+1d8+5gp
+1d6+3gp
+1d6gp
+1d3gp
+## rr.p0164.t02 7×2
+REACTION TO HIRING OFFER
+ADJUSTED DIE ROLL
+RESULT
+Refuse and slander
+Refuse
+Try Again
+Accept
+Accept with élan
+## rr.p0166.t01 17×8
+MERCENARY
+CLASS I
+CLASS II
+CLASS III
+CLASS IV
+CLASS V
+CLASS VI
+Light Infantry
+4d100
+5d20
+By race
+Heavy Infantry
+2d100
+Slinger
+8d20
+Bowman
+Crossbowman
+Composite Bowman/Longbowman\*
+4d20
+Light Cavalry
+Mounted Crossbowman
+3d20
+Horse Archers
+Medium Cavalry
+Heavy Cavalry
+1d2 (50%)
+Cataphract Cavalry
+1d2 (33%)
+Camel Archers†
+Camel Lancers†
+War Elephants
+Beast Riders
+## rr.p0166.t02 6×8
+HENCHMAN
+CLASS I
+CLASS II
+CLASS III
+CLASS IV
+CLASS V
+CLASS VI
+0th level
+4d100
+5d20
+12gp/month
+1st level
+25gp/month
+2nd level
+50gp/month
+3rd level
+100gp/month
+4th level
+200gp/month
+## rr.p0167.t01 51×8
+SPECIALIST
+CLASS I
+CLASS II
+CLASS III
+CLASS IV
+CLASS V
+CLASS VI
+Alchemist
+250gp/month
+Animal Trainer – Common
+25gp/month
+Animal Trainer – Wild
+75gp/month
+Animal Trainer – Giant/Prehistoric
+150gp/month
+Animal Trainer – Fantastic
+Armorer
+Artisan (common)
+6d10
+Artisan (uncommon)
+Artisan (rare)
+Artillerist
+Copyist
+2d4×50
+5d20
+1gp/page
+Creature Handler – Domestic
+Creature Handler – Wild
+Creature Handler – Giant/Prehistoric
+Creature Handler – Fantastic
+Engineer
+1gp/day/patient
+Healer – Physicker
+2gp/day/patient
+Healer – Chirurgeon
+4gp/day/patient
+Laborer – Skilled
+2d4×100
+1d3×100
+1d4×50
+6gp/month
+Laborer – Unskilled
+4d6×100
+3d3×100
+3d4×50
+8d6×3
+4d6×3
+2d4×3
+3gp/month
+Lawyer
+100gp/month
+Mariner – Captain
+Mariner – Master
+Mariner – Navigator
+1d12
+Mariner – Sailor
+4d100
+Mariner – Rower
+Marshal – Light Infantry
+30gp/month
+Marshal – Bow, Heavy Infantry or Light Cav
+60gp/month
+Marshal – Heavy Cavalry or Horse Archer
+120gp/month
+Marshal – Cataphract Cavalry
+240gp/month
+Mercenary Officer – Lieutenant
+200gp/month
+Mercenary Officer – Captain
+800gp/month
+Mercenary Officer – Colonel
+3,000gp/month
+Mercenary Officer – General
+12,000gp/month
+Quartermaster
+40gp/month
+Ruffian – Carouser
+7gp/month
+Ruffian – Footpad
+Ruffian – Reciter
+2d4×25
+Ruffian – Slayer
+625gp/month
+Ruffian – Spy
+Ruffian – Thug
+Sage
+500gp/month
+Scout – Pathfinder or Land Surveyor
+Siege Engineer
+50gp/month
+Translator
+2sp/page
+Writer – Rank 1
+Writer – Rank 2
+2gp/page
+Writer – Rank 3
+4gp/page
+Writer – Rank 4
+10gp/page
+## rr.p0168.t01 7×2
+HIRELING LOYALTY
+ADJUSTED DIE ROLL (2D6)
+RESULT
+Hostility
+Resignation
+Grudging Loyalty
+Loyalty
+Fanatic Loyalty
+## rr.p0169.t01 5×2
+HIRELING OBEDIENCE
+ADJUSTED DIE ROLL (2D6)
+RESULT
+Refuses
+Begrudging
+Compliant
+## rr.p0169.t02 13×2
+HIRELING OBEDIENCE
+SITUATION
+MODIFIER
+Employer personally doing task, dungeon, journey, or work alongside hireling
+Adventurer other than employer doing task, dungeon, journey, or work alongside hireling
+Other hirelings doing task, dungeon, journey, or work alongside hireling
+Hireling doing task, dungeon, journey, or work alone
+Task is customary for hireling’s profession or class (e.g. search for traps for thief, bash door for fighter)
+Task exposes hireling to small risk similar to what others in party face
+One or more henchmen were incapacitated, killed, or captured in the last month or most recent adventure
+Task exposes hireling to more risk than what others in party face
+Task exposes hireling to great risk of life and limb that others in party are not exposed to
+Task exposes hireling to extraordinary risk of incapacitation, death, capture, etc.
+Hireling is a mercenary ordered to undertake adventuring activities outside the norm
+## rr.p0170.t01 10×4
+HENCHMEN MONTHLY WAGE
+CLASS<br/>LEVEL
+MONTHLY WAGE<br/>(GP)
+## rr.p0171.t01 21×7
+MERCENARY TROOP TYPE
+GP WAGE PER MONTH
+MORALE
+MAN
+DWARF
+ELF
+GOBLIN
+ORC
+Peasants (spear)
+Light Infantry (3 javelins, short sword, shield, leather armor)
+Heavy Infantry (spear, short sword, shield, banded plate armor)
+Slingers (sling, short sword, shield)
+Bowmen (short bow, short sword, leather armor)
+Composite Bowmen (composite bow, short sword, leather)
+Crossbowmen (arbalest, short sword, shield, chain mail)
+Longbowmen (long bow, short sword, chain mail)
+Light Cavalry (3 javelins, sword, shield, scale armor, light warhorse)
+Mounted Crossbowmen (crossbow, hand axe, plate armor, mule)
+Horse Archers (composite bow, scimitar, leather armor, light warhorse)
+Medium Cavalry (lance, sword, shield, lamellar, scale-barded medium warhorse)
+Heavy Cavalry (lance, sword, shield, plate armor, chain-barded medium warhorse)
+Cataphract Cavalry (comp. bow, lance, sword, plate, lamellar-barded medium warhorse)
+Camel Archers (composite bow, scimitar, leather armor, camel)
+Camel Lancers (composite bow, lance, scimitar, chain mail, camel)
+War Elephants* (lamellar barding, howdah, 6 × comp. bows, lances, scale armor)
+Wolf Riders (spear, scimitar, shield, leather armor, dire wolf)
+Boar Riders (lance, scimitar, shield, leather armor, giant boar)
+## rr.p0173.t01 5×7
+OFFICER TITLE
+COST/<br>MONTH
+LEADERSHIP<br>ABILITY
+STRATEGIC<br>ABILITY
+MORALE<br>MODIFIER
+Lieutenant
+4th
+200gp
+Command, Military Strategy 1
+6th
+800gp
+Command, Military Strategy 2
+Colonel
+8th
+3,000gp
+Command, Leadership, Military Strategy 2
+General
+10th
+12,000gp
+Command, Leadership, Military Strategy 3
+## rr.p0174.t01 13×8
+SPELL TYPE AND LEVEL
+COST
+CLASS I
+CLASS II
+CLASS III
+CLASS IV
+CLASS V
+CLASS VI
+Divine-1st level
+5gp
+4d4×100
+4d10×10
+4d4×10
+6d10
+Divine-2nd level
+4d6×10
+12d6
+Divine-3rd level
+45gp
+Divine-4th level
+185gp
+2d3
+Divine-5th level
+900gp
+1d4-3
+Divine-6th level
+3,600gp
+1d8-6
+Arcane-1st level
+2d4×100
+2d10×10
+2d4×10
+Arcane-2nd level
+2d6×10
+Arcane-3rd level
+Arcane-4th level
+2d2
+1d3-1
+Arcane-5th level
+1d10-9
+Arcane-6th level
+1d8-7
+## rr.p0175.t01 7×3
+SPELL LEVEL
+UPFRONT FEE
+ONGOING<br>MONTHLY FEE
+1st level
+1gp
+2nd level
+55gp
+2gp
+3rd level
+160gp
+5gp
+4th level
+440gp
+15gp
+5th level
+1,365gp
+6th level
+4,515gp
+135gp
+## rr.p0176.t01 9×4
+WORKER
+CONSTRUCTION RATE<br>/MONTH
+CONSTRUCTION RATE<br>/DAY
+WAGE RATE/MONTH
+Unskilled Laborer
+3gp
+1sp
+3gp\*
+Skilled Laborer
+6gp
+2sp
+6gp\*
+Apprentice Craftsman
+10gp / 15gp†
+33cp / 5sp†
+Journeyman Craftsman
+20gp / 30gp†
+66cp / 1gp†
+Master Craftsman
+40gp / 30gp†
+1gp, 33cp / 1gp†
+Master, 2 Journeyman, and 4 Apprentices
+150gp†
+5gp†
+Siege Engineer
+66cp
+Engineer
+1gp, 33cp
+## rr.p0178.t01 14×5
+MATERIAL
+COST
+DENSITY
+DAMAGED<br/>AS
+STRUCTURAL<br/>STRENGTH
+SURFACE STRUCTURES
+Carpentry, crude wood*
+0.07gp/cf
+35lbs/cf
+Wood
+1shp/5,000lbs
+Carpentry, standard wood
+0.33gp/cf
+50lbs/cf
+1shp/2,000lbs
+Carpentry, superior wood
+0.72gp/cf
+64lbs/cf
+Earthwork, piled earth*
+0.002gp/cf
+85lbs/cf
+1shp/9,500lbs
+Earthwork, rammed earth
+0.02gp/cf
+115lbs/cf
+1shp/4,000lbs
+Masonry, concrete
+0.05gp/cf
+135lbs/cf
+Stone
+1shp/5,500lb
+Masonry, stone
+0.17gp/cf
+170lbs/cf
+EXCAVATED STRUCTURES
+Earth, crude*
+N/A
+1shp/50cf
+Earth, durable
+1shp/20cf
+Rock, rough-hewn
+1shp/30f
+Rock, smooth-hewn
+0.5gp/cf
+1shp/12.5cf
+## rr.p0178.t02 11×2
+STRUCTURE
+COMPLEXITY
+Excavated structure (any)
+x1
+Wall (any earthwork)
+Wall (any carpentry)
+x2
+Wall (any masonry)
+x3
+Building (any carpentry or earthwork)
+Building (stone masonry)
+x4
+Building (concrete masonry)
+x6
+Vehicle (superior carpentry)
+Vessel (superior carpentry)
+War Machine (superior carpentry)
+## rr.p0179.t01 6×2
+SPELLS CAST
+CONSTRUCTION EFFECT
+*Earth’s movement*
+Gain 2,500gp per turn construction rate on ditches, moats, and ramparts only
+*Earth’s mire*
+Increase construction rate of workers at construction site by 50%
+*Earth’s movement* and *earth’s mire*
+Increase construction rate of workers at construction site by 100%
+*Earth’s movement* and *mire* with *wall of stone*
+Gain 500gp of construction per *wall of stone* spell cast
+*Wall of stone*
+Decorative re-surfacing of 5,000gp of stronghold

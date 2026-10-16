@@ -1,0 +1,810 @@
+EXCHANGE VALUE | Обменная стоимость
+COINS | Монеты
+CP | ММ
+SP | СМ
+EP | ЭМ
+GP | ЗМ
+PP | ПМ
+Copper Piece (cp) = | Медная монета (мм) =
+Silver Piece (sp) = | Серебряная монета (см) =
+Electrum Piece (ep) = | Электрумовая монета (эм) =
+Gold Piece (gp) = | Золотая монета (зм) =
+Platinum Piece (pp) = | Платиновая монета (пм) =
+STANDARD OF LIVING | Уровень жизни
+MONTHLY COST | Месячные расходы
+COMMON PROFESSIONS | Типичные занятия
+Wretched | Жалкий
+Meager | Скудный
+Adequate | Достаточный
+Comfortable | Удобный
+Prosperous | Зажиточный
+Affluent | Богатый
+Sumptuous | Пышный
+Luxurious | Роскошный
+Lavishly Opulent | Непомерно роскошный
+Indentured servants, serfs, and unskilled laborers | Кабальные слуги, крепостные и неквалифицированные рабочие
+Skilled laborers and apprentice artisans | Квалифицированные рабочие и ученики ремесленников
+Journeyman artisans, 1st level adventurers | Подмастерья, авантюристы 1-го уровня
+Master artisans or yeomen farmers (85 acres), 2nd level adventurers | Мастера-ремесленники или свободные земледельцы (85 акров), авантюристы 2-го уровня
+Master professionals or landed patrician (200 acres), 3rd – 4th level adventurers | Мастера гражданских профессий или землевладелец-патриций (200 акров), авантюристы 3–4-го уровня
+Barons or wealthy patricians, 5th – 7th level adventurers | Бароны или богатые патриции, авантюристы 5–7-го уровня
+Viscounts or counts, 8th – 9th level adventurers | Виконты или графы, авантюристы 8–9-го уровня
+Dukes or princes, 10th – 12th level adventurers | Герцоги или князья, авантюристы 10–12-го уровня
+Kings or emperors, 13th – 14th level adventurers | Короли или императоры, авантюристы 13–14-го уровня
+PRICE | Цена
+TYPE | Тип
+DAMAGE | Урон
+ENC.<br>(STONE) | Нагрузка<br>(стоуны)
+ENC. (STONE) | Нагрузка (стоуны)
+SHORT | Ближняя
+MED. | Средняя
+LONG | Дальняя
+COST | Цена
+SPECIAL | Особенности
+BOWS/CROSSBOWS | Луки/арбалеты
+AXES | Топоры
+BLUDGEONS | Дробящее оружие
+SWORDS/DAGGERS | Мечи/кинжалы
+SPEARS/POLEARMS | Копья/древковое оружие
+OTHER WEAPONS | Прочее оружие
+Arbalest | Арбалет с воротом
+Crossbow | Арбалет
+Composite Bow | Составной лук
+Long Bow | Длинный лук
+Short Bow | Короткий лук
+Case, 20 Bolts | Футляр, 20 болтов
+Quiver, 20 Arrows | Колчан, 20 стрел
+1 Silver Arrow | 1 серебряная стрела
+Battle Axe | Боевой топор
+Great Axe | Секира
+Hand Axe | Ручной топор
+Club | Дубина
+Flail | Цеп
+Mace | Булава
+Morning Star | Моргенштерн
+Warhammer | Боевой молот
+Knife | Нож
+Dagger | Кинжал
+Silver Dagger | Серебряный кинжал
+Short Sword | Короткий меч
+Sword | Меч
+Two-Handed Sword | Двуручный меч
+Dart (5) | Метательные стрелки (5)
+Javelin | Дротик
+Lance | Кавалерийское копьё
+Polearm | Древковое оружие
+Spear | Копьё
+Bola | Бола
+Military Oil | Зажигательное масло
+Cestus | Цестус
+Net | Сеть
+Rock | Камень
+Sap | Дубинка для оглушения
+Sling | Праща
+Staff Sling | Посох-праща
+30 Sling Stones | 30 камней для пращи
+Staff | Посох
+Whip | Кнут
+Missile | Дальнобойное
+Ammunition | Боеприпасы
+Medium Melee | Среднее рукопашное
+Large Melee | Большое рукопашное
+Small Melee/Missile | Малое рукопашное/дальнобойное
+Tiny Melee | Крошечное рукопашное
+Tiny Melee/Missile | Крошечное рукопашное/дальнобойное
+Small Melee | Малое рукопашное
+Med. Melee/Missile | Среднее рукопашное/дальнобойное
+Medium Melee/Missile | Среднее рукопашное/дальнобойное
+Silver | Серебряное
+Thrown | Метательное
+Handy | Одноручное
+Slow | Медленное
+Impact | Ударное
+Long | Длинное
+Mounted | Всадническое
+Incapacitating | Оглушающее
+Entangling | Опутывающее
+Flexible | Гибкое
+Cleave | Рассечение
+ARMOR | Доспехи
+Hide and Fur Armor | Доспех из шкур и меха
+Very Light Armor | Очень лёгкие доспехи
+Padded Armor | Стёганый доспех
+Leather Armor | Кожаный доспех
+Light Armor | Лёгкие доспехи
+Arena Armor, Light | Лёгкий аренный доспех
+Revealing | Открытое
+Ring Mail | Кольчатый доспех
+Medium Armor | Средние доспехи
+Scale Armor | Чешуйчатый доспех
+Chain Mail Armor | Кольчуга
+Laminated Linen Armor | Многослойный льняной доспех
+Arena Armor, Heavy | Тяжёлый аренный доспех
+Banded Plate Armor | Полосчатые латы
+Heavy Armor | Тяжёлые доспехи
+Lamellar Armor | Ламеллярный доспех
+Plate Armor | Латный доспех
+Scarce | Редкое
+Shield | Щит
+Shield, Mirror | Зеркальный щит
+Helmet, Heavy | Тяжёлый шлем
+Enclosing | Закрывающее
+Helmet, Light | Лёгкий шлем
+BARDING* | Доспехи для животных*
+Barding, Leather | Кожаные доспехи для животных
+Barding | Доспехи для животных
+Varies | Зависит от вида
+Barding, Scale | Чешуйчатые доспехи для животных
+Barding, Chain | Кольчужные доспехи для животных
+Barding, Lamellar | Ламеллярные доспехи для животных
+Barding, Plate | Латные доспехи для животных
+Barding, Spiked | Шипастые доспехи для животных
+Spiked | Шипастое
+Adventurer’s Harness | Перевязь авантюриста
+Lock | Замок
+Archery Target | Мишень для стрельбы
+Manacles | Кандалы
+Army Emblem, Silver (1 lb) | Серебряный армейский знак (1 фунт)
+Mess Kit | Походный набор посуды
+Army Emblem, Gold (1 lb) | Золотой армейский знак (1 фунт)
+Metamphora | Метамфора
+By Weight | По весу
+Backpack (holds 4 stone) | Рюкзак (вмещает 4 стоуна)
+Mirror (hand-sized, steel) | Зеркало (ручное, стальное)
+Barrel (20 gallon) | Бочонок (20 галлонов)
+Musical Instrument | Музыкальный инструмент
+Blanket | Одеяло
+Oil, Common (1 pint) | Обычное масло (1 пинта)
+Boardgame | Настольная игра
+Oil, Military (1 pint) | Зажигательное масло (1 пинта)
+Bowquiver | Налучье
+Pavilion (20 men) | Шатёр (20 человек)
+Candle (tallow, 1 lb) | Сальная свеча (1 фунт)
+Pell | Тренировочный столб
+Candle (wax, 1 lb) | Восковая свеча (1 фунт)
+Pouch/Purse (holds 1/2 stone) | Сумочка/кошель (вмещает 1/2 стоуна)
+Chest, Ironbound (holds 20 st.) | Окованный железом сундук (вмещает 20 ст.)
+Pole, Wooden | Деревянный шест
+Craftsman’s Tools (any) | Инструменты ремесленника (любые)
+Prosthesis, Arm | Протез руки
+Craftsman’s Workshop (any) | Мастерская ремесленника (любая)
+Prosthesis, Foot | Протез стопы
+Crowbar | Лом
+Prosthesis, Hand | Протез кисти
+Crutch | Костыль
+Prosthesis, Leg | Протез ноги
+Dice | Игральные кости
+Quill, writing | Писчее перо
+Disguise Kit | Набор для маскировки
+Quintain | Квинтина
+Ear Trumpet | Слуховой рожок
+Rations, Iron (one week) | Сухой паёк (одна неделя)
+Earplugs | Беруши
+Rations, Standard (one week) | Обычный паёк (одна неделя)
+Firewood Bundle (5 logs) | Вязанка дров (5 поленьев)
+Rope, 50’ | Верёвка, 50 футов
+Flag, Pennant (3’ × 1’) | Вымпел (3 × 1 фут)
+Rucksack (holds 2 stone) | Заплечный мешок (вмещает 2 стоуна)
+Flag, Banner (6’ × 2’) | Знамя (6 × 2 фута)
+Sack, Large (holds 6 stone) | Большой мешок (вмещает 6 стоунов)
+Flag, Standard (12’ × 4’) | Штандарт (12 × 4 фута)
+Sack, Small (holds 2 stone) | Малый мешок (вмещает 2 стоуна)
+Grappling Hook | Крюк-кошка
+Saddle and Tack, Draft | Упряжь для тяглового животного
+Hammer (small) | Молоток (малый)
+Saddle and Tack, Riding | Верховое седло и сбруя
+Herb, Aloe (1 lb) | Алоэ (1 фунт)
+Saddle and Tack, Military | Боевое седло и сбруя
+Herb, Belladonna (1 lb) | Белладонна (1 фунт)
+Saddlebag (holds 3 stone) | Седельная сумка (вмещает 3 стоуна)
+Herb, Birthwort (1 lb) | Кирказон (1 фунт)
+Scabbard | Ножны
+Herb, Bitterwood (1 lb) | Горькое дерево (1 фунт)
+Special Components, Miscellaneous | Различные особые компоненты
+Herb, Blessed Thistle (1 lb) | Кникус благословенный (1 фунт)
+Spell Book (blank) | Гримуар (пустой)
+Herb, Comfrey (1 lb) | Окопник (1 фунт)
+Stakes (6) and Mallet | Колья (6) и колотушка
+Herb, Garlic (1 lb) | Чеснок (1 фунт)
+Surgical Saw, Large | Большая хирургическая пила
+Herb, Goldenrod (1 lb) | Золотарник (1 фунт)
+Surgical Saw, Small | Малая хирургическая пила
+Herb, Horsetail (1 lb) | Хвощ (1 фунт)
+Tent, Large | Большая палатка
+Herb, Lungwort (1 lb) | Медуница (1 фунт)
+Tent, Small | Малая палатка
+Herb, Willow-bark (1 lb) | Ивовая кора (1 фунт)
+Thieves’ Tools | Воровские инструменты
+Herb, Wolfsbane (1 lb) | Аконит (1 фунт)
+Thieves’ Tools, Expanded | Расширенный набор воровских инструментов
+Herb, Woundwort (1 lb) | Чистец (1 фунт)
+Thieves’ Tools, Superior | Превосходные воровские инструменты
+Holy Book | Священная книга
+Tinderbox (flint & steel) | Трутница (кремень и кресало)
+Holy Symbol | Священный символ
+Torches (6) | Факелы (6)
+Holy Water (1 pint) | Святая вода (1 пинта)
+Treatise, Apprentice | Трактат ученика
+Ink (1 pint) | Чернила (1 пинта)
+Treatise, Journeyman | Трактат подмастерья
+Iron Spikes (6) | Железные шипы (6)
+Treatise, Master | Трактат мастера
+Journal | Дневник
+Treatise, Grandmaster | Трактат великого мастера
+Laborer’s Tools | Рабочие инструменты
+Waterskin | Бурдюк
+Lantern | Фонарь
+Whistle | Свисток
+CLOTHING | Одежда
+Belt/Sash, Leather | Кожаный пояс/кушак
+Gloves, Leather or Wool, Long | Длинные кожаные или шерстяные перчатки
+Belt/Sash, Embossed Leather | Пояс/кушак из тиснёной кожи
+Gloves, Leather or Wool, Short | Короткие кожаные или шерстяные перчатки
+Belt/Sash, Silk | Шёлковый пояс/кушак
+Hat, Armiger | Шляпа оруженосца
+Boots, Leather, High | Высокие кожаные сапоги
+Linen, Cheap (1 lb) | Дешёвое льняное полотно (1 фунт)
+Boots, Leather, Low | Низкие кожаные сапоги
+Linen, Fine (1 lb) | Тонкое льняное полотно (1 фунт)
+Breastwrap, Linen or Wool | Льняная или шерстяная нагрудная повязка
+Loincloth | Набедренная повязка
+Breastwrap, Silk | Шёлковая нагрудная повязка
+Robe, Linen or Wool | Льняная или шерстяная мантия
+Caparison, Linen or Wool | Льняная или шерстяная попона
+Sandals/Shoes, Leather, High | Высокие кожаные сандалии/башмаки
+Cassock, Linen or Wool | Льняная или шерстяная ряса
+Sandals/Shoes, Leather, Low | Низкие кожаные сандалии/башмаки
+Chiton, Linen or Wool | Льняной или шерстяной хитон
+Silk (1 lb) | Шёлк (1 фунт)
+Chiton, Silk | Шёлковый хитон
+Skullcap | Шапочка
+Cloak, Fur-lined | Плащ на меху
+Tunic and Pants, Serf | Туника и штаны крепостного
+Cloak, Leather, Hooded | Кожаный плащ с капюшоном
+Tunic and Pants, Crafter/Freeholder | Туника и штаны ремесленника/свободного землевладельца
+Cloak, Linen or Wool, Hooded | Льняной или шерстяной плащ с капюшоном
+Tunic and Pants, Armiger | Туника и штаны оруженосца
+Cloak, Silk, Hooded | Шёлковый плащ с капюшоном
+Tunic and Pants, Noble | Туника и штаны знатного человека
+Dress, Crafter/Freeholder | Платье ремесленницы/свободной землевладелицы
+Veil, Silk | Шёлковая вуаль
+Dress, Armiger | Платье оруженосицы
+Wool, Cheap (1 lb) | Дешёвая шерстяная ткань (1 фунт)
+Gown, Lady-in-Waiting/Noble | Платье придворной дамы/знатной женщины
+Wool, Good (1 lb) | Добротная шерстяная ткань (1 фунт)
+Gown, Duchess | Платье герцогини
+Wool, Fine (1 lb) | Тонкая шерстяная ткань (1 фунт)
+ANIMAL | Животное
+Camel, Riding | Верховой верблюд
+Horse, Light War | Лёгкий боевой конь
+Chicken (3 lbs) | Курица (3 фунта)
+Horse, Medium Draft | Средняя тягловая лошадь
+Cow (550 lbs) | Корова (550 фунтов)
+Horse, Medium Riding | Средняя верховая лошадь
+Dog, Hunting | Охотничья собака
+Horse, Medium War | Средний боевой конь
+Dog, War | Боевая собака
+Horse, Steppe Draft | Степная тягловая лошадь
+Donkey, Draft | Тягловый осёл
+Horse, Steppe Riding | Степная верховая лошадь
+Elephant, Riding | Верховой слон
+Horse, Steppe War | Степной боевой конь
+Elephant War | Боевой слон
+Mule, Draft | Тягловый мул
+Goat (125 lbs) | Коза (125 фунтов)
+Mule, Riding | Верховой мул
+Hawk, Hunting | Ловчий ястреб
+Mule, War | Боевой мул
+Horse, Heavy Draft | Тяжёлая тягловая лошадь
+Ox, Draft (2,000 lbs) | Тягловый вол (2 000 фунтов)
+Horse, Heavy War | Тяжёлый боевой конь
+Pig (125 lbs) | Свинья (125 фунтов)
+Horse, Light Riding | Лёгкая верховая лошадь
+Sheep (80 lbs) | Овца (80 фунтов)
+FOODSTUFF | Продовольствие
+Animal Feed, Superior (1 lb) | Качественный корм (1 фунт)
+Meat, Beef or Mutton (1 lb) | Говядина или баранина (1 фунт)
+Animal Feed, Inferior (1 lb) | Низкокачественный корм (1 фунт)
+Meat, Chevon or Pork (1 lb) | Козлятина или свинина (1 фунт)
+Beer, Barley, Cheap (1 pint) | Дешёвое ячменное пиво (1 пинта)
+Meat, Chicken or Fish (1 lb) | Курица или рыба (1 фунт)
+Beer, Wheat, Good (1 pint) | Хорошее пшеничное пиво (1 пинта)
+Milk (2 pints) | Молоко (2 пинты)
+Bread, White (4 lbs) | Белый хлеб (4 фунта)
+Oil, Olive (1 pint) | Оливковое масло (1 пинта)
+Bread, Wheat (8 lbs) | Пшеничный хлеб (8 фунтов)
+Salt (1 lb) | Соль (1 фунт)
+Bread, Coarse (12 lbs) | Грубый хлеб (12 фунтов)
+Spice, Cinnamon or Ginger (1 lb) | Корица или имбирь (1 фунт)
+Butter (1 lb) | Сливочное масло (1 фунт)
+Spice, Pepper (1 lb) | Перец (1 фунт)
+Cheese (1 lb) | Сыр (1 фунт)
+Spice, Saffron (1 lb) | Шафран (1 фунт)
+Chickpeas (1 quarter) | Нут (1 квартер)
+Vinegar (1 pint) | Уксус (1 пинта)
+Eggs (1 dozen) | Яйца (1 дюжина)
+Wheat (1 quarter) | Пшеница (1 квартер)
+Fish Sauce (1 lb) | Рыбный соус (1 фунт)
+Wine, Cheap (1 pint) | Дешёвое вино (1 пинта)
+Honey (1 lb) | Мёд (1 фунт)
+Wine, Good (1 pint) | Хорошее вино (1 пинта)
+Meal (1 person, poor to feast) | Еда (1 человек, от бедной трапезы до пира)
+Wine, Fine (1 pint) | Изысканное вино (1 пинта)
+LODGING | Постой
+Inn, Slum (one night) | Ночлежка в трущобах (одна ночь)
+Kenneling (one night) | Содержание в псарне (одна ночь)
+Inn, Average (one night) | Обычный постоялый двор (одна ночь)
+Stabling, Draft/riding (one night) | Конюшня для тяглового/верхового животного (одна ночь)
+Inn, Superb (one night) | Превосходный постоялый двор (одна ночь)
+Stabling, Warhorse (one night) | Конюшня для боевого коня (одна ночь)
+MONSTER VENOMS | Яды чудовищ
+ONSET TIME | Время до действия
+SAVE<br>MODIFIER | Модификатор<br>спасброска
+EFFECT ON FAILED SAVE | Эффект при провале спасброска
+Giant Centipede | Гигантская многоножка
+Giant Killer Bee | Гигантская пчела-убийца
+Spitting Cobra | Плюющаяся кобра
+Giant Crab Spider | Гигантский паук-бокоход
+Pit Viper | Ямкоголовая гадюка
+Foul Attercop | Скверный аттеркоп
+Giant Parasitic Wasp | Гигантская оса-наездник
+Amphisbaena, Child of Nasga | Амфисбена, дитя Насги
+Sea Snake | Морская змея
+King Cobra | Королевская кобра
+Black Widow | Чёрная вдова
+Hideous Attercop | Ужасный аттеркоп
+Carrion Horror | Падальный ужас
+Monstrous Attercop | Чудовищный аттеркоп
+Arane | Аране
+Giant Tarantula | Гигантский тарантул
+Giant Scorpion | Гигантский скорпион
+Giant Rockfish | Гигантская каменная рыба
+Wyvern | Виверна
+Skittering Maw | Шмыгающая пасть
+Greater Barghest, Rakshasa | Высший баргест, ракшаса
+Demonic Attercop | Демонический аттеркоп
+Giant Constricting Viper | Гигантская удушающая гадюка
+Giant Black Worm, Dragon | Гигантский чёрный червь, дракон
+Instant | Мгновенно
+Death | Смерть
+Belladonna | Белладонна
+Curare | Кураре
+Foxglove | Наперстянка
+Hellebore | Морозник
+Hemlock | Болиголов
+Henbane | Белена
+Wolfsbane | Аконит
+Yew | Тис
+STRONGHOLD STRUCTURES | Сооружения крепости
+STRUCTURAL HP | Конструкционные ОЗ
+UNIT CAPACITY | Вместимость в подразделениях
+CIVILIAN STRUCTURES | Гражданские сооружения
+SUBTERRANEAN STRUCTURES | Подземные сооружения
+STRUCTURE ACCESSORIES | Дополнительные элементы сооружений
+Arrow Slit/Window | Бойница/окно
+By material ×5 | По материалу ×5
+Shutters (window) | Ставни (для окна)
+ROADS | Дороги
+CIVIC FACILITIES AND MONUMENTS | Общественные сооружения и памятники
+TRAPS | Ловушки
+By type | По типу
+VEHICLE | Транспортное средство
+CREW | Экипаж
+MOVEMENT | Скорость передвижения
+EXPEDITION<br>SPEED | Походная<br>скорость
+CARGO<br>(STONE) | Груз<br>(стоуны)
+STRUCTURAL<br>HIT POINTS | Конструкционные<br>очки здоровья
+By creature | По существу
+Palanquin, Small | Паланкин, малый
+Palanquin, Medium | Паланкин, средний
+Palanquin, Large | Паланкин, большой
+Palanquin, Huge | Паланкин, огромный
+VESSEL | Судно
+VOYAGE<br/>SPEED | Скорость<br>плавания
+CARGO<br/>(STONE) | Груз<br>(стоуны)
+SHP | КОЗ
+SAILORS | Матросы
+ROWERS | Гребцы
+MARINES | Морские пехотинцы
+OAR<br/>SPRINT | На вёслах:<br>рывок
+OAR<br/>CRUISE | На вёслах:<br>крейсерская
+OAR SLOW | На вёслах: малая
+OAR<br/>SLOW | На вёслах:<br>малая
+SAIL | Под парусом
+Barge, Small | Баржа, малая
+Barge, Large | Баржа, большая
+Barge, Huge | Баржа, огромная
+Boat, Row | Лодка, гребная
+Boat, Sail | Лодка, парусная
+Canoe | Каноэ
+Galley, 1-Rower | Галера, 1 гребец
+Galley, 1.5-Rower | Галера, 1.5 гребца
+Galley, 2-Rower | Галера, 2 гребца
+Galley, 2.5-Rower | Галера, 2.5 гребца
+Galley, 3-Rower | Галера, 3 гребца
+Galley, 4-Rower | Галера, 4 гребца
+Galley, 5-Rower | Галера, 5 гребцов
+Galley, 6-Rower | Галера, 6 гребцов
+Galley, 8-Rower | Галера, 8 гребцов
+Longship | Длинный корабль
+Raft | Плот
+Sailing Ship, Small | Парусный корабль, малый
+Sailing Ship, Large | Парусный корабль, большой
+Sailing Ship, Huge | Парусный корабль, огромный
+ARTILLERY | Артиллерия
+NAVAL MACHINES | Морские машины
+SIEGE ENGINES | Осадные машины
+Petard | Петарда
+Ram Catcher | Ловец тарана
+Siege Hook | Осадный крюк
+Siege Ladder | Осадная лестница
+ARTILLERY TYPE | Тип артиллерии
+AMMO<br>WEIGHT | Вес<br>боеприпаса
+RANGE | Дальность
+SHP<br>DAMAGE | Урон<br>КОЗ
+CREW & RATE OF<br>FIRE | Расчёт и<br>скорострельность
+Ballista, Light | Баллиста, лёгкая
+Ballista, Light Repeating | Баллиста, лёгкая многозарядная
+Ballista, Medium | Баллиста, средняя
+Ballista, Heavy | Баллиста, тяжёлая
+Ballista, Heavy Harpoon | Баллиста, тяжёлая гарпунная
+Catapult, Light | Катапульта, лёгкая
+Catapult, Medium | Катапульта, средняя
+Catapult, Heavy | Катапульта, тяжёлая
+Fire-Bearing Siphon | Огнемётный сифон
+Trebuchet, Light | Требушет, лёгкий
+Trebuchet, Medium | Требушет, средний
+Trebuchet, Heavy | Требушет, тяжёлый
+BARDING<br/>MATERIAL | Материал доспехов<br>для животных
+COLOSSAL CREATURE | Колоссальное существо
+GIGANTIC CREATURE | Гигантское существо
+HUGE CREATURE | Огромное существо
+LARGE CREATURE | Большое существо
+MAN-SIZED CREATURE | Существо размером с человека
+ENC | Нагрузка
+Leather | Кожа
+Scale | Чешуя
+Chain | Кольчуга
+Lamellar | Ламелляр
+Plate | Латы
+FUEL REMAINING | Оставшееся топливо
+EXPLOSION | Взрыв
+CHARACTERISTICS | Характеристики
+STANDARD | Стандартная
+LARGE | Большая
+HUGE | Огромная
+Base | Основание
+Height | Высота
+Stories | Этажи
+Internal Crew | Внутренний расчёт
+External Crew | Внешний расчёт
+Total Troops | Всего воинов
+Total Siege Engines | Всего осадных машин
+Structural Hit points | Конструкционные очки здоровья
+Masterwork Weapon (+1 to attack throw) | Мастерское оружие (+1 к броску атаки)
+Masterwork Structure (+1 AC) | Мастерское сооружение (+1 КБ)
+Masterwork Weapon (+1 to damage) | Мастерское оружие (+1 к урону)
+Masterwork Structure (+10% shp) | Мастерское сооружение (+10% КОЗ)
+Masterwork Weapon (+1 to damage & attack throw) | Мастерское оружие (+1 к урону и броску атаки)
+Masterwork Structure (+1 AC & +10% shp) | Мастерское сооружение (+1 КБ и +10% КОЗ)
+Masterwork Armor (-1 stone weight) | Мастерские доспехи (-1 стоун веса)
+Masterwork Ship (+1 AC) | Мастерский корабль (+1 КБ)
+Masterwork Armor (+1 AC) | Мастерские доспехи (+1 КБ)
+Masterwork Ship (+10% shp) | Мастерский корабль (+10% КОЗ)
+Masterwork Instrument (+1 Performance) | Мастерский инструмент (+1 к Выступлению)
+Masterwork Ship (+10% speed) | Мастерский корабль (+10% к скорости)
+Masterwork Instrument (+2 Performance) | Мастерский инструмент (+2 к Выступлению)
+Masterwork Ship (+1 AC, +10% shp & speed) | Мастерский корабль (+1 КБ, +10% КОЗ и скорости)
+PIERCING/SLASHING WEAPONS | Колющее/рубящее оружие
+D20 | D20
+CATEGORY | Категория
+EFFECT | Эффект
+VALUE | Стоимость
+Serviceable | Исправное
+Blade dented | Зазубренное лезвие
+-1 damage | -1 к урону
+Blade rusty | Ржавое лезвие
+Off balance | Нарушенная балансировка
+-1 to attacks | -1 к атакам
+Loose hilt/haft | Расшатанная рукоять/древко
+-1 to initiative | -1 к инициативе
+Shoddy construction | Плохая работа
+Breaks | Ломается
+Roll again twice | Бросьте ещё дважды
+ARMOR AND EQUIPMENT | Доспехи и снаряжение
+Broken straps | Порванные ремни
++1 stone encumbrance | +1 стоун нагрузки
+Rattles if moved | Гремит при движении
+Cannot sneak | Нельзя красться
+Dented/rotting | Помятое/гнилое
+-1 AC / breaks | -1 КБ / ломается
+Makeshift work | Кустарная работа
+Torn/ripped | Рваное
+BLUDGEONING WEAPONS | Дробящее оружие
+Soft head | Мягкая ударная часть
+Wobbly head | Шатающаяся ударная часть
+Fragile haft | Хрупкое древко
+VESSELS AND VEHICLES | Суда и транспортные средства
+Leaky/creaky | Протекает/скрипит
+-20% cargo capacity | -20% грузоподъёмности
+Faulty | Неисправное
+-30’ max speed | -30’ максимальной скорости
+Fragile | Хрупкое
+-1 AC, -10% shp | -1 КБ, -10% КОЗ
+Rotting | Гнилое
+Damaged | Повреждённое
+-20% shp | -20% КОЗ
+ANIMAL/VEHICLE | Животное/транспортное средство
+EXPLORATION<br>SPEED | Скорость<br>исследования
+COMBAT<br>SPEED | Боевая<br>скорость
+RUNNING<br>SPEED | Скорость<br>бега
+NORMAL<br>LOAD | Обычный<br>груз
+MAXIMUM<br>LOAD | Максимальный<br>груз
+Camel | Верблюд
+Donkey | Осёл
+Elephant | Слон
+Horse, Heavy | Лошадь, тяжёлая
+Horse, Light | Лошадь, лёгкая
+Horse, Medium | Лошадь, средняя
+Horse, Steppe | Лошадь, степная
+Mule | Мул
+Ox | Вол
+Cart, Small, 1 Mule | Повозка, малая, 1 мул
+Cart, Small, 2 Mules | Повозка, малая, 2 мула
+Cart, Large, 1 Heavy Horse | Повозка, большая, 1 тяжёлая лошадь
+Cart, Large, 2 Heavy Horses | Повозка, большая, 2 тяжёлые лошади
+Wagon, 2 Heavy Horses | Фургон, 2 тяжёлые лошади
+Wagon, 4 Heavy Horses | Фургон, 4 тяжёлые лошади
+MARKET<br>CLASS | Класс<br>рынка
+COST PER WEEK PER<br>HIRELING TYPE | Цена за неделю поиска<br>каждого типа спутников
+REACTION TO HIRING OFFER | Реакция на предложение найма
+ADJUSTED DIE ROLL | Бросок с модификаторами
+RESULT | Результат
+Refuse and slander | Отказывается и злословит
+Refuse | Отказывается
+Try Again | Попробуйте ещё раз
+Accept | Соглашается
+Accept with élan | Соглашается с воодушевлением
+MERCENARY | Наёмник
+CLASS I | Класс I
+CLASS II | Класс II
+CLASS III | Класс III
+CLASS IV | Класс IV
+CLASS V | Класс V
+CLASS VI | Класс VI
+Light Infantry | Лёгкая пехота
+By race | По расе
+Heavy Infantry | Тяжёлая пехота
+Slinger | Пращник
+Bowman | Лучник
+Crossbowman | Арбалетчик
+Composite Bowman/Longbowman\* | Лучник с составным/длинным луком\*
+Light Cavalry | Лёгкая конница
+Mounted Crossbowman | Конный арбалетчик
+Horse Archers | Конные лучники
+Medium Cavalry | Средняя конница
+Heavy Cavalry | Тяжёлая конница
+Cataphract Cavalry | Катафракты
+Camel Archers† | Лучники на верблюдах†
+Camel Lancers† | Копейщики на верблюдах†
+War Elephants | Боевые слоны
+Beast Riders | Всадники на зверях
+HENCHMAN | Приспешник
+0th level | 0-й уровень
+1st level | 1-й уровень
+2nd level | 2-й уровень
+3rd level | 3-й уровень
+4th level | 4-й уровень
+5th level | 5-й уровень
+6th level | 6-й уровень
+SPECIALIST | Специалист
+Alchemist | Алхимик
+Animal Trainer – Common | Дрессировщик — обычные животные
+Animal Trainer – Wild | Дрессировщик — дикие животные
+Animal Trainer – Giant/Prehistoric | Дрессировщик — гигантские/доисторические животные
+Animal Trainer – Fantastic | Дрессировщик — фантастические животные
+Armorer | Оружейник
+Artisan (common) | Ремесленник (обычный)
+Artisan (uncommon) | Ремесленник (нечастый)
+Artisan (rare) | Ремесленник (редкий)
+Artillerist | Артиллерист
+Copyist | Переписчик
+Creature Handler – Domestic | Погонщик — домашние животные
+Creature Handler – Wild | Погонщик — дикие животные
+Creature Handler – Giant/Prehistoric | Погонщик — гигантские/доисторические животные
+Creature Handler – Fantastic | Погонщик — фантастические животные
+Engineer | Инженер
+Healer – Physicker | Целитель — лекарь
+Healer – Chirurgeon | Целитель — хирург
+Laborer – Skilled | Рабочий — квалифицированный
+Laborer – Unskilled | Рабочий — неквалифицированный
+Lawyer | Законник
+Mariner – Captain | Мореход — капитан
+Mariner – Master | Мореход — шкипер
+Mariner – Navigator | Мореход — штурман
+Mariner – Sailor | Мореход — матрос
+Mariner – Rower | Мореход — гребец
+Marshal – Light Infantry | Военный наставник — лёгкая пехота
+Marshal – Bow, Heavy Infantry or Light Cav | Военный наставник — лучники, тяжёлая пехота или лёгкая конница
+Marshal – Heavy Cavalry or Horse Archer | Военный наставник — тяжёлая конница или конные лучники
+Marshal – Cataphract Cavalry | Военный наставник — катафракты
+Mercenary Officer – Lieutenant | Офицер наёмников — лейтенант
+Mercenary Officer – Captain | Офицер наёмников — капитан
+Mercenary Officer – Colonel | Офицер наёмников — полковник
+Mercenary Officer – General | Офицер наёмников — генерал
+Quartermaster | Квартирмейстер
+Ruffian – Carouser | Головорез — гуляка
+Ruffian – Footpad | Головорез — налётчик
+Ruffian – Reciter | Головорез — декламатор
+Ruffian – Slayer | Головорез — убийца
+Ruffian – Spy | Головорез — шпион
+Ruffian – Thug | Головорез — громила
+Sage | Мудрец
+Scout – Pathfinder or Land Surveyor | Разведчик — первопроходец или землемер
+Siege Engineer | Осадный инженер
+Translator | Переводчик
+Writer – Rank 1 | Автор — ранг 1
+Writer – Rank 2 | Автор — ранг 2
+Writer – Rank 3 | Автор — ранг 3
+Writer – Rank 4 | Автор — ранг 4
+HIRELING LOYALTY | Верность спутника
+ADJUSTED DIE ROLL (2D6) | Бросок с модификаторами (2D6)
+Hostility | Враждебность
+Resignation | Смирение
+Grudging Loyalty | Неохотная верность
+Loyalty | Верность
+Fanatic Loyalty | Фанатичная верность
+HIRELING OBEDIENCE | Повиновение спутника
+Refuses | Отказывается
+Begrudging | Повинуется неохотно
+Compliant | Повинуется
+SITUATION | Ситуация
+MODIFIER | Модификатор
+Employer personally doing task, dungeon, journey, or work alongside hireling | Наниматель лично выполняет задание, исследует подземелье, путешествует или работает вместе с спутником
+Adventurer other than employer doing task, dungeon, journey, or work alongside hireling | Авантюрист, помимо нанимателя, выполняет задание, исследует подземелье, путешествует или работает вместе с спутником
+Other hirelings doing task, dungeon, journey, or work alongside hireling | Другие спутники выполняют задание, исследуют подземелье, путешествуют или работают вместе с спутником
+Hireling doing task, dungeon, journey, or work alone | Спутник выполняет задание, исследует подземелье, путешествует или работает в одиночку
+Task is customary for hireling’s profession or class (e.g. search for traps for thief, bash door for fighter) | Задание обычно для профессии или класса спутника (например, искать ловушки вору, выламывать дверь воину)
+Task exposes hireling to small risk similar to what others in party face | Задание подвергает спутника небольшому риску, как и остальных членов отряда
+One or more henchmen were incapacitated, killed, or captured in the last month or most recent adventure | За последний месяц или последнее приключение один или несколько приспешников потеряли дееспособность, погибли или попали в плен
+Task exposes hireling to more risk than what others in party face | Задание подвергает спутника большему риску, чем остальных членов отряда
+Task exposes hireling to great risk of life and limb that others in party are not exposed to | Задание создаёт высокую опасность для жизни и здоровья спутника, которой не подвергаются остальные члены отряда
+Task exposes hireling to extraordinary risk of incapacitation, death, capture, etc. | Задание создаёт чрезвычайный риск потери дееспособности, смерти, пленения и т. п. для спутника
+Hireling is a mercenary ordered to undertake adventuring activities outside the norm | Наёмник получил приказ заниматься приключенческой деятельностью, выходящей за рамки обычной службы
+HENCHMEN MONTHLY WAGE | Месячное жалованье приспешников
+CLASS<br/>LEVEL | Уровень<br>класса
+MONTHLY WAGE<br/>(GP) | Месячное жалованье<br>(зм)
+MERCENARY TROOP TYPE | Тип наёмных войск
+GP WAGE PER MONTH | Жалованье в зм в месяц
+MORALE | Боевой дух
+MAN | Человек
+DWARF | Дварф
+ELF | Эльф
+GOBLIN | Гоблин
+ORC | Орк
+OFFICER TITLE | Офицерское звание
+COST/<br>MONTH | Цена/<br>месяц
+LEADERSHIP<br>ABILITY | Способность<br>командовать
+STRATEGIC<br>ABILITY | Стратегическая<br>способность
+MORALE<br>MODIFIER | Модификатор<br>боевого духа
+Lieutenant | Лейтенант
+4th | 4-й
+6th | 6-й
+Colonel | Полковник
+8th | 8-й
+General | Генерал
+10th | 10-й
+Command, Military Strategy 1 | Командование, Военная стратегия 1
+Command, Military Strategy 2 | Командование, Военная стратегия 2
+Command, Leadership, Military Strategy 2 | Командование, Лидерство, Военная стратегия 2
+Command, Leadership, Military Strategy 3 | Командование, Лидерство, Военная стратегия 3
+SPELL TYPE AND LEVEL | Тип и уровень заклинания
+Divine-1st level | Божественное — 1-й уровень
+Divine-2nd level | Божественное — 2-й уровень
+Divine-3rd level | Божественное — 3-й уровень
+Divine-4th level | Божественное — 4-й уровень
+Divine-5th level | Божественное — 5-й уровень
+Divine-6th level | Божественное — 6-й уровень
+Arcane-1st level | Тайное — 1-й уровень
+Arcane-2nd level | Тайное — 2-й уровень
+Arcane-3rd level | Тайное — 3-й уровень
+Arcane-4th level | Тайное — 4-й уровень
+Arcane-5th level | Тайное — 5-й уровень
+Arcane-6th level | Тайное — 6-й уровень
+SPELL LEVEL | Уровень заклинания
+UPFRONT FEE | Первоначальный взнос
+ONGOING<br>MONTHLY FEE | Последующая<br>месячная плата
+WORKER | Работник
+CONSTRUCTION RATE<br>/MONTH | Объём строительства<br>/месяц
+CONSTRUCTION RATE<br>/DAY | Объём строительства<br>/день
+WAGE RATE/MONTH | Ставка жалованья/месяц
+Unskilled Laborer | Неквалифицированный рабочий
+Skilled Laborer | Квалифицированный рабочий
+Apprentice Craftsman | Ученик ремесленника
+Journeyman Craftsman | Подмастерье
+Master Craftsman | Мастер-ремесленник
+Master, 2 Journeyman, and 4 Apprentices | Мастер, 2 подмастерья и 4 ученика
+MATERIAL | Материал
+DENSITY | Плотность
+DAMAGED<br/>AS | Получает урон<br>как
+STRUCTURAL<br/>STRENGTH | Конструкционная<br>прочность
+SURFACE STRUCTURES | Наземные сооружения
+Carpentry, crude wood* | Плотницкая работа, грубо обработанное дерево*
+Carpentry, standard wood | Плотницкая работа, обычное дерево
+Carpentry, superior wood | Плотницкая работа, высококачественное дерево
+Earthwork, piled earth* | Земляные работы, насыпная земля*
+Earthwork, rammed earth | Земляные работы, утрамбованная земля
+Masonry, concrete | Каменная кладка, бетон
+Masonry, stone | Каменная кладка, камень
+Wood | Дерево
+Stone | Камень
+EXCAVATED STRUCTURES | Вырытые сооружения
+Earth, crude* | Земля, грубая выработка*
+Earth, durable | Земля, укреплённая выработка
+Rock, rough-hewn | Скала, грубая вырубка
+Rock, smooth-hewn | Скала, гладкая вырубка
+N/A | Неприменимо
+STRUCTURE | Сооружение
+COMPLEXITY | Сложность
+Excavated structure (any) | Вырытое сооружение (любое)
+Wall (any earthwork) | Стена (любые земляные работы)
+Wall (any carpentry) | Стена (любая плотницкая работа)
+Wall (any masonry) | Стена (любая каменная кладка)
+Building (any carpentry or earthwork) | Здание (любая плотницкая работа или земляные работы)
+Building (stone masonry) | Здание (кладка из камня)
+Building (concrete masonry) | Здание (бетонная кладка)
+Vehicle (superior carpentry) | Транспортное средство (высококачественная плотницкая работа)
+Vessel (superior carpentry) | Судно (высококачественная плотницкая работа)
+War Machine (superior carpentry) | Военная машина (высококачественная плотницкая работа)
+SPELLS CAST | Сотворённые заклинания
+CONSTRUCTION EFFECT | Эффект для строительства
+*Earth’s movement* | *Движение земли*
+*Earth’s mire* | *Земляная топь*
+*Earth’s movement* and *earth’s mire* | *Движение земли* и *земляная топь*
+*Earth’s movement* and *mire* with *wall of stone* | *Движение земли* и *топь* со *стеной из камня*
+*Wall of stone* | *Стена из камня*
+Gain 2,500gp per turn construction rate on ditches, moats, and ramparts only | Получите объём строительства 2,500 зм за ход только для канав, рвов и валов
+Increase construction rate of workers at construction site by 50% | Увеличьте объём строительства работников на стройплощадке на 50%
+Increase construction rate of workers at construction site by 100% | Увеличьте объём строительства работников на стройплощадке на 100%
+Gain 500gp of construction per *wall of stone* spell cast | Получите 500 зм строительства за каждое сотворённое заклинание *стена из камня*
+Decorative re-surfacing of 5,000gp of stronghold | Декоративная облицовка крепости стоимостью 5,000 зм
+PLANT TOXINS | Растительные яды
+1shp/30f | 1 КОЗ [shp]/30 f
+FORAGE<br>THROW | Бросок<br>собирательства
+Trap, arrow-firing (fires from hidden location, attacks as 1st level fighter, 1d6+1 [mundane piercing] damage) | Ловушка со стрелами [Trap, arrow-firing] (стреляет из укрытия, атакует как воин [fighter] 1-го уровня, 1d6+1 обычного колющего урона [mundane piercing])
+Trap, ceiling collapse (10’ × 10’ area of effect, Blast save or 2d6 [mundane bludgeoning] damage) | Ловушка с обвалом потолка [Trap, ceiling collapse] (область действия 10’ × 10’, спасбросок от разрушений [Blast] или 2d6 обычного дробящего урона [mundane bludgeoning])
+Trap, dart-firing (fires from hidden location, attacks as 1st level fighter, 1d4+1 [mundane piercing] damage) | Ловушка с метательными стрелками [Trap, dart-firing] (стреляет из укрытия, атакует как воин [fighter] 1-го уровня, 1d4+1 обычного колющего урона [mundane piercing])
+Trap, deadfall (5’ diameter area of effect, Blast save or 1d12 [mundane bludgeoning] damage)\* | Ловушка с падающим грузом [Trap, deadfall] (область действия диаметром 5’, спасбросок от разрушений [Blast] или 1d12 обычного дробящего урона [mundane bludgeoning])\*
+Trap, excavated earth pit, concealed by piled material (10’ × 10’ × 10’, 1d6 [mundane bludgeoning] damage)\* | Ловушка — выкопанная в земле яма, скрытая насыпным материалом [Trap, excavated earth pit, concealed by piled material] (10’ × 10’ × 10’, 1d6 обычного дробящего урона [mundane bludgeoning])\*
+Trap, fire (flammable oil in 10’ diameter, Blast save or 1d8 [mundane fire] damage for 2 rounds) | Огненная ловушка [Trap, fire] (горючее масло на участке диаметром 10’, спасбросок от разрушений [Blast] или 1d8 обычного огненного урона [mundane fire] в течение 2 раундов [rounds])
+Trap, needle-firing (1 damage) | Ловушка с иглой [Trap, needle-firing] (1 урона)
+Trap, portcullis (falls suddenly downward, Blast save or 3d6 [mundane bludgeoning] damage) | Ловушка с опускной решёткой [Trap, portcullis] (внезапно падает вниз, спасбросок от разрушений [Blast] или 3d6 обычного дробящего урона [mundane bludgeoning])
+Trap, rock-cut pit, concealed by rug (10’ × 10’ × 10’, 1d6 [mundane bludgeoning] damage) | Ловушка — вырубленная в скале яма, скрытая ковром [Trap, rock-cut pit, concealed by rug] (10’ × 10’ × 10’, 1d6 обычного дробящего урона [mundane bludgeoning])
+Trap, rolling rock (5’ wide boulder rolls up to 30’, all in path Blast save or 3d6 [mundane bludgeoning] damage) | Ловушка с катящимся камнем [Trap, rolling rock] (валун шириной 5’ катится до 30’; всем на пути — спасбросок от разрушений [Blast] или 3d6 обычного дробящего урона [mundane bludgeoning])
+Trap, scything blade (swings from hidden location in 10’ line, Blast save or 1d8 [mundane slashing] damage) | Ловушка с косящим лезвием [Trap, scything blade] (взмах из укрытия вдоль линии 10’, спасбросок от разрушений [Blast] или 1d8 обычного рубящего урона [mundane slashing])
+Trap, spring snare (snatches creature 10’ into air, Paralysis save or 1d6 [mundane seismic] damage and restrained)\* | Ловушка с пружинным силком [Trap, spring snare] (поддёргивает существо на 10’ в воздух; спасбросок от паралича [Paralysis] или 1d6 обычного сейсмического урона [mundane seismic] и состояние «Скованный» [restrained])\*
+Trap, swinging log (swings from hidden location in 10’ line, Blast save or 1d8 [mundane bludgeoning] damage)\* | Ловушка с качающимся бревном [Trap, swinging log] (взмах из укрытия вдоль линии 10’, спасбросок от разрушений [Blast] или 1d8 обычного дробящего урона [mundane bludgeoning])\*
+Trap, whipping branch (swings from tree, attacks as 1st level fighter, 1d6+1 [mundane piercing] damage)\* | Ловушка с хлещущей веткой [Trap, whipping branch] (взмах с дерева, атакует как воин [fighter] 1-го уровня, 1d6+1 обычного колющего урона [mundane piercing])\*
+Trap accessory, pit spikes (1d4 spikes each dealing 1d6 [mundane piercing] damage) | Дополнение к ловушке — колья в яме [Trap accessory, pit spikes] (1d4 кольев, каждый наносит 1d6 обычного колющего урона [mundane piercing])
+Trap accessory, pit cover, concealed trap door (opens beneath feet) | Дополнение к ловушке — крышка ямы, скрытый люк [Trap accessory, pit cover, concealed trap door] (открывается под ногами)
+Trap accessory, pit cover, concealed spring-loaded trap door (opens beneath feet and then closes) | Дополнение к ловушке — крышка ямы, скрытый подпружиненный люк [Trap accessory, pit cover, concealed spring-loaded trap door] (открывается под ногами, затем закрывается)
+Trap accessory, poison | Дополнение к ловушке — яд
+Peasants (spear) | Крестьяне [Peasants] (копьё [spear])
+Light Infantry (3 javelins, short sword, shield, leather armor) | Лёгкая пехота [Light Infantry] (3 дротика [javelins], короткий меч [short sword], щит [shield], кожаный доспех [leather armor])
+Heavy Infantry (spear, short sword, shield, banded plate armor) | Тяжёлая пехота [Heavy Infantry] (копьё [spear], короткий меч [short sword], щит [shield], полосчатые латы [banded plate armor])
+Slingers (sling, short sword, shield) | Пращники [Slingers] (праща [sling], короткий меч [short sword], щит [shield])
+Bowmen (short bow, short sword, leather armor) | Лучники [Bowmen] (короткий лук [short bow], короткий меч [short sword], кожаный доспех [leather armor])
+Composite Bowmen (composite bow, short sword, leather) | Лучники с составным луком [Composite Bowmen] (составной лук [composite bow], короткий меч [short sword], кожа [leather])
+Crossbowmen (arbalest, short sword, shield, chain mail) | Арбалетчики [Crossbowmen] (арбалет с воротом [arbalest], короткий меч [short sword], щит [shield], кольчуга [chain mail])
+Longbowmen (long bow, short sword, chain mail) | Лучники с длинным луком [Longbowmen] (длинный лук [long bow], короткий меч [short sword], кольчуга [chain mail])
+Light Cavalry (3 javelins, sword, shield, scale armor, light warhorse) | Лёгкая конница [Light Cavalry] (3 дротика [javelins], меч [sword], щит [shield], чешуйчатый доспех [scale armor], лёгкая боевая лошадь [light warhorse])
+Mounted Crossbowmen (crossbow, hand axe, plate armor, mule) | Конные арбалетчики [Mounted Crossbowmen] (арбалет [crossbow], ручной топор [hand axe], латы [plate armor], мул [mule])
+Horse Archers (composite bow, scimitar, leather armor, light warhorse) | Конные лучники [Horse Archers] (составной лук [composite bow], скимитар [scimitar], кожаный доспех [leather armor], лёгкая боевая лошадь [light warhorse])
+Medium Cavalry (lance, sword, shield, lamellar, scale-barded medium warhorse) | Средняя конница [Medium Cavalry] (кавалерийское копьё [lance], меч [sword], щит [shield], ламеллярный доспех [lamellar], средняя боевая лошадь [medium warhorse] в чешуйчатом доспехе [scale barding])
+Heavy Cavalry (lance, sword, shield, plate armor, chain-barded medium warhorse) | Тяжёлая конница [Heavy Cavalry] (кавалерийское копьё [lance], меч [sword], щит [shield], латы [plate armor], средняя боевая лошадь [medium warhorse] в кольчужном доспехе [chain barding])
+Cataphract Cavalry (comp. bow, lance, sword, plate, lamellar-barded medium warhorse) | Катафракты [Cataphract Cavalry] (составной лук [comp. bow], кавалерийское копьё [lance], меч [sword], латы [plate], средняя боевая лошадь [medium warhorse] в ламеллярном доспехе [lamellar barding])
+Camel Archers (composite bow, scimitar, leather armor, camel) | Лучники на верблюдах [Camel Archers] (составной лук [composite bow], скимитар [scimitar], кожаный доспех [leather armor], верблюд [camel])
+Camel Lancers (composite bow, lance, scimitar, chain mail, camel) | Копейщики на верблюдах [Camel Lancers] (составной лук [composite bow], кавалерийское копьё [lance], скимитар [scimitar], кольчуга [chain mail], верблюд [camel])
+War Elephants* (lamellar barding, howdah, 6 × comp. bows, lances, scale armor) | Боевые слоны [War Elephants]* (ламеллярный доспех для животного [lamellar barding], хауда [howdah], 6 × составные луки [comp. bows], кавалерийские копья [lances], чешуйчатые доспехи [scale armor])
+Wolf Riders (spear, scimitar, shield, leather armor, dire wolf) | Всадники на волках [Wolf Riders] (копьё [spear], скимитар [scimitar], щит [shield], кожаный доспех [leather armor], лютый волк [dire wolf])
+Boar Riders (lance, scimitar, shield, leather armor, giant boar) | Всадники на кабанах [Boar Riders] (кавалерийское копьё [lance], скимитар [scimitar], щит [shield], кожаный доспех [leather armor], гигантский кабан [giant boar])

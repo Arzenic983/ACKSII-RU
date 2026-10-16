@@ -49,10 +49,10 @@
     "title_ru": "Снаряжение",
     "first_pdf_page": 124,
     "last_pdf_page": 179,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 4566,
-    "translated_units": 0,
-    "pending_units": 4566
+    "translated_units": 4566,
+    "pending_units": 0
   },
   {
     "id": "05",

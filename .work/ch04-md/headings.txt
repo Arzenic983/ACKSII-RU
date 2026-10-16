@@ -1,0 +1,76 @@
+4 EQUIPMENT | 4. Снаряжение
+EQUIPMENT | Снаряжение
+THE BASICS OF EQUIPMENT | Основы снаряжения
+COINS AND MONEY | Монеты и деньги
+WHAT’S A GOLD PIECE WORTH? | Чего стоит золотая монета?
+PURCHASING EQUIPMENT | Покупка снаряжения
+STANDARD OF LIVING | Уровень жизни
+EQUIPMENT AVAILABILITY BY MARKET CLASS | Доступность снаряжения по классу рынка
+EQUIPMENT AVAILABILITY | Доступность снаряжения
+IMPORTING EQUIPMENT | Ввоз снаряжения
+EQUIPMENT LISTS | Списки снаряжения
+WEAPONS | Оружие
+ARMOR AND BARDING | Доспехи и доспехи для животных
+ADVENTURING EQUIPMENT | Снаряжение для приключений
+CLOTHING | Одежда
+DOMESTICATED ANIMALS | Домашние животные
+FOODSTUFFS | Продовольствие
+LODGING | Ночлег
+POISONS | Яды
+STRUCTURES | Сооружения
+VEHICLES | Транспортные средства
+VESSELS | Суда
+WAR MACHINES | Военные машины
+EQUIPMENT DESCRIPTIONS | Описания снаряжения
+WEAPON DESCRIPTIONS | Описания оружия
+ARMOR AND BARDING DESCRIPTIONS | Описания доспехов и доспехов для животных
+ADVENTURING EQUIPMENT DESCRIPTIONS | Описания снаряжения для приключений
+CLOTHING DESCRIPTIONS | Описания одежды
+FOODSTUFF DESCRIPTIONS | Описания продовольствия
+LODGING DESCRIPTIONS | Описания ночлега
+STRUCTURE DESCRIPTIONS | Описания сооружений
+VEHICLE DESCRIPTIONS | Описания транспортных средств
+VESSEL DESCRIPTIONS | Описания судов
+WAR MACHINE (ARTILLERY) DESCRIPTIONS | Описания военных машин (артиллерия)
+WAR MACHINE (NAVAL MACHINE) DESCRIPTIONS | Описания военных машин (морские машины)
+WAR MACHINE (SIEGE ENGINE) DESCRIPTIONS | Описания военных машин (осадные машины)
+SIEGE TOWER CHARACTERISTICS | Характеристики осадной башни
+MASTERWORK EQUIPMENT (OPTIONAL) | Мастерское снаряжение (дополнительное правило)
+AVAILABILITY OF MASTERWORK ITEMS | Доступность мастерских предметов
+MASTERWORK AND MAGICAL ITEMS | Мастерские и магические предметы
+SCAVENGED EQUIPMENT | Найденное снаряжение
+ENCUMBRANCE AND EQUIPMENT | Нагрузка и снаряжение
+HIRELINGS, HENCHMEN, MERCENARIES, AND SPECIALISTS | Спутники, приспешники, наёмники и специалисты
+RECRUITING HIRELINGS | Найм спутников
+RECRUITING AFTER A FAILED ATTEMPT | Найм после неудачной попытки
+TRANSFERRING EMPLOYMENT OF A HIRELING | Передача спутника другому нанимателю
+HIRELING AVAILABILITY BY MARKET CLASS | Доступность спутников по классу рынка
+HIRELING (MERCENARY) AVAILABILITY BY MARKET CLASS TABLE | Таблица доступности спутников (наёмников) по классу рынка
+HIRELING (HENCHMEN) AVAILABILITY BY MARKET CLASS TABLE | Таблица доступности спутников (приспешников) по классу рынка
+HIRELING (SPECIALIST) AVAILABILITY BY MARKET CLASS TABLE | Таблица доступности спутников (специалистов) по классу рынка
+MORALE AND LOYALTY | Боевой дух и верность
+LOYALTY | Верность
+MORALE | Боевой дух
+HENCHMEN | Приспешники
+MERCENARIES | Наёмники
+SPECIALISTS | Специалисты
+MERCENARY OFFICER CHARACTERISTICS | Характеристики офицеров наёмников
+SPELLCASTING SERVICES | Услуги заклинателей
+SELLING SPELLCASTING SERVICES | Продажа услуг заклинателя
+SPELL AVAILABILITY BY MARKET | Доступность заклинаний по рынкам
+PERPETUAL SPELLCASTING AS A SERVICE | Постоянное сотворение заклинаний как услуга
+EXPECTED LIVING EXPENSES (OPTIONAL) | Ожидаемые расходы на жизнь (дополнительное правило)
+ABSTRACT LIVING EXPENSES | Абстрактные расходы на жизнь
+CONCRETE LIVING EXPENSES | Конкретные расходы на жизнь
+CONSTRUCTION PROJECTS | Строительные проекты
+CONSTRUCTION COST, RATE, AND SUPERVISION | Цена, темп и надзор за строительством
+WAGE AND CONSTRUCTION RATES | Ставки жалованья и темпы строительства
+CONSTRUCTION SITES | Строительные площадки
+CONSTRUCTION MATERIALS | Строительные материалы
+CONSTRUCTION PROJECT CUSTOMIZATION (OPTIONAL) | Изменение строительных проектов (дополнительное правило)
+CUSTOM MATERIALS | Нестандартные материалы
+ASSISTING CONSTRUCTION WITH MAGIC | Помощь магии в строительстве
+STRUCTURE COMPLEXITY | Сложность сооружений
+STRUCTURE CONSTRUCTION | Строительство сооружений
+VEHICLE AND WAR MACHINE CONSTRUCTION | Изготовление транспортных средств и военных машин
+VESSEL CONSTRUCTION | Строительство судов

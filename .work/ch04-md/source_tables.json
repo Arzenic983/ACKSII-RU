@@ -1,0 +1,470 @@
+[
+  {
+    "id": "rr.p0125.t01",
+    "pdf_page": 125,
+    "chapter_id": "04",
+    "block_order": 7,
+    "row_count": 7,
+    "column_count": 6,
+    "source_markup": "<table>\n<tr><th></th><th colspan=\"5\">EXCHANGE VALUE</th></tr>\n<tr><td>COINS</td><td>CP</td><td>SP</td><td>EP</td><td>GP</td><td>PP</td></tr>\n<tr><td>Copper Piece (cp) =</td><td>1</td><td>1/10</td><td>1/50</td><td>1/100</td><td>1/500</td></tr>\n<tr><td>Silver Piece (sp) =</td><td>10</td><td>1</td><td>1/5</td><td>1/10</td><td>1/50</td></tr>\n<tr><td>Electrum Piece (ep) =</td><td>50</td><td>5</td><td>1</td><td>1/2</td><td>1/10</td></tr>\n<tr><td>Gold Piece (gp) =</td><td>100</td><td>10</td><td>2</td><td>1</td><td>1/5</td></tr>\n<tr><td>Platinum Piece (pp) =</td><td>500</td><td>50</td><td>10</td><td>5</td><td>1</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0125.t02",
+    "pdf_page": 125,
+    "chapter_id": "04",
+    "block_order": 16,
+    "row_count": 10,
+    "column_count": 3,
+    "source_markup": "| STANDARD OF LIVING | MONTHLY COST | COMMON PROFESSIONS |\n| --- | --- | --- |\n| Wretched | 1gp – 3gp | Indentured servants, serfs, and unskilled laborers |\n| Meager | 3gp – 12gp | Skilled laborers and apprentice artisans |\n| Adequate | 12gp – 40gp | Journeyman artisans, 1st level adventurers |\n| Comfortable | 40gp – 100gp | Master artisans or yeomen farmers (85 acres), 2nd level adventurers |\n| Prosperous | 100gp – 450gp | Master professionals or landed patrician (200 acres), 3rd – 4th level adventurers |\n| Affluent | 450gp – 2,000gp | Barons or wealthy patricians, 5th – 7th level adventurers |\n| Sumptuous | 2,000 – 12,000gp | Viscounts or counts, 8th – 9th level adventurers |\n| Luxurious | 12,000 – 80,000gp | Dukes or princes, 10th – 12th level adventurers |\n| Lavishly Opulent | 80,000gp+ | Kings or emperors, 13th – 14th level adventurers |"
+  },
+  {
+    "id": "rr.p0126.t01",
+    "pdf_page": 126,
+    "chapter_id": "04",
+    "block_order": 2,
+    "row_count": 7,
+    "column_count": 7,
+    "source_markup": "| PRICE | CLASS I | CLASS II | CLASS III | CLASS IV | CLASS V | CLASS VI |\n| --- | --- | --- | --- | --- | --- | --- |\n| 1gp or less | 2,750 | 700 | 425 | 100 | 35 | 15 |\n| 2 – 10gp | 300 | 70 | 35 | 10 | 3 | 1 |\n| 11 – 100gp | 20 | 5 | 2 | 1 | 25% | 10% |\n| 101 – 1,000gp | 7 | 2 | 1 | 25% | 10% | 5% |\n| 1,001 – 10,000gp | 2 | 1 | 25% | 10% | 5% | 1% |\n| 10,001gp or more | 25% | 10% | 3% | 1% | - | - |"
+  },
+  {
+    "id": "rr.p0128.t01",
+    "pdf_page": 128,
+    "chapter_id": "04",
+    "block_order": 3,
+    "row_count": 44,
+    "column_count": 9,
+    "source_markup": "| BOWS/CROSSBOWS | TYPE | DAMAGE | ENC.<br>(STONE) | SHORT | MED. | LONG | COST | SPECIAL |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Arbalest | Missile | 1d8 [mundane piercing] | 1 | 180’ | 360’ | 480’ | 50gp | Cleave 2, Handy, Slow |\n| Crossbow | Missile | 1d6 [mundane piercing] | 1/6 | 140’ | 280’ | 420’ | 30gp | Cleave 2, Handy, Slow |\n| Case, 20 Bolts | Ammunition | - | 1/6 | - | - | - | 2gp | - |\n| Composite Bow | Missile | 1d6 [mundane piercing] | 1 | 120’ | 240’ | 360’ | 40gp | Cleave 3 + STR mod |\n| Long Bow | Missile | 1d6 [mundane piercing] | 1 | 120’ | 240’ | 360’ | 7gp | Cleave 3 + STR mod |\n| Short Bow | Missile | 1d6 [mundane piercing] | 1/6 | 75’ | 150’ | 300’ | 3gp |  |\n| Quiver, 20 Arrows | Ammunition | - | 1/6 | - | - | - | 1gp | - |\n| 1 Silver Arrow | Ammunition | - | 0 | - | - | - | 5gp | Silver |\n| AXES |  |  |  |  |  |  |  |  |\n| Battle Axe | Medium Melee | 1d6/1d8 [mundane slashing] | 1/6 | - | - | - | 7gp | - |\n| Great Axe | Large Melee | 1d10 [mundane slashing] | 1 | - | - | - | 10gp | - |\n| Hand Axe | Small Melee/Missile | 1d6 [mundane slashing] | 1/6 | 15’ | 30’ | 45’ | 4gp | Thrown |\n| BLUDGEONS |  |  |  |  |  |  |  |  |\n| Club | Tiny Melee | 1d4 [mundane bludgeoning] | 1/6 | - | - | - | 1gp | - |\n| Flail | Medium Melee | 1d6/1d8 [mundane bludgeoning] | 1/6 | - | - | - | 5gp | - |\n| Mace | Medium Melee | 1d6/1d8 [mundane bludgeoning] | 1/6 | - | - | - | 5gp | - |\n| Morning Star | Large Melee | 1d10 [mundane bludgeoning] | 1 | - | - | - | 10gp | - |\n| Warhammer | Small Melee/Missile | 1d6 [mundane bludgeoning] | 1/6 | 15’ | 30’ | 45’ | 5gp | Thrown |\n| SWORDS/DAGGERS |  |  |  |  |  |  |  |  |\n| Knife | Tiny Melee/Missile | 1d3 [mundane piercing] | 1/6 | 15’ | 30’ | 45’ | 1gp | Thrown |\n| Dagger | Tiny Melee/Missile | 1d4 [mundane piercing] | 1/6 | 15’ | 30’ | 45’ | 3gp | Thrown |\n| Silver Dagger | Tiny Melee/Missile | 1d4 [mundane piercing] | 1/6 | 15’ | 30’ | 45’ | 30gp | Silver, Thrown |\n| Short Sword | Small Melee | 1d6 [mundane piercing] [mundane slashing] | 1/6 | - | - | - | 7gp | - |\n| Sword | Medium Melee | 1d6/1d8 [mundane piercing] [mundane slashing] | 1/6 | - | - | - | 10gp | - |\n| Two-Handed Sword | Large Melee | 1d10 [mundane piercing] [mundane slashing] | 1 | - | - | - | 15gp | - |\n| SPEARS/POLEARMS |  |  |  |  |  |  |  |  |\n| Dart (5) | Missile | 1d4 [mundane piercing] | 1/6 | 15’ | 45’ | 75’ | 2gp | Thrown |\n| Javelin | Small Melee/Missile | 1d6 [mundane piercing] | 1/6 | 30’ | 60’ | 120’ | 1gp | Thrown |\n| Lance | Large Melee | 1d10 [mundane piercing] | 1 | - | - | - | 5gp | Impact, Long, Mounted |\n| Polearm | Large Melee | 1d10 [mundane piercing] [mundane slashing] | 1 | - | - | - | 7gp | Impact, Long |\n| Spear | Med. Melee/Missile | 1d6/1d8 [mundane piercing] | 1 | 30’ | 60’ | 120’ | 3gp | Impact, Long, Thrown |\n| OTHER WEAPONS |  |  |  |  |  |  |  |  |\n| Bola | Missile | 1d2 [mundane bludgeoning] | 1/6 | 15’ | 30’ | 45’ | 5gp | Entangling, Thrown |\n| Military Oil | Missile | 1d8 [mundane fire] | 1/6 | 15’ | 45’ | 75’ | 2gp | Thrown |\n| Cestus | Small Melee | 1d3 [mundane bludgeoning] | 1/6 | - | - | - | 3gp | - |\n| Net | Medium Melee/Missile | - | 1 | 10’ | 15’ | 20’ | 1gp | Entangling, Thrown |\n| Rock | Medium Melee/Missile | 1d3 [mundane bludgeoning] | 1/6 | 15’ | 30’ | 45’ | - | Thrown |\n| Sap | Tiny Melee | 1d4 [mundane bludgeoning] | 1/6 | - | - | - | 1gp | Incapacitating |\n| Sling | Missile | 1d4 [mundane bludgeoning] | 1/6 | 60’ | 120’ | 240’ | 2gp | Handy |\n| Staff Sling | Medium Melee/Missile | 1d4/1d6 [mundane bludgeoning] | 1 | 75’ | 150’ | 300’ | 3gp | - |\n| 30 Sling Stones | Ammunition | - | 1/6 | - | - | - | - | - |\n| Staff | Medium Melee | 1d4/1d6 [mundane bludgeoning] | 1 | - | - | - | 1gp | - |\n| Whip | Small Melee | 1d2 [mundane slashing] | 1/6 | - | - | - | 5gp | Flexible |"
+  },
+  {
+    "id": "rr.p0130.t01",
+    "pdf_page": 130,
+    "chapter_id": "04",
+    "block_order": 2,
+    "row_count": 24,
+    "column_count": 6,
+    "source_markup": "<table>\n<tr><th>ARMOR</th><th>TYPE</th><th>AC</th><th>ENC. (STONE)</th><th>COST</th><th>SPECIAL</th></tr>\n<tr><td>Hide and Fur Armor</td><td>Very Light Armor</td><td>1</td><td>1</td><td>10gp</td><td>-</td></tr>\n<tr><td>Padded Armor</td><td>Very Light Armor</td><td>1</td><td>1</td><td>10gp</td><td>-</td></tr>\n<tr><td>Leather Armor</td><td>Light Armor</td><td>2</td><td>2</td><td>20gp</td><td>-</td></tr>\n<tr><td>Arena Armor, Light</td><td>Light Armor</td><td>2</td><td>2</td><td>30gp</td><td>Revealing</td></tr>\n<tr><td>Ring Mail</td><td>Medium Armor</td><td>3</td><td>3</td><td>30gp</td><td>-</td></tr>\n<tr><td>Scale Armor</td><td>Medium Armor</td><td>3</td><td>3</td><td>30gp</td><td>-</td></tr>\n<tr><td>Chain Mail Armor</td><td>Medium Armor</td><td>4</td><td>4</td><td>40gp</td><td>-</td></tr>\n<tr><td>Laminated Linen Armor</td><td>Medium Armor</td><td>4</td><td>4</td><td>40gp</td><td>-</td></tr>\n<tr><td>Arena Armor, Heavy</td><td>Medium Armor</td><td>4</td><td>4</td><td>50gp</td><td>Revealing</td></tr>\n<tr><td>Banded Plate Armor</td><td>Heavy Armor</td><td>5</td><td>5</td><td>50gp</td><td>-</td></tr>\n<tr><td>Lamellar Armor</td><td>Heavy Armor</td><td>5</td><td>5</td><td>50gp</td><td>-</td></tr>\n<tr><td>Plate Armor</td><td>Heavy Armor</td><td>6</td><td>6</td><td>60gp</td><td>Scarce</td></tr>\n<tr><td>Shield</td><td>Shield</td><td>+1</td><td>1</td><td>10gp</td><td>-</td></tr>\n<tr><td>Shield, Mirror</td><td>Shield</td><td>+1</td><td>1</td><td>250gp</td><td>-</td></tr>\n<tr><td>Helmet, Heavy</td><td>Medium Armor</td><td>-</td><td>1/6</td><td>20gp</td><td>Enclosing</td></tr>\n<tr><td>Helmet, Light</td><td>Very Light Armor</td><td>-</td><td>1/6</td><td>0 gp (5gp)</td><td>-</td></tr>\n<tr><td colspan=\"6\">BARDING*</td></tr>\n<tr><td>Barding, Leather</td><td>Barding</td><td>1</td><td>Varies</td><td>Varies</td><td>-</td></tr>\n<tr><td>Barding, Scale</td><td>Barding</td><td>2</td><td>Varies</td><td>Varies</td><td>-</td></tr>\n<tr><td>Barding, Chain</td><td>Barding</td><td>3</td><td>Varies</td><td>Varies</td><td>-</td></tr>\n<tr><td>Barding, Lamellar</td><td>Barding</td><td>4</td><td>Varies</td><td>Varies</td><td>-</td></tr>\n<tr><td>Barding, Plate</td><td>Barding</td><td>5</td><td>Varies</td><td>Varies</td><td>Scarce</td></tr>\n<tr><td>Barding, Spiked</td><td>Barding</td><td>-</td><td>-</td><td>+50%</td><td>Spiked</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0131.t01",
+    "pdf_page": 131,
+    "chapter_id": "04",
+    "block_order": 2,
+    "row_count": 48,
+    "column_count": 6,
+    "source_markup": "| ITEM | COST | ENC.<br>(STONE) | ITEM | COST | ENC.<br>(STONE) |\n| --- | --- | --- | --- | --- | --- |\n| Adventurer’s Harness | 10gp | 1/6 | Lock | 20gp | 1/6 |\n| Archery Target | 3sp | 2 | Manacles | 2gp | 1/6 |\n| Army Emblem, Silver (1 lb) | 10gp | 1/6 | Mess Kit | 3gp | 1/6 |\n| Army Emblem, Gold (1 lb) | 100gp | 1/6 | Metamphora | 5gp/60gp value | By Weight |\n| Backpack (holds 4 stone) | 2gp | 1/6 | Mirror (hand-sized, steel) | 5gp | 1/6 |\n| Barrel (20 gallon) | 3sp | 15 | Musical Instrument | 25 – 750 gp | 1+ |\n| Blanket | 2gp | 1 | Oil, Common (1 pint) | 3sp | 1/6 |\n| Boardgame | 5gp | 1 | Oil, Military (1 pint) | 2gp | 1/6 |\n| Bowquiver | 10gp | 1/6 | Pavilion (20 men) | 100gp | 72 |\n| Candle (tallow, 1 lb) | 2sp | 1/6 | Pell | 12gp | 15 – 30 |\n| Candle (wax, 1 lb) | 6sp | 1/6 | Pouch/Purse (holds 1/2 stone) | 5sp | 1/6 |\n| Chest, Ironbound (holds 20 st.) | 22gp | 5 | Pole, Wooden | 1cp | 1 |\n| Craftsman’s Tools (any) | 25gp | 1 | Prosthesis, Arm | 25gp | - |\n| Craftsman’s Workshop (any) | 350gp | 15+ | Prosthesis, Foot | 2gp | - |\n| Crowbar | 1gp | 1/6 | Prosthesis, Hand | 5gp | - |\n| Crutch | 1gp | 1 | Prosthesis, Leg | 15gp | - |\n| Dice | 5sp | 1/6 | Quill, writing | 1gp | - |\n| Disguise Kit | 25gp | 1 | Quintain | 15gp | 20 |\n| Ear Trumpet | 15gp | 1/6 | Rations, Iron (one week) | 1 – 6gp | 1 |\n| Earplugs | 1sp | 1/6 | Rations, Standard (one week) | 35cp – 3gp | 1 |\n| Firewood Bundle (5 logs) | 1cp | 2 1/2 | Rope, 50’ | 1gp | 1 |\n| Flag, Pennant (3’ × 1’) | 3gp | 1/6 | Rucksack (holds 2 stone) | 1gp | 1/6 |\n| Flag, Banner (6’ × 2’) | 12gp | 1 | Sack, Large (holds 6 stone) | 8sp | 1/6 |\n| Flag, Standard (12’ × 4’) | 50gp | 4 | Sack, Small (holds 2 stone) | 3sp | 1/6 |\n| Grappling Hook | 25gp | 1/6 | Saddle and Tack, Draft | 5gp | 1 |\n| Hammer (small) | 2gp | 1/6 | Saddle and Tack, Riding | 10gp | 1 |\n| Herb, Aloe (1 lb) | 10gp | 1/6 | Saddle and Tack, Military | 25gp | 1 |\n| Herb, Belladonna (1 lb) | 10gp | 1/6 | Saddlebag (holds 3 stone) | 5gp | 1/6 |\n| Herb, Birthwort (1 lb) | 10gp | 1/6 | Scabbard | 5sp+ | - |\n| Herb, Bitterwood (1 lb) | 10gp | 1/6 | Special Components, Miscellaneous | Varies | By Weight |\n| Herb, Blessed Thistle (1 lb) | 10gp | 1/6 | Spell Book (blank) | 20gp | 1/2 |\n| Herb, Comfrey (1 lb) | 10gp | 1/6 | Stakes (6) and Mallet | 3gp | 1/6 |\n| Herb, Garlic (1 lb) | 1sp | 1/6 | Surgical Saw, Large | 10gp | 1 |\n| Herb, Goldenrod (1 lb) | 10gp | 1/6 | Surgical Saw, Small | 3gp | 1/6 |\n| Herb, Horsetail (1 lb) | 15gp | 1/6 | Tent, Large | 20gp | 4 |\n| Herb, Lungwort (1 lb) | 5gp | 1/6 | Tent, Small | 3gp | 1 |\n| Herb, Willow-bark (1 lb) | 5gp | 1/6 | Thieves’ Tools | 25gp | 1/6 |\n| Herb, Wolfsbane (1 lb) | 10gp | 1/6 | Thieves’ Tools, Expanded | 200gp | 1/6 |\n| Herb, Woundwort (1 lb) | 10gp | 1/6 | Thieves’ Tools, Superior | 1,600gp | 1/6 |\n| Holy Book | 20gp | 1/2 | Tinderbox (flint & steel) | 8sp | 1/6 |\n| Holy Symbol | 25gp | 1/6 | Torches (6) | 1sp | 1 |\n| Holy Water (1 pint) | 25gp | 1/6 | Treatise, Apprentice | 400gp | 5 |\n| Ink (1 pint) | 7gp | 1/6 | Treatise, Journeyman | 800gp | 5 |\n| Iron Spikes (6) | 1gp | 1/6 | Treatise, Master | 1,200gp | 5 |\n| Journal | 10gp | 1/6 | Treatise, Grandmaster | 1,600gp | 5 |\n| Laborer’s Tools | 10gp | 1 | Waterskin | 6sp | 1/6 |\n| Lantern | 10gp | 1 | Whistle | 1gp | 1/6 |"
+  },
+  {
+    "id": "rr.p0132.t01",
+    "pdf_page": 132,
+    "chapter_id": "04",
+    "block_order": 2,
+    "row_count": 20,
+    "column_count": 4,
+    "source_markup": "| CLOTHING | COST | CLOTHING | COST |\n| --- | --- | --- | --- |\n| Belt/Sash, Leather | 1sp | Gloves, Leather or Wool, Long | 1gp |\n| Belt/Sash, Embossed Leather | 2sp | Gloves, Leather or Wool, Short | 4sp |\n| Belt/Sash, Silk | 8gp | Hat, Armiger | 10sp |\n| Boots, Leather, High | 4sp | Linen, Cheap (1 lb) | 4sp |\n| Boots, Leather, Low | 2sp | Linen, Fine (1 lb) | 8sp |\n| Breastwrap, Linen or Wool | 4sp | Loincloth | 1sp |\n| Breastwrap, Silk | 20gp | Robe, Linen or Wool | 5gp |\n| Caparison, Linen or Wool | 10gp | Sandals/Shoes, Leather, High | 3sp |\n| Cassock, Linen or Wool | 5gp | Sandals/Shoes, Leather, Low | 1sp |\n| Chiton, Linen or Wool | 2gp | Silk (1 lb) | 22gp |\n| Chiton, Silk | 45gp | Skullcap | 3gp |\n| Cloak, Fur-lined | 25gp | Tunic and Pants, Serf | 1gp |\n| Cloak, Leather, Hooded | 2gp | Tunic and Pants, Crafter/Freeholder | 2gp |\n| Cloak, Linen or Wool, Hooded | 1gp | Tunic and Pants, Armiger | 10gp |\n| Cloak, Silk, Hooded | 90gp | Tunic and Pants, Noble | 100gp |\n| Dress, Crafter/Freeholder | 2gp | Veil, Silk | 5gp |\n| Dress, Armiger | 10gp | Wool, Cheap (1 lb) | 1sp |\n| Gown, Lady-in-Waiting/Noble | 100gp | Wool, Good (1 lb) | 2sp |\n| Gown, Duchess | 1000gp | Wool, Fine (1 lb) | 4sp |"
+  },
+  {
+    "id": "rr.p0132.t02",
+    "pdf_page": 132,
+    "chapter_id": "04",
+    "block_order": 4,
+    "row_count": 14,
+    "column_count": 4,
+    "source_markup": "| ANIMAL | COST | ANIMAL | COST |\n| --- | --- | --- | --- |\n| Camel, Riding | 100gp | Horse, Light War | 150gp |\n| Chicken (3 lbs) | 1sp | Horse, Medium Draft | 30gp |\n| Cow (550 lbs) | 10gp | Horse, Medium Riding | 40gp |\n| Dog, Hunting | 10gp | Horse, Medium War | 250gp |\n| Dog, War | 75gp | Horse, Steppe Draft | 30gp |\n| Donkey, Draft | 10gp | Horse, Steppe Riding | 60gp |\n| Elephant, Riding | 1,500gp | Horse, Steppe War | 120gp |\n| Elephant War | 3,500gp | Mule, Draft | 20gp |\n| Goat (125 lbs) | 3gp | Mule, Riding | 30gp |\n| Hawk, Hunting | 20gp | Mule, War | 50gp |\n| Horse, Heavy Draft | 40gp | Ox, Draft (2,000 lbs) | 40gp |\n| Horse, Heavy War | 315gp | Pig (125 lbs) | 3gp |\n| Horse, Light Riding | 75gp | Sheep (80 lbs) | 2gp |"
+  },
+  {
+    "id": "rr.p0132.t03",
+    "pdf_page": 132,
+    "chapter_id": "04",
+    "block_order": 6,
+    "row_count": 15,
+    "column_count": 4,
+    "source_markup": "| FOODSTUFF | COST | FOODSTUFF | COST |\n| --- | --- | --- | --- |\n| Animal Feed, Superior (1 lb) | 2cp | Meat, Beef or Mutton (1 lb) | 4cp |\n| Animal Feed, Inferior (1 lb) | 1cp | Meat, Chevon or Pork (1 lb) | 3cp |\n| Beer, Barley, Cheap (1 pint) | 1cp | Meat, Chicken or Fish (1 lb) | 2cp |\n| Beer, Wheat, Good (1 pint) | 2cp | Milk (2 pints) | 3cp |\n| Bread, White (4 lbs) | 1sp | Oil, Olive (1 pint) | 7cp |\n| Bread, Wheat (8 lbs) | 1sp | Salt (1 lb) | 1cp |\n| Bread, Coarse (12 lbs) | 1sp | Spice, Cinnamon or Ginger (1 lb) | 1gp |\n| Butter (1 lb) | 6cp | Spice, Pepper (1 lb) | 15sp |\n| Cheese (1 lb) | 5cp | Spice, Saffron (1 lb) | 7gp |\n| Chickpeas (1 quarter) | 4gp | Vinegar (1 pint) | 1cp |\n| Eggs (1 dozen) | 5cp | Wheat (1 quarter) | 4gp |\n| Fish Sauce (1 lb) | 2cp | Wine, Cheap (1 pint) | 1cp |\n| Honey (1 lb) | 4cp | Wine, Good (1 pint) | 2cp |\n| Meal (1 person, poor to feast) | 1cp – 10gp | Wine, Fine (1 pint) | 6cp |"
+  },
+  {
+    "id": "rr.p0133.t01",
+    "pdf_page": 133,
+    "chapter_id": "04",
+    "block_order": 2,
+    "row_count": 4,
+    "column_count": 4,
+    "source_markup": "| LODGING | COST | LODGING | COST |\n| --- | --- | --- | --- |\n| Inn, Slum (one night) | 1sp | Kenneling (one night) | 1cp – 1sp |\n| Inn, Average (one night) | 5sp | Stabling, Draft/riding (one night) | 2sp – 5sp |\n| Inn, Superb (one night) | 2gp | Stabling, Warhorse (one night) | 5sp – 1gp |"
+  },
+  {
+    "id": "rr.p0133.t02",
+    "pdf_page": 133,
+    "chapter_id": "04",
+    "block_order": 4,
+    "row_count": 25,
+    "column_count": 5,
+    "source_markup": "| MONSTER VENOMS | ONSET TIME | SAVE<br>MODIFIER | EFFECT ON FAILED SAVE | COST |\n| --- | --- | --- | --- | --- |\n| Giant Centipede | 1 turn | +2 | **Incapacitation,** 1d10 turns | 50gp |\n| Giant Killer Bee | 1 turn | +2 | 1d4 [mundane poisonous] damage | 75gp |\n| Spitting Cobra | 1 turn | +2 | 1d6 [mundane poisonous] damage | 100gp |\n| Giant Crab Spider | 1d8 turns | +4 | 2d6 [mundane poisonous] damage | 100gp |\n| Pit Viper | 1d10 turns | +2 | 2d6 [mundane poisonous] damage | 125gp |\n| Foul Attercop | 1 turn | +6 | **Paralysis** 1d4 turns + 1d6 [mundane poisonous] damage | 125gp |\n| Giant Parasitic Wasp | 1 turn | 0 | **Paralysis** 1d6 turns | 175gp |\n| Amphisbaena, Child of Nasga | 1d10 turns | +2 | 4d4 [mundane poisonous] damage | 200gp |\n| Sea Snake | 1d10 turns | +2 | 4d4 [mundane poisonous] damage | 200gp |\n| King Cobra | 1d10 turns | +2 | 4d6 [mundane poisonous] damage | 250gp |\n| Black Widow | 1d4 turns | +2 | 4d4 [mundane poisonous] damage | 250gp |\n| Hideous Attercop | 1 turn | +4 | **Paralysis** 1d4 turns + 1d8 [mundane poisonous] damage | 250gp |\n| Carrion Horror | 1 turn | +2 | **Paralysis** 2d4 turns | 300gp |\n| Monstrous Attercop | 1 turn | 0 | **Paralysis** 1d4 turns + 2d6 [mundane poisonous] damage | 325gp |\n| Arane | 1d8 turns | +1 | 6d6 [mundane poisonous] damage | 350gp |\n| Giant Tarantula | 1d4 turns | +2 | 3d10 [mundane poisonous] damage | 375gp |\n| Giant Scorpion | 1 turn | +2 | 2d10 [mundane poisonous] damage | 400gp |\n| Giant Rockfish | 1 round | +1 | 5d6 [mundane poisonous] damage | 450gp |\n| Wyvern | 1 round | +1 | 7d6 [mundane poisonous] damage | 600gp |\n| Skittering Maw | 1 round | +1 | 8d6 [mundane poisonous] damage | 700gp |\n| Greater Barghest, Rakshasa | 1 round | +1 | 10d6 [mundane poisonous] damage | 800gp |\n| Demonic Attercop | 1 round | 0 | **Paralysis** 1d4 turns + 5d6 [mundane poisonous] damage | 1,000gp |\n| Giant Constricting Viper | Instant/1d4+2 turns | 0 | **Madness** / Death | 1,000gp |\n| Giant Black Worm, Dragon | Instant | 0 | Death | 1,500gp |"
+  },
+  {
+    "id": "rr.p0133.t03",
+    "pdf_page": 133,
+    "chapter_id": "04",
+    "block_order": 5,
+    "row_count": 9,
+    "column_count": 6,
+    "source_markup": "| PLANT TOXINS | FORAGE<br>THROW | ONSET TIME | SAVE<br>MODIFIER | EFFECT ON FAILED SAVE | COST |\n| --- | --- | --- | --- | --- | --- |\n| Belladonna | 11+ | 1 turn (injury)<br>1d3 turns (ingestion) | +2 | 2d8 [mundane poisonous] damage + **madness** 1d4 turns | 350gp |\n| Curare | 19+ | Instant (injury) | 0 | 2d12 [mundane poisonous] damage + **paralysis** 2d4 turns | 1,500gp |\n| Foxglove | 14+ | 1d6 turns (ingestion) | -3 | 2d8 [mundane poisonous] damage + **madness** 1d4 turns | 150gp |\n| Hellebore | 8+ | 1 turn (injury)<br>1d3 turns (ingestion) | +2 | 1d6 [mundane poisonous] damage + **queasy** 1d10 days | 100gp |\n| Hemlock | 8+ | 2d4 turns (ingestion) | +4 | 2d12 [mundane poisonous] damage + **queasy** 1d10 days | 75gp |\n| Henbane | 8+ | 1 turn (injury)<br>1d6 turns (ingestion) | +2 | 1d6 [mundane poisonous] damage + **madness** 1d4 hours | 80gp |\n| Wolfsbane | 11+ | 1 turn (injury)<br>2d4 turns (ingestion) | +2 | 2d8 [mundane poisonous] damage + **paralysis** 2d4 turns | 325gp |\n| Yew | 4+ | 1 hour (injury)<br>1d6 hours (ingestion) | +4 | 1d10 [mundane poisonous] damage | 65gp |"
+  },
+  {
+    "id": "rr.p0134.t01",
+    "pdf_page": 134,
+    "chapter_id": "04",
+    "block_order": 2,
+    "row_count": 34,
+    "column_count": 5,
+    "source_markup": "| STRONGHOLD STRUCTURES | COST | STRUCTURAL HP | ARMOR CLASS | UNIT CAPACITY |\n| --- | --- | --- | --- | --- |\n| Barbican, stone (gatehouse, 2 small towers, and drawbridge) | 20,000gp | 2,750 | 6 | 2 |\n| Barracks, concrete (140’ long × 30’ wide × 10’ high) | 2,750gp | 225 | 5 | 1.5 |\n| Battlement, stone (100’ long, crenellated parapets) | 500gp | 100 | 6 | - |\n| Building, concrete (30’ long × 30’ wide × 20’ high) | 1,700gp | 135 | 5 | 1 |\n| Building, wood (30’ long × 30’wide × 20’ high) | 350gp | 25 | 1 | 1 |\n| Chapterhouse, concrete (85’ long × 45’ wide × 10’ high) | 2,400gp | 200 | 5 | 1 |\n| Drawbridge, wood (10’ wide × 20’ tall, 1’ thick) | 300gp | 6 | 3 | - |\n| Gatehouse, stone (20’ long × 30’ wide × 20’ high) | 6,000gp | 750 | 6 | 1 |\n| Gatehouse, stone (30’ long × 30’ wide × 20’ high) | 7,500gp | 1,000 | 6 | 1 |\n| Granary/warehouse, concrete (180’ long × 30’ wide × 10’ tall) | 3,500gp | 300 | 5 | 2 |\n| Headquarters, concrete (125’ long × 85’ wide × 15-25’ high) | 25,000gp | 2,000 | 5 | 2 |\n| Hospital, concrete (75’ long × 75’ wide × 10’ high) | 3,000gp | 250 | 5 | 1 |\n| Keep, stone (80’ high, 60’ square) | 125,000gp | 16,000 | 6 | 6 |\n| Moat, filled (100’ long × 20’wide × 10’ deep) | 800gp | 1,000 | 3 | - |\n| Moat, unfilled (100’ long × 20’ wide × 10’ deep) | 400gp | 1,000 | 3 | - |\n| Moat, unfilled, crude (100’ long × 20’ wide × 10’ deep) | 40gp | 1,000 | 3 | - |\n| Palisade, wood (100’ long × 7.5’ high × 6” thick) | 125gp | 9 | 2 | 1.5 |\n| Palisade, crude (100’ long × 7.5’ high × 6” thick) | 125sp | 3 | 2 | 1.5 |\n| Rampart, rammed earth (100’ long × 10’ high × 15’ thick) | 300gp | 425 | 4 | 1.5 |\n| Rampart, piled earth (100’ long × 10’ high × 15’ thick) | 30gp | 135 | 3 | 1.5 |\n| Stable-barracks, concrete (200’ long × 50’ wide × 15’ high) | 7,500gp | 625 | 5 | 4 |\n| Tower, stone, small square (20’ long × 20’ wide × 30’ high) | 6,500gp | 825 | 6 | 0.5 |\n| Tower, stone, small round (20’ diameter × 30’ high) | 7,500gp | 650 | 8 | 0.5 |\n| Tower, stone, medium round (20’ diameter × 40’ high) | 10,000gp | 850 | 8 | 0.5 |\n| Tower, stone, large round (30’ diameter × 40’ high) | 18,500gp | 1,600 | 8 | 1.5 |\n| Tower, stone, huge round (30’ diameter × 60’ high) | 27,500gp | 2,400 | 8 | 2 |\n| Wall, stone (100’ long × 10’ high × 5’ thick) | 2,500gp | 425 | 6 | 1.5 – 3 |\n| Wall, stone (100’ long × 20’ high × 5’ thick) | 5,000gp | 850 | 6 | 1.5 – 4.5 |\n| Wall, stone (100’ long × 30’ high × 5’ thick) | 7,500gp | 1,275 | 6 | 1.5 – 6 |\n| Wall, stone (100’ long × 40’ high × 7.5’ thick) | 15,000gp | 2,550 | 6 | 1.5 – 7.5 |\n| Wall, stone (100’ long × 50’ high × 10’ thick) | 25,000gp | 4,250 | 6 | 1.5 – 9 |\n| Wall, stone (100’ long × 60’ high × 10’ thick) | 30,000gp | 5,100 | 6 | 1.5 – 10.5 |\n| Wall-Walk, wood (100’ long × 5’ wide) | 125gp | 10 | 2 | - |"
+  },
+  {
+    "id": "rr.p0134.t02",
+    "pdf_page": 134,
+    "chapter_id": "04",
+    "block_order": 3,
+    "row_count": 8,
+    "column_count": 5,
+    "source_markup": "| CIVILIAN STRUCTURES | COST | STRUCTURAL HP | ARMOR CLASS | UNIT CAPACITY |\n| --- | --- | --- | --- | --- |\n| Cottage, wood (30’ long × 30’ wide × 20’ high) | 350gp | 25 | 1 | 1 |\n| Hut, makeshift (10’ long × 10’ wide × 10’ high) | 20gp | 1 | 1 | - |\n| Hut, wood (10’ long × 10’ wide × 10’ high) | 50gp | 4 | 1 | - |\n| Longhouse, wood (30’ long × 15’ wide × 15’ high) | 175gp | 13 | 1 | 0.5 |\n| Roundhouse, wood (15’ diameter × 15’ high) | 175gp | 6 | 3 | - |\n| Townhouse, concrete (30’ long × 30’ wide × 20’ high) | 1,500gp | 135 | 5 | 1 |\n| Villa, concrete (75’ long × 75’ wide × 10’ high) | 3,000gp | 250 | 5 | 2 |"
+  },
+  {
+    "id": "rr.p0134.t03",
+    "pdf_page": 134,
+    "chapter_id": "04",
+    "block_order": 4,
+    "row_count": 10,
+    "column_count": 5,
+    "source_markup": "| SUBTERRANEAN STRUCTURES | COST | STRUCTURAL HP | ARMOR CLASS | UNIT CAPACITY |\n| --- | --- | --- | --- | --- |\n| Adit, mine (10’ long × 5’ wide × 6’ high) | 15gp | 10 | 4 | - |\n| Adit, mine (10’ long × 15’ wide × 15’ high) | 115gp | 75 | 4 | - |\n| Canal (10’ long × 10’ wide × 5’ deep in adit) | +20gp | +13 | 4 | - |\n| Chamber, mine (30’ long × 30’ wide × 30’ high) | 1,350gp | 900 | 4 | 2 |\n| Chamber, mine (100’ long × 50’ wide × 40’ high) | 10,000gp | 6,500 | 4 | 8 |\n| Chamber, vault (100’ long × 50’ wide × 40’ high) | 100,000gp | 16,000 | 6 | 8 |\n| Corridor, vault (10’ long × 10’ wide x10’ deep) | 500gp | 80 | 6 | 0 |\n| Shaft, mine (3’ diameter × 60’ deep) | 25gp | 20 | 4 | 0 |\n| Shaft, mine (10’ diameter × 60’ deep) | 300gp | 200 | 4 | 0 |"
+  },
+  {
+    "id": "rr.p0135.t01",
+    "pdf_page": 135,
+    "chapter_id": "04",
+    "block_order": 1,
+    "row_count": 12,
+    "column_count": 2,
+    "source_markup": "| STRUCTURE ACCESSORIES | COST |\n| --- | --- |\n| Arrow Slit/Window | 10gp |\n| Door, wood (3’ × 7’) | 10gp |\n| Door, reinforced wood (3’ × 7’) | 20gp |\n| Door, iron/stone (3’ × 7’) | 50gp |\n| Door, secret (3’ × 7’) | By material ×5 |\n| Floor/Roof, flagstone or tile (10’ × 10’)\\* | 40gp |\n| Floor/Roof, wood (10’ × 10’)\\* | 10gp |\n| Shutters (window) | 5gp |\n| Shifting Wall (10’ × 10’) | 1000gp |\n| Stairs, wood (one flight, 3’ × 10’)\\* | 20gp |\n| Stairs, stone (one flight, 3’ × 10’)\\* | 60gp |"
+  },
+  {
+    "id": "rr.p0135.t02",
+    "pdf_page": 135,
+    "chapter_id": "04",
+    "block_order": 3,
+    "row_count": 7,
+    "column_count": 2,
+    "source_markup": "| ROADS | COST |\n| --- | --- |\n| Road, leveled earth (8’ wide, 1 mile long)\\* | 100gp |\n| Road, leveled earth (10’ wide, 1 mile long)\\* | 125gp |\n| Road, gravel (8’ wide, 1 mile long)\\* | 200gp |\n| Road, gravel (10’ wide, 1 mile long\\* | 250gp |\n| Road, paved (8’ wide, 1 mile long)\\* | 400gp |\n| Road, paved (10’ wide, 1 mile long)\\* | 500gp |"
+  },
+  {
+    "id": "rr.p0135.t03",
+    "pdf_page": 135,
+    "chapter_id": "04",
+    "block_order": 7,
+    "row_count": 9,
+    "column_count": 2,
+    "source_markup": "| CIVIC FACILITIES AND MONUMENTS | COST |\n| --- | --- |\n| Public Bath (55’ wide, 90’ long, 15’ tall + 15’ basement, hot pool, tepid pool, cold pool, sauna) | 13,250gp |\n| Public Theater (180’ wide stage, 32,000 square feet) | 16,000gp |\n| Statue, marble (10’ tall)\\* | 200gp |\n| Statue, marble (25’ tall)\\* | 3,125gp |\n| Statue, marble (50’ tall)\\* | 25,000gp |\n| Statue, marble (100’ tall)\\* | 200,000gp |\n| Statue, marble (250’ tall)\\* | 3,125,000gp |\n| Triumphal arch, quadrifrontal (30’ tall, 30’ wide, 30’ long)\\* | 10,000gp |"
+  },
+  {
+    "id": "rr.p0135.t04",
+    "pdf_page": 135,
+    "chapter_id": "04",
+    "block_order": 9,
+    "row_count": 19,
+    "column_count": 2,
+    "source_markup": "| TRAPS | COST |\n| --- | --- |\n| Trap, arrow-firing (fires from hidden location, attacks as 1st level fighter, 1d6+1 [mundane piercing] damage) | 400gp |\n| Trap, ceiling collapse (10’ × 10’ area of effect, Blast save or 2d6 [mundane bludgeoning] damage) | 1,200gp |\n| Trap, dart-firing (fires from hidden location, attacks as 1st level fighter, 1d4+1 [mundane piercing] damage) | 380gp |\n| Trap, deadfall (5’ diameter area of effect, Blast save or 1d12 [mundane bludgeoning] damage)\\* | 20gp |\n| Trap, excavated earth pit, concealed by piled material (10’ × 10’ × 10’, 1d6 [mundane bludgeoning] damage)\\* | 20gp |\n| Trap, fire (flammable oil in 10’ diameter, Blast save or 1d8 [mundane fire] damage for 2 rounds) | 500gp |\n| Trap, needle-firing (1 damage) | 120gp |\n| Trap, portcullis (falls suddenly downward, Blast save or 3d6 [mundane bludgeoning] damage) | 1,850gp |\n| Trap, rock-cut pit, concealed by rug (10’ × 10’ × 10’, 1d6 [mundane bludgeoning] damage) | 500gp |\n| Trap, rolling rock (5’ wide boulder rolls up to 30’, all in path Blast save or 3d6 [mundane bludgeoning] damage) | 400gp |\n| Trap, scything blade (swings from hidden location in 10’ line, Blast save or 1d8 [mundane slashing] damage) | 550gp |\n| Trap, spring snare (snatches creature 10’ into air, Paralysis save or 1d6 [mundane seismic] damage and restrained)\\* | 20gp |\n| Trap, swinging log (swings from hidden location in 10’ line, Blast save or 1d8 [mundane bludgeoning] damage)\\* | 55gp |\n| Trap, whipping branch (swings from tree, attacks as 1st level fighter, 1d6+1 [mundane piercing] damage)\\* | 10gp |\n| Trap accessory, pit spikes (1d4 spikes each dealing 1d6 [mundane piercing] damage) | +100gp |\n| Trap accessory, pit cover, concealed trap door (opens beneath feet) | +500gp |\n| Trap accessory, pit cover, concealed spring-loaded trap door (opens beneath feet and then closes) | +1,100gp |\n| Trap accessory, poison | By type |"
+  },
+  {
+    "id": "rr.p0136.t01",
+    "pdf_page": 136,
+    "chapter_id": "04",
+    "block_order": 2,
+    "row_count": 20,
+    "column_count": 8,
+    "source_markup": "| VEHICLE | CREW | MOVEMENT | EXPEDITION<br>SPEED | CARGO<br>(STONE) | AC | STRUCTURAL<br>HIT POINTS | COST |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Cart, Large (1 heavy horse) | 1 | 60’/30’ | 12 / 6 | 80 / 120 | 0 | 2 | 50gp |\n| Cart, Large (2 heavy horses) | 1 | 60’/30’ | 12 / 6 | 160 / 240 | 0 | 2 | 50gp |\n| Cart, Small (1 mule) | 1 | 60’/30’ | 12 / 6 | 50 / 75 | 0 | 1 | 25gp |\n| Cart, Small (2 mules) | 1 | 60’/30’ | 12 / 6 | 100 / 150 | 0 | 1 | 25gp |\n| Chariot, Heavy (4 light horses) | 1 + 3 | 90’/45’ | 18 / 9 | 80 / 160 | 2 | 2 | 240gp |\n| Chariot, Light (2 light horses) | 1 + 1 | 180’/90’ | 36 / 18 | 40 / 80 | 0 | 1 | 120gp |\n| Chariot, Medium (2 medium horses) | 1 + 2 | 120’/60’ | 24 / 12 | 60 / 120 | 1 | 1 | 180gp |\n| Howdah, Riding (colossal creature) | 20 or 40 | By creature | By creature | (60) | 0 | 1 | 600gp |\n| Howdah, Riding (gigantic creature) | 6 or 12 | By creature | By creature | (18) | 0 | 1 | 120gp |\n| Howdah, Riding (huge creature) | 2 or 4 | By creature | By creature | (6) | 0 | 1 | 30gp |\n| Howdah, War (colossal creature) | 20 or 40 | By creature | By creature | (120) | 1 | 2 | 1,200gp |\n| Howdah, War (gigantic creature) | 6 or 12 | By creature | By creature | (36) | 1 | 1 | 240gp |\n| Howdah, War (huge creature) | 2 or 4 | By creature | By creature | (15) | 1 | 1 | 60gp |\n| Palanquin, Small | 2 | 60’/30’ | 12 / 6 | 15 / 35 | 0 | 1 | 25gp |\n| Palanquin, Medium | 4 | 90’/60’ | 18 / 12 | 18 / 30 | 0 | 1 | 100gp |\n| Palanquin, Large | 8 | 90’/60’ | 18 / 12 | 36 / 60 | 1 | 2 | 800gp |\n| Palanquin, Huge | 12 | 90’/60’ | 18 / 12 | 54 / 90 | 1 | 3 | 3,200gp |\n| Wagon (2 heavy horses) | 1 | 60’/30’ | 12 / 6 | 160 / 320 | 1 | 3 | 200gp |\n| Wagon (4 heavy horses) | 1 | 60’/30’ | 12 / 6 | 320 / 640 | 1 | 3 | 200gp |"
+  },
+  {
+    "id": "rr.p0137.t01",
+    "pdf_page": 137,
+    "chapter_id": "04",
+    "block_order": 2,
+    "row_count": 22,
+    "column_count": 14,
+    "source_markup": "<table>\n<tr><th rowspan=\"2\">VESSEL</th><th colspan=\"3\">CREW</th><th colspan=\"4\">COMBAT SPEED</th><th colspan=\"2\">VOYAGE<br>SPEED</th><th rowspan=\"2\">CARGO<br>(STONE)</th><th>AC</th><th rowspan=\"2\">SHP</th><th rowspan=\"2\">COST</th></tr>\n<tr><td>SAILORS</td><td>ROWERS</td><td>MARINES</td><td>OAR<br>SPRINT</td><td>OAR<br>CRUISE</td><td>OAR SLOW</td><td>SAIL</td><td>OAR<br>SLOW</td><td>SAIL</td><td></td></tr>\n<tr><td>Barge, Small</td><td>5</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>180’</td><td>-</td><td>72</td><td>2,000</td><td>2</td><td>15</td><td>2,000</td></tr>\n<tr><td>Barge, Large</td><td>10</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>150’</td><td>-</td><td>60</td><td>7,000</td><td>2</td><td>60</td><td>9,000</td></tr>\n<tr><td>Barge, Huge</td><td>50</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>120’</td><td>-</td><td>48</td><td>135,000</td><td>2</td><td>1,150</td><td>180,000</td></tr>\n<tr><td>Boat, Row</td><td>-</td><td>1</td><td>-</td><td>210’</td><td>150’</td><td>90’</td><td>-</td><td>30</td><td>-</td><td>100</td><td>1</td><td>2</td><td>200gp</td></tr>\n<tr><td>Boat, Sail</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>180’</td><td>-</td><td>72</td><td>400</td><td>1</td><td>5</td><td>1,500gp</td></tr>\n<tr><td>Canoe</td><td>-</td><td>1</td><td>-</td><td>210’</td><td>150’</td><td>90’</td><td>-</td><td>30</td><td>-</td><td>60</td><td>0</td><td>1</td><td>40gp</td></tr>\n<tr><td>Galley, 1-Rower</td><td>3</td><td>30</td><td>-</td><td>240’</td><td>150’</td><td>90’</td><td>240’</td><td>30</td><td>96</td><td>500</td><td>2</td><td>15</td><td>1,500gp</td></tr>\n<tr><td>Galley, 1.5-Rower</td><td>5</td><td>50</td><td>5</td><td>270’</td><td>180’</td><td>90’</td><td>300’</td><td>30</td><td>96</td><td>750</td><td>2</td><td>20</td><td>2,750gp</td></tr>\n<tr><td>Galley, 2-Rower</td><td>5</td><td>90</td><td>10</td><td>270’</td><td>180’</td><td>90’</td><td>240’</td><td>36</td><td>96</td><td>1,000</td><td>2</td><td>25</td><td>3,350gp</td></tr>\n<tr><td>Galley, 2.5-Rower</td><td>10</td><td>120</td><td>10</td><td>300’</td><td>240’</td><td>120’</td><td>360’</td><td>48</td><td>96</td><td>1,250</td><td>2</td><td>45</td><td>6,000gp</td></tr>\n<tr><td>Galley, 3-Rower</td><td>15</td><td>170</td><td>15</td><td>330’</td><td>270’</td><td>150’</td><td>240’</td><td>54</td><td>96</td><td>1,500</td><td>2</td><td>55</td><td>7,500gp</td></tr>\n<tr><td>Galley, 4-Rower</td><td>15</td><td>180</td><td>75</td><td>300’</td><td>240’</td><td>120’</td><td>180’</td><td>48</td><td>72</td><td>2,000</td><td>2</td><td>65</td><td>10,000gp</td></tr>\n<tr><td>Galley, 5-Rower</td><td>20</td><td>300</td><td>75</td><td>270’</td><td>240’</td><td>120’</td><td>150’</td><td>48</td><td>66</td><td>5,750</td><td>2</td><td>120</td><td>16,250gp</td></tr>\n<tr><td>Galley, 6-Rower</td><td>20</td><td>336</td><td>100</td><td>270’</td><td>210’</td><td>120’</td><td>150’</td><td>42</td><td>60</td><td>6,000</td><td>2</td><td>140</td><td>20,000gp</td></tr>\n<tr><td>Galley, 8-Rower</td><td>50</td><td>440</td><td>150</td><td>240’</td><td>210’</td><td>120’</td><td>150’</td><td>42</td><td>60</td><td>8,000</td><td>2</td><td>200</td><td>30,000gp</td></tr>\n<tr><td>Longship</td><td>15</td><td>60</td><td>(75)</td><td>210’</td><td>150’</td><td>90’</td><td>240’</td><td>30</td><td>90</td><td>2,000</td><td>2</td><td>30</td><td>4,000gp</td></tr>\n<tr><td>Raft</td><td>-</td><td>1</td><td>-</td><td>180’</td><td>120’</td><td>60’</td><td>-</td><td>24</td><td>-</td><td>150</td><td>0</td><td>1</td><td>150gp</td></tr>\n<tr><td>Sailing Ship, Small</td><td>12</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>240’</td><td>-</td><td>96</td><td>10,000</td><td>2</td><td>75</td><td>10,000gp</td></tr>\n<tr><td>Sailing Ship, Large</td><td>20</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>180’</td><td>-</td><td>72</td><td>30,000</td><td>2</td><td>200</td><td>20,000gp</td></tr>\n<tr><td>Sailing Ship, Huge</td><td>40</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>180’</td><td>-</td><td>60</td><td>50,000</td><td>2</td><td>400</td><td>60,000gp</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0138.t01",
+    "pdf_page": 138,
+    "chapter_id": "04",
+    "block_order": 2,
+    "row_count": 21,
+    "column_count": 5,
+    "source_markup": "| ARTILLERY | COST |  | ARTILLERY | COST |\n| --- | --- | --- | --- | --- |\n| Ballista, Light (75 lbs) | 40gp |  | Catapult, Heavy (4 tons) | 400gp |\n| Ballista, Light Repeating (75 lbs) | 200gp |  | Heavy Catapult Shot, Crude (90 lbs) | 4gp |\n| Light Ballista Shot, Crude (1 lb) | 1cp |  | Heavy Catapult Shot, Ballistic (90 lbs) | 20gp |\n| Light Ballista Shot, Ballistic (1 lb) | 1gp |  | Heavy Catapult Shot, Pitch (90 lbs) | 100gp |\n| Ballista, Medium (800 lbs) | 80gp |  | Fire-Bearing Siphon (50 lbs) | 2,500gp |\n| Medium Ballista Shot, Crude (3 lbs) | 3cp |  | Military Oil (100 lbs) | 200gp |\n| Medium Ballista Shot, Ballistic (3 lbs) | 2gp |  | Common Oil (100 lbs) | 30gp |\n| Ballista, Heavy (3,200 lbs) | 180gp |  | Trebuchet, Light (3 tons) | 600gp |\n| Heavy Ballista Shot, Crude (6 lbs) | 15cp |  | Light Trebuchet Shot, Crude (60 lbs) | 3gp |\n| Heavy Ballista Shot, Ballistic (6 lbs) | 3gp |  | Light Trebuchet Shot, Ballistic (60 lbs) | 15gp |\n| Ballista, Heavy Harpoon (3,200 lbs) | 250gp |  | Light Trebuchet Shot, Pitch (60 lbs) | 75gp |\n| Heavy Harpoon (12 lbs) | 5gp |  | Trebuchet, Medium (6 tons) | 1, 200gp |\n| Catapult, Light (1,200 lbs) | 100gp |  | Medium Trebuchet Shot, Crude (90 lbs) | 4gp |\n| Light Catapult Shot, Crude (6 lbs) | 15cp |  | Medium Trebuchet Shot, Ballistic (90 lbs) | 20gp |\n| Light Catapult Shot, Ballistic (6 lbs) | 3gp |  | Medium Trebuchet Shot, Pitch (90 lbs) | 100gp |\n| Light Catapult Shot, Pitch (6 lbs) | 15gp |  | Trebuchet, Heavy (12 tons) | 2,500gp |\n| Catapult, Medium (1,800 lbs) | 200gp |  | Heavy Trebuchet Shot, Crude (180 lbs) | 8gp |\n| Medium Catapult Shot, Crude (30 lbs) | 1gp |  | Heavy Trebuchet Shot, Ballistic (180 lbs) | 30gp |\n| Medium Catapult Shot, Ballistic (30 lbs) | 10gp |  | Heavy Trebuchet Shot, Pitch (180 lbs) | 150gp |\n| Medium Catapult Shot, Pitch (30 lbs) | 50gp |  |  |  |"
+  },
+  {
+    "id": "rr.p0138.t02",
+    "pdf_page": 138,
+    "chapter_id": "04",
+    "block_order": 3,
+    "row_count": 5,
+    "column_count": 5,
+    "source_markup": "| NAVAL MACHINES | COST |  | NAVAL MACHINES | COST |\n| --- | --- | --- | --- | --- |\n| Anchor, lead (50 lbs) | 50gp |  | Fire Pot Pole (12 st) | 100gp |\n| Boarding Bridge (36’ long × 4’ wide × 24’ tall, 250 st) | 150gp |  | Naval Ram (7’5” long, 100 st) | 10% vessel |\n| Boarding Ramp (20’ long × 3’ wide, 40 st) | 10gp |  | Tower, Large (15’ square × 20’ tall, 1200 st) | 700gp |\n| Bulwark (3’ tall, 3” thick) | 5% vessel |  | Tower, Small (7’5” square × 12’ tall, 350 st) | 200gp |"
+  },
+  {
+    "id": "rr.p0138.t03",
+    "pdf_page": 138,
+    "chapter_id": "04",
+    "block_order": 4,
+    "row_count": 8,
+    "column_count": 5,
+    "source_markup": "| SIEGE ENGINES | COST |  | SIEGE ENGINES | COST |\n| --- | --- | --- | --- | --- |\n| Battering Ram/Screw (20’ long × 2’ diameter, 400 st) | 200gp |  | Petard | 125gp/lb |\n| Caltrops, 20 ounce bag (1/6 st) | 10gp |  | Ram Catcher | 50gp |\n| Cauldron, Suspended (50 gallon, 45 st) | 50gp |  | Siege Hook | 50gp |\n| Fascine (5’ × 5’ × 5’, 450 st) | 10gp |  | Siege Ladder | 1sp/10’ |\n| Hoist (30’ tall, 1000 st) | 300gp |  | Siege Tower, Standard (40’ tall) | 2,500gp |\n| Movable Gallery (12’ × 12’ × 20, 2000 st) | 300gp |  | Siege Tower, Large (90’ tall) | 10,000gp |\n| Movable Mantlet (8’ × 6’, 80 st) | 50gp |  | Siege Tower, Huge (135’ tall) | 40,000gp |"
+  },
+  {
+    "id": "rr.p0139.t01",
+    "pdf_page": 139,
+    "chapter_id": "04",
+    "block_order": 1,
+    "row_count": 13,
+    "column_count": 10,
+    "source_markup": "| ARTILLERY TYPE | AC | SHP | WEIGHT | AMMO<br>WEIGHT | RANGE | DAMAGE | SHP<br>DAMAGE | CREW & RATE OF<br>FIRE | COST |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Ballista, Light | 1 | 1 | 7 st | 1/6 st | 0’ / 600’ | 1d10 [extraordinary piercing] (5’ line) | Wood ×1/10<br>Stone ×0 | 1 Crew: 1/2 rounds<br>2 Crew: 1/1 rounds | 40gp |\n| Ballista, Light Repeating | 1 | 1 | 7 st | 1/6 st | 0’ / 600’ | 1d10 [extraordinary piercing] (5’ line) | Wood ×1/10<br>Stone ×0 | 1 Crew: 1/1 round<br>2 Crew: 2/1 round | 200gp |\n| Ballista, Medium | 1 | 1 | 80 st | 2/6 st | 0’ / 600’ | 3d6 [extraordinary piercing] (5’ line) | Wood ×1/10<br>Stone ×0 | 2 Crew: 1/3 rounds<br>3 Crew: 1/2 rounds<br>4 Crew: 1/1 rounds | 80gp |\n| Ballista, Heavy | 1 | 2 | 320 st | 4/6 st | 0’ / 900’ | 3d6 [extraordinary piercing] (15’ line or<br>10’ diameter) | Wood ×1/3<br>Stone ×1/10 | 2 Crew: 1/4 rounds<br>3 Crew: 1/3 rounds<br>4 Crew: 1/2 rounds | 180gp |\n| Ballista, Heavy Harpoon | 1 | 2 | 320 st | 1 st | 0’ / 600’ | 4d6 [extraordinary piercing] + grapple | Wood ×1/3<br>Stone ×0 | 2 Crew: 1/4 rounds<br>3 Crew: 1/3 rounds<br>4 Crew: 1/2 rounds | 250gp |\n| Catapult, Light | 1 | 1 | 120 st | 4/6 st | 450’ / 900’ | 3d6 [extraordinary bludgeoning] (10’ diameter)<br>1d6 [mundane fire] (10’ diameter) | Wood ×1/3\\*<br>Stone ×1/10 | 2 Crew: 1/4 rounds<br>3 Crew: 1/3 rounds<br>4 Crew: 1/2 rounds | 100gp |\n| Catapult, Medium | 1 | 1 | 180 st | 3 st | 450’ / 900’ | 5d6 [extraordinary bludgeoning] (10’ diameter)<br>2d6 [mundane fire] (10’ diameter) | Wood ×1/3\\*<br>Stone ×1/10 | 2 Crew: 1/4 rounds<br>3 Crew: 1/3 rounds<br>4 Crew: 1/2 rounds | 200gp |\n| Catapult, Heavy | 1 | 2 | 800 st | 9 st | 600’ / 1200’ | 5d6 [extraordinary bludgeoning] (15’ diameter)<br>3d6 [mundane fire] (15’ diameter) | Wood ×1<br>Stone ×1/3 | 4 Crew: 1/4 rounds<br>6 Crew: 1/3 rounds<br>8 Crew: 1/2 rounds | 400gp |\n| Fire-Bearing Siphon | 1 | 1 | 100 st | 10 st | 0’ | 5d6 [mundane fire] (60’ × 5’ line) | Wood ×1<br>Stone ×1/10 | 2 Crew: 1/4 rounds<br>3 Crew: 1/2 rounds<br>4 Crew: 1/1 rounds | 2,500gp |\n| Trebuchet, Light | 1 | 3 | 600 st | 6 st | 600’ / 1200’ | 5d6 [extraordinary bludgeoning] (15’ diameter)<br>3d6 [mundane fire] (15’ diameter) | Wood ×1<br>Stone ×1/3 | 20 Crew: 1/6 rounds<br>30 Crew: 1/4 rounds<br>40 Crew: 1/3 rounds | 600gp |\n| Trebuchet, Medium | 1 | 6 | 1,200 st | 9 st | 600’ / 1500’ | 5d6 [extraordinary bludgeoning] (20’ diameter)<br>4d6 [mundane fire] (20’ diameter) | Wood ×1<br>Stone ×1 | 40 Crew: 1/8 rounds<br>60 Crew: 1/6 rounds<br>80 Crew: 1/4 rounds | 1,200gp |\n| Trebuchet, Heavy | 2 | 12 | 2,400 st | 18 st | 600’ / 1800’ | 6d6 [extraordinary bludgeoning] (20’ diameter)<br>5d6 [mundane fire] (20’ diameter) | Wood ×1<br>Stone ×1 | 50 Crew: 1/8 rounds<br>75 Crew: 1/6 rounds<br>100 Crew: 1/4 rounds | 2,500gp |"
+  },
+  {
+    "id": "rr.p0142.t01",
+    "pdf_page": 142,
+    "chapter_id": "04",
+    "block_order": 18,
+    "row_count": 7,
+    "column_count": 11,
+    "source_markup": "<table>\n<tr><th rowspan=\"2\">BARDING<br>MATERIAL</th><th colspan=\"2\">COLOSSAL CREATURE</th><th colspan=\"2\">GIGANTIC CREATURE</th><th colspan=\"2\">HUGE CREATURE</th><th colspan=\"2\">LARGE CREATURE</th><th colspan=\"2\">MAN-SIZED CREATURE</th></tr>\n<tr><td>COST</td><td>ENC</td><td>COST</td><td>ENC</td><td>COST</td><td>ENC</td><td>COST</td><td>ENC</td><td>COST</td><td>ENC</td></tr>\n<tr><td>Leather</td><td>2,400gp</td><td>90 st</td><td>480gp</td><td>18 st</td><td>120gp</td><td>4 3/6 st</td><td>40gp</td><td>1 3/6 st</td><td>25gp</td><td>1 st</td></tr>\n<tr><td>Scale</td><td>4,500gp</td><td>180 st</td><td>900gp</td><td>36 st</td><td>225gp</td><td>9 st</td><td>75gp</td><td>3 st</td><td>50gp</td><td>2 st</td></tr>\n<tr><td>Chain</td><td>9,000gp</td><td>270 st</td><td>1,800gp</td><td>54 st</td><td>450gp</td><td>13 3/6 st</td><td>150gp</td><td>4 3/6 st</td><td>100gp</td><td>3 st</td></tr>\n<tr><td>Lamellar</td><td>18,000gp</td><td>360 st</td><td>3,600gp</td><td>72 st</td><td>900gp</td><td>18 st</td><td>300gp</td><td>6 st</td><td>200gp</td><td>4 st</td></tr>\n<tr><td>Plate</td><td>36,000gp</td><td>450 st</td><td>7,200gp</td><td>90 st</td><td>1,800gp</td><td>22 3/6 st</td><td>600gp</td><td>7 3/6 st</td><td>400gp</td><td>5 st</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0158.t01",
+    "pdf_page": 158,
+    "chapter_id": "04",
+    "block_order": 3,
+    "row_count": 4,
+    "column_count": 2,
+    "source_markup": "| FUEL REMAINING | EXPLOSION |\n| --- | --- |\n| 5 lbs or less | 1d6 fire in 5’ radius |\n| 6 lbs – 89 lbs | 2d6 fire in 10’ radius |\n| 90 lbs or more | 3d6 fire in 15’ radius |"
+  },
+  {
+    "id": "rr.p0160.t01",
+    "pdf_page": 160,
+    "chapter_id": "04",
+    "block_order": 9,
+    "row_count": 10,
+    "column_count": 4,
+    "source_markup": "| CHARACTERISTICS | STANDARD | LARGE | HUGE |\n| --- | --- | --- | --- |\n| Base | 20’ | 40’ | 65’ |\n| Height | 40’ | 90’ | 135’ |\n| Stories | 4 | 6 | 9 |\n| Internal Crew | 12 | 60 | 200 |\n| External Crew | 108 | 420 | 1,000 |\n| Total Troops | 60 | 360 | 1,080 |\n| Total Siege Engines | 400 st | 800 st | 1,600 st |\n| Armor Class | 0 | 1 | 2 |\n| Structural Hit points | 50 | 200 | 550 |"
+  },
+  {
+    "id": "rr.p0161.t01",
+    "pdf_page": 161,
+    "chapter_id": "04",
+    "block_order": 14,
+    "row_count": 8,
+    "column_count": 4,
+    "source_markup": "| ITEM | COST | ITEM | COST |\n| --- | --- | --- | --- |\n| Masterwork Weapon (+1 to attack throw) | +80gp | Masterwork Structure (+1 AC) | ×2 |\n| Masterwork Weapon (+1 to damage) | +80gp | Masterwork Structure (+10% shp) | ×2 |\n| Masterwork Weapon (+1 to damage & attack throw) | +650gp | Masterwork Structure (+1 AC & +10% shp) | ×4 |\n| Masterwork Armor (-1 stone weight) | +80gp | Masterwork Ship (+1 AC) | ×2 |\n| Masterwork Armor (+1 AC) | +650gp | Masterwork Ship (+10% shp) | ×2 |\n| Masterwork Instrument (+1 Performance) | +80gp | Masterwork Ship (+10% speed) | ×2 |\n| Masterwork Instrument (+2 Performance) | +650gp | Masterwork Ship (+1 AC, +10% shp & speed) | ×8 |"
+  },
+  {
+    "id": "rr.p0162.t01",
+    "pdf_page": 162,
+    "chapter_id": "04",
+    "block_order": 3,
+    "row_count": 9,
+    "column_count": 4,
+    "source_markup": "<table>\n<tr><th colspan=\"4\">PIERCING/SLASHING WEAPONS</th></tr>\n<tr><td>D20</td><td>CATEGORY</td><td>EFFECT</td><td>VALUE</td></tr>\n<tr><td>1 – 2</td><td>Serviceable</td><td>-</td><td>100%</td></tr>\n<tr><td>3 – 6</td><td>Blade dented</td><td>-1 damage</td><td>-33%</td></tr>\n<tr><td>7 – 10</td><td>Blade rusty</td><td>-1 damage</td><td>-33%</td></tr>\n<tr><td>11 – 14</td><td>Off balance</td><td>-1 to attacks</td><td>-33%</td></tr>\n<tr><td>15 – 16</td><td>Loose hilt/haft</td><td>-1 to initiative</td><td>-33%</td></tr>\n<tr><td>17 – 18</td><td>Shoddy construction</td><td>Breaks</td><td>-33%</td></tr>\n<tr><td>19 – 20</td><td>Roll again twice</td><td>-</td><td>-</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0162.t02",
+    "pdf_page": 162,
+    "chapter_id": "04",
+    "block_order": 4,
+    "row_count": 9,
+    "column_count": 4,
+    "source_markup": "<table>\n<tr><th colspan=\"4\">ARMOR AND EQUIPMENT</th></tr>\n<tr><td>D20</td><td>CATEGORY</td><td>EFFECT</td><td>VALUE</td></tr>\n<tr><td>1 – 2</td><td>Serviceable</td><td>-</td><td>100%</td></tr>\n<tr><td>3 – 6</td><td>Broken straps</td><td>+1 stone encumbrance</td><td>-33%</td></tr>\n<tr><td>7 – 10</td><td>Rattles if moved</td><td>Cannot sneak</td><td>-33%</td></tr>\n<tr><td>11 – 14</td><td>Dented/rotting</td><td>-1 AC / breaks</td><td>-33%</td></tr>\n<tr><td>15 – 16</td><td>Makeshift work</td><td>-1 AC / breaks</td><td>-33%</td></tr>\n<tr><td>17 – 18</td><td>Torn/ripped</td><td>Breaks</td><td>-33%</td></tr>\n<tr><td>19 – 20</td><td>Roll again twice</td><td>-</td><td>-</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0162.t03",
+    "pdf_page": 162,
+    "chapter_id": "04",
+    "block_order": 7,
+    "row_count": 9,
+    "column_count": 4,
+    "source_markup": "<table>\n<tr><th colspan=\"4\">BLUDGEONING WEAPONS</th></tr>\n<tr><td>D20</td><td>CATEGORY</td><td>EFFECT</td><td>VALUE</td></tr>\n<tr><td>1 – 2</td><td>Serviceable</td><td>-</td><td>100%</td></tr>\n<tr><td>3 – 6</td><td>Soft head</td><td>-1 damage</td><td>-33%</td></tr>\n<tr><td>7 – 10</td><td>Wobbly head</td><td>-1 damage</td><td>-33%</td></tr>\n<tr><td>11 – 14</td><td>Off balance</td><td>-1 to attacks</td><td>-33%</td></tr>\n<tr><td>15 – 16</td><td>Fragile haft</td><td>-1 to initiative</td><td>-33%</td></tr>\n<tr><td>17 – 18</td><td>Shoddy construction</td><td>Breaks</td><td>-33%</td></tr>\n<tr><td>19 – 20</td><td>Roll again twice</td><td>-</td><td>-</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0162.t04",
+    "pdf_page": 162,
+    "chapter_id": "04",
+    "block_order": 8,
+    "row_count": 9,
+    "column_count": 4,
+    "source_markup": "<table>\n<tr><th colspan=\"4\">VESSELS AND VEHICLES</th></tr>\n<tr><td>D20</td><td>CATEGORY</td><td>EFFECT</td><td>VALUE</td></tr>\n<tr><td>1 – 2</td><td>Serviceable</td><td>-</td><td>100%</td></tr>\n<tr><td>3 – 6</td><td>Leaky/creaky</td><td>-20% cargo capacity</td><td>-33%</td></tr>\n<tr><td>7 – 10</td><td>Faulty</td><td>-30’ max speed</td><td>-33%</td></tr>\n<tr><td>11 – 14</td><td>Fragile</td><td>-1 AC, -10% shp</td><td>-33%</td></tr>\n<tr><td>15 – 16</td><td>Rotting</td><td>-1 AC, -10% shp</td><td>-33%</td></tr>\n<tr><td>17 – 18</td><td>Damaged</td><td>-20% shp</td><td>-33%</td></tr>\n<tr><td>19 – 20</td><td>Roll again twice</td><td>-</td><td>-</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0163.t01",
+    "pdf_page": 163,
+    "chapter_id": "04",
+    "block_order": 3,
+    "row_count": 7,
+    "column_count": 2,
+    "source_markup": "| ITEM | ENCUMBRANCE IN STONE |\n| --- | --- |\n| Worn clothing | 0 stone |\n| Armor | 1 stone per point of AC |\n| Shield | 1 stone per shield |\n| Typical Item | 1 stone per 6 items |\n| Heavy Item | 1 stone or more |\n| Treasure | 1 stone per 1,000 coins or gems |"
+  },
+  {
+    "id": "rr.p0163.t02",
+    "pdf_page": 163,
+    "chapter_id": "04",
+    "block_order": 10,
+    "row_count": 16,
+    "column_count": 7,
+    "source_markup": "| ANIMAL/VEHICLE | EXPLORATION<br>SPEED | COMBAT<br>SPEED | RUNNING<br>SPEED | EXPEDITION<br>SPEED | NORMAL<br>LOAD | MAXIMUM<br>LOAD |\n| --- | --- | --- | --- | --- | --- | --- |\n| Camel | 150’ / 75’ | 50’ / 25’ | 150’ / 75’ | 30 / 15 | 30 | 60 |\n| Donkey | 120’ / 60’ | 40’ / 20’ | 120’ / 60’ | 24 / 12 | 15 | 30 |\n| Elephant | 120’ / 60’ | 40’ / 20’ | 120’ / 60’ | 24 / 12 | 180 | 360 |\n| Horse, Heavy | 150’ / 75’ | 50’ / 25’ | 150’ / 75’ | 30 / 15 | 40 | 80 |\n| Horse, Light | 240’ / 120’ | 80’ / 40’ | 240’ / 120’ | 48 / 24 | 20 | 40 |\n| Horse, Medium | 180’ / 90’ | 60’ / 30’ | 180’ / 90’ | 36 / 18 | 30 | 60 |\n| Horse, Steppe | 210’ / 105’ | 70’ / 35’ | 210’ / 105’ | 42 / 21 | 25 | 40 |\n| Mule | 150’ / 75’ | 50’ / 25’ | 150’ / 75’ | 30 / 15 | 25 | 50 |\n| Ox | 120’ / 60’ | 40’ / 20’ | 120’ / 60’ | 24 / 12 | 45 | 90 |\n| Cart, Small, 1 Mule | 60’ / 30’ | 20’ / 10’ | 60’ / 30’ | 12 / 6 | 50 | 75 |\n| Cart, Small, 2 Mules | 60’ / 30’ | 20’ / 10’ | 60’ / 30’ | 12 / 6 | 100 | 150 |\n| Cart, Large, 1 Heavy Horse | 60’ / 30’ | 20’ / 10’ | 60’ / 30’ | 12 / 6 | 80 | 120 |\n| Cart, Large, 2 Heavy Horses | 60’ / 30’ | 20’ / 10’ | 60’ / 30’ | 12 / 6 | 160 | 240 |\n| Wagon, 2 Heavy Horses | 60’ / 30’ | 20’ / 10’ | 60’ / 30’ | 12 / 6 | 160 | 320 |\n| Wagon, 4 Heavy Horses | 60’ / 30’ | 20’ / 10’ | 60’ / 30’ | 12 / 6 | 320 | 640 |"
+  },
+  {
+    "id": "rr.p0164.t01",
+    "pdf_page": 164,
+    "chapter_id": "04",
+    "block_order": 6,
+    "row_count": 7,
+    "column_count": 2,
+    "source_markup": "| MARKET<br>CLASS | COST PER WEEK PER<br>HIRELING TYPE |\n| --- | --- |\n| I | 1d6+15gp |\n| II | 1d10+10gp |\n| III | 1d8+5gp |\n| IV | 1d6+3gp |\n| V | 1d6gp |\n| VI | 1d3gp |"
+  },
+  {
+    "id": "rr.p0164.t02",
+    "pdf_page": 164,
+    "chapter_id": "04",
+    "block_order": 9,
+    "row_count": 7,
+    "column_count": 2,
+    "source_markup": "<table>\n<tr><th colspan=\"2\">REACTION TO HIRING OFFER</th></tr>\n<tr><td>ADJUSTED DIE ROLL</td><td>RESULT</td></tr>\n<tr><td>2-</td><td>Refuse and slander</td></tr>\n<tr><td>3 – 5</td><td>Refuse</td></tr>\n<tr><td>6 – 8</td><td>Try Again</td></tr>\n<tr><td>9 – 11</td><td>Accept</td></tr>\n<tr><td>12+</td><td>Accept with élan</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0166.t01",
+    "pdf_page": 166,
+    "chapter_id": "04",
+    "block_order": 3,
+    "row_count": 17,
+    "column_count": 8,
+    "source_markup": "| MERCENARY | CLASS I | CLASS II | CLASS III | CLASS IV | CLASS V | CLASS VI | WAGE |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Light Infantry | 4d100 | 5d20 | 5d10 | 3d4 | 1d6 | 1d2 | By race |\n| Heavy Infantry | 2d100 | 5d10 | 3d8 | 1d8 | 1d3 | 1 (85%) | By race |\n| Slinger | 8d20 | 4d10 | 2d10 | 1d6 | 1d2 | 1 (70%) | By race |\n| Bowman | 8d20 | 4d10 | 2d10 | 1d6 | 1d2 | 1 (70%) | By race |\n| Crossbowman | 8d20 | 4d10 | 2d10 | 1d6 | 1d2 | 1 (70%) | By race |\n| Composite Bowman/Longbowman\\* | 4d20 | 2d10 | 1d10 | 1d3 | 1 | 1 (33%) | By race |\n| Light Cavalry | 4d20 | 2d10 | 1d10 | 1d3 | 1 | 1 (33%) | By race |\n| Mounted Crossbowman | 3d20 | 4d4 | 2d4 | 1d2 | 1 (75%) | 1 (25%) | By race |\n| Horse Archers | 3d20 | 4d4 | 2d4 | 1d3 | 1 (70%) | 1 (23%) | By race |\n| Medium Cavalry | 3d20 | 4d4 | 2d4 | 1d2 | 1 (70%) | 1 (23%) | By race |\n| Heavy Cavalry | 4d10 | 1d10 | 1d6 | 1d2 (50%) | 1 (50%) | 1 (15%) | By race |\n| Cataphract Cavalry | 3d10 | 1d8 | 1d4 | 1d2 (33%) | 1 (40%) | 1 (10%) | By race |\n| Camel Archers† | 4d20 | 2d10 | 1d10 | 1d3 | 1 | 1 (33%) | By race |\n| Camel Lancers† | 3d20 | 4d4 | 2d4 | 1d2 | 1 (70%) | 1 (23%) | By race |\n| War Elephants | 1d10 | 1 (70%) | 1 (40%) | 1 (7%) | 1 (5%) | - | By race |\n| Beast Riders | 3d10 | 1d8 | 1d4 | 1d2 (33%) | 1 (40%) | 1 (10%) | By race |"
+  },
+  {
+    "id": "rr.p0166.t02",
+    "pdf_page": 166,
+    "chapter_id": "04",
+    "block_order": 7,
+    "row_count": 6,
+    "column_count": 8,
+    "source_markup": "| HENCHMAN | CLASS I | CLASS II | CLASS III | CLASS IV | CLASS V | CLASS VI | WAGE |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 0th level | 4d100 | 5d20 | 4d8 | 3d4 | 1d6 | 1d2 | 12gp/month |\n| 1st level | 5d10 | 2d6 | 1d4 | 1d2 | 1 (65%) | 1 (20%) | 25gp/month |\n| 2nd level | 3d10 | 2d4 | 1d3 | 1 | 1 (40%) | 1 (15%) | 50gp/month |\n| 3rd level | 1d10 | 1d3 | 1 (85%) | 1 (33%) | 1 (15%) | 1 (5%) | 100gp/month |\n| 4th level | 1d6 | 1d2 | 1 (45%) | 1 (15%) | 1 (5%) | - | 200gp/month |"
+  },
+  {
+    "id": "rr.p0167.t01",
+    "pdf_page": 167,
+    "chapter_id": "04",
+    "block_order": 2,
+    "row_count": 51,
+    "column_count": 8,
+    "source_markup": "| SPECIALIST | CLASS I | CLASS II | CLASS III | CLASS IV | CLASS V | CLASS VI | WAGE |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Alchemist | 1d10 | 1d3 | 1 | 1 (33%) | 1 (15%) | 1 (5%) | 250gp/month |\n| Animal Trainer – Common | 5d10 | 2d6 | 1d6 | 1d2 | 1 (65%) | 1 (20%) | 25gp/month |\n| Animal Trainer – Wild | 3d10 | 2d4 | 1d4 | 1 | 1 (40%) | 1 (15%) | 75gp/month |\n| Animal Trainer – Giant/Prehistoric | 2d10 | 1d6 | 1d3 | 1 (65%) | 1 (25%) | 1 (10%) | 150gp/month |\n| Animal Trainer – Fantastic | 1d10 | 1d3 | 1 | 1 (33%) | 1 (15%) | 1 (5%) | 250gp/month |\n| Armorer | 3d10 | 2d4 | 1d4 | 1 | 1 (40%) | 1 (15%) | 75gp/month |\n| Artisan (common) | 6d10 | 4d4 | 2d4 | 2 | 1 (80%) | 1 (30%) | 75gp/month |\n| Artisan (uncommon) | 3d10 | 2d4 | 1d4 | 1 | 1 (40%) | 1 (15%) | 75gp/month |\n| Artisan (rare) | 2d8 | 1d4 | 1d2 | 1 (50%) | 1 (20%) | 1 (5%) | 75gp/month |\n| Artillerist | 5d10 | 2d6 | 1d6 | 1d2 | 1 (65%) | 1 (20%) | 25gp/month |\n| Copyist | 2d4×50 | 5d20 | 5d10 | 3d4 | 1d6 | 1d2 | 1gp/page |\n| Creature Handler – Domestic | 5d10 | 2d6 | 1d6 | 1d2 | 1 (65%) | 1 (20%) | 25gp/month |\n| Creature Handler – Wild | 3d10 | 2d4 | 1d4 | 1 | 1 (40%) | 1 (15%) | 75gp/month |\n| Creature Handler – Giant/Prehistoric | 2d10 | 1d6 | 1d3 | 1 (65%) | 1 (25%) | 1 (10%) | 150gp/month |\n| Creature Handler – Fantastic | 1d10 | 1d3 | 1 | 1 (33%) | 1 (15%) | 1 (5%) | 250gp/month |\n| Engineer | 1d10 | 1d3 | 1 | 1 (33%) | 1 (15%) | 1 (5%) | 250gp/month |\n| Healer | 5d10 | 2d6 | 1d6 | 1d2 | 1 (65%) | 1 (20%) | 1gp/day/patient |\n| Healer – Physicker | 3d10 | 2d4 | 1d4 | 1 | 1 (40%) | 1 (15%) | 2gp/day/patient |\n| Healer – Chirurgeon | 1d10 | 1d3 | 1 | 1 (33%) | 1 (15%) | 1 (5%) | 4gp/day/patient |\n| Laborer – Skilled | 2d4×100 | 1d3×100 | 1d4×50 | 8d6 | 4d6 | 2d4 | 6gp/month |\n| Laborer – Unskilled | 4d6×100 | 3d3×100 | 3d4×50 | 8d6×3 | 4d6×3 | 2d4×3 | 3gp/month |\n| Lawyer | 2d8 | 1d4 | 1d2 | 1 (50%) | 1 (20%) | 1 (5%) | 100gp/month |\n| Mariner – Captain | 4d6 | 1d6 | 1d3 | 1 (80%) | 1 (33%) | 1 (10%) | 100gp/month |\n| Mariner – Master | 1d6 | 1d2 | - | - | - | - | 250gp/month |\n| Mariner – Navigator | 5d10 | 1d12 | 1d6 | 1d2 | 1 (60%) | 1 (45%) | 25gp/month |\n| Mariner – Sailor | 4d100 | 5d20 | 5d10 | 3d4 | 1d6 | 1d2 | 6gp/month |\n| Mariner – Rower | 2d4×100 | 1d3×100 | 1d4×50 | 8d6 | 4d6 | 2d4 | 6gp/month |\n| Marshal – Light Infantry | 5d10 | 2d6 | 1d6 | 1d2 | 1 (65%) | 1 (20%) | 30gp/month |\n| Marshal – Bow, Heavy Infantry or Light Cav | 3d10 | 2d4 | 1d4 | 1 | 1 (40%) | 1 (15%) | 60gp/month |\n| Marshal – Heavy Cavalry or Horse Archer | 2d10 | 1d6 | 1d3 | 1 (65%) | 1 (25%) | 1 (10%) | 120gp/month |\n| Marshal – Cataphract Cavalry | 1d10 | 1d3 | 1 | 1 (33%) | 1 (15%) | 1 (5%) | 240gp/month |\n| Mercenary Officer – Lieutenant | 1d10 | 1d3 | 1 | 1 (33%) | 1 (15%) | 1 (5%) | 200gp/month |\n| Mercenary Officer – Captain | 1d6 | 1d2 | 1 (65%) | 1 (15%) | 1 (5%) | - | 800gp/month |\n| Mercenary Officer – Colonel | 1d2 | 1 (25%) | 1 (15%) | 1 (5%) | - | - | 3,000gp/month |\n| Mercenary Officer – General | 1 (15%) | - | - | - | - | - | 12,000gp/month |\n| Quartermaster | 3d10 | 2d4 | 1d4 | 1 | 1 (40%) | 1 (15%) | 40gp/month |\n| Ruffian – Carouser | 2d4×50 | 5d20 | 5d10 | 3d4 | 1d6 | 1d2 | 7gp/month |\n| Ruffian – Footpad | 2d4×50 | 5d20 | 5d10 | 3d4 | 1d6 | 1d2 | 30gp/month |\n| Ruffian – Reciter | 2d4×25 | 5d10 | 3d8 | 1d6 | 1d3 | 1 | 30gp/month |\n| Ruffian – Slayer | 5d10 | 2d6 | 1d6 | 1 | 1 (75%) | 1 (5%) | 625gp/month |\n| Ruffian – Spy | 5d20 | 4d6 | 2d6 | 1d3 | 1d2 | 1 (10%) | 625gp/month |\n| Ruffian – Thug | 5d20 | 4d6 | 2d6 | 1d3 | 1d2 | 1 (10%) | 30gp/month |\n| Sage | 1d6 | 1d2 | 1 (65%) | 1 (15%) | 1 (5%) | - | 500gp/month |\n| Scout – Pathfinder or Land Surveyor | 5d10 | 1d12 | 1d6 | 1d2 | 1 (60%) | 1 (45%) | 25gp/month |\n| Siege Engineer | 3d10 | 2d4 | 1d4 | 1 | 1 (40%) | 1 (15%) | 50gp/month |\n| Translator | 5d10 | 2d6 | 1d6 | 1d2 | 1 (65%) | 1 (20%) | 2sp/page |\n| Writer – Rank 1 | 5d10 | 2d6 | 1d6 | 1d2 | 1 (65%) | 1 (20%) | 1gp/page |\n| Writer – Rank 2 | 3d10 | 2d4 | 1d4 | 1 | 1 (40%) | 1 (15%) | 2gp/page |\n| Writer – Rank 3 | 2d10 | 1d6 | 1d3 | 1 (65%) | 1 (25%) | 1 (10%) | 4gp/page |\n| Writer – Rank 4 | 1d10 | 1d3 | 1 | 1 (33%) | 1 (15%) | 1 (5%) | 10gp/page |"
+  },
+  {
+    "id": "rr.p0168.t01",
+    "pdf_page": 168,
+    "chapter_id": "04",
+    "block_order": 18,
+    "row_count": 7,
+    "column_count": 2,
+    "source_markup": "<table>\n<tr><th colspan=\"2\">HIRELING LOYALTY</th></tr>\n<tr><td>ADJUSTED DIE ROLL (2D6)</td><td>RESULT</td></tr>\n<tr><td>2-</td><td>Hostility</td></tr>\n<tr><td>3 – 5</td><td>Resignation</td></tr>\n<tr><td>6 – 8</td><td>Grudging Loyalty</td></tr>\n<tr><td>9 – 11</td><td>Loyalty</td></tr>\n<tr><td>12+</td><td>Fanatic Loyalty</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0169.t01",
+    "pdf_page": 169,
+    "chapter_id": "04",
+    "block_order": 1,
+    "row_count": 5,
+    "column_count": 2,
+    "source_markup": "<table>\n<tr><th colspan=\"2\">HIRELING OBEDIENCE</th></tr>\n<tr><td>ADJUSTED DIE ROLL (2D6)</td><td>RESULT</td></tr>\n<tr><td>2-</td><td>Refuses</td></tr>\n<tr><td>3 – 5</td><td>Begrudging</td></tr>\n<tr><td>6+</td><td>Compliant</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0169.t02",
+    "pdf_page": 169,
+    "chapter_id": "04",
+    "block_order": 8,
+    "row_count": 13,
+    "column_count": 2,
+    "source_markup": "<table>\n<tr><th colspan=\"2\">HIRELING OBEDIENCE</th></tr>\n<tr><td>SITUATION</td><td>MODIFIER</td></tr>\n<tr><td>+2</td><td>Employer personally doing task, dungeon, journey, or work alongside hireling</td></tr>\n<tr><td>+1</td><td>Adventurer other than employer doing task, dungeon, journey, or work alongside hireling</td></tr>\n<tr><td>+0</td><td>Other hirelings doing task, dungeon, journey, or work alongside hireling</td></tr>\n<tr><td>-1</td><td>Hireling doing task, dungeon, journey, or work alone</td></tr>\n<tr><td>+2</td><td>Task is customary for hireling’s profession or class (e.g. search for traps for thief, bash door for fighter)</td></tr>\n<tr><td>+0</td><td>Task exposes hireling to small risk similar to what others in party face</td></tr>\n<tr><td>-1</td><td>One or more henchmen were incapacitated, killed, or captured in the last month or most recent adventure</td></tr>\n<tr><td>-1</td><td>Task exposes hireling to more risk than what others in party face</td></tr>\n<tr><td>-2</td><td>Task exposes hireling to great risk of life and limb that others in party are not exposed to</td></tr>\n<tr><td>-5</td><td>Task exposes hireling to extraordinary risk of incapacitation, death, capture, etc.</td></tr>\n<tr><td>-5</td><td>Hireling is a mercenary ordered to undertake adventuring activities outside the norm</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0170.t01",
+    "pdf_page": 170,
+    "chapter_id": "04",
+    "block_order": 5,
+    "row_count": 10,
+    "column_count": 4,
+    "source_markup": "<table>\n<tr><th colspan=\"4\">HENCHMEN MONTHLY WAGE</th></tr>\n<tr><td>CLASS<br>LEVEL</td><td>MONTHLY WAGE<br>(GP)</td><td>CLASS<br>LEVEL</td><td>MONTHLY WAGE<br>(GP)</td></tr>\n<tr><td>0</td><td>12</td><td>8</td><td>3,000</td></tr>\n<tr><td>1</td><td>25</td><td>9</td><td>7,250</td></tr>\n<tr><td>2</td><td>50</td><td>10</td><td>12,000</td></tr>\n<tr><td>3</td><td>100</td><td>11</td><td>32,000</td></tr>\n<tr><td>4</td><td>200</td><td>12</td><td>50,000</td></tr>\n<tr><td>5</td><td>400</td><td>13</td><td>135,000</td></tr>\n<tr><td>6</td><td>800</td><td>14</td><td>350,000</td></tr>\n<tr><td>7</td><td>1,600</td><td></td><td></td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0171.t01",
+    "pdf_page": 171,
+    "chapter_id": "04",
+    "block_order": 11,
+    "row_count": 21,
+    "column_count": 7,
+    "source_markup": "<table>\n<tr><th rowspan=\"2\">MERCENARY TROOP TYPE</th><th colspan=\"5\">GP WAGE PER MONTH</th><th rowspan=\"2\">MORALE</th></tr>\n<tr><td>MAN</td><td>DWARF</td><td>ELF</td><td>GOBLIN</td><td>ORC</td></tr>\n<tr><td>Peasants (spear)</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-2</td></tr>\n<tr><td>Light Infantry (3 javelins, short sword, shield, leather armor)</td><td>6</td><td>-</td><td>21</td><td>3</td><td>6</td><td>-1</td></tr>\n<tr><td>Heavy Infantry (spear, short sword, shield, banded plate armor)</td><td>12</td><td>27</td><td>27</td><td>-</td><td>12</td><td>0</td></tr>\n<tr><td>Slingers (sling, short sword, shield)</td><td>6</td><td>-</td><td>-</td><td>3</td><td>-</td><td>-1</td></tr>\n<tr><td>Bowmen (short bow, short sword, leather armor)</td><td>9</td><td>-</td><td>27</td><td>6</td><td>9</td><td>-1</td></tr>\n<tr><td>Composite Bowmen (composite bow, short sword, leather)</td><td>15</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0</td></tr>\n<tr><td>Crossbowmen (arbalest, short sword, shield, chain mail)</td><td>18</td><td>33</td><td>-</td><td>-</td><td>6</td><td>0</td></tr>\n<tr><td>Longbowmen (long bow, short sword, chain mail)</td><td>18</td><td>-</td><td>40</td><td>-</td><td>-</td><td>0</td></tr>\n<tr><td>Light Cavalry (3 javelins, sword, shield, scale armor, light warhorse)</td><td>30</td><td>-</td><td>55</td><td>-</td><td>-</td><td>+1</td></tr>\n<tr><td>Mounted Crossbowmen (crossbow, hand axe, plate armor, mule)</td><td>-</td><td>55</td><td>-</td><td>-</td><td>-</td><td>+1</td></tr>\n<tr><td>Horse Archers (composite bow, scimitar, leather armor, light warhorse)</td><td>50</td><td>-</td><td>90</td><td>-</td><td>-</td><td>+1</td></tr>\n<tr><td>Medium Cavalry (lance, sword, shield, lamellar, scale-barded medium warhorse)</td><td>45</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+1</td></tr>\n<tr><td>Heavy Cavalry (lance, sword, shield, plate armor, chain-barded medium warhorse)</td><td>60</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+2</td></tr>\n<tr><td>Cataphract Cavalry (comp. bow, lance, sword, plate, lamellar-barded medium warhorse)</td><td>75</td><td></td><td>160</td><td></td><td></td><td>+2</td></tr>\n<tr><td>Camel Archers (composite bow, scimitar, leather armor, camel)</td><td>30</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+1</td></tr>\n<tr><td>Camel Lancers (composite bow, lance, scimitar, chain mail, camel)</td><td>45</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+2</td></tr>\n<tr><td>War Elephants* (lamellar barding, howdah, 6 × comp. bows, lances, scale armor)</td><td>360</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+2</td></tr>\n<tr><td>Wolf Riders (spear, scimitar, shield, leather armor, dire wolf)</td><td>-</td><td>-</td><td>-</td><td>80</td><td>-</td><td>0</td></tr>\n<tr><td>Boar Riders (lance, scimitar, shield, leather armor, giant boar)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>85</td><td>+1</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0173.t01",
+    "pdf_page": 173,
+    "chapter_id": "04",
+    "block_order": 16,
+    "row_count": 5,
+    "column_count": 7,
+    "source_markup": "| OFFICER TITLE | LEVEL | COST/<br>MONTH | LEADERSHIP<br>ABILITY | STRATEGIC<br>ABILITY | MORALE<br>MODIFIER | PROFICIENCIES |\n| --- | --- | --- | --- | --- | --- | --- |\n| Lieutenant | 4th | 200gp | 4 | +1 | +2 | Command, Military Strategy 1 |\n| Captain | 6th | 800gp | 4 | +2 | +3 | Command, Military Strategy 2 |\n| Colonel | 8th | 3,000gp | 5 | +2 | +3 | Command, Leadership, Military Strategy 2 |\n| General | 10th | 12,000gp | 5 | +3 | +3 | Command, Leadership, Military Strategy 3 |"
+  },
+  {
+    "id": "rr.p0174.t01",
+    "pdf_page": 174,
+    "chapter_id": "04",
+    "block_order": 12,
+    "row_count": 13,
+    "column_count": 8,
+    "source_markup": "| SPELL TYPE AND LEVEL | COST | CLASS I | CLASS II | CLASS III | CLASS IV | CLASS V | CLASS VI |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Divine-1st level | 5gp | 4d4×100 | 4d10×10 | 4d4×10 | 6d10 | 4d6 | 2d4 |\n| Divine-2nd level | 10gp | 4d6×10 | 12d6 | 4d6 | 4d4 | 2d4 | 1d6 |\n| Divine-3rd level | 45gp | 8d6 | 4d6 | 2d6 | 2d4 | 1d6 | - |\n| Divine-4th level | 185gp | 6d6 | 2d6 | 2d3 | 1d3 | - | - |\n| Divine-5th level | 900gp | 4d4 | 2d3 | 1d4 | 1d4-3 | - | - |\n| Divine-6th level | 3,600gp | 2d3 | 1d3 | 1d8-6 | - | - | - |\n| Arcane-1st level | 5gp | 2d4×100 | 2d10×10 | 2d4×10 | 3d10 | 2d6 | 1d4 |\n| Arcane-2nd level | 10gp | 2d6×10 | 6d6 | 2d6 | 2d4 | 1d4 | 1d3 |\n| Arcane-3rd level | 45gp | 4d6 | 2d6 | 2d3 | 1d4 | 1d3 | - |\n| Arcane-4th level | 185gp | 3d6 | 2d2 | 1d3 | 1d3-1 | - | - |\n| Arcane-5th level | 900gp | 2d4 | 1d3 | 1d2 | 1d10-9 | - | - |\n| Arcane-6th level | 3,600gp | 1d3 | 1d3-1 | 1d8-7 | - | - | - |"
+  },
+  {
+    "id": "rr.p0175.t01",
+    "pdf_page": 175,
+    "chapter_id": "04",
+    "block_order": 5,
+    "row_count": 7,
+    "column_count": 3,
+    "source_markup": "| SPELL LEVEL | UPFRONT FEE | ONGOING<br>MONTHLY FEE |\n| --- | --- | --- |\n| 1st level | 40gp | 1gp |\n| 2nd level | 55gp | 2gp |\n| 3rd level | 160gp | 5gp |\n| 4th level | 440gp | 15gp |\n| 5th level | 1,365gp | 40gp |\n| 6th level | 4,515gp | 135gp |"
+  },
+  {
+    "id": "rr.p0176.t01",
+    "pdf_page": 176,
+    "chapter_id": "04",
+    "block_order": 17,
+    "row_count": 9,
+    "column_count": 4,
+    "source_markup": "| WORKER | CONSTRUCTION RATE<br>/MONTH | CONSTRUCTION RATE<br>/DAY | WAGE RATE/MONTH |\n| --- | --- | --- | --- |\n| Unskilled Laborer | 3gp | 1sp | 3gp\\* |\n| Skilled Laborer | 6gp | 2sp | 6gp\\* |\n| Apprentice Craftsman | 10gp / 15gp† | 33cp / 5sp† | 10gp |\n| Journeyman Craftsman | 20gp / 30gp† | 66cp / 1gp† | 20gp |\n| Master Craftsman | 40gp / 30gp† | 1gp, 33cp / 1gp† | 75gp |\n| Master, 2 Journeyman, and 4 Apprentices | 150gp† | 5gp† | 150gp |\n| Siege Engineer | 20gp | 66cp | 50gp |\n| Engineer | 40gp | 1gp, 33cp | 250gp |"
+  },
+  {
+    "id": "rr.p0178.t01",
+    "pdf_page": 178,
+    "chapter_id": "04",
+    "block_order": 2,
+    "row_count": 14,
+    "column_count": 5,
+    "source_markup": "<table>\n<tr><th>MATERIAL</th><th>COST</th><th>DENSITY</th><th>DAMAGED<br>AS</th><th>STRUCTURAL<br>STRENGTH</th></tr>\n<tr><td colspan=\"5\">SURFACE STRUCTURES</td></tr>\n<tr><td>Carpentry, crude wood*</td><td>0.07gp/cf</td><td>35lbs/cf</td><td>Wood</td><td>1shp/5,000lbs</td></tr>\n<tr><td>Carpentry, standard wood</td><td>0.33gp/cf</td><td>50lbs/cf</td><td>Wood</td><td>1shp/2,000lbs</td></tr>\n<tr><td>Carpentry, superior wood</td><td>0.72gp/cf</td><td>64lbs/cf</td><td>Wood</td><td>1shp/2,000lbs</td></tr>\n<tr><td>Earthwork, piled earth*</td><td>0.002gp/cf</td><td>85lbs/cf</td><td>Wood</td><td>1shp/9,500lbs</td></tr>\n<tr><td>Earthwork, rammed earth</td><td>0.02gp/cf</td><td>115lbs/cf</td><td>Wood</td><td>1shp/4,000lbs</td></tr>\n<tr><td>Masonry, concrete</td><td>0.05gp/cf</td><td>135lbs/cf</td><td>Stone</td><td>1shp/5,500lb</td></tr>\n<tr><td>Masonry, stone</td><td>0.17gp/cf</td><td>170lbs/cf</td><td>Stone</td><td>1shp/2,000lbs</td></tr>\n<tr><td colspan=\"5\">EXCAVATED STRUCTURES</td></tr>\n<tr><td>Earth, crude*</td><td>0.002gp/cf</td><td>N/A</td><td>Wood</td><td>1shp/50cf</td></tr>\n<tr><td>Earth, durable</td><td>0.02gp/cf</td><td>N/A</td><td>Wood</td><td>1shp/20cf</td></tr>\n<tr><td>Rock, rough-hewn</td><td>0.05gp/cf</td><td>N/A</td><td>Stone</td><td>1shp/30f</td></tr>\n<tr><td>Rock, smooth-hewn</td><td>0.5gp/cf</td><td>N/A</td><td>Stone</td><td>1shp/12.5cf</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0178.t02",
+    "pdf_page": 178,
+    "chapter_id": "04",
+    "block_order": 13,
+    "row_count": 11,
+    "column_count": 2,
+    "source_markup": "| STRUCTURE | COMPLEXITY |\n| --- | --- |\n| Excavated structure (any) | x1 |\n| Wall (any earthwork) | x1 |\n| Wall (any carpentry) | x2 |\n| Wall (any masonry) | x3 |\n| Building (any carpentry or earthwork) | x2 |\n| Building (stone masonry) | x4 |\n| Building (concrete masonry) | x6 |\n| Vehicle (superior carpentry) | x2 |\n| Vessel (superior carpentry) | x6 |\n| War Machine (superior carpentry) | x6 |"
+  },
+  {
+    "id": "rr.p0179.t01",
+    "pdf_page": 179,
+    "chapter_id": "04",
+    "block_order": 1,
+    "row_count": 6,
+    "column_count": 2,
+    "source_markup": "| SPELLS CAST | CONSTRUCTION EFFECT |\n| --- | --- |\n| *Earth’s movement* | Gain 2,500gp per turn construction rate on ditches, moats, and ramparts only |\n| *Earth’s mire* | Increase construction rate of workers at construction site by 50% |\n| *Earth’s movement* and *earth’s mire* | Increase construction rate of workers at construction site by 100% |\n| *Earth’s movement* and *mire* with *wall of stone* | Gain 500gp of construction per *wall of stone* spell cast |\n| *Wall of stone* | Decorative re-surfacing of 5,000gp of stronghold |"
+  }
+]

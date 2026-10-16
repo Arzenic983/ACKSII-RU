@@ -35,3 +35,13 @@ contributions/_export/
 .work/ch03-md/tables.md
 .work/ch03-md/pure_translations.json
 .work/ch03-md/numeric_review.json
+
+# Chapter 4: generated alignment, table cells and local PDF inspections
+.work/ch04-md/source_*.md
+.work/ch04-md/review_*.md
+.work/ch04-md/pdf-*.png
+.work/ch04-md/chapter_preview.html
+.work/ch04-md/automatic.md
+.work/ch04-md/pure_translations.json
+.work/ch04-md/numeric_review.json
+.work/ch04-md/contributor_draft.txt
