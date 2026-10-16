@@ -1,0 +1,127 @@
+{
+  "book": "ACKS II Revised Rulebook",
+  "chapter": "08",
+  "pdf_pages": [
+    355,
+    360
+  ],
+  "id_first": "rr.p0355.b001",
+  "id_last": "rr.p0360.t02.r021.c02",
+  "units_expected": 315,
+  "units_translated": 315,
+  "complete": true,
+  "unit_kinds": {
+    "paragraph": 59,
+    "list_item": 41,
+    "heading": 16,
+    "table_cell": 198,
+    "verse": 1
+  },
+  "source_revision": 0,
+  "status": "reviewed_by_agent_not_user_approved",
+  "human_approval": false,
+  "semantic_review": "Первичная смысловая сверка всех 315 единиц с английским источником при переводе. Повторно сверены различия надзора и руководства строительством, виды деятельности, сроки, призыв/подготовка войск, пределы клановых и переходных Доменов, ограничения дварфийских/эльфийских крепостей, порядок сенатских голосований и модификаторы.",
+  "numeric_review": {
+    "all_units_compared": 315,
+    "numeric_token_multisets_equal": true,
+    "normalization": "Удалены оформительские English и small, разделители тысяч. Сохранены все цифры, кости, диапазоны, формулы и ссылки.",
+    "senate_example_sum": 550,
+    "senate_independent_votes": 50,
+    "senate_total_seats": 600
+  },
+  "identity_review": {
+    "ids_equal_to_read_only_sqlite": true,
+    "source_markup_and_sha256_equal": true,
+    "source_revision_preserved": true,
+    "database_not_modified": true
+  },
+  "emphasis_review": {
+    "all_315_source_marker_counts_preserved": true,
+    "split_runs_restored_without_changing_visible_text": true,
+    "repair_script": "../p408_427/repair_emphasis.py"
+  },
+  "table_geometry_review": {
+    "method": "source_tables/units прочитаны прямо из SQLite в URI mode=ro; проверены координаты, полное покрытие, отсутствие перекрытий и соответствие всех ID. Изменены только тексты ячеек.",
+    "tables": [
+      {
+        "id": "rr.p0358.t01",
+        "rows": 6,
+        "columns": 3,
+        "cells": 18,
+        "coverage_complete": true,
+        "source_spans_preserved": true
+      },
+      {
+        "id": "rr.p0358.t02",
+        "rows": 6,
+        "columns": 4,
+        "cells": 24,
+        "coverage_complete": true,
+        "source_spans_preserved": true
+      },
+      {
+        "id": "rr.p0359.t01",
+        "rows": 10,
+        "columns": 6,
+        "cells": 60,
+        "coverage_complete": true,
+        "source_spans_preserved": true
+      },
+      {
+        "id": "rr.p0359.t02",
+        "rows": 21,
+        "columns": 2,
+        "cells": 42,
+        "coverage_complete": true,
+        "source_spans_preserved": true
+      },
+      {
+        "id": "rr.p0360.t01",
+        "rows": 6,
+        "columns": 2,
+        "cells": 12,
+        "coverage_complete": true,
+        "source_spans_preserved": true
+      },
+      {
+        "id": "rr.p0360.t02",
+        "rows": 21,
+        "columns": 2,
+        "cells": 42,
+        "coverage_complete": true,
+        "source_spans_preserved": true
+      }
+    ]
+  },
+  "pdf_images_viewed": [
+    358,
+    359,
+    360
+  ],
+  "visual_review_scope": "Изображения исходного PDF просмотрены для всех шести таблиц: диапазоны и состав сената, требования к должности, политические цели, голосование, модификаторы. Полная визуальная вычитка исходных PDF 355–357 и отображения итогового Markdown не выполнялась.",
+  "term_review": "Утверждённые формы сверены с глоссарием; Мунератор, Управляющий, Милость, Обязанность, надзор/руководство, Призыв в совет согласованы с интегратором; младший сенатор и разногласия согласованы с частью 361–385. Новые формы term_map.json — рабочие.",
+  "notes_count": 5,
+  "notes_ids": [
+    "rr.p0355.b015",
+    "rr.p0356.b001",
+    "rr.p0356.b018",
+    "rr.p0358.t01.r003.c01",
+    "rr.p0360.b012"
+  ],
+  "limitations": [
+    "Источники, SQLite, общий Markdown и пакеты интегратора не менялись.",
+    "Есть вопросы исходника: Manual at Arms, favors при призыве воинов, критерий пограничных земель и пропуски таблицы населения.",
+    "Независимая вычитка человеком и user_approved отсутствуют."
+  ],
+  "files_created": [
+    "author.py",
+    "check.py",
+    "source.txt",
+    "translations.json",
+    "notes.json",
+    "term_map.json",
+    "review.json",
+    "numeric_audit.json",
+    "emphasis_repairs.json"
+  ]
+}

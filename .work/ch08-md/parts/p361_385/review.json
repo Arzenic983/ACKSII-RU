@@ -1,0 +1,261 @@
+{
+  "book": "ACKS II Revised Rulebook",
+  "chapter": "08",
+  "pdf_pages": [
+    361,
+    385
+  ],
+  "first_id": "rr.p0361.b001",
+  "last_id": "rr.p0385.b022",
+  "unit_count": 1357,
+  "translated_count": 1357,
+  "status": "reviewed_by_translating_agent_no_user_approval",
+  "meaning_review": "Выполнен новый перевод и первичная смысловая сверка всех единиц диапазона с английским source.jsonl; таблицы числовых значений перенесены без пересчёта. DOCX участников просмотрен как непроверенный источник: большинство разделов здесь представлено только заголовками; автоматическое выравнивание не применялось. Независимая полная вычитка другим редактором не выполнялась.",
+  "technical_checks": {
+    "id_coverage_complete": true,
+    "source_revision_all_zero": true,
+    "english_source_not_modified": true,
+    "numeric_multiset_issues": 0,
+    "bold_marker_count_issues": 0,
+    "original_br_count_preserved": true,
+    "table_headers_english_added": [
+      "rr.p0363.t01.r001.c02",
+      "rr.p0363.t01.r001.c03",
+      "rr.p0368.t01.r001.c01",
+      "rr.p0368.t01.r001.c02",
+      "rr.p0369.t01.r001.c01",
+      "rr.p0369.t01.r001.c02",
+      "rr.p0369.t02.r001.c01",
+      "rr.p0369.t02.r001.c02",
+      "rr.p0370.t01.r001.c01",
+      "rr.p0371.t01.r001.c01",
+      "rr.p0371.t01.r001.c02",
+      "rr.p0375.t01.r001.c01",
+      "rr.p0375.t01.r001.c02",
+      "rr.p0376.t01.r001.c02",
+      "rr.p0376.t01.r001.c05",
+      "rr.p0376.t01.r001.c06",
+      "rr.p0376.t01.r001.c07",
+      "rr.p0376.t01.r001.c08",
+      "rr.p0376.t01.r001.c09",
+      "rr.p0376.t01.r001.c10",
+      "rr.p0376.t01.r021.c02",
+      "rr.p0376.t01.r021.c05",
+      "rr.p0376.t01.r021.c06",
+      "rr.p0376.t01.r021.c07",
+      "rr.p0376.t01.r021.c08",
+      "rr.p0376.t01.r021.c09",
+      "rr.p0376.t01.r021.c10",
+      "rr.p0378.t01.r001.c01",
+      "rr.p0378.t01.r001.c02",
+      "rr.p0379.t01.r001.c04",
+      "rr.p0379.t01.r001.c05",
+      "rr.p0381.t01.r001.c01",
+      "rr.p0381.t03.r001.c01",
+      "rr.p0381.t03.r001.c02",
+      "rr.p0382.t01.r001.c03",
+      "rr.p0382.t01.r022.c03",
+      "rr.p0382.t02.r001.c01"
+    ],
+    "pure_numeric_cells_verbatim": true
+  },
+  "tables": [
+    {
+      "id": "rr.p0362.t01",
+      "rows": 7,
+      "columns": 4,
+      "units": 28,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0363.t01",
+      "rows": 16,
+      "columns": 3,
+      "units": 48,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0363.t02",
+      "rows": 10,
+      "columns": 2,
+      "units": 20,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0364.t01",
+      "rows": 4,
+      "columns": 5,
+      "units": 20,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0368.t01",
+      "rows": 5,
+      "columns": 2,
+      "units": 10,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0369.t01",
+      "rows": 10,
+      "columns": 2,
+      "units": 20,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0369.t02",
+      "rows": 6,
+      "columns": 2,
+      "units": 12,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0370.t01",
+      "rows": 12,
+      "columns": 4,
+      "units": 48,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0371.t01",
+      "rows": 6,
+      "columns": 2,
+      "units": 12,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0372.t01",
+      "rows": 7,
+      "columns": 6,
+      "units": 42,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0374.t01",
+      "rows": 6,
+      "columns": 3,
+      "units": 18,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0375.t01",
+      "rows": 6,
+      "columns": 2,
+      "units": 12,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0376.t01",
+      "rows": 31,
+      "columns": 10,
+      "units": 310,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0378.t01",
+      "rows": 6,
+      "columns": 2,
+      "units": 12,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0379.t01",
+      "rows": 14,
+      "columns": 5,
+      "units": 70,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0381.t01",
+      "rows": 14,
+      "columns": 2,
+      "units": 28,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0381.t02",
+      "rows": 7,
+      "columns": 3,
+      "units": 21,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0381.t03",
+      "rows": 6,
+      "columns": 2,
+      "units": 12,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0382.t01",
+      "rows": 32,
+      "columns": 4,
+      "units": 126,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0382.t02",
+      "rows": 4,
+      "columns": 3,
+      "units": 12,
+      "unique_coordinates": true,
+      "translated": true
+    },
+    {
+      "id": "rr.p0385.t01",
+      "rows": 7,
+      "columns": 2,
+      "units": 14,
+      "unique_coordinates": true,
+      "translated": true
+    }
+  ],
+  "geometry_limit": "Проверены полнота ID, уникальность исходных координат и сохранение <br>; итоговые HTML-таблицы собирает интегратор, здесь геометрия итогового Markdown не проверялась.",
+  "pdf_images_viewed": [
+    370,
+    373,
+    376,
+    377,
+    381,
+    385
+  ],
+  "visual_scope": "Просмотрены оригинальные страницы: таблицы наказаний 370 и товаров 376, обе формулы 373/377, отправления и условия дат 381, 6 часов и параметры инвестиций 385. Визуальная вычитка остальных страниц и итогового Markdown не выполнялась.",
+  "source_discrepancy_notes_count": 21,
+  "cross_source_checks": [
+    "rr.p0363.t01.r008.c03 vs rr.p0367.b008",
+    "rr.p0371.b001 vs rr.p0370.t01.r006.c03",
+    "rr.p0378.b016 vs rr.p0377.b018 and rr.p0378.b014",
+    "rr.p0380.b007 vs rr.p0378.b020",
+    "rr.p0380.b016 vs rr.p0379.b006",
+    "rr.p0381.t02.r005.c02/r006.c02 vs rr.p0372.t01.r005.c05/r006.c05",
+    "rr.p0383.b006 vs rr.p0383.b007",
+    "rr.p0383.b012 vs rr.p0382.t02.r002.c01 and rr.p0383.b001",
+    "rr.p0384.b006 vs rr.p0383.b009/b012",
+    "rr.p0384.b020 vs rr.p0383.b011",
+    "rr.p0385.b005 vs chapter 1 rr.p0023.b005"
+  ],
+  "open_questions": [
+    "Новые термины и имена в term_map.json — рабочие, требуют решения главного переводчика.",
+    "Все исходные разночтения оставлены в notes.json; исправления правил не придуманы.",
+    "CSV/JSONL, база, общий Markdown и коммит остаются интегратору."
+  ]
+}

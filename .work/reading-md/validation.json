@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-16",
-  "target": "ACKSII\\Перевод Markdown\\ACKS II — Начало и главы 1–5.md",
+  "date": "2026-10-17",
+  "target": "ACKSII\\Перевод Markdown\\ACKS II — Начало и главы 1–8.md",
   "pdf_pages": [
     5,
-    263
+    427
   ],
-  "compact_page_markers": 259,
-  "all_editorial_notes_preserved": 434,
+  "compact_page_markers": 423,
+  "all_editorial_notes_preserved": 578,
   "cover_note_relocated_to_pdf_page": 25,
-  "tables_preserved_verbatim_after_metadata_removal": 175,
+  "tables_preserved_verbatim_after_metadata_removal": 300,
   "rendered_table_geometry_preserved": true,
   "bilingual_headings_and_table_subtitles_preserved": true,
   "rule_text_preserved_in_order": true,
@@ -16,9 +16,14 @@
   "previous_reader_pages_5_101_unchanged": true,
   "previous_reader_pages_5_123_unchanged": true,
   "previous_reader_pages_5_179_unchanged": true,
+  "previous_reader_pages_5_263_unchanged": true,
+  "previous_reader_pages_5_315_unchanged": true,
+  "previous_reader_pages_5_333_unchanged": true,
+  "point_of_sail_diagram_preserved": true,
+  "previous_reader_1_5_sha256_normalized_newlines": "b0837f987d0538328a4e4c06739c3f9936c287ff89488592ce02b5af6a949069",
   "previous_reader_1_4_sha256_normalized_newlines": "d4c52248afd133a6fc950f471827a16069d8b1163070be8e602a2f822a3c3362",
   "previous_reader_1_3_sha256_normalized_newlines": "ed1b4334966bd407efd9054fb04367fe378ecd0e0753e2058d90edf05a3e470f",
   "previous_reader_sha256_normalized_newlines": "4dcc3bae1b13b97eaf6a9f7d58e6297b9aacaf664f766a25960f0da145154cb7",
-  "bytes": 2705562,
-  "sha256": "053742e8cd79375deeb41e87fc40238547e870de91b9d1e1b338cd2aae22370f"
+  "bytes": 4498687,
+  "sha256": "c80bfa4390ffc37eb598c12a15829d9b27aa94eb1c48d354fd5d48443810c6cd"
 }

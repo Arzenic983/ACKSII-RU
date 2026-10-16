@@ -1,0 +1,259 @@
+{
+  "book": "ACKS II Revised Rulebook",
+  "chapter": "08",
+  "pdf_pages": [
+    408,
+    427
+  ],
+  "id_first": "rr.p0408.b001",
+  "id_last": "rr.p0427.b018",
+  "units_expected": 730,
+  "units_translated": 730,
+  "complete": true,
+  "unit_kinds": {
+    "list_item": 29,
+    "paragraph": 130,
+    "heading": 37,
+    "table_cell": 534
+  },
+  "source_revision": 0,
+  "status": "reviewed_by_agent_not_user_approved",
+  "human_approval": false,
+  "semantic_review": "Первичная смысловая сверка всех 730 переводимых единиц с английскими source.jsonl при переводе; повторно проверены повторяющиеся таблицы последствий, ограничения, виды Спасбросков, сроки, стоимость, уровни и таблицы прорывов. Не заявляется независимая вычитка человеком.",
+  "numeric_review": {
+    "numeric_multisets_compared": 730,
+    "normalization": "Изъяты оформительские английские подписи и small, убраны разделители тысяч, склеен разрыв 1<br>d10; цифровые значения и кости сверены по каждой единице. Цифры внутри подписей имён предметов не дублируются в сравнении.",
+    "unresolved_translation_differences": 0,
+    "original_arithmetic_issues_retained": true
+  },
+  "identity_review": {
+    "id_set_matches_sqlite_read_only": true,
+    "source_markup_and_sha256_match": true,
+    "revision_preserved": true,
+    "no_source_or_database_changes": true
+  },
+  "emphasis_review": {
+    "all_730_source_marker_counts_preserved": true,
+    "split_runs_restored_without_changing_visible_text": true,
+    "repair_script": "repair_emphasis.py"
+  },
+  "table_geometry_review": {
+    "method": "Метаданные source_tables и units прочитаны прямо из SQLite в URI mode=ro. Проверены полные покрытия координат, отсутствие перекрытий, ID каждой исходной ячейки, исходные rowspan/colspan; translations.json меняет только строковые значения.",
+    "tables": [
+      {
+        "id": "rr.p0410.t01",
+        "rows": 5,
+        "columns": 2,
+        "source_cells": 10,
+        "positions": 10,
+        "all_present": true,
+        "spans_unchanged": true
+      },
+      {
+        "id": "rr.p0411.t01",
+        "rows": 4,
+        "columns": 4,
+        "source_cells": 16,
+        "positions": 16,
+        "all_present": true,
+        "spans_unchanged": true
+      },
+      {
+        "id": "rr.p0411.t02",
+        "rows": 4,
+        "columns": 4,
+        "source_cells": 16,
+        "positions": 16,
+        "all_present": true,
+        "spans_unchanged": true
+      },
+      {
+        "id": "rr.p0411.t03",
+        "rows": 8,
+        "columns": 4,
+        "source_cells": 32,
+        "positions": 32,
+        "all_present": true,
+        "spans_unchanged": true
+      },
+      {
+        "id": "rr.p0414.t01",
+        "rows": 11,
+        "columns": 4,
+        "source_cells": 44,
+        "positions": 44,
+        "all_present": true,
+        "spans_unchanged": true
+      },
+      {
+        "id": "rr.p0415.t01",
+        "rows": 11,
+        "columns": 4,
+        "source_cells": 44,
+        "positions": 44,
+        "all_present": true,
+        "spans_unchanged": true
+      },
+      {
+        "id": "rr.p0416.t01",
+        "rows": 11,
+        "columns": 4,
+        "source_cells": 44,
+        "positions": 44,
+        "all_present": true,
+        "spans_unchanged": true
+      },
+      {
+        "id": "rr.p0417.t01",
+        "rows": 11,
+        "columns": 4,
+        "source_cells": 44,
+        "positions": 44,
+        "all_present": true,
+        "spans_unchanged": true
+      },
+      {
+        "id": "rr.p0418.t01",
+        "rows": 11,
+        "columns": 4,
+        "source_cells": 44,
+        "positions": 44,
+        "all_present": true,
+        "spans_unchanged": true
+      },
+      {
+        "id": "rr.p0419.t01",
+        "rows": 11,
+        "columns": 4,
+        "source_cells": 44,
+        "positions": 44,
+        "all_present": true,
+        "spans_unchanged": true
+      },
+      {
+        "id": "rr.p0420.t01",
+        "rows": 21,
+        "columns": 2,
+        "source_cells": 42,
+        "positions": 42,
+        "all_present": true,
+        "spans_unchanged": true
+      },
+      {
+        "id": "rr.p0421.t01",
+        "rows": 21,
+        "columns": 2,
+        "source_cells": 42,
+        "positions": 42,
+        "all_present": true,
+        "spans_unchanged": true
+      },
+      {
+        "id": "rr.p0422.t01",
+        "rows": 21,
+        "columns": 2,
+        "source_cells": 42,
+        "positions": 42,
+        "all_present": true,
+        "spans_unchanged": true
+      },
+      {
+        "id": "rr.p0423.t01",
+        "rows": 10,
+        "columns": 2,
+        "source_cells": 20,
+        "positions": 20,
+        "all_present": true,
+        "spans_unchanged": true
+      },
+      {
+        "id": "rr.p0424.t01",
+        "rows": 6,
+        "columns": 2,
+        "source_cells": 12,
+        "positions": 12,
+        "all_present": true,
+        "spans_unchanged": true
+      },
+      {
+        "id": "rr.p0425.t01",
+        "rows": 15,
+        "columns": 2,
+        "source_cells": 30,
+        "positions": 30,
+        "all_present": true,
+        "spans_unchanged": true
+      },
+      {
+        "id": "rr.p0427.t01",
+        "rows": 4,
+        "columns": 2,
+        "source_cells": 8,
+        "positions": 8,
+        "all_present": true,
+        "spans_unchanged": true
+      }
+    ],
+    "body_br_counts_preserved": true,
+    "hash_ability_markers_preserved": true
+  },
+  "pdf_images_viewed": [
+    412,
+    422,
+    425,
+    426
+  ],
+  "visual_review_scope": "Просмотрены изображения исходного PDF: пример кольца (412), обозначения #/##/#### и геометрия таблицы неожиданных способностей (422), два заголовка и таблица порога (425), числовой торговый пример и подписи статей (426). Полная визуальная вычитка всех 20 PDF-страниц и отображения итогового Markdown не выполнялась.",
+  "term_review": "Сверены Глоссарий.md, glossary.json, bilingual_terms.md; названия заклинаний главы 5 сверены с картой. Термины ритуалов и конструктов согласованы с агентом 386–407. Новые формы term_map.json — рабочие, без утверждения.",
+  "independent_review_followup": {
+    "report": "../p361_385/independent_review_408_427.json",
+    "all_findings_applied": true,
+    "spell_names": "Мрак и Неугасающий мрак сверены с английскими и русскими rr.p0229.b021/rr.p0230.b004; названия исправлены в PDF 421.",
+    "domain_morale": "Мораль Домена согласована с интегратором, включая заголовок таблицы и оба результата освящения.",
+    "source_notes_added": [
+      "rr.p0425.b009",
+      "rr.p0425.b017"
+    ],
+    "english_cross_checks": [
+      "rr.p0425.b007",
+      "rr.p0425.b009",
+      "rr.p0425.b017",
+      "rr.p0363.b007",
+      "rr.p0363.b015",
+      "rr.p0363.b016"
+    ],
+    "grammar": "Исправлены очкоа/нападаетют; числа, маркеры и табличные координаты проверены повторно."
+  },
+  "notes_count": 12,
+  "notes_ids": [
+    "rr.p0411.t01.r001.c01",
+    "rr.p0412.b004",
+    "rr.p0413.b010",
+    "rr.p0422.t01.r010.c02",
+    "rr.p0425.b001",
+    "rr.p0425.b020",
+    "rr.p0425.b009",
+    "rr.p0425.b017",
+    "rr.p0426.b008",
+    "rr.p0426.b010",
+    "rr.p0426.b013",
+    "rr.p0427.b014"
+  ],
+  "limitations": [
+    "Окончательное отображение заголовков PDF 425 требует двух английских display override, описанных в notes.json.",
+    "Редакторские вопросы сохранены рядом с ID; исходные арифметические несогласованности не исправлялись.",
+    "Сборка общего Markdown, импорт SQLite и коммит оставлены интегратору."
+  ],
+  "files_created": [
+    "translations.json",
+    "notes.json",
+    "term_map.json",
+    "review.json",
+    "numeric_audit.json",
+    "author.py",
+    "repair_emphasis.py",
+    "emphasis_repairs.json",
+    "check.py",
+    "source.txt"
+  ]
+}

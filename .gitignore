@@ -58,3 +58,47 @@ contributions/_export/
 .work/ch05-md/needs_translation.md
 .work/ch05-md/CHAPTER*.txt
 contributions/05/Черновик главы 5.md
+
+# Chapter 6: extracted contributor drafts, review views and generated previews
+.work/ch06-md/source_*.md
+.work/ch06-md/candidate_*.md
+.work/ch06-md/pdf*.png
+.work/ch06-md/chapter_preview.html
+.work/ch06-md/CHAPTER*.txt
+.work/ch06-md/CHAPTER*.json
+.work/ch06-md/[1-5]) *.txt
+.work/ch06-md/[1-5]) *.json
+.work/ch06-md/candidates.json
+.work/ch06-md/alignment.json
+.work/ch06-md/automatic_labels.json
+.work/ch06-md/labels.json
+.work/ch06-md/label_map.json
+.work/ch06-md/labels_needed.txt
+.work/ch06-md/labels_remaining.txt
+.work/ch06-md/pure_translations.json
+.work/ch06-md/bilingual_translations.json
+.work/ch06-md/bilingual_notes.json
+.work/ch06-md/numeric_differences.json
+
+# Chapters 7–8: local PDF renders, extracted drafts and disposable review views
+.work/ch07-md/pdf*.png
+.work/ch07-md/rendered_chapter.html
+.work/ch07-md/format_reading_before.py
+.work/ch08-md/*.png
+.work/ch08-md/candidate_*.md
+.work/ch08-md/contributor_draft.*
+.work/ch08-md/root_candidates.json
+.work/ch08-md/source_units.json
+.work/ch08-md/source_tables.json
+.work/ch08-md/rendered_chapter.html
+.work/ch08-md/render_differences.json
+.work/ch08-md/mechanics_differences.json
+.work/ch08-md/parts_audit.json
+.work/ch08-md/*.updated.md
+.work/ch08-md/parts/*/*
+!.work/ch08-md/parts/*/translations.json
+!.work/ch08-md/parts/*/notes.json
+!.work/ch08-md/parts/*/term_map.json
+!.work/ch08-md/parts/*/review.json
+!.work/ch08-md/parts/*/root_review_*.json
+!.work/ch08-md/parts/*/independent_review_*.json

@@ -71,10 +71,10 @@
     "title_ru": "Приключения",
     "first_pdf_page": 264,
     "last_pdf_page": 315,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 2144,
-    "translated_units": 0,
-    "pending_units": 2144
+    "translated_units": 2144,
+    "pending_units": 0
   },
   {
     "id": "07",
@@ -82,10 +82,10 @@
     "title_ru": "Плавания",
     "first_pdf_page": 316,
     "last_pdf_page": 333,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 964,
-    "translated_units": 0,
-    "pending_units": 964
+    "translated_units": 964,
+    "pending_units": 0
   },
   {
     "id": "08",
@@ -93,10 +93,10 @@
     "title_ru": "Кампании",
     "first_pdf_page": 334,
     "last_pdf_page": 427,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 4906,
-    "translated_units": 0,
-    "pending_units": 4906
+    "translated_units": 4906,
+    "pending_units": 0
   },
   {
     "id": "09",

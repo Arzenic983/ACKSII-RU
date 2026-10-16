@@ -1196,3 +1196,414 @@
 | Webbing | Паутина |
 | Winged Flight | Крылатый полёт |
 | X-Ray Vision | Рентгеновское зрение |
+
+## Глава 6 — рабочие подписи
+
+PDF 264–315. Эти формы служат оформлению и не меняют утверждённый глоссарий. Traversing остаётся «прорывание»; выбор нового русского названия требует решения главного переводчика.
+
+| English term | Рабочая русская форма |
+| --- | --- |
+| Adventures | Приключения (название главы; Adventuring как навык — Авантюризм) |
+| Dungeonbashing | Проламывание |
+| Hiding | Прятание |
+| foreknowledge / FORE | предварительные сведения / ПС |
+| line of sight / LOS | линия видимости / ЛВ |
+| crawling traverse | прорывание ползком |
+| balancing traverse | прорывание с балансированием |
+| rappelling | спуск по верёвке |
+| belaying | страховка |
+| Squeezing | Протискивание |
+| impact point | точка попадания |
+| splash | брызги (масло); накрытие (артиллерия) |
+| scatter | отклонение |
+| rider | всадник |
+| passenger | пассажир |
+| driver | возница |
+| transporter | носитель |
+| heroic funeral | героические похороны |
+| reserve XP fund | резервный фонд Опыта |
+| frigid / cold / sweltering | мороз / холод / зной |
+| flurry / snowy / sunbaked | слабый снег / снегопад / солнцепёк |
+
+
+## Глава 7: рабочие обозначения начального фрагмента
+
+16 октября 2026 года. PDF 316 и начало PDF 317, до rr.p0317.b008. Формы рабочие, без утверждения человеком. Мореплавание [Seafaring] и Плавание [Swimming] сохраняют глоссарий. Мореход [Mariner] здесь — специалист экипажа; в прежних главах это слово также встречается как титул.
+
+| English | Рабочий русский вариант |
+| --- | --- |
+| Seafarers | Мореплаватели |
+| Mariners | Мореходы |
+| Marines | Морские пехотинцы |
+| Rowers | Гребцы |
+| Sailors | Матросы |
+| Seafaring (rowing) | Мореплавание (гребля) |
+| Seafaring (sailing) | Мореплавание (парусное дело) |
+
+Различие oars/paddles в rr.p0317.b006 пока передано как «распашные и гребковые вёсла»; окончательную морскую терминологию определяет главный переводчик.
+
+
+## Глава 8: рабочие обозначения начального фрагмента
+
+16 октября 2026 года. PDF 334 и начало PDF 335, до rr.p0335.b013. Следующие формы рабочие, без утверждения человеком. Названия вспомогательной, целенаправленной и утомительной деятельности сохраняют карту прежних глав и определения главы 1.
+
+| English | Рабочий русский вариант |
+| --- | --- |
+| Stronghold | Крепость |
+| Syndicate | Синдикат |
+| Attune to a dungeon | Настроиться на подземелье |
+
+Термин attune to a dungeon относится к отдельной механике; при переводе соответствующего раздела главы 8 требуется сверить контекст и уточнить рабочее название. Площадь 30,000 sf в rr.p0335.b007 сохраняется как 30 000 кв. футов.
+
+
+### Продолжение главы 8 до PDF 338
+
+16 октября 2026 года. Рабочие формы, без утверждения человеком; названия классов, навыков и снаряжения прежних глав имеют приоритет.
+
+| English | Рабочий русский вариант |
+| --- | --- |
+| Follower | Последователь |
+| Companion | Соратник |
+| Clanhold | Клановое владение |
+| Congregants | Прихожане |
+| Spot price | Спотовая цена |
+| Plannable hijink | Планируемые Происки |
+| Unplannable hijink | Непланируемые Происки |
+| Crude trap | Примитивная ловушка |
+
+Stronghold как общее понятие пока передаётся «крепость», Fortress как особый тип — «Крепость» с соответствующими английскими подписями. Форму для общего понятия должен определить главный переводчик. Снаряжение сверено с главой 4, включая полосчатые латы, метательные стрелки, дротик и арбалет с воротом. Longbowmen передано словарным «стрелки» с английской подписью.
+
+
+## Глава 7: завершение до PDF 333
+
+16 октября 2026 года. Новые формы рабочие, без утверждения человеком. Названия судов и оружия сверены с главой 4, заклинаний — с главой 5. Clear сохраняет словарное «Равнины»; Iron rations — «сухой паёк» по главе 4.
+
+| English | Рабочий русский вариант |
+| --- | --- |
+| Navigator | Навигатор |
+| Captain | Капитан |
+| Master Mariner | Мастер-мореход |
+| Point of Sail | Курс относительно ветра |
+| Close Hauled | Крутой бейдевинд |
+| Beam Reach | Галфвинд |
+| Broad Reach | Бакштаг |
+| Run / running before the wind | Фордевинд |
+| Tacking | Лавировка |
+| Oar Sprint | Спринт на вёслах |
+| Oar Cruise | Крейсерский ход на вёслах |
+| Oar Slow | Малый ход на вёслах |
+| Backwatering | Задний ход на вёслах |
+| Voyage Speed | Скорость плавания |
+| Boarding Bridge | Абордажный мост |
+| Boarding Ramp | Абордажные сходни |
+| Fire Pot Pole | Шест для огневого горшка |
+| Grapple Line | Абордажный трос |
+| Structural Damage | Конструкционный урон |
+| Sea Battlemap | Морская боевая карта |
+| Deck Battlemap | Боевая карта палубы |
+| Scurvy | Цинга |
+
+Топонимы Аммасаурейское море [Ammasaurëan Sea], Сирнасос [Syrnasos], Юттингские горы [Jutting Mountains] и Менири [Meniri] — рабочие формы. Различайте Мореплавание [Seafaring], Плавание [Swimming] и плавание [voyage]; броски боевого духа [morale] и верности [loyalty]. Имеющиеся разночтения оригинала сохраняются с примечаниями.
+
+## Глава 8: итоговая рабочая карта
+
+17 октября 2026 года. Новые формы ниже рабочие и не меняют утверждённый глоссарий. Разные рабочие варианты перечислены для решения главного переводчика. Companion — глоссарный компаньон; НИП/ПИ, Порядочный, Саванна, Степь, Укрытие, Торговый дом, Убежище и Оплот сохраняют формы проекта.
+
+| English | Рабочая русская форма |
+| --- | --- |
+| Acclamation | Признание |
+| acquittal | оправдание |
+| acquittal with damages | оправдание с возмещением ущерба |
+| Activated Effect | Активируемый эффект |
+| Alakyrum | Алакирум |
+| Annihilation | Уничтожение |
+| Apathetic | Безразличный |
+| Apotheosis | Апофеоз |
+| arbitrage trading | арбитражная торговля |
+| arbitrager | арбитражник |
+| Arcane Power | Магическая сила |
+| Arcane Spellcaster | Тайный заклинатель |
+| archfiend | архиисчадие |
+| Argollëan Family | Арголлейская семья |
+| Arson | Поджог |
+| Assassinating | Заказное убийство |
+| assault | покушение на насилие |
+| At-Will Effect | Эффект по желанию |
+| Attune to a Dungeon | Настроиться на подземелье |
+| Attunement | Настройка |
+| Audarammas | Аудараммас |
+| Bailout | Финансовая помощь |
+| Balanced | Сбалансированное; Сбалансированный |
+| Banking Fee | Банковский сбор |
+| Bankruptcy | Банкротство |
+| Base Cost | Базовая стоимость |
+| base rate of return | базовая норма доходности |
+| baseline merchant cargo | базовый торговый груз |
+| battery | побои |
+| blighted | осквернённый |
+| blood sacrifice | кровавое жертвоприношение |
+| Body Mass Exponent | Показатель массы тела |
+| borderlands | пограничный; пограничные земли |
+| boss | босс |
+| breakthrough | прорыв |
+| Brigandage/Piracy | Разбой/пиратство |
+| business establishment | создание предприятия |
+| Calamity | Бедствие |
+| Caleför | Калефёр |
+| Call to Arms | Призыв к оружию |
+| Call to Council | Призыв в совет |
+| Cargo Handling Time and Cost | Время и стоимость обработки груза |
+| Carousing | Кутежи |
+| carrier | перевозчик |
+| Cataclysm | Катаклизм |
+| catastrophic mishap | катастрофическое неудачное происшествие |
+| Cautious | Осторожное; Осторожный |
+| Chaplain | Капеллан |
+| chaplain | капеллан |
+| Charged Effect | Эффект с зарядами |
+| Charter of Monopoly | Грамота на монополию |
+| charterer | фрахтователь |
+| civilized | цивилизованный |
+| Clanhold | Клановое владение |
+| Collateral | Залог |
+| commercial expedition | коммерческая экспедиция |
+| common merchandise | обычные товары |
+| Companion | Компаньон |
+| Component Cost | Стоимость компонентов |
+| Congregants | Прихожане |
+| congregation | община |
+| consecration | освящение |
+| Consonant Transit | Созвучный переход |
+| Consonant Travel | Созвучное путешествие |
+| consortium | незаконное сожительство |
+| Construct | Конструкт |
+| Consume Power | Поглощение силы |
+| Contract of Carriage | Договор перевозки |
+| conventional | традиционный |
+| conviction | осуждение |
+| conviction on lesser charge | осуждение по менее тяжкому обвинению |
+| crew | команда |
+| criminal guild | преступная гильдия |
+| Crossbreed | Гибрид |
+| Crossbreeding | Скрещивание |
+| Crossbreeding Laboratory | Лаборатория скрещивания |
+| Cthaylor of the Deep | Ктейлор Глубинная |
+| Decimation | Разгром |
+| Dedicated | Преданный |
+| Default | Неплатёж |
+| Deferment | Отсрочка платежей |
+| Defiant | Непокорный |
+| Delay | Задержка |
+| demand modifier | модификатор спроса |
+| Demoralized | Подавленный |
+| Destruction | Уничтожение |
+| Discovery | Открытие |
+| dispute | разногласия |
+| Disrepute | Дурная слава |
+| divine power | божественная сила |
+| domain morale | мораль Домена |
+| Domain Morale | мораль Домена |
+| Drawback | Недостаток |
+| Duty | Обязанность |
+| efficiency | эффективность |
+| Emissary | Посланник |
+| Escaping | Побег |
+| Exhaustion of Arbitrage | Исчерпание арбитража |
+| experimental advantage | экспериментальное преимущество |
+| Extension | Продление срока |
+| Fastness | Оплот |
+| Favor | Милость |
+| Fee | Сбор |
+| Flying Fortress | Летающая крепость |
+| Formula | Формула |
+| forsaken | покинутый |
+| freebooter | флибустьер |
+| Froggy | Лягушки |
+| Hafari | Хафари |
+| Harvest | Урожай |
+| haste | спешка |
+| high treason | государственная измена |
+| honcho | главарь |
+| income | доход |
+| independent minor senator | независимый младший сенатор |
+| Infiltrating | Внедрение |
+| influence value | величина влияния |
+| insight | озарение |
+| interpleader | заступничество |
+| Investment | Инвестиция |
+| Kidnapping | Похищение |
+| land revenue | земельные поступления |
+| land value | ценность земли |
+| Land Value | ценность земли |
+| laying low | залечь на дно |
+| leading faction | ведущая фракция |
+| leading senator | ведущий сенатор |
+| lesser punishment | смягчённое наказание |
+| Liber Faunus | Либер Фавн |
+| Living Nightmare | Живой кошмар |
+| living nightmare | живой кошмар |
+| lore | знания |
+| Loyal | Верный |
+| Magic Experimentation | Магические эксперименты |
+| Magic Mushrooms | Волшебные грибы |
+| Magic Research | Магические исследования |
+| Magic Research Throw | Бросок магического исследования |
+| Magic Researcher | Магический исследователь |
+| magical mutations | магические мутации |
+| major breakthrough | крупный прорыв |
+| major mishap | крупное неудачное происшествие |
+| Major Special Ability | Большая особая способность |
+| market impact | рыночное влияние |
+| Massive Size | Массивный размер |
+| Material Cost | Стоимость материалов |
+| Maturation | Укрепление платёжеспособности |
+| maximum effective level | максимальный эффективный уровень |
+| mayhem | нанесение увечий |
+| mercantile income | коммерческий доход |
+| merchandise | товар |
+| method of experimentation | метод эксперимента |
+| minor breakthrough | малый прорыв |
+| minor mishap | малое неудачное происшествие |
+| minor senator | младший сенатор |
+| Minor Special Ability | Малая особая способность |
+| Miracle | Чудо |
+| Miscellaneous Components | Разнообразные компоненты |
+| mishap | неудачное происшествие |
+| money lending | денежный заём |
+| Monopoly | Монополия |
+| monthly XP threshold | месячный порог Опыта |
+| moorage or stabling fees | плата за причал или содержание |
+| Mortuary and Embalming Chamber | Покойницкая и бальзамировочная |
+| Munerator | Мунератор |
+| Narmir the Just | Нармир Справедливый |
+| Nephil | Нефил |
+| net worth | чистое состояние |
+| Nuvië | Нувиэ |
+| One-Use Effect | Одноразовый эффект |
+| Ongoing Damage | Продолжающийся урон |
+| Opelenea | Опеленея |
+| outlands | окраинные земли; окраинный; окраинные земли |
+| Overseeing Construction | Надзор за строительством |
+| Overseeing Investments | Надзор за вложениями |
+| Overseeing Troop Training | Надзор за подготовкой войск |
+| Palace of Sulaimon | Дворец Сулаймона |
+| passive investment | пассивная инвестиция |
+| Patron | Покровитель |
+| peasant family | крестьянская семья |
+| Perilous | Опасное; Опасный |
+| Permanency | Постоянство |
+| Permanent Bonus | Постоянный бонус |
+| Permanent Effect | Постоянный эффект |
+| perpetrator | исполнитель |
+| Perpetual Tenebrosity | Неугасающий мрак |
+| personal authority | личный авторитет |
+| Piltgarin | Пильтгарин |
+| pioneering | новаторский |
+| Plague | Мор |
+| Pluton | Плутон |
+| policy objective | политическая цель |
+| political faction | политическая фракция |
+| precious merchandise | драгоценные товары |
+| Price Reset | Пересмотр цен |
+| price step | шаг цены |
+| Principal | Основной капитал |
+| Progenitor | Прародитель |
+| proscribed | объявлен вне закона |
+| Protector | Защитник |
+| punitive conviction | показательное осуждение |
+| punitive punishment | показательное наказание |
+| Racket | Рэкет |
+| Racketeering | Рэкет |
+| radical | радикальный |
+| Ranine Rain | Лягушачий дождь |
+| rate of return | норма доходности |
+| Rate of Return | Норма доходности |
+| Ravage | Разорение |
+| Rebellious | Мятежный |
+| regicide | цареубийство |
+| Reingo the Ruthless | Рейнго Безжалостный |
+| Repayment | Погашение |
+| Requirements of Office | Требования к должности |
+| Research Assistant | Помощник исследователя |
+| Research Cost | Стоимость исследования |
+| Research Rate | Темп исследования |
+| Resurrection | Воскрешение |
+| Return | Доход |
+| revenue | поступления |
+| revolutionary breakthrough | революционный прорыв |
+| Risky | Рискованное; Рискованный |
+| Ritual Spell | Ритуальное заклинание |
+| Rival | Соперник |
+| ruffian | головорез |
+| ruling faction | правящая фракция |
+| Sabotaging | Саботаж |
+| Safe | Безопасное; Безопасный |
+| Sample | Образец |
+| Sanctum | Санктум |
+| scutage | щитовые деньги |
+| Seat of Power | Престол власти |
+| Secret Veil | Тайная завеса |
+| secret veil | тайная завеса |
+| sedition | подстрекательство к мятежу |
+| senate | сенат |
+| senatorial republic | сенатская республика |
+| senatorial seat | сенаторское место |
+| service revenue | поступления от услуг |
+| Seven-League Stride | Шаг в семь лиг |
+| Shadeveil | Теневой покров |
+| shadowed | затенённый |
+| Shadowscape | Теневой пейзаж |
+| shipper | грузоотправитель |
+| shipping consignment | грузовое отправление |
+| sinkhole of evil | Провал зла |
+| Slandering | Клевета |
+| Slimy | Слизь |
+| Smuggling | Контрабанда |
+| Soliciting | Зазывательство |
+| Sovereignty | Верховная власть |
+| Spawn of the Deep | Порождение глубин |
+| Special Components | Особые компоненты |
+| Special Disability | Особый изъян |
+| spell signature | магический почерк |
+| spiritual essence | духовная сущность |
+| Spying | Шпионаж |
+| Stalwart | Стойкий |
+| standard punishment | обычное наказание |
+| Steadfast | Непоколебимый |
+| steady trade route | постоянный торговый путь |
+| Stealing | Кража |
+| Steward | Управляющий |
+| Subverting | Подрыв |
+| Supervising Construction | Руководство строительством |
+| tariff | пошлина |
+| tax revenue | налоговые поступления |
+| Tenebrosity | Мрак |
+| Terran Cosmonaut | Земной космонавт |
+| Terran Starman | Земной звёздоплаватель |
+| toll | въездной сбор |
+| Total Research Rate | Общий темп исследования |
+| trade revenue | торговые поступления |
+| Transit Frame | Рама перехода |
+| Transitional Domain | Переходный Домен |
+| Treasure-Hunting | Поиск сокровищ |
+| tribute | дань |
+| Turbulent | Беспокойный |
+| Ulkyreus | Улькирей |
+| Undead Legion | Легион нежити |
+| underboss | подбосс |
+| Unexpected Abilities | Неожиданные способности |
+| Unlife | Нежизнь |
+| unsettled | незаселённый |
+| urban family | городская семья |
+| urban settlement | городское поселение |
+| vagaries | превратности |
+| Vagaries of Investment | Превратности инвестиций |
+| Vault | Убежище |
+| Vorpal Sword | Разящий меч |
+| Voting Roll | бросок голосования |
+| voting roll | бросок голосования |
+| Windfall | Неожиданная прибыль |
+| Wish | Желание |
+| Workshop | Мастерская |
+| Writedown | Уценка |
+| Youthfulness | Молодость |

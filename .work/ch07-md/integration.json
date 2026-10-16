@@ -1,0 +1,14 @@
+{
+  "chapter": "07",
+  "units": 964,
+  "package_revision": 0,
+  "database_revision": 1,
+  "other_chapters_unchanged": true,
+  "english_and_geometry_unchanged": true,
+  "backup": "C:\\Users\\Arsik\\Documents\\ChatGPT\\Перевод ACKS II на русский язык\\.work\\ch07-md\\before_chapter07.sqlite.tmp",
+  "verify": "passed",
+  "revisions": {
+    "rr.p0321.b011": 2
+  },
+  "post_import_terminology_correction": "rr.p0321.b011"
+}
