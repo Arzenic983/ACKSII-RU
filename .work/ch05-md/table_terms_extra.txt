@@ -1,0 +1,141 @@
+ARCANE | ТАЙНАЯ [ARCANE]
+DIVINE | БОЖЕСТВЕННАЯ [DIVINE]
+PRAYERFUL | МОЛИТВЕННЫЙ [PRAYERFUL]
+STUDIOUS | УЧЁНЫЙ [STUDIOUS]
+None | Нет
+blast | взрыв [blast]
+death | смерть [death]
+detection | обнаружение [detection]
+elemental(type) | стихии [elemental] (вид [type])
+enchantment | очарование [enchantment]
+esoteric | эзотерика [esoteric]
+healing | исцеление [healing]
+illusion | иллюзия [illusion]
+movement | движение [movement]
+necromancy\* | некромантия [necromancy]\*
+protection | защита [protection]
+summoning | призыв [summoning]
+transmogrification | трансмогрификация [transmogrification]
+wall | стена [wall]
+Repair Disfigurement & Dis.\* hea | Исцеление увечий и инвалидности [Repair Disfigurement and Disability]\* hea
+FIRE SIZE | РАЗМЕР ОГНЯ
+EXTRAORDINARY FIRE DAMAGE | ОСОБЫЙ ОГНЕННЫЙ УРОН
+Candle | Свеча
+1 (1 target only) | 1 (только 1 цель [target])
+Torch | Факел
+Campfire | Костёр
+Small bonfire | Малый костёр
+Large bonfire | Большой костёр
+HORSE | ЛОШАДЬ
+NO. CALLED BY CASTER LEVEL | ЧИСЛО ПРИШЕДШИХ НА ЗОВ ПО УРОВНЮ ЗАКЛИНАТЕЛЯ
+Light or Steppe Horse | Лёгкая или степная лошадь [Light or Steppe Horse]
+Medium Horse | Средняя лошадь [Medium Horse]
+Heavy Horse | Тяжёлая лошадь [Heavy Horse]
+TYPE OF LARGE CAT | ВИД БОЛЬШОЙ КОШКИ
+NATIVE TERRAIN | РОДНАЯ МЕСТНОСТЬ
+Lynx | Рысь [Lynx]
+Cheetah | Гепард [Cheetah]
+Cougar | Пума [Cougar]
+Panther | Пантера [Panther]
+Lion | Лев [Lion]
+Tiger | Тигр [Tiger]
+Jungle | Джунгли [Jungle]
+Barrens, Desert, Grasslands, Forest, Hills, Mountains | Пустоши [Barrens], пустыня [Desert], травянистые земли [Grasslands], лес [Forest], холмы [Hills], горы [Mountains]
+Grasslands, Scrublands, Jungle | Травянистые земли [Grasslands], кустарник [Scrublands], джунгли [Jungle]
+Hills, Mountains, Barrens | Холмы [Hills], горы [Mountains], пустоши [Barrens]
+Grasslands, Scrublands, Woods, River, Jungle | Травянистые земли [Grasslands], кустарник [Scrublands], редколесье [Woods], река [River], джунгли [Jungle]
+Grasslands, Scrublands, Desert, Jungle | Травянистые земли [Grasslands], кустарник [Scrublands], пустыня [Desert], джунгли [Jungle]
+TYPE OF BEAR | ВИД МЕДВЕДЯ
+Black bear | Чёрный медведь [Black bear]
+River | Река [River]
+Brown bear | Бурый медведь [Brown bear]
+Woods, Hills | Редколесье [Woods], холмы [Hills]
+Cave bear | Пещерный медведь [Cave bear]
+Mountains, Barrens | Горы [Mountains], пустоши [Barrens]
+VESSEL SPEED | СКОРОСТЬ СУДНА
+SEAFARING THROW | БРОСОК МОРЕПЛАВАНИЯ
+960’ or faster | 960’ или быстрее
+640’ or slower | 640’ или медленнее
+SPHERE | СФЕРА
+RESPONSIVE | ОТКЛИК
+TRUTHFUL | ПРАВДИВОСТЬ
+MODIFIER | МОДИФИКАТОР
+ALIGNMENT | МИРОВОЗЗРЕНИЕ
+Celestial | Небесная [Celestial]
+Death +4 | Смерть [Death] +4
+Caster’s | Заклинателя [Caster]
+Elemental | Стихийная [Elemental]
+Death -2 | Смерть [Death] -2
+Neutral | Нейтральное [Neutral]
+Chthonic | Хтоническая [Chthonic]
+Chaotic | Хаос [Chaotic]
+Empyrean | Эмпирейская [Empyrean]
+Lawful | Закон [Lawful]
+Outer Darkness | Внешняя Тьма [Outer Darkness]
+Death -8 | Смерть [Death] -8
+CONDITION | УСЛОВИЕ
+EFFECT | ЭФФЕКТ
+Frigid | Стужа [Frigid]
+Moderate | Умеренно [Moderate]
+Frigid or sweltering conditions ended instantaneously. | Стужа [frigid] или зной [sweltering] немедленно прекращаются.
+Sweltering | Зной [Sweltering]
+Fair | Ясно [Fair]
+Foggy, rainy, snowy, stormy, windy, or tornado conditions ended instantaneously. | Туман [foggy], дождь [rainy], снег [snowy], буря [stormy], ветер [windy] или смерч [tornado] немедленно прекращаются.
+Foggy | Туман [Foggy]
+Maximum visibility drops to 20’. Speeds of all creatures are halved except for those which do not rely on sight to function. | Максимальная видимость [maximum visibility] падает до 20’. Скорости всех существ, кроме не полагающихся на зрение, вдвое уменьшаются.
+Rainy | Дождь [Rainy]
+All missile attacks suffer a -2 penalty. Mud forms in 1 turn; thereafter, land speeds are halved except on paved roads;<br>wheeled vehicles cannot move at all except on paved roads. | Все дальнобойные атаки [missile attacks] получают -2. За 1 ход [turn] образуется грязь; затем наземные скорости вне мощёных дорог вдвое уменьшаются. Колёсный транспорт [wheeled vehicles] может двигаться только по мощёным дорогам.
+Snowy | Снег [Snowy]
+Maximum visibility drops to 20’. Speeds of all creatures are halved. Snow accumulates in 1 turn; thereafter, land speeds are<br>halved (again) and wheeled vehicles cannot move. | Максимальная видимость [maximum visibility] падает до 20’. Скорости всех существ вдвое уменьшаются. За 1 ход [turn] накапливается снег; затем наземные скорости уменьшаются вдвое ещё раз, а колёсный транспорт [wheeled vehicles] не может двигаться.
+Stormy | Буря [Stormy]
+Windy | Ветер [Windy]
+All missile attacks and listening throws suffer a -2 penalty. Air speed is halved. Expedition speed is halved. | Все дальнобойные атаки [missile attacks] и броски Подслушивания [listening throws] получают -2. Воздушная скорость [air speed] и экспедиционная скорость [expedition speed] вдвое уменьшаются.
+Tornado | Смерч [Tornado]
+ROLL<br>(1D10) | БРОСОК<br>(1D10)
+ANSWER | ОТВЕТ
+You shall set your eyes on the heavens; time enough for the earth in the grave. | Устремишь ты взор к небесам; земли тебе хватит в могиле.
+You shall be anointed, before you die, as one who walked among the high. | До смерти тебя помажут как того, кто ходил среди великих.
+You shall have, in the end, many true vassals, but one false friend. | В конце обретёшь ты многих верных вассалов, но одного лживого друга.
+Your many victories shall be won at the cost of many a woman’s son. | За множество твоих побед заплатят сыновья множества матерей.
+Precious jewels shall buy you only tools and fools. | Драгоценные камни купят тебе лишь орудия и глупцов.
+When the battle is won, a great lord shall be undone. | Когда будет выиграна битва, великий владыка падёт.
+By steel you shall lead, and by steel you shall bleed. | Сталью поведёшь — от стали кровь прольёшь.
+Reap what you have sown; blood, sorrow, or throne. | Пожнёшь посеянное: кровь, скорбь или трон.
+You shall be remembered for your deeds, or for your greeds. | Тебя запомнят за деяния или за алчность.
+The world shall lie at your feet until the day of your defeat. | Мир будет лежать у твоих ног до дня твоего поражения.
+CREATURE / OBJECT’S WEIGHT | ВЕС СУЩЕСТВА / ПРЕДМЕТА
+DAMAGE DEALT | НАНОСИМЫЙ УРОН
+Up to 4 stone (≤40 lbs) | До 4 стоунов [stone] (≤40 фунтов)
+4 stone to 8 stone (41 – 80 lbs) | От 4 до 8 стоунов [stone] (41 – 80 фунтов)
+9 stone to 15 stone (81 – 150 lbs) | От 9 до 15 стоунов [stone] (81 – 150 фунтов)
+16 stone to 30 stone (151 – 300 lbs) | От 16 до 30 стоунов [stone] (151 – 300 фунтов)
+31 stone to 60 stone (301 – 600 lbs) | От 31 до 60 стоунов [stone] (301 – 600 фунтов)
+61 stone to 120 stone (601 – 1,200 lbs) | От 61 до 120 стоунов [stone] (601 – 1,200 фунтов)
+121 stone to 240 stone (1,201 – 2,400 lbs) | От 121 до 240 стоунов [stone] (1,201 – 2,400 фунтов)
+241 stone to 392 stone (2,401 – 4,800 lbs) | От 241 до 392 стоунов [stone] (2,401 – 4,800 фунтов)
+TERRAIN | МЕСТНОСТЬ
+ALLIED MOVE<br>MULTIPLIER | МНОЖИТЕЛЬ ПЕРЕМЕЩЕНИЯ<br>СОЮЗНИКОВ
+ENEMY MOVE<br>MULTIPLIER | МНОЖИТЕЛЬ ПЕРЕМЕЩЕНИЯ<br>ВРАГОВ
+Hills, forest, scrubland | Холмы [hills], лес [forest], кустарник [scrubland]
+Mountain, jungle | Горы [mountain], джунгли [jungle]
+BEHAVIOR | ПОВЕДЕНИЕ
+Attack the caster or allies with melee or ranged<br>weapons (or move closer if attack is not possible). | Атаковать заклинателя [caster] или его союзников [allies] ближним [melee] или дальнобойным [ranged] оружием (либо приблизиться, если атака невозможна).
+Do nothing but babble incoherently. | Только бессвязно бормотать.
+Attack the creature’s own party, if any. | Атаковать собственную группу [party], если она есть.
+ENVIRONMENT | ОКРУЖЕНИЕ
+NO. OF OBJECTS | ЧИСЛО ПРЕДМЕТОВ
+Room, Rubbled | Комната с обломками
+Room, Cluttered | Захламлённая комната
+Room, Sparse | Скудно обставленная комната
+Room, Empty | Пустая комната
+Barren/Desert/Mountains | Пустоши [Barren]/пустыня [Desert]/горы [Mountains]
+Hills/Jungle/Scrub/Woods | Холмы [Hills]/джунгли [Jungle]/кустарник [Scrub]/редколесье [Woods]
+Clear/Grass/Swamp | Расчищенная земля [Clear]/травянистые земли [Grass]/болото [Swamp]
+CASTER FAMILIARITY | ЗНАКОМСТВО ЗАКЛИНАТЕЛЯ С МЕСТОМ
+ON<br>TARGET | В<br>ЦЕЛЬ
+OFF<br>TARGET | МИМО<br>ЦЕЛИ
+LOST | ПОТЕРЯН
+Intimately Familiar | Отлично знакомо [Intimately Familiar]
+Familiar | Знакомо [Familiar]
+Somewhat Familiar | Немного знакомо [Somewhat Familiar]
+Vaguely Familiar | Смутно знакомо [Vaguely Familiar]

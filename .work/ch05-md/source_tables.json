@@ -1,0 +1,218 @@
+[
+  {
+    "id": "rr.p0182.t01",
+    "pdf_page": 182,
+    "chapter_id": "05",
+    "block_order": 19,
+    "row_count": 3,
+    "column_count": 3,
+    "source_markup": "|  | ARCANE | DIVINE |\n| --- | --- | --- |\n| PRAYERFUL | None | Used by bladedancers, crusaders, priestesses, and shamans,<br>who cast spells that tap the power of immortal deities<br>through prayer. |\n| STUDIOUS | Used by elven nightblades, elven spellswords, mages,<br>Nobiran wonderworkers, warlocks, and Zaharan<br>ruinguards, who cast spells that tap the ambient power in<br>cosmos through formulaic procedures. | Used by dwarven craftpriests, who cast spells by tapping the<br>power of ancestral spirits and ancient relics through formulaic<br>procedures; and witches, who cast spells by cajoling, coercing,<br>and petitioning old powers with formulaic procedures. |"
+  },
+  {
+    "id": "rr.p0186.t01",
+    "pdf_page": 186,
+    "chapter_id": "05",
+    "block_order": 23,
+    "row_count": 14,
+    "column_count": 2,
+    "source_markup": "| bst | blast |\n| --- | --- |\n| dth | death |\n| det | detection |\n| elm(type) | elemental(type) |\n| enc | enchantment |\n| eso | esoteric |\n| hea | healing |\n| ill | illusion |\n| mov | movement |\n| nec | necromancy\\* |\n| pro | protection |\n| sum | summoning |\n| trn | transmogrification |\n| wal | wall |"
+  },
+  {
+    "id": "rr.p0188.t01",
+    "pdf_page": 188,
+    "chapter_id": "05",
+    "block_order": 3,
+    "row_count": 37,
+    "column_count": 4,
+    "source_markup": "|  | FIRST LEVEL ARCANE SPELLS | SECOND LEVEL ARCANE SPELLS | THIRD LEVEL ARCANE SPELLS |\n| --- | --- | --- | --- |\n| 1 | Arcane Armor pro | Adjust Self trn | Avian Messenger sum, trn |\n| 2 | Auditory Illusion ill | Battering Ram bst, elm(earth) | Bewitch Crowd enc |\n| 3 | Beguile Humanoid enc | Bewitch Humanoid enc | Boil Blood bst, elm(fire) |\n| 4 | Blinding Flash bst, elm(fire) | Bloody Flux dth | Chimerical Figment ill |\n| 5 | Chameleon trn | Burning Sparks bst, elm(fire) | Clairaudiency det |\n| 6 | Choking Grip dth | Circling Winds elm(air), wal | Clairvoyancy det |\n| 7 | Conjure Cacodemon Spawn sum | Conjure Imp sum | Cone of Frost bst, elm(water) |\n| 8 | Counterspell pro | Conjure Petty Elemental elm(any), sum | Conjure Hellion sum |\n| 9 | Desiccate bst, elm(water) | Dark Whisper dth | Create Chasm elm(earth), wal |\n| 10 | Discern Gist det | Deathless Minion nec | Deflect Ordinary Missiles pro |\n| 11 | Discern Magic det | Discern Invisible det | Dismember dth |\n| 12 | Earth’s Excrescence bst, elm(earth) | Dominate Humanoid enc | Dispel Magic pro |\n| 13 | Faithful Companion nec | Earth’s Wave bst, elm(earth) | Dominate Monster enc |\n| 14 | Fan of Flames bst, elm(fire) | Energy Protection elm(any), pro | Earth’s Teeth bst, elm(earth) |\n| 15 | Frighten Humanoid enc | Frostbite bst, dth, elm(water) | Fireball bst, elm(fire) |\n| 16 | Ice Floe elm(water), wal | Gale of Wind bst, elm(air) | Flight mov |\n| 17 | Illumination\\* eso | Halt Humanoidsenc | Force of Impetus elm(earth), mov |\n| 18 | Illusory Figment ill | Hypnotic Sigil enc | Growth\\* trn |\n| 19 | Infuriate Humanoid enc | Illusory Duplicates ill | Ice Sheet elm(water), wal |\n| 20 | Kindle Flame bst, elm(fire) | Illusory Interior ill | Illumination, Perpetual eso |\n| 21 | Leaping trn | Levitation mov | Inaudibility ill |\n| 22 | Mage Missile bst, elm(any) | Locate Object det | Incite Madness enc |\n| 23 | Seal Portal eso, mov | Magic Lock mov | Infuriate Crowd enc |\n| 24 | Sharpness trn | Necromantic Potence nec | Invisibility ill |\n| 25 | Shatter Blade bst, elm(earth) | Ogre Strength trn | Lightless Vision trn |\n| 26 | Silent Step trn | Phantasmal Figment ill | Lightning Strike bst, elm(air), eso |\n| 27 | Slicing Blow dth | Physical Protection pro | Rune of Warding eso, pro |\n| 28 | Slickness elm(water), wal | Rain of Vitriol bst, elm(water) | Skinchange trn |\n| 29 | Sling Stone bst, elm(earth) | Shrouding Fog elm(air), eso, wal | Speak with Dead nec |\n| 30 | Slumber enc | Sudden Staircase wal | Spellward pro |\n| 31 | Spider Climbing trn | Summon Insect Swarm sum | Strengthen the Unliving nec |\n| 32 | Summon Manes sum | Sunflare bst, elm(fire) | Summon Hellhounds sum |\n| 33 | Thunderclap elm(air), bst | Swimming elm(water), trn | Thunderbolt bst, elm(air) |\n| 34 | Unliving Puppet nec | Vitriolic Infusion elm(water), trn | Wall of Thunder elm(air), wal |\n| 35 | Wall of Smoke elm(air), wal | Warp Wood bst, elm(earth) | Water Breathing elm(water), trn |\n| 36 | Weave Smoke elm(air), wal | Webbing eso, wal | Weave Fire elm(fire), wal |"
+  },
+  {
+    "id": "rr.p0189.t01",
+    "pdf_page": 189,
+    "chapter_id": "05",
+    "block_order": 2,
+    "row_count": 37,
+    "column_count": 4,
+    "source_markup": "|  | FOURTH LEVEL ARCANE SPELLS | FIFTH LEVEL ARCANE SPELLS | SIXTH LEVEL ARCANE SPELLS |\n| --- | --- | --- | --- |\n| 1 | Animate Undead nec | Blast Ward pro | Anti-Magic Sphere pro |\n| 2 | Arcane Shift mov | Capsizing Wave bst, elm(water) | Banner of Invincibility pro |\n| 3 | Bewitch Monster enc | Carnage dth | Body Swap nec, trn |\n| 4 | Cloud of Poison elm(air), wal | Circle of Agony dth | Clairaudiency, Greater det |\n| 5 | Conjure Incubus sum | Cone of Paralysis enc | Clairvoyancy, Greater det |\n| 6 | Conjure Major Elemental elm(any), sum | Conjure Dybbuk sum | Conflagration bst, elm(fire) |\n| 7 | Earth’s Tremor bst, elm(earth) | Conjure Supreme Elem. elm(any), sum | Conjure Fiend sum |\n| 8 | Energy Invulnerability elm(any), pro | Contact Other Sphere det, eso | Conjure Genie elm(any), sum |\n| 9 | Cone of Fear enc | Control Winds elm (air), eso | Control Weather elm(air), eso |\n| 10 | Flesh to Ash dth | Curse of the Swine trn | Disfigure Body and Soul dth |\n| 11 | Giant Strength trn | Deflect Ordinary Weapons pro | Disintegration dth |\n| 12 | Growth, Plant\\* trn | Dominate Plants enc | Earth’s Movement elm(earth), eso, mov |\n| 13 | Guise Self trn | Earth’s Mire\\* elm(earth), trn | Enslave Humanoid enc |\n| 14 | Halt Monsters enc | Fillet and Serve dth, nec | Level Water elm(water), eso, mov |\n| 15 | Hidden Host ill | Firestorm bst, elm(fire) | Locate Distant Object det |\n| 16 | Illusory Terrain ill | Flay the Slain nec | Locate Place of Power det |\n| 17 | Indiscernibility eso, pro | Forest Enchantment enc | Madness of Crowds enc |\n| 18 | Inferno bst, elm(fire) | Forgetfulness enc | Necromantic Invulnerability nec |\n| 19 | Iron Maiden dth | Guise Other trn | Panic enc |\n| 20 | Locate Treasure det | Ice Storm bst, elm(water) | Passageway eso |\n| 21 | Magic Carpet mov | Lay of the Land det | Perpetual Figment ill |\n| 22 | Physical Invulnerability pro | Life Transfer dth | Petrification\\* dth |\n| 23 | Safe Travels trn | Lightless Vision, Mass trn | Programmatic Figment ill |\n| 24 | Scouring Zephyr bst, elm(air) | Locate Haunting det | Quest enc, eso |\n| 25 | Scry det, eso | Mirage ill | Reveal Ritual Magic det |\n| 26 | Shrieking Skull eso, nec | Phantasmal Horror ill | Soul Eating dth, nec |\n| 27 | Slumber, Deep enc | Rouse the Fallen nec | Spellwarded Zone pro |\n| 28 | Spectral Figment ill | Selective Fire bst, elm(fire) | Sphere of Invulnerability, Grt. pro |\n| 29 | Spellward Other pro | Soul Swap nec | Summon Invisible Stalker sum |\n| 30 | Sphere of Invulnerability, Lesser pro | Spectral Legion ill | Torpor nec |\n| 31 | Summon Shadow sum | Summon Ooze sum | Transform Other trn |\n| 32 | Sunder Structure bst, elm(earth) | Summon Weather elm(air), eso | Transform Self trn |\n| 33 | Telepathy det, eso | Telekinesis mov | Trollblood trn |\n| 34 | Wall of Flame elm(fire), wal | Teleportation mov | Wall of Annihilation wal |\n| 35 | Wall of Frost elm(water), wal | Wall of Stone elm(earth), wal | Wall of Corpses nec, wal |\n| 36 | Weave Water elm(water), wal | X-Ray Vision det, eso | Wall of Force wal |"
+  },
+  {
+    "id": "rr.p0190.t01",
+    "pdf_page": 190,
+    "chapter_id": "05",
+    "block_order": 2,
+    "row_count": 31,
+    "column_count": 4,
+    "source_markup": "|  | FIRST LEVEL DIVINE SPELLS | SECOND LEVEL DIVINE SPELLS | THIRD LEVEL DIVINE SPELLS |\n| --- | --- | --- | --- |\n| 1 | Allure enc | Augury det, eso | Avian Messenger sum, trn |\n| 2 | Angelic Choir ill | Beguile Humanoid enc | Bewitch Humanoid enc |\n| 3 | Bane-Rune trn | Bewitch Beast enc | Call of the Wild Bear sum |\n| 4 | Call of the Wolf sum | Call of the Wolf Pack sum | Clairaudiency det |\n| 5 | Counterspell pro | Choking Grip dth | Clairvoyancy det |\n| 6 | Cure Light Injury\\* hea | Circling Winds elm(air), wal | Cure Blindness\\* hea |\n| 7 | Delay Disease hea | Cure Moderate Injury\\* hea | Cure Disease\\* hea |\n| 8 | Destroy Dead dth | Dark Whisper dth | Cure Major Injury\\* hea |\n| 9 | Discern Evil\\* det | Deathless Minion nec | Deflect Ordinary Missiles pro |\n| 10 | Discern Gist det | Delay Poison hea | Discern Curse\\* det |\n| 11 | Discern Magic det | Discern Bewitchment\\* det | Discern Invisible det |\n| 12 | Discern Poison det | Divine Armor pro | Dispel Magic pro |\n| 13 | Faithful Companion nec | Divine Grace pro | Divine Protection pro |\n| 14 | Frighten Beast enc | Dominate Beasts enc | Growth, Beast trn |\n| 15 | Holy Circle\\* pro | Energy Protection elm(any) | Holy Circle, Sustained\\* pro |\n| 16 | Illumination\\* eso | Halt Humanoids enc | Holy Prayer mov |\n| 17 | Infuriate Beast enc | Holy Blessing\\* eso, pro | Illumination, Perpetual\\* eso |\n| 18 | Kindle Flame bst, elm(fire) | Holy Chant eso, pro | Invulnerability to Evil\\* pro |\n| 19 | Locate Animal or Plant det | Magic Lock mov | Lightning Strike bst, elm(air), eso |\n| 20 | Pass Without Trace trn | Necromantic Potence nec | Phantasmal Figment ill |\n| 21 | Predict Weather det | Noiselessness ill | Remove Curse\\* hea |\n| 22 | Purify Food and Water\\* eso | Physical Protection pro | Rune of Warding eso |\n| 23 | Remove Fear\\* eso, hea | Righteous Wrath trn | Speak with Dead nec |\n| 24 | Salving Rest eso, hea | Shimmer pro | Spellward pro |\n| 25 | Sanctuary eso, pro | Slicing Blow dth | Strengthen the Unliving nec |\n| 26 | Seal Portal eso, mov | Slumber enc | Striking trn |\n| 27 | Shatter Blade bst, elm(earth) | Speak with Beasts det | Swift Sword, Sustained mov |\n| 28 | Sling Stone bst, elm(earth) | Spiritual Weapon bst, eso | Water Breathing elm(water), trn |\n| 29 | Unliving Puppet nec | Swift Sword mov | Water Walking elm(water), mov |\n| 30 | Word of Command enc | Transform Beast trn | Winged Flight trn |"
+  },
+  {
+    "id": "rr.p0191.t01",
+    "pdf_page": 191,
+    "chapter_id": "05",
+    "block_order": 2,
+    "row_count": 31,
+    "column_count": 4,
+    "source_markup": "|  | FOURTH LEVEL DIVINE SPELLS | FIFTH LEVEL DIVINE SPELLS | SIXTH LEVEL DIVINE SPELLS |\n| --- | --- | --- | --- |\n| 1 | Angelic Aura dth | Atonement eso | Anti-Magic Sphere pro |\n| 2 | Call of the Galloping Herd sum | Blast Ward pro | Arrows of the Sun elm(fire), trn |\n| 3 | Call of the Regal Pride sum | Boil Blood bst, elm(fire) | Banner of Invincibility pro |\n| 4 | Crafting trn | Call of the Great Cats sum | Barrier of Blades wal |\n| 5 | Create Water elm(water), eso | Communion det, eso | Bath of the Goddess trn |\n| 6 | Cure Serious Injury\\* hea | Cone of Fear enc | Bewitch Monster enc |\n| 7 | Death Ward pro | Control Winds elm(air), eso | Blast Ward, Greater pro |\n| 8 | Dismember dth | Create Food eso | Call of the Ancient Tusk sum |\n| 9 | Divination det | Cure Critical Injury\\* hea | Call of the Aerophract Steeds sum |\n| 10 | Energy Invulnerability elm(any), pro | Curse of the Swine trn | Clairaudiency, Greater det |\n| 11 | Gale of Wind elm(air), bst | Deflect Ordinary Weapons pro | Clairvoyancy, Greater det |\n| 12 | Growth trn | Dominate Monster enc | Dispel Evil\\* eso, pro |\n| 13 | Inaudibility ill | Fate det, eso | Fillet and Serve dth |\n| 14 | Indiscernibility eso, pro | Fiery Pillar bst, elm(fire) | Flesh to Ash dth |\n| 15 | Inspire Awe\\* enc | Giant Strength trn | Guise Other trn |\n| 16 | Invisibility ill | Growth, Plant trn | Hidden Host ill |\n| 17 | Lightless Vision trn | Guise Self trn | Home Ward eso, pro |\n| 18 | Neutralize Poison\\* hea | Healing Circle hea | Illusory Terrain ill |\n| 19 | Physical Invulnerability pro | Lay of the Land det | Level Water elm(water), eso, mov |\n| 20 | Protection from Temperature pro | Locate Haunting det | Locate Place of Power det |\n| 21 | Repair Disfigurement & Dis.\\* hea | Restore Life and Limb\\* hea | Phoenix Aura bst, elm(fire) |\n| 22 | Skinchange trn | Safe Travels trn | Prophetic Dream det |\n| 23 | Smite Undead\\* nec | Scry det, eso | Quest enc, eso |\n| 24 | Snakes to Staffs\\* trn | Spiritwalk trn | Salvific Rain bst, elm(water) |\n| 25 | Speak with Plants det, eso | Strength of Mind\\* pro | Slumber, Deep enc |\n| 26 | Spellward Other pro | Summon Insect Plague sum | Spectral Figment ill |\n| 27 | Sphere of Invulnerability, Lesser pro | Sword of Fire elm(fire), eso, trn | Spellward Zone pro |\n| 28 | Spirit of Healing\\* hea | True Seeing det, eso | Sphere of Invulnerability, Grtr. pro |\n| 29 | Sunflare bst, elm(fire) | Turn to Dust dth | Summon Weather eso |\n| 30 | Tongues det, eso | Vigor trn | Summon Winged Herald sum |"
+  },
+  {
+    "id": "rr.p0192.t01",
+    "pdf_page": 192,
+    "chapter_id": "05",
+    "block_order": 2,
+    "row_count": 22,
+    "column_count": 4,
+    "source_markup": "|  | FIRST LEVEL DIVINE SPELLS | SECOND LEVEL DIVINE SPELLS | THIRD LEVEL DIVINE SPELLS |\n| --- | --- | --- | --- |\n| 1 | Allure enc | Augury det, eso | Dispel Magic pro |\n| 2 | Angelic Choir ill | Divine Armor pro | Holy Circle, Sustained\\* pro |\n| 3 | Bane-Rune trn | Energy Protection elm(any), pro | Holy Prayer mov |\n| 4 | Counterspell pro | Holy Blessing\\* eso, pro | Illumination, Perpetual\\* eso |\n| 5 | Cure Light Injury\\* hea | Halt Humanoids enc | Invulnerability to Evil\\* pro |\n| 6 | Discern Evil\\* det | Holy Chant eso, pro | Rune of Warding eso, pro |\n| 7 | Discern Magic det | Physical Protection pro | Spellward pro |\n| 8 | Holy Circle\\* pro | Shimmer pro | Striking trn |\n| 9 | Illumination\\* eso | Spiritual Weapon bst, eso | Swift Sword, Sustained mov |\n| 10 | Remove Fear\\* eso, hea | Swift Sword mov | Winged Flight trn |\n|  | FOURTH LEVEL DIVINE SPELLS | FIFTH LEVEL DIVINE SPELLS | SIXTH LEVEL DIVINE SPELLS |\n| 1 | Angelic Aura dth | Atonement eso | Banner of Invincibility pro |\n| 2 | Call of the Regal Pride sum | Blast Ward pro | Barrier of Blades wal |\n| 3 | Cure Serious Injury\\* hea | Communion det, eso | Bath of the Goddess trn |\n| 4 | Divination det | Cone of Fear enc | Blast Ward, Greater pro |\n| 5 | Energy Invulnerability elm(any), pro | Fiery Pillar bst, elm(fire) | Dispel Evil\\* pro |\n| 6 | Inspire Awe\\* enc | Restore Life and Limb\\* hea | Hidden Host ill |\n| 7 | Neutralize Poison\\* hea | Strength of Mind\\* pro | Phoenix Aura bst, elm(fire) |\n| 8 | Physical Invulnerability pro | Sword of Fire elm(fire), eso, trn | Prophetic Dream det, eso |\n| 9 | Repair Disfigurement & Dis.\\* hea | True Seeing det, eso | Quest enc, eso |\n| 10 | Tongues det, eso | Vigor trn | Summon Winged Herald sum |"
+  },
+  {
+    "id": "rr.p0192.t02",
+    "pdf_page": 192,
+    "chapter_id": "05",
+    "block_order": 4,
+    "row_count": 22,
+    "column_count": 4,
+    "source_markup": "|  | FIRST LEVEL DIVINE SPELLS | SECOND LEVEL DIVINE SPELLS | THIRD LEVEL DIVINE SPELLS |\n| --- | --- | --- | --- |\n| 1 | Counterspell pro | Augury det, eso | Dispel Magic pro |\n| 2 | Cure Light Injury\\* hea | Delay Poison hea | Divine Protection pro |\n| 3 | Discern Evil\\* det | Energy Protection elm(any), pro | Holy Circle, Sustained\\* pro |\n| 4 | Destroy Dead dth | Halt Humanoids enc | Holy Prayer mov |\n| 5 | Discern Magic det | Holy Blessing\\* eso, pro | Illumination, Perpetual\\* eso |\n| 6 | Holy Circle\\* pro | Holy Chant eso, pro | Invulnerability to Evil\\* pro |\n| 7 | Illumination\\* eso | Noiselessness ill | Remove Curse\\* hea |\n| 8 | Remove Fear\\* eso hea | Physical Protection pro | Rune of Warding pro |\n| 9 | Sling Stone bst, elm(earth) | Righteous Wrath trn | Spellward pro |\n| 10 | Word of Command enc | Spiritual Weapon bst, eso | Striking trn |\n|  | FOURTH LEVEL DIVINE SPELLS | FIFTH LEVEL DIVINE SPELLS | SIXTH LEVEL DIVINE SPELLS |\n| 1 | Angelic Aura dth | Atonement eso | Arrows of the Sun elm(fire), bst |\n| 2 | Call of the Regal Pride sum | Blast Ward pro | Banner of Invincibility pro |\n| 3 | Cure Serious Injury\\* hea | Communion det, eso | Blast Ward, Greater pro |\n| 4 | Energy Invulnerability elm(any), pro | Fiery Pillar bst, elm(fire) | Dispel Evil\\* pro |\n| 5 | Inspire Awe\\* enc | Locate Haunting det | Hidden Host ill |\n| 6 | Neutralize Poison\\* hea | Restore Life and Limb\\* hea | Phoenix Aura bst, elm(fire) |\n| 7 | Physical Invulnerability pro | Strength of Mind\\* pro | Prophetic Dream det, eso |\n| 8 | Repair Disfigurement & Dis.\\* hea | True Seeing det | Quest enc, eso |\n| 9 | Smite Undead\\* nec | Turn to Dust dth | Salvific Rain bst, elm(water) |\n| 10 | Sunflare bst, elm(fire) | Vigor trn | Summon Winged Herald sum |"
+  },
+  {
+    "id": "rr.p0193.t01",
+    "pdf_page": 193,
+    "chapter_id": "05",
+    "block_order": 2,
+    "row_count": 32,
+    "column_count": 4,
+    "source_markup": "|  | FIRST LEVEL DIVINE SPELLS | SECOND LEVEL DIVINE SPELLS | THIRD LEVEL DIVINE SPELLS |\n| --- | --- | --- | --- |\n| 1 | Allure enc | Augury det, eso | Avian Messenger trn |\n| 2 | Angelic Choir ill | Bewitch Beast enc | Cure Blindness\\* hea |\n| 3 | Counterspell pro | Cure Moderate Injury\\* hea | Cure Disease\\* hea |\n| 4 | Cure Light Injury\\* hea | Delay Poison hea | Cure Major Injury\\* hea |\n| 5 | Delay Disease hea | Divine Armor pro | Deflect Ordinary Missiles pro |\n| 6 | Discern Evil\\* det | Divine Grace pro | Discern Curse\\* det |\n| 7 | Discern Magic det | Discern Bewitchment\\* det | Dispel Magic pro |\n| 8 | Holy Circle\\* pro | Energy Protection elm(any), pro | Holy Circle, Sustained\\* pro |\n| 9 | Illumination\\* eso | Halt Humanoids enc | Holy Prayer mov |\n| 10 | Purify Food and Water\\* eso | Holy Blessing\\* eso, pro | Illumination, Perpetual\\* eso |\n| 11 | Remove Fear\\* eso, hea | Holy Chant eso, pro | Remove Curse\\* hea |\n| 12 | Salving Rest eso, hea | Noiselessness ill | Rune of Warding pro |\n| 13 | Sanctuary eso, pro | Physical Protection pro | Speak with Dead det, eso |\n| 14 | Shatter Blade bst, elm(earth) | Slumber enc | Spellward pro |\n| 15 | Word of Command enc | Speak with Beasts det, eso | Water Walking elm(water), mov |\n|  | FOURTH LEVEL DIVINE SPELLS | FIFTH LEVEL DIVINE SPELLS | SIXTH LEVEL DIVINE SPELLS |\n| 1 | Angelic Aura dth | Atonement eso | Anti-Magic Sphere pro |\n| 2 | Create Water elm(water), eso | Blast Ward pro | Banner of Invincibility pro |\n| 3 | Cure Serious Injury\\* hea | Communion det, eso | Bath of the Goddess trn |\n| 4 | Death Ward pro | Cone of Fear enc | Blast Ward, Greater pro |\n| 5 | Divination det, eso | Create Food eso | Clairaudiency, Greater det |\n| 6 | Energy Invulnerability elm(any), pro | Cure Critical Injury\\* hea | Clairvoyancy, Greater det |\n| 7 | Inspire Awe\\* enc | Deflect Ordinary Weapons pro | Dispel Evil\\* pro |\n| 8 | Neutralize Poison\\* hea | Dominate Monster enc | Home Ward eso, pro |\n| 9 | Physical Invulnerability pro | Fate det eso | Locate Place of Power det |\n| 10 | Repair Disfigurement & Dis.\\* hea | Healing Circle hea | Level Water elm(water), eso, mov |\n| 11 | Smite Undead\\* nec | Restore Life and Limb hea | Prophetic Dream det, eso |\n| 12 | Snakes to Staffs\\* trn | Scry det, eso | Quest enc, eso |\n| 13 | Spellward Other pro | Strength of Mind\\* pro | Salvific Rain bst, elm(water) |\n| 14 | Spirit of Healing\\* hea | Summon Insect Plague sum | Spellward Zone pro |\n| 15 | Tongues det, eso | True Seeing det, eso | Summon Winged Herald sum |"
+  },
+  {
+    "id": "rr.p0193.t02",
+    "pdf_page": 193,
+    "chapter_id": "05",
+    "block_order": 4,
+    "row_count": 22,
+    "column_count": 4,
+    "source_markup": "|  | FIRST LEVEL DIVINE SPELLS | SECOND LEVEL DIVINE SPELLS | THIRD LEVEL DIVINE SPELLS |\n| --- | --- | --- | --- |\n| 1 | Call of the Wolf sum | Bewitch Beast enc | Avian Messenger trn |\n| 2 | Counterspell pro | Call of the Wolf Pack sum | Call of the Wild Bear sum |\n| 3 | Cure Light Injury\\* hea | Circling Winds elm(air), wal | Cure Disease\\* hea |\n| 4 | Frighten Beast enc | Dominate Beast enc | Dispel Magic pro |\n| 5 | Infuriate Beast enc | Energy Protection elm(any), pro | Growth, Beast trn |\n| 6 | Kindle Flame bst, elm(fire) | Holy Blessing\\* eso, pro | Lightning Strike bst, elm(air), eso |\n| 7 | Locate Animal or Plant det | Holy Chant eso, pro | Rune of Warding eso |\n| 8 | Pass Without Trace trn | Physical Protection pro | Spellward pro |\n| 9 | Predict Weather det, eso | Speak with Beasts det, eso | Water Breathing elm(water), trn |\n| 10 | Purify Food and Water\\* eso | Transform Beast trn | Winged Flight trn |\n|  | FOURTH LEVEL DIVINE SPELLS | FIFTH LEVEL DIVINE SPELLS | SIXTH LEVEL DIVINE SPELLS |\n| 1 | Call of the Galloping Herd sum | Blast Ward pro | Blast Ward, Greater pro |\n| 2 | Create Water elm(water), eso | Call of the Great Cats sum | Call of the Aerophract Steeds sum |\n| 3 | Cure Serious Injury\\* hea | Control Winds elm(air), eso | Call of the Ancient Tusk sum |\n| 4 | Energy Invulnerability elm(any), pro | Create Food eso | Clairaudiency, Greater det |\n| 5 | Neutralize Poison\\* pro | Fiery Pillar bst, elm(fire) | Clairvoyancy, Greater det |\n| 6 | Physical Invulnerability pro | Lay of the Land det | Locate Place of Power det |\n| 7 | Protection from Temperature pro | Restore Life and Limb\\* hea | Prophetic Dream det, eso |\n| 8 | Repair Disfigurement & Dis.\\* hea | Safe Travels trn | Quest enc, eso |\n| 9 | Skinchange trn | Summon Insect Plague sum | Salvific Rain bst, elm(water) |\n| 10 | Speak with Plants det, eso | Vigor trn | Summon Weather elm(air), eso |"
+  },
+  {
+    "id": "rr.p0201.t01",
+    "pdf_page": 201,
+    "chapter_id": "05",
+    "block_order": 8,
+    "row_count": 6,
+    "column_count": 2,
+    "source_markup": "| FIRE SIZE | EXTRAORDINARY FIRE DAMAGE |\n| --- | --- |\n| Candle | 1 (1 target only) |\n| Torch | 1d3 |\n| Campfire | 1d6 |\n| Small bonfire | 2d6 |\n| Large bonfire | 4d6 |"
+  },
+  {
+    "id": "rr.p0202.t01",
+    "pdf_page": 202,
+    "chapter_id": "05",
+    "block_order": 4,
+    "row_count": 5,
+    "column_count": 9,
+    "source_markup": "<table>\n<tr><th rowspan=\"2\">HORSE</th><th colspan=\"8\">NO. CALLED BY CASTER LEVEL</th></tr>\n<tr><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td></tr>\n<tr><td>Light or Steppe Horse</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td></tr>\n<tr><td>Medium Horse</td><td>4</td><td>5</td><td>6</td><td>6</td><td>7</td><td>8</td><td>8</td><td>9</td></tr>\n<tr><td>Heavy Horse</td><td>3</td><td>4</td><td>4</td><td>5</td><td>5</td><td>6</td><td>6</td><td>7</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0202.t02",
+    "pdf_page": 202,
+    "chapter_id": "05",
+    "block_order": 15,
+    "row_count": 8,
+    "column_count": 8,
+    "source_markup": "<table>\n<tr><th rowspan=\"2\">TYPE OF LARGE CAT</th><th colspan=\"6\">NO. CALLED BY CASTER LEVEL</th><th rowspan=\"2\">NATIVE TERRAIN</th></tr>\n<tr><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td></tr>\n<tr><td>Lynx</td><td>12</td><td>13</td><td>15</td><td>16</td><td>17</td><td>18</td><td>Barrens, Desert, Grasslands, Forest, Hills, Mountains</td></tr>\n<tr><td>Cheetah</td><td>7</td><td>8</td><td>9</td><td>10</td><td>10</td><td>11</td><td>Grasslands, Scrublands, Jungle</td></tr>\n<tr><td>Cougar</td><td>5</td><td>6</td><td>6</td><td>7</td><td>7</td><td>8</td><td>Hills, Mountains, Barrens</td></tr>\n<tr><td>Panther</td><td>4</td><td>5</td><td>6</td><td>6</td><td>6</td><td>7</td><td>Grasslands, Scrublands, Woods, River, Jungle</td></tr>\n<tr><td>Lion</td><td>4</td><td>4</td><td>4</td><td>5</td><td>5</td><td>6</td><td>Grasslands, Scrublands, Desert, Jungle</td></tr>\n<tr><td>Tiger</td><td>3</td><td>3</td><td>4</td><td>4</td><td>4</td><td>5</td><td>Jungle</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0203.t01",
+    "pdf_page": 203,
+    "chapter_id": "05",
+    "block_order": 11,
+    "row_count": 4,
+    "column_count": 2,
+    "source_markup": "| TYPE OF BEAR | NATIVE TERRAIN |\n| --- | --- |\n| Black bear | River |\n| Brown bear | Woods, Hills |\n| Cave bear | Mountains, Barrens |"
+  },
+  {
+    "id": "rr.p0204.t01",
+    "pdf_page": 204,
+    "chapter_id": "05",
+    "block_order": 10,
+    "row_count": 7,
+    "column_count": 2,
+    "source_markup": "| VESSEL SPEED | SEAFARING THROW |\n| --- | --- |\n| 960’ or faster | 9+ |\n| 900’ | 11+ |\n| 840’ | 13+ |\n| 780’ | 15+ |\n| 720’ | 17+ |\n| 640’ or slower | 19+ |"
+  },
+  {
+    "id": "rr.p0210.t01",
+    "pdf_page": 210,
+    "chapter_id": "05",
+    "block_order": 9,
+    "row_count": 6,
+    "column_count": 5,
+    "source_markup": "| SPHERE | RESPONSIVE | TRUTHFUL | MODIFIER | ALIGNMENT |\n| --- | --- | --- | --- | --- |\n| Celestial | 65% | 65% | Death +4 | Caster’s |\n| Elemental | 75% | 90% | Death -2 | Neutral |\n| Chthonic | 90% | 45% | Death +4 | Chaotic |\n| Empyrean | 33% | 99% | Death +4 | Lawful |\n| Outer Darkness | 99% | 99% | Death -8 | Chaotic |"
+  },
+  {
+    "id": "rr.p0211.t01",
+    "pdf_page": 211,
+    "chapter_id": "05",
+    "block_order": 2,
+    "row_count": 11,
+    "column_count": 2,
+    "source_markup": "| CONDITION | EFFECT |\n| --- | --- |\n| Frigid | Expedition speed halved. Creatures without protective clothing or who get wet immediately become hypothermic and<br>lose 1d3 CON per hour and must immediately make a Death saving throw or become frostbitten. Mud freezes instantly. -2<br>penalty to Seduction rolls. |\n| Moderate | Frigid or sweltering conditions ended instantaneously. |\n| Sweltering | Expedition speed halved. Creatures in heavy armor must immediately make Death saving throws or become fatigued.<br>Water ration increased by 25% and Dehydration causes double CON loss. Snow melts and mud dries instantly (unlike<br>sweltering weather from natural causes, which takes one day to melt snow or dry mud.) |\n| Fair | Foggy, rainy, snowy, stormy, windy, or tornado conditions ended instantaneously. |\n| Foggy | Maximum visibility drops to 20’. Speeds of all creatures are halved except for those which do not rely on sight to function. |\n| Rainy | All missile attacks suffer a -2 penalty. Mud forms in 1 turn; thereafter, land speeds are halved except on paved roads;<br>wheeled vehicles cannot move at all except on paved roads. |\n| Snowy | Maximum visibility drops to 20’. Speeds of all creatures are halved. Snow accumulates in 1 turn; thereafter, land speeds are<br>halved (again) and wheeled vehicles cannot move. |\n| Stormy | All missile attacks and listening throws suffer a -4 penalty. Air speed is halved. Expedition speed is halved. All creatures are<br>affected as if by *gale of wind.* In barren or desert terrain, maximum visibility is reduced to 20’ by dust. Vessels at sea might<br>be damaged or drift (see p. 319). |\n| Windy | All missile attacks and listening throws suffer a -2 penalty. Air speed is halved. Expedition speed is halved. |\n| Tornado | A 100’ tall, 25’ diameter tornado appears at a point of the caster’s choice within the area of effect. The tornado blocks line<br>of sight and missiles and magic cannot pass through it. On his initiative, the caster can move the tornado within the area of<br>effect at a rate of 120’ per round. Any creatures that the tornado moves onto during the caster’s initiative, or that enters the<br>tornado on its own initiative, are attacked as if from a readied 2 HD monster with one attack dealing 1d8 [extraordinary slashing] damage. After<br>the attack, the creature must make a successful Paralysis saving throw or be knocked **prone** and flung back 5’ from the<br>edge of the tornado. (Creatures of Large size or greater gain a +4 bonus to the saving throw per size category above man-sized.) Before summoning a tornado, a caster must first establish stormy conditions. |"
+  },
+  {
+    "id": "rr.p0221.t01",
+    "pdf_page": 221,
+    "chapter_id": "05",
+    "block_order": 21,
+    "row_count": 11,
+    "column_count": 2,
+    "source_markup": "| ROLL<br>(1D10) | ANSWER |\n| --- | --- |\n| 1 | You shall set your eyes on the heavens; time enough for the earth in the grave. |\n| 2 | You shall be anointed, before you die, as one who walked among the high. |\n| 3 | You shall have, in the end, many true vassals, but one false friend. |\n| 4 | Your many victories shall be won at the cost of many a woman’s son. |\n| 5 | Precious jewels shall buy you only tools and fools. |\n| 6 | When the battle is won, a great lord shall be undone. |\n| 7 | By steel you shall lead, and by steel you shall bleed. |\n| 8 | Reap what you have sown; blood, sorrow, or throne. |\n| 9 | You shall be remembered for your deeds, or for your greeds. |\n| 10 | The world shall lie at your feet until the day of your defeat. |"
+  },
+  {
+    "id": "rr.p0223.t01",
+    "pdf_page": 223,
+    "chapter_id": "05",
+    "block_order": 6,
+    "row_count": 9,
+    "column_count": 2,
+    "source_markup": "| CREATURE / OBJECT’S WEIGHT | DAMAGE DEALT |\n| --- | --- |\n| Up to 4 stone (≤40 lbs) | 1d6 [mundane bludgeoning] |\n| 4 stone to 8 stone (41 – 80 lbs) | 2d6 [mundane bludgeoning] |\n| 9 stone to 15 stone (81 – 150 lbs) | 3d6 [mundane bludgeoning] (5’ radius) |\n| 16 stone to 30 stone (151 – 300 lbs) | 4d6 [mundane bludgeoning] (10’ radius) |\n| 31 stone to 60 stone (301 – 600 lbs) | 5d6 [mundane bludgeoning] (15’ radius) |\n| 61 stone to 120 stone (601 – 1,200 lbs) | 6d6 [mundane bludgeoning] (15’ radius) |\n| 121 stone to 240 stone (1,201 – 2,400 lbs) | 8d6 [mundane bludgeoning] (15’ radius) |\n| 241 stone to 392 stone (2,401 – 4,800 lbs) | 10d6 [mundane bludgeoning] (20’ radius) |"
+  },
+  {
+    "id": "rr.p0223.t02",
+    "pdf_page": 223,
+    "chapter_id": "05",
+    "block_order": 13,
+    "row_count": 3,
+    "column_count": 3,
+    "source_markup": "| TERRAIN | ALLIED MOVE<br>MULTIPLIER | ENEMY MOVE<br>MULTIPLIER |\n| --- | --- | --- |\n| Hills, forest, scrubland | ×1 | ×1/2 |\n| Mountain, jungle | ×2/3 | ×1/3 |"
+  },
+  {
+    "id": "rr.p0231.t01",
+    "pdf_page": 231,
+    "chapter_id": "05",
+    "block_order": 7,
+    "row_count": 4,
+    "column_count": 2,
+    "source_markup": "| 2D6 | BEHAVIOR |\n| --- | --- |\n| 2–5 | Attack the caster or allies with melee or ranged<br>weapons (or move closer if attack is not possible). |\n| 6–8 | Do nothing but babble incoherently. |\n| 9–12 | Attack the creature’s own party, if any. |"
+  },
+  {
+    "id": "rr.p0236.t01",
+    "pdf_page": 236,
+    "chapter_id": "05",
+    "block_order": 7,
+    "row_count": 4,
+    "column_count": 2,
+    "source_markup": "| 2D6 | BEHAVIOR |\n| --- | --- |\n| 2–5 | Attack the caster or allies with melee or ranged<br>weapons (or move closer if attack is not possible). |\n| 6–8 | Do nothing but babble incoherently. |\n| 9–12 | Attack the creature’s own party, if any. |"
+  },
+  {
+    "id": "rr.p0247.t01",
+    "pdf_page": 247,
+    "chapter_id": "05",
+    "block_order": 14,
+    "row_count": 8,
+    "column_count": 2,
+    "source_markup": "| ENVIRONMENT | NO. OF OBJECTS |\n| --- | --- |\n| Room, Rubbled | 2d10 |\n| Room, Cluttered | 1d10 |\n| Room, Sparse | 1d6 |\n| Room, Empty | 1d6-3 |\n| Barren/Desert/Mountains | 1d10 |\n| Hills/Jungle/Scrub/Woods | 1d6 |\n| Clear/Grass/Swamp | 1d3 |"
+  },
+  {
+    "id": "rr.p0256.t01",
+    "pdf_page": 256,
+    "chapter_id": "05",
+    "block_order": 6,
+    "row_count": 5,
+    "column_count": 4,
+    "source_markup": "| CASTER FAMILIARITY | ON<br>TARGET | OFF<br>TARGET | LOST |\n| --- | --- | --- | --- |\n| Intimately Familiar | 01 – 95 | 96 – 99 | 00 |\n| Familiar | 01 – 80 | 81 – 90 | 91 – 00 |\n| Somewhat Familiar | 01 – 50 | 51 – 75 | 76 – 00 |\n| Vaguely Familiar | 01 – 30 | 31 – 65 | 66 – 00 |"
+  }
+]

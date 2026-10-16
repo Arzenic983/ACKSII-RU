@@ -60,10 +60,10 @@
     "title_ru": "Заклинания",
     "first_pdf_page": 180,
     "last_pdf_page": 263,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 2861,
-    "translated_units": 0,
-    "pending_units": 2861
+    "translated_units": 2861,
+    "pending_units": 0
   },
   {
     "id": "06",

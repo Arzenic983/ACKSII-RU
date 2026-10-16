@@ -871,3 +871,328 @@
 | Construction rate | Темп строительства |
 | Labor cost | Трудовая стоимость |
 | Wage rate | Ставка жалованья |
+
+
+## Глава 5: рабочие названия заклинаний
+
+Сверено с глоссарием 16 октября 2026 года. Следующая карта сохраняет названия, использованные при сборке главы 5. Новые варианты — рабочие, без утверждения человеком. Утверждённые термины глоссария и прежних глав имеют приоритет. Английское имя повторяется при специальных употреблениях в тексте.
+
+| English | Рабочий русский вариант |
+| --- | --- |
+| Allure | Очарование |
+| Angelic Choir | Ангельский хор |
+| Animate Undead | Оживление нежити |
+| Arcane Armor | Тайная броня |
+| Auditory Illusion | Звуковая иллюзия |
+| Bane-Rune | Губительная руна |
+| Beguile Humanoid | Обольщение гуманоида |
+| Blinding Flash | Ослепительная вспышка |
+| Call of the Wolf | Волчий зов |
+| Chameleon | Хамелеон |
+| Choking Grip | Удушающая хватка |
+| Clairaudiency | Яснослышание |
+| Conjure Cacodemon Spawn | Вызов отродья какодемона |
+| Conjure Fiend | Вызов исчадия |
+| Conjure Hellion | Вызов беса |
+| Counterspell | Контрзаклинание |
+| Crafting | Ремесло |
+| Cure Light Injury | Исцеление лёгкой травмы |
+| Desiccate | Иссушение |
+| Discern Evil | Распознавание зла |
+| Discern Gist | Распознавание смысла |
+| Discern Magic | Распознавание магии |
+| Dismember | Расчленение |
+| Earth’s Excrescence | Нарост земли |
+| Faithful Companion | Верный спутник |
+| Fan of Flames | Веер пламени |
+| Forest Enchantment | Лесное зачарование |
+| Frighten Beast | Устрашение зверя |
+| Frighten Humanoid | Устрашение гуманоида |
+| Holy Circle | Святой круг |
+| Illumination | Освещение |
+| Illusory Figment | Иллюзорный образ |
+| Kindle Flame | Разжигание пламени |
+| Leaping | Прыжок |
+| Locate Animal or Plant | Поиск животного или растения |
+| Mage Missile | Магическая стрела |
+| Predict Weather | Предсказание погоды |
+| Purify Food and Water | Очищение пищи и воды |
+| Remove Fear | Снятие страха |
+| Salving Rest | Целительный отдых |
+| Sanctuary | Убежище |
+| Scry | Наблюдение |
+| Seal Portal | Запечатывание прохода |
+| Sharpness | Острота |
+| Shatter Blade | Разрушение клинка |
+| Silent Step | Бесшумный шаг |
+| Skinchange | Смена шкуры |
+| Slicing Blow | Рассекающий удар |
+| Slickness | Скользкость |
+| Sling Stone | Камень пращи |
+| Slumber | Дремота |
+| Speak with Beasts | Разговор со зверями |
+| Speak with Dead | Разговор с мёртвыми |
+| Summon Manes | Призыв манов |
+| Summon Shadow | Призыв тени |
+| Swimming | Плавание |
+| Telepathy | Телепатия |
+| Thunderclap | Громовой хлопок |
+| True Seeing | Истинное зрение |
+| Unliving Puppet | Неживая марионетка |
+| Wall of Smoke | Стена дыма |
+| Weave Smoke | Плетение дыма |
+| Word of Command | Слово приказа |
+| Adjust Self | Изменение себя |
+| Angelic Aura | Ангельская аура |
+| Anti-Magic Sphere | Антимагическая сфера |
+| Arcane Shift | Тайное перемещение |
+| Arrows of the Sun | Стрелы солнца |
+| Atonement | Искупление |
+| Augury | Предзнаменование |
+| Avian Messenger | Крылатый посланник |
+| Banner of Invincibility | Знамя неуязвимости |
+| Barrier of Blades | Преграда клинков |
+| Bath of the Goddess | Купель богини |
+| Battering Ram | Таран |
+| Bewitch Beast | Околдовать зверя |
+| Bewitch Crowd | Околдовать толпу |
+| Bewitch Humanoid | Околдовать гуманоида |
+| Bewitch Monster | Околдовать чудовище |
+| Blast Ward | Защита от взрыва |
+| Blast Ward, Greater | Великая защита от взрыва |
+| Bloody Flux | Кровавый понос |
+| Body Swap | Обмен телами |
+| Boil Blood | Кипящая кровь |
+| Burning Sparks | Обжигающие искры |
+| Call of the Aerophract Steeds | Зов крылатых скакунов |
+| Call of the Ancient Tusk | Зов древнего бивня |
+| Call of the Galloping Herd | Зов скачущего табуна |
+| Call of the Great Cats | Зов больших кошек |
+| Call of the Regal Pride | Зов царственного прайда |
+| Call of the Wild Bear | Зов дикого медведя |
+| Call of the Wolf Pack | Зов волчьей стаи |
+| Capsizing Wave | Опрокидывающая волна |
+| Carnage | Резня |
+| Chimerical Figment | Химерический образ |
+| Circle of Agony | Круг агонии |
+| Circling Winds | Кружащие ветры |
+| Clairaudiency, Greater | Великое яснослышание |
+| Clairvoyancy | Ясновидение |
+| Clairvoyancy, Greater | Великое ясновидение |
+| Cloud of Poison | Ядовитое облако |
+| Communion | Общение с божеством |
+| Cone of Fear | Конус страха |
+| Cone of Frost | Конус мороза |
+| Cone of Paralysis | Конус паралича |
+| Conflagration | Великое пламя |
+| Conjure Dybbuk | Вызвать диббука |
+| Conjure Genie | Вызвать джинна |
+| Conjure Imp | Вызвать беса |
+| Conjure Incubus | Вызвать инкуба |
+| Conjure Major Elemental | Вызвать великого элементаля |
+| Conjure Petty Elemental | Вызвать малого элементаля |
+| Conjure Supreme Elemental | Вызвать верховного элементаля |
+| Contact Other Sphere | Связь с иной сферой |
+| Control Weather | Управление погодой |
+| Control Winds | Управление ветрами |
+| Create Chasm | Создание пропасти |
+| Create Food | Создание пищи |
+| Create Water | Создание воды |
+| Cure Blindness | Исцеление слепоты |
+| Cure Critical Injury | Исцеление критической травмы |
+| Cure Disease | Исцеление болезни |
+| Cure Major Injury | Исцеление тяжёлой травмы |
+| Cure Moderate Injury | Исцеление умеренной травмы |
+| Cure Serious Injury | Исцеление серьёзной травмы |
+| Curse of the Swine | Проклятие свиньи |
+| Dark Whisper | Тёмный шёпот |
+| Deathless Minion | Бессмертный слуга |
+| Death Ward | Защита от смерти |
+| Deflect Ordinary Missiles | Отклонение обычных снарядов |
+| Deflect Ordinary Weapons | Отклонение обычного оружия |
+| Delay Death | Отсрочка смерти |
+| Delay Disease | Отсрочка болезни |
+| Delay Poison | Отсрочка яда |
+| Destroy Dead | Уничтожение мертвецов |
+| Discern Bewitchment | Распознавание околдования |
+| Discern Curse | Распознавание проклятия |
+| Discern Invisible | Распознавание невидимого |
+| Discern Poison | Распознавание яда |
+| Disfigure Body and Soul | Увечье тела и души |
+| Disintegration | Дезинтеграция |
+| Dispel Evil | Рассеивание зла |
+| Dispel Magic | Рассеивание магии |
+| Divination | Прорицание |
+| Divine Armor | Божественный доспех |
+| Divine Grace | Божественная благодать |
+| Divine Protection | Божественная защита |
+| Dominate Beasts | Подчинение зверей |
+| Dominate Humanoid | Подчинение гуманоида |
+| Dominate Monster | Подчинение чудовища |
+| Dominate Plants | Подчинение растений |
+| Earth’s Mire | Земляная трясина |
+| Earth’s Movement | Движение земли |
+| Earth’s Teeth | Зубы земли |
+| Earth’s Tremor | Дрожь земли |
+| Earth’s Wave | Земляная волна |
+| Energy Invulnerability | Неуязвимость к энергии |
+| Energy Protection | Защита от энергии |
+| Enslave Humanoid | Порабощение гуманоида |
+| Fate | Судьба |
+| Fiery Pillar | Огненный столп |
+| Fillet and Serve | Разделать и подать |
+| Fireball | Огненный шар |
+| Firestorm | Огненная буря |
+| Flay the Slain | Освежевать убитого |
+| Flesh to Ash | Плоть в пепел |
+| Flight | Полёт |
+| Force of Impetus | Сила натиска |
+| Forgetfulness | Забвение |
+| Frostbite | Обморожение |
+| Gale of Wind | Порыв ветра |
+| Gaseous Form | Газообразная форма |
+| Giant Strength | Сила великана |
+| Growth | Рост |
+| Growth, Beast | Рост зверя |
+| Growth, Plant | Рост растений |
+| Guise Other | Личина другого |
+| Guise Self | Собственная личина |
+| Halt Humanoids | Остановка гуманоидов |
+| Halt Monsters | Остановка чудовищ |
+| Healing Circle | Круг исцеления |
+| Hidden Host | Скрытое воинство |
+| Holy Blessing | Святое благословение |
+| Holy Chant | Святое песнопение |
+| Holy Circle, Sustained | Продлённый священный круг |
+| Holy Prayer | Святая молитва |
+| Home Ward | Защита дома |
+| Hypnotic Sigil | Гипнотический знак |
+| Ice Floe | Льдина |
+| Ice Sheet | Ледяной покров |
+| Ice Storm | Ледяная буря |
+| Illumination, Perpetual | Неугасающее освещение |
+| Illusory Duplicates | Иллюзорные двойники |
+| Illusory Interior | Иллюзорный интерьер |
+| Illusory Terrain | Иллюзорная местность |
+| Inaudibility | Неслышимость |
+| Incite Madness | Навести безумие |
+| Indiscernibility | Сокрытие от обнаружения |
+| Inferno | Адское пламя |
+| Infuriate Beast | Ярость зверя |
+| Infuriate Humanoid | Ярость гуманоида |
+| Infuriate Crowd | Ярость толпы |
+| Inspire Awe | Внушение благоговения |
+| Invisibility | Невидимость |
+| Invulnerability to Evil | Неуязвимость ко злу |
+| Iron Maiden | Железная дева |
+| Lay of the Land | Обзор местности |
+| Level Water | Изменение уровня воды |
+| Levitation | Левитация |
+| Life Transfer | Передача жизни |
+| Lightless Vision | Тёмное зрение |
+| Lightless Vision, Mass | Массовое тёмное зрение |
+| Lightning Strike | Удар молнии |
+| Locate Distant Object | Поиск далёкого предмета |
+| Locate Haunting | Поиск призрачного присутствия |
+| Locate Object | Поиск предмета |
+| Locate Place of Power | Поиск места силы |
+| Locate Treasure | Поиск сокровищ |
+| Madness of Crowds | Безумие толп |
+| Magic Carpet | Ковёр-самолёт |
+| Magic Lock | Магический замок |
+| Mirage | Мираж |
+| Necromantic Invulnerability | Некромантическая неуязвимость |
+| Necromantic Potence | Некромантическое могущество |
+| Neutralize Poison | Нейтрализация яда |
+| Noiselessness | Бесшумность |
+| Ogre Strength | Сила огра |
+| Panic | Паника |
+| Passageway | Проход |
+| Pass Without Trace | Проход без следа |
+| Perpetual Figment | Неугасающий образ |
+| Petrification | Окаменение |
+| Phantasmal Figment | Фантасмагорический образ |
+| Phantasmal Horror | Фантасмагорический ужас |
+| Phoenix Aura | Аура феникса |
+| Physical Invulnerability | Физическая неуязвимость |
+| Physical Protection | Физическая защита |
+| Prophetic Dream | Вещий сон |
+| Programmatic Figment | Запрограммированный образ |
+| Protection from Temperature | Защита от температуры |
+| Quest | Обет |
+| Rain of Vitriol | Купоросный дождь |
+| Remove Curse | Снятие проклятия |
+| Repair Disfigurement and Disability | Исцеление увечий и инвалидности |
+| Restore Life and Limb | Восстановление жизни и конечностей |
+| Reveal Ritual Magic | Выявление ритуальной магии |
+| Righteous Wrath | Праведный гнев |
+| Rouse the Fallen | Пробуждение павших |
+| Rune of Warding | Защитная руна |
+| Safe Travels | Безопасный путь |
+| Salvific Rain | Спасительный дождь |
+| Scouring Zephyr | Бичующий зефир |
+| Selective Fire | Избирательный огонь |
+| Shimmer | Мерцание |
+| Shrieking Skull | Визжащий череп |
+| Shrouding Fog | Скрывающий туман |
+| Slumber, Deep | Глубокая дрёма |
+| Smite Undead | Поражение нежити |
+| Snakes to Staffs | Змеи в посохи |
+| Soul Eating | Пожирание души |
+| Soul Swap | Обмен душами |
+| Speak with Plants | Разговор с растениями |
+| Spectral Figment | Призрачный образ |
+| Spectral Legion | Призрачный легион |
+| Spellward | Защита от заклинаний |
+| Spellward Other | Защита другого от заклинаний |
+| Spellwarded Zone | Область защиты от заклинаний |
+| Sphere of Invulnerability, Greater | Великая сфера неуязвимости |
+| Sphere of Invulnerability, Lesser | Малая сфера неуязвимости |
+| Spider Climbing | Паучье лазание |
+| Spirit of Healing | Дух исцеления |
+| Spiritwalk | Путешествие духа |
+| Spiritual Weapon | Духовное оружие |
+| Strength of Mind | Сила разума |
+| Strengthen the Unliving | Укрепление нежити |
+| Striking | Мощный удар |
+| Sudden Staircase | Внезапная лестница |
+| Summon Hellhounds | Призвать адских гончих |
+| Summon Insect Plague | Призвать нашествие насекомых |
+| Summon Insect Swarm | Призвать рой насекомых |
+| Summon Invisible Stalker | Призвать невидимого охотника |
+| Summon Ooze | Призвать слизь |
+| Summon Weather | Призвать погоду |
+| Summon Winged Herald | Призвать крылатого вестника |
+| Sunder Structure | Сокрушение строения |
+| Sunflare | Солнечная вспышка |
+| Swift Sword | Быстрый меч |
+| Swift Sword, Sustained | Продлённый быстрый меч |
+| Sword of Fire | Огненный меч |
+| Telekinesis | Телекинез |
+| Teleportation | Телепортация |
+| Thunderbolt | Удар грома |
+| Tongues | Языки |
+| Torpor | Оцепенение |
+| Transform Beast | Превращение зверя |
+| Transform Other | Превращение другого |
+| Transform Self | Превращение себя |
+| Trollblood | Кровь тролля |
+| Turn to Dust | Обращение в прах |
+| Vigor | Бодрость |
+| Vitriolic Infusion | Купоросное насыщение |
+| Wall of Annihilation | Стена уничтожения |
+| Wall of Corpses | Стена трупов |
+| Wall of Flame | Стена пламени |
+| Wall of Force | Силовая стена |
+| Wall of Frost | Стена мороза |
+| Wall of Stone | Каменная стена |
+| Wall of Thunder | Стена грома |
+| Wall of Wood | Деревянная стена |
+| Warp Wood | Коробление дерева |
+| Water Breathing | Водное дыхание |
+| Water Walking | Хождение по воде |
+| Weave Fire | Плетение огня |
+| Weave Water | Плетение воды |
+| Webbing | Паутина |
+| Winged Flight | Крылатый полёт |
+| X-Ray Vision | Рентгеновское зрение |

@@ -1,0 +1,805 @@
+[
+  {
+    "id": "rr.p0188.t01.r007.c03",
+    "spell": "Circling Winds",
+    "list_magic": "ARCANE",
+    "list_level": 2,
+    "list_types": [
+      "elemental",
+      "wall"
+    ],
+    "description_id": "rr.p0206.b002",
+    "description": "ARCANE 2, DIVINE 2 Type: elemental (air), protection, wall",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0188.t01.r024.c03",
+    "spell": "Magic Lock",
+    "list_magic": "ARCANE",
+    "list_level": 2,
+    "list_types": [
+      "movement"
+    ],
+    "description_id": "rr.p0237.b002",
+    "description": "ARCANE 2, DIVINE 2 Type: esoteric, movement",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0188.t01.r030.c04",
+    "spell": "Speak with Dead",
+    "list_magic": "ARCANE",
+    "list_level": 3,
+    "list_types": [
+      "necromancy"
+    ],
+    "description_id": "rr.p0249.b009",
+    "description": "ARCANE 3, DIVINE 3 Type: esoteric, necromancy",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0189.t01.r017.c03",
+    "spell": "Flay the Slain",
+    "list_magic": "ARCANE",
+    "list_level": 5,
+    "list_types": [
+      "necromancy"
+    ],
+    "description_id": "rr.p0222.b021",
+    "description": "ARCANE 5 Type: death",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0189.t01.r021.c04",
+    "spell": "Passageway",
+    "list_magic": "ARCANE",
+    "list_level": 6,
+    "list_types": [
+      "esoteric"
+    ],
+    "description_id": "rr.p0238.b009",
+    "description": "ARCANE 6 Type: esoteric, wall",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0189.t01.r030.c03",
+    "spell": "Soul Swap",
+    "list_magic": "ARCANE",
+    "list_level": 5,
+    "list_types": [
+      "necromancy"
+    ],
+    "description_id": "rr.p0248.b021",
+    "description": "ARCANE 5 Type: esoteric, necromancy",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0189.t01.r031.c04",
+    "spell": "Torpor",
+    "list_magic": "ARCANE",
+    "list_level": 6,
+    "list_types": [
+      "necromancy"
+    ],
+    "description_id": "rr.p0257.b002",
+    "description": "ARCANE 6, DIVINE 6 Type: esoteric, necromancy",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0190.t01.r007.c03",
+    "spell": "Circling Winds",
+    "list_magic": "DIVINE",
+    "list_level": 2,
+    "list_types": [
+      "elemental",
+      "wall"
+    ],
+    "description_id": "rr.p0206.b002",
+    "description": "ARCANE 2, DIVINE 2 Type: elemental (air), protection, wall",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0190.t01.r008.c02",
+    "spell": "Delay Disease",
+    "list_magic": "DIVINE",
+    "list_level": 1,
+    "list_types": [
+      "healing"
+    ],
+    "description_id": "rr.p0215.b005",
+    "description": "DIVINE 1 Type: esoteric, healing",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0190.t01.r011.c03",
+    "spell": "Delay Poison",
+    "list_magic": "DIVINE",
+    "list_level": 2,
+    "list_types": [
+      "healing"
+    ],
+    "description_id": "rr.p0215.b010",
+    "description": "DIVINE 2 Type: esoteric, healing",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0190.t01.r016.c03",
+    "spell": "Energy Protection",
+    "list_magic": "DIVINE",
+    "list_level": 2,
+    "list_types": [
+      "elemental"
+    ],
+    "description_id": "rr.p0220.b026",
+    "description": "ARCANE 2, DIVINE 2 Type: elemental (any), protection",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0190.t01.r019.c03",
+    "spell": "Holy Chant",
+    "list_magic": "DIVINE",
+    "list_level": 2,
+    "list_types": [
+      "esoteric",
+      "protection"
+    ],
+    "description_id": "rr.p0227.b019",
+    "description": "DIVINE 2 Type: protection",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0190.t01.r020.c03",
+    "spell": "Magic Lock",
+    "list_magic": "DIVINE",
+    "list_level": 2,
+    "list_types": [
+      "movement"
+    ],
+    "description_id": "rr.p0237.b002",
+    "description": "ARCANE 2, DIVINE 2 Type: esoteric, movement",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0190.t01.r022.c02",
+    "spell": "Predict Weather",
+    "list_magic": "DIVINE",
+    "list_level": 1,
+    "list_types": [
+      "detection"
+    ],
+    "description_id": "rr.p0240.b002",
+    "description": "DIVINE 1 Type: detection, esoteric",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0190.t01.r023.c04",
+    "spell": "Rune of Warding",
+    "list_magic": "DIVINE",
+    "list_level": 3,
+    "list_types": [
+      "esoteric"
+    ],
+    "description_id": "rr.p0244.b002",
+    "description": "ARCANE 3, DIVINE 3 Type: esoteric, protection",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0190.t01.r024.c04",
+    "spell": "Speak with Dead",
+    "list_magic": "DIVINE",
+    "list_level": 3,
+    "list_types": [
+      "necromancy"
+    ],
+    "description_id": "rr.p0249.b009",
+    "description": "ARCANE 3, DIVINE 3 Type: esoteric, necromancy",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0190.t01.r028.c03",
+    "spell": "Speak with Beasts",
+    "list_magic": "DIVINE",
+    "list_level": 2,
+    "list_types": [
+      "detection"
+    ],
+    "description_id": "rr.p0249.b006",
+    "description": "DIVINE 2 Type: esoteric",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0191.t01.r002.c03",
+    "spell": "Atonement",
+    "list_magic": "DIVINE",
+    "list_level": 5,
+    "list_types": [
+      "esoteric"
+    ],
+    "description_id": "rr.p0197.b011",
+    "description": "DIVINE 5 Type: esoteric, healing",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0191.t01.r003.c04",
+    "spell": "Arrows of the Sun",
+    "list_magic": "DIVINE",
+    "list_level": 6,
+    "list_types": [
+      "elemental",
+      "transmogrification"
+    ],
+    "description_id": "rr.p0197.b007",
+    "description": "DIVINE 6 Type: blast, elemental (fire)",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0191.t01.r006.c02",
+    "spell": "Create Water",
+    "list_magic": "DIVINE",
+    "list_level": 4,
+    "list_types": [
+      "elemental",
+      "esoteric"
+    ],
+    "description_id": "rr.p0212.b017",
+    "description": "DIVINE 4 Type: esoteric",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0191.t01.r010.c02",
+    "spell": "Divination",
+    "list_magic": "DIVINE",
+    "list_level": 4,
+    "list_types": [
+      "detection"
+    ],
+    "description_id": "rr.p0218.b018",
+    "description": "DIVINE 4 Type: detection, esoteric",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0191.t01.r014.c04",
+    "spell": "Fillet and Serve",
+    "list_magic": "DIVINE",
+    "list_level": 6,
+    "list_types": [
+      "death"
+    ],
+    "description_id": "rr.p0222.b006",
+    "description": "ARCANE 5, DIVINE 6 Type: death, necromancy",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0191.t01.r018.c04",
+    "spell": "Home Ward",
+    "list_magic": "DIVINE",
+    "list_level": 6,
+    "list_types": [
+      "esoteric",
+      "protection"
+    ],
+    "description_id": "rr.p0228.b009",
+    "description": "DIVINE 6 Type: protection",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0191.t01.r023.c04",
+    "spell": "Prophetic Dream",
+    "list_magic": "DIVINE",
+    "list_level": 6,
+    "list_types": [
+      "detection"
+    ],
+    "description_id": "rr.p0240.b005",
+    "description": "DIVINE 6 Type: detection, esoteric",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0191.t01.r025.c03",
+    "spell": "Spiritwalk",
+    "list_magic": "DIVINE",
+    "list_level": 5,
+    "list_types": [
+      "transmogrification"
+    ],
+    "description_id": "rr.p0252.b006",
+    "description": "DIVINE 5 Type: esoteric, transmogrification",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0191.t01.r026.c02",
+    "spell": "Speak with Plants",
+    "list_magic": "DIVINE",
+    "list_level": 4,
+    "list_types": [
+      "detection",
+      "esoteric"
+    ],
+    "description_id": "rr.p0249.b016",
+    "description": "DIVINE 4 Type: esoteric",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0191.t01.r030.c04",
+    "spell": "Summon Weather",
+    "list_magic": "DIVINE",
+    "list_level": 6,
+    "list_types": [
+      "esoteric"
+    ],
+    "description_id": "rr.p0254.b005",
+    "description": "ARCANE 5, DIVINE 6 Type: elemental (air), esoteric",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0192.t01.r007.c03",
+    "spell": "Holy Chant",
+    "list_magic": "DIVINE",
+    "list_level": 2,
+    "list_types": [
+      "esoteric",
+      "protection"
+    ],
+    "description_id": "rr.p0227.b019",
+    "description": "DIVINE 2 Type: protection",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0192.t01.r013.c03",
+    "spell": "Atonement",
+    "list_magic": "DIVINE",
+    "list_level": 5,
+    "list_types": [
+      "esoteric"
+    ],
+    "description_id": "rr.p0197.b011",
+    "description": "DIVINE 5 Type: esoteric, healing",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0192.t01.r016.c02",
+    "spell": "Divination",
+    "list_magic": "DIVINE",
+    "list_level": 4,
+    "list_types": [
+      "detection"
+    ],
+    "description_id": "rr.p0218.b018",
+    "description": "DIVINE 4 Type: detection, esoteric",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0192.t01.r017.c04",
+    "spell": "Dispel Evil",
+    "list_magic": "DIVINE",
+    "list_level": 6,
+    "list_types": [
+      "protection"
+    ],
+    "description_id": "rr.p0218.b002",
+    "description": "DIVINE 6 Type: esoteric, protection",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0192.t02.r003.c03",
+    "spell": "Delay Poison",
+    "list_magic": "DIVINE",
+    "list_level": 2,
+    "list_types": [
+      "healing"
+    ],
+    "description_id": "rr.p0215.b010",
+    "description": "DIVINE 2 Type: esoteric, healing",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0192.t02.r007.c03",
+    "spell": "Holy Chant",
+    "list_magic": "DIVINE",
+    "list_level": 2,
+    "list_types": [
+      "esoteric",
+      "protection"
+    ],
+    "description_id": "rr.p0227.b019",
+    "description": "DIVINE 2 Type: protection",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0192.t02.r009.c04",
+    "spell": "Rune of Warding",
+    "list_magic": "DIVINE",
+    "list_level": 3,
+    "list_types": [
+      "protection"
+    ],
+    "description_id": "rr.p0244.b002",
+    "description": "ARCANE 3, DIVINE 3 Type: esoteric, protection",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0192.t02.r013.c03",
+    "spell": "Atonement",
+    "list_magic": "DIVINE",
+    "list_level": 5,
+    "list_types": [
+      "esoteric"
+    ],
+    "description_id": "rr.p0197.b011",
+    "description": "DIVINE 5 Type: esoteric, healing",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0192.t02.r016.c04",
+    "spell": "Dispel Evil",
+    "list_magic": "DIVINE",
+    "list_level": 6,
+    "list_types": [
+      "protection"
+    ],
+    "description_id": "rr.p0218.b002",
+    "description": "DIVINE 6 Type: esoteric, protection",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0192.t02.r020.c03",
+    "spell": "True Seeing",
+    "list_magic": "DIVINE",
+    "list_level": 5,
+    "list_types": [
+      "detection"
+    ],
+    "description_id": "rr.p0258.b011",
+    "description": "DIVINE 5 Type: detection, esoteric",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t01.r002.c04",
+    "spell": "Avian Messenger",
+    "list_magic": "DIVINE",
+    "list_level": 3,
+    "list_types": [
+      "transmogrification"
+    ],
+    "description_id": "rr.p0198.b002",
+    "description": "ARCANE 3, DIVINE 3 Type: summoning, transmogrification",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t01.r005.c03",
+    "spell": "Delay Poison",
+    "list_magic": "DIVINE",
+    "list_level": 2,
+    "list_types": [
+      "healing"
+    ],
+    "description_id": "rr.p0215.b010",
+    "description": "DIVINE 2 Type: esoteric, healing",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t01.r006.c02",
+    "spell": "Delay Disease",
+    "list_magic": "DIVINE",
+    "list_level": 1,
+    "list_types": [
+      "healing"
+    ],
+    "description_id": "rr.p0215.b005",
+    "description": "DIVINE 1 Type: esoteric, healing",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t01.r012.c03",
+    "spell": "Holy Chant",
+    "list_magic": "DIVINE",
+    "list_level": 2,
+    "list_types": [
+      "esoteric",
+      "protection"
+    ],
+    "description_id": "rr.p0227.b019",
+    "description": "DIVINE 2 Type: protection",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t01.r013.c04",
+    "spell": "Rune of Warding",
+    "list_magic": "DIVINE",
+    "list_level": 3,
+    "list_types": [
+      "protection"
+    ],
+    "description_id": "rr.p0244.b002",
+    "description": "ARCANE 3, DIVINE 3 Type: esoteric, protection",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t01.r014.c04",
+    "spell": "Speak with Dead",
+    "list_magic": "DIVINE",
+    "list_level": 3,
+    "list_types": [
+      "detection",
+      "esoteric"
+    ],
+    "description_id": "rr.p0249.b009",
+    "description": "ARCANE 3, DIVINE 3 Type: esoteric, necromancy",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t01.r016.c03",
+    "spell": "Speak with Beasts",
+    "list_magic": "DIVINE",
+    "list_level": 2,
+    "list_types": [
+      "detection",
+      "esoteric"
+    ],
+    "description_id": "rr.p0249.b006",
+    "description": "DIVINE 2 Type: esoteric",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t01.r018.c03",
+    "spell": "Atonement",
+    "list_magic": "DIVINE",
+    "list_level": 5,
+    "list_types": [
+      "esoteric"
+    ],
+    "description_id": "rr.p0197.b011",
+    "description": "DIVINE 5 Type: esoteric, healing",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t01.r019.c02",
+    "spell": "Create Water",
+    "list_magic": "DIVINE",
+    "list_level": 4,
+    "list_types": [
+      "elemental",
+      "esoteric"
+    ],
+    "description_id": "rr.p0212.b017",
+    "description": "DIVINE 4 Type: esoteric",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t01.r024.c04",
+    "spell": "Dispel Evil",
+    "list_magic": "DIVINE",
+    "list_level": 6,
+    "list_types": [
+      "protection"
+    ],
+    "description_id": "rr.p0218.b002",
+    "description": "DIVINE 6 Type: esoteric, protection",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t01.r025.c04",
+    "spell": "Home Ward",
+    "list_magic": "DIVINE",
+    "list_level": 6,
+    "list_types": [
+      "esoteric",
+      "protection"
+    ],
+    "description_id": "rr.p0228.b009",
+    "description": "DIVINE 6 Type: protection",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t02.r002.c04",
+    "spell": "Avian Messenger",
+    "list_magic": "DIVINE",
+    "list_level": 3,
+    "list_types": [
+      "transmogrification"
+    ],
+    "description_id": "rr.p0198.b002",
+    "description": "ARCANE 3, DIVINE 3 Type: summoning, transmogrification",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t02.r004.c03",
+    "spell": "Circling Winds",
+    "list_magic": "DIVINE",
+    "list_level": 2,
+    "list_types": [
+      "elemental",
+      "wall"
+    ],
+    "description_id": "rr.p0206.b002",
+    "description": "ARCANE 2, DIVINE 2 Type: elemental (air), protection, wall",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t02.r008.c03",
+    "spell": "Holy Chant",
+    "list_magic": "DIVINE",
+    "list_level": 2,
+    "list_types": [
+      "esoteric",
+      "protection"
+    ],
+    "description_id": "rr.p0227.b019",
+    "description": "DIVINE 2 Type: protection",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t02.r008.c04",
+    "spell": "Rune of Warding",
+    "list_magic": "DIVINE",
+    "list_level": 3,
+    "list_types": [
+      "esoteric"
+    ],
+    "description_id": "rr.p0244.b002",
+    "description": "ARCANE 3, DIVINE 3 Type: esoteric, protection",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t02.r010.c03",
+    "spell": "Speak with Beasts",
+    "list_magic": "DIVINE",
+    "list_level": 2,
+    "list_types": [
+      "detection",
+      "esoteric"
+    ],
+    "description_id": "rr.p0249.b006",
+    "description": "DIVINE 2 Type: esoteric",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t02.r014.c02",
+    "spell": "Create Water",
+    "list_magic": "DIVINE",
+    "list_level": 4,
+    "list_types": [
+      "elemental",
+      "esoteric"
+    ],
+    "description_id": "rr.p0212.b017",
+    "description": "DIVINE 4 Type: esoteric",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t02.r017.c02",
+    "spell": "Neutralize Poison",
+    "list_magic": "DIVINE",
+    "list_level": 4,
+    "list_types": [
+      "protection"
+    ],
+    "description_id": "rr.p0237.b019",
+    "description": "DIVINE 4 Type: healing",
+    "differences": [
+      "spell_types"
+    ]
+  },
+  {
+    "id": "rr.p0193.t02.r022.c02",
+    "spell": "Speak with Plants",
+    "list_magic": "DIVINE",
+    "list_level": 4,
+    "list_types": [
+      "detection",
+      "esoteric"
+    ],
+    "description_id": "rr.p0249.b016",
+    "description": "DIVINE 4 Type: esoteric",
+    "differences": [
+      "spell_types"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-16",
+  "state": "reviewed_by_Codex",
+  "pdf_pages": [
+    180,
+    263
+  ],
+  "source_units": 2861,
+  "tables": 24,
+  "source_headings": 49,
+  "spell_headings": 317,
+  "numeric_digit_dice_and_formula_differences": 0,
+  "csv_jsonl_match": true,
+  "table_geometry_checked": true,
+  "source_unchanged": true,
+  "database_imported": true,
+  "previous_translations_unchanged": true,
+  "reader_1_4_unchanged": true,
+  "complete_semantic_review": true,
+  "complete_visual_review": false,
+  "sha256_normalized_newlines": "177d68a2aad7c6113f80f28af8804df923af8256844a52fd74772693a1747ebc"
+}

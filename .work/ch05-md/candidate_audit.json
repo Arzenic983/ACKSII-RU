@@ -1,0 +1,4577 @@
+[
+  {
+    "name": "Adjust Self",
+    "source_ids": [
+      "rr.p0196.b004"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Allure",
+    "source_ids": [
+      "rr.p0196.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Angelic Aura",
+    "source_ids": [
+      "rr.p0196.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Angelic Choir",
+    "source_ids": [
+      "rr.p0196.b013",
+      "rr.p0196.b014",
+      "rr.p0196.b015",
+      "rr.p0196.b016"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Animate Undead",
+    "source_ids": [
+      "rr.p0196.b019",
+      "rr.p0196.b020",
+      "rr.p0196.b021"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Anti-Magic Sphere",
+    "source_ids": [
+      "rr.p0196.b024"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Arcane Armor",
+    "source_ids": [
+      "rr.p0196.b027"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Arcane Shift",
+    "source_ids": [
+      "rr.p0197.b003",
+      "rr.p0197.b004",
+      "rr.p0197.b005"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Arrows of the Sun",
+    "source_ids": [
+      "rr.p0197.b008",
+      "rr.p0197.b009"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Atonement",
+    "source_ids": [
+      "rr.p0197.b012"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Auditory Illusion",
+    "source_ids": [
+      "rr.p0197.b015",
+      "rr.p0197.b016",
+      "rr.p0197.b017",
+      "rr.p0197.b018",
+      "rr.p0197.b019"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Augury",
+    "source_ids": [
+      "rr.p0197.b022",
+      "rr.p0197.b023",
+      "rr.p0197.b024"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Avian Messenger",
+    "source_ids": [
+      "rr.p0198.b003",
+      "rr.p0198.b004",
+      "rr.p0198.b005"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Bane-Rune",
+    "source_ids": [
+      "rr.p0198.b008"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Banner of Invincibility",
+    "source_ids": [
+      "rr.p0198.b011",
+      "rr.p0198.b012",
+      "rr.p0198.b013",
+      "rr.p0198.b014"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Barrier of Blades",
+    "source_ids": [
+      "rr.p0198.b017",
+      "rr.p0198.b018",
+      "rr.p0198.b019",
+      "rr.p0198.b020",
+      "rr.p0198.b021",
+      "rr.p0198.b022"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Bath of the Goddess",
+    "source_ids": [
+      "rr.p0199.b003",
+      "rr.p0199.b004",
+      "rr.p0199.b005",
+      "rr.p0199.b006"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Battering Ram",
+    "source_ids": [
+      "rr.p0199.b009",
+      "rr.p0199.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {
+      "3": 1
+    },
+    "numeric_extra": {
+      "5": 1
+    },
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Beguile Humanoid",
+    "source_ids": [
+      "rr.p0199.b013",
+      "rr.p0199.b014",
+      "rr.p0199.b015",
+      "rr.p0199.b016",
+      "rr.p0199.b017",
+      "rr.p0199.b018"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {
+      "5": 1,
+      "+5": 1,
+      "166": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Bewitch Beast",
+    "source_ids": [
+      "rr.p0199.b021",
+      "rr.p0199.b022",
+      "rr.p0199.b023",
+      "rr.p0199.b024"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Bewitch Crowd",
+    "source_ids": [
+      "rr.p0199.b027",
+      "rr.p0200.b001",
+      "rr.p0200.b002"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Bewitch Humanoid",
+    "source_ids": [
+      "rr.p0200.b005",
+      "rr.p0200.b006",
+      "rr.p0200.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Bewitch Monster",
+    "source_ids": [
+      "rr.p0200.b010",
+      "rr.p0200.b011",
+      "rr.p0200.b012",
+      "rr.p0200.b013",
+      "rr.p0200.b014"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Blast Ward",
+    "source_ids": [
+      "rr.p0200.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Blast Ward, Greater",
+    "source_ids": [
+      "rr.p0200.b020"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Blinding Flash",
+    "source_ids": [
+      "rr.p0200.b023"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Bloody Flux",
+    "source_ids": [
+      "rr.p0200.b026"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Body Swap",
+    "source_ids": [
+      "rr.p0200.b029",
+      "rr.p0200.b030",
+      "rr.p0200.b031"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Boil Blood",
+    "source_ids": [
+      "rr.p0201.b003",
+      "rr.p0201.b004"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Burning Sparks",
+    "source_ids": [
+      "rr.p0201.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {
+      "1d3": 1,
+      "1d6": 1,
+      "2d6": 1,
+      "4d6": 1,
+      "1": 2
+    },
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Call of the Aerophract Steeds",
+    "source_ids": [
+      "rr.p0201.b011",
+      "rr.p0201.b012",
+      "rr.p0201.b013",
+      "rr.p0201.b014",
+      "rr.p0201.b015",
+      "rr.p0201.b016"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Call of the Ancient Tusk",
+    "source_ids": [
+      "rr.p0201.b019",
+      "rr.p0201.b020",
+      "rr.p0201.b021",
+      "rr.p0201.b022",
+      "rr.p0201.b023"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Call of the Galloping Herd",
+    "source_ids": [
+      "rr.p0202.b003",
+      "rr.p0202.b005",
+      "rr.p0202.b006",
+      "rr.p0202.b007",
+      "rr.p0202.b008"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Call of the Great Cats",
+    "source_ids": [
+      "rr.p0202.b011",
+      "rr.p0202.b012",
+      "rr.p0202.b013",
+      "rr.p0202.b014"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Call of the Regal Pride",
+    "source_ids": [
+      "rr.p0203.b003",
+      "rr.p0203.b004",
+      "rr.p0203.b005",
+      "rr.p0203.b006",
+      "rr.p0203.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Call of the Wild Bear",
+    "source_ids": [
+      "rr.p0203.b012",
+      "rr.p0203.b013",
+      "rr.p0203.b014",
+      "rr.p0203.b015",
+      "rr.p0203.b016",
+      "rr.p0203.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Call of the Wolf",
+    "source_ids": [
+      "rr.p0203.b020",
+      "rr.p0203.b021",
+      "rr.p0203.b022",
+      "rr.p0203.b023"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Call of the Wolf Pack",
+    "source_ids": [
+      "rr.p0204.b003",
+      "rr.p0204.b004",
+      "rr.p0204.b005",
+      "rr.p0204.b006"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {
+      "3": 1
+    },
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Capsizing Wave",
+    "source_ids": [
+      "rr.p0204.b009",
+      "rr.p0204.b011",
+      "rr.p0204.b012",
+      "rr.p0204.b013",
+      "rr.p0204.b014",
+      "rr.p0204.b015"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {
+      "+4": 1,
+      "271": 1
+    },
+    "numeric_extra": {
+      "+5": 1
+    },
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Carnage",
+    "source_ids": [
+      "rr.p0204.b018",
+      "rr.p0204.b019",
+      "rr.p0204.b020",
+      "rr.p0204.b021",
+      "rr.p0204.b022",
+      "rr.p0205.b001"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {
+      "2": 1
+    },
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Chameleon",
+    "source_ids": [
+      "rr.p0205.b004"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Chimerical Figment",
+    "source_ids": [
+      "rr.p0205.b007",
+      "rr.p0205.b008",
+      "rr.p0205.b009",
+      "rr.p0205.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Choking Grip",
+    "source_ids": [
+      "rr.p0205.b013",
+      "rr.p0205.b014",
+      "rr.p0205.b015"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Circle of Agony",
+    "source_ids": [
+      "rr.p0205.b018",
+      "rr.p0205.b019"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {
+      "9": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Circling Winds",
+    "source_ids": [
+      "rr.p0206.b003",
+      "rr.p0206.b004",
+      "rr.p0206.b005",
+      "rr.p0206.b006"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {
+      "298": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Clairaudiency",
+    "source_ids": [
+      "rr.p0206.b009",
+      "rr.p0206.b010",
+      "rr.p0206.b011",
+      "rr.p0206.b012",
+      "rr.p0206.b013",
+      "rr.p0206.b014",
+      "rr.p0206.b015"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Clairaudiency, Greater",
+    "source_ids": [
+      "rr.p0206.b018",
+      "rr.p0206.b019",
+      "rr.p0206.b020"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Clairvoyancy",
+    "source_ids": [
+      "rr.p0206.b023"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Clairvoyancy, Greater",
+    "source_ids": [
+      "rr.p0207.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Cloud of Poison",
+    "source_ids": [
+      "rr.p0207.b006",
+      "rr.p0207.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Communion",
+    "source_ids": [
+      "rr.p0207.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Cone of Fear",
+    "source_ids": [
+      "rr.p0207.b013",
+      "rr.p0207.b014"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Cone of Frost",
+    "source_ids": [
+      "rr.p0207.b017",
+      "rr.p0207.b018"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Cone of Paralysis",
+    "source_ids": [
+      "rr.p0207.b021"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Conflagration",
+    "source_ids": [
+      "rr.p0207.b024",
+      "rr.p0207.b025",
+      "rr.p0207.b026"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Conjure Cacodemon Spawn",
+    "source_ids": [
+      "rr.p0208.b003",
+      "rr.p0208.b004",
+      "rr.p0208.b005",
+      "rr.p0208.b006",
+      "rr.p0208.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Conjure Dybbuk",
+    "source_ids": [
+      "rr.p0208.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Conjure Fiend",
+    "source_ids": [
+      "rr.p0208.b013"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Conjure Genie",
+    "source_ids": [
+      "rr.p0208.b016",
+      "rr.p0208.b017",
+      "rr.p0208.b018"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Conjure Hellion",
+    "source_ids": [
+      "rr.p0208.b021"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Conjure Imp",
+    "source_ids": [
+      "rr.p0208.b024"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Conjure Incubus",
+    "source_ids": [
+      "rr.p0209.b004"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Conjure Major Elemental",
+    "source_ids": [
+      "rr.p0209.b008",
+      "rr.p0209.b009",
+      "rr.p0209.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Conjure Petty Elemental",
+    "source_ids": [
+      "rr.p0209.b014"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Conjure Supreme Elemental",
+    "source_ids": [
+      "rr.p0209.b018"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Contact Other Sphere",
+    "source_ids": [
+      "rr.p0210.b003",
+      "rr.p0210.b004",
+      "rr.p0210.b005",
+      "rr.p0210.b006",
+      "rr.p0210.b007",
+      "rr.p0210.b008",
+      "rr.p0210.b010",
+      "rr.p0210.b011",
+      "rr.p0210.b012",
+      "rr.p0210.b013",
+      "rr.p0210.b014",
+      "rr.p0210.b015",
+      "rr.p0210.b016",
+      "rr.p0210.b017",
+      "rr.p0210.b018",
+      "rr.p0210.b019",
+      "rr.p0210.b020"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Control Weather",
+    "source_ids": [
+      "rr.p0211.b005",
+      "rr.p0211.b006",
+      "rr.p0211.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {
+      "277": 1,
+      "279": 1
+    },
+    "numeric_extra": {
+      "1d3": 1,
+      "1d8": 1,
+      "-2": 3,
+      "25%": 1,
+      "20": 4,
+      "1": 2,
+      "-4": 1,
+      "100": 1,
+      "25": 1,
+      "120": 1,
+      "2": 1,
+      "5": 1,
+      "+4": 1
+    },
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Control Winds",
+    "source_ids": [
+      "rr.p0211.b010",
+      "rr.p0211.b011",
+      "rr.p0211.b012",
+      "rr.p0211.b013"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Counterspell",
+    "source_ids": [
+      "rr.p0212.b003",
+      "rr.p0212.b004",
+      "rr.p0212.b005"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Crafting",
+    "source_ids": [
+      "rr.p0212.b008"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Create Chasm",
+    "source_ids": [
+      "rr.p0212.b011",
+      "rr.p0212.b012"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Create Food",
+    "source_ids": [
+      "rr.p0212.b015"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Create Water",
+    "source_ids": [
+      "rr.p0212.b018"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Cure Blindness",
+    "source_ids": [
+      "rr.p0213.b003",
+      "rr.p0213.b004"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Cure Critical Injury",
+    "source_ids": [
+      "rr.p0213.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Cure Disease",
+    "source_ids": [
+      "rr.p0213.b010",
+      "rr.p0213.b011"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Cure Light Injury",
+    "source_ids": [
+      "rr.p0213.b014",
+      "rr.p0213.b015",
+      "rr.p0213.b016"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Cure Major Injury",
+    "source_ids": [
+      "rr.p0213.b019"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Cure Moderate Injury",
+    "source_ids": [
+      "rr.p0213.b022"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Cure Serious Injury",
+    "source_ids": [
+      "rr.p0213.b025"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Curse of the Swine",
+    "source_ids": [
+      "rr.p0213.b028",
+      "rr.p0213.b029"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Dark Whisper",
+    "source_ids": [
+      "rr.p0214.b003",
+      "rr.p0214.b004",
+      "rr.p0214.b005",
+      "rr.p0214.b006",
+      "rr.p0214.b007",
+      "rr.p0214.b008"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Deathless Minion",
+    "source_ids": [
+      "rr.p0214.b011",
+      "rr.p0214.b012",
+      "rr.p0214.b013",
+      "rr.p0214.b014"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Death Ward",
+    "source_ids": [
+      "rr.p0214.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Deflect Ordinary Missiles",
+    "source_ids": [
+      "rr.p0214.b020"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Deflect Ordinary Weapons",
+    "source_ids": [
+      "rr.p0214.b023"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Delay Death",
+    "source_ids": [
+      "rr.p0215.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Delay Disease",
+    "source_ids": [
+      "rr.p0215.b006",
+      "rr.p0215.b007",
+      "rr.p0215.b008"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Delay Poison",
+    "source_ids": [
+      "rr.p0215.b011"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Desiccate",
+    "source_ids": [
+      "rr.p0215.b014"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Destroy Dead",
+    "source_ids": [
+      "rr.p0215.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Discern Bewitchment",
+    "source_ids": [
+      "rr.p0215.b020",
+      "rr.p0215.b021"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Discern Curse",
+    "source_ids": [
+      "rr.p0216.b003",
+      "rr.p0216.b004"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Discern Evil",
+    "source_ids": [
+      "rr.p0216.b007",
+      "rr.p0216.b008"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Discern Gist",
+    "source_ids": [
+      "rr.p0216.b012"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {
+      "2": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Discern Invisible",
+    "source_ids": [
+      "rr.p0216.b015"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Discern Magic",
+    "source_ids": [
+      "rr.p0216.b018"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Discern Poison",
+    "source_ids": [
+      "rr.p0216.b021"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Disfigure Body and Soul",
+    "source_ids": [
+      "rr.p0216.b024",
+      "rr.p0216.b025",
+      "rr.p0216.b026"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Dismember",
+    "source_ids": [
+      "rr.p0217.b003",
+      "rr.p0217.b004"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Disintegration",
+    "source_ids": [
+      "rr.p0217.b007",
+      "rr.p0217.b008",
+      "rr.p0217.b009",
+      "rr.p0217.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Dispel Evil",
+    "source_ids": [
+      "rr.p0218.b003",
+      "rr.p0218.b004",
+      "rr.p0218.b005",
+      "rr.p0218.b006",
+      "rr.p0218.b007",
+      "rr.p0218.b008",
+      "rr.p0218.b009",
+      "rr.p0218.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Dispel Magic",
+    "source_ids": [
+      "rr.p0218.b013",
+      "rr.p0218.b014",
+      "rr.p0218.b015",
+      "rr.p0218.b016"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Divination",
+    "source_ids": [
+      "rr.p0218.b019",
+      "rr.p0218.b020",
+      "rr.p0218.b021"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Divine Armor",
+    "source_ids": [
+      "rr.p0218.b024"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Divine Grace",
+    "source_ids": [
+      "rr.p0218.b027"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Divine Protection",
+    "source_ids": [
+      "rr.p0218.b030"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Dominate Beasts",
+    "source_ids": [
+      "rr.p0219.b003",
+      "rr.p0219.b004",
+      "rr.p0219.b005"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Dominate Humanoid",
+    "source_ids": [
+      "rr.p0219.b008",
+      "rr.p0219.b009",
+      "rr.p0219.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Dominate Monster",
+    "source_ids": [
+      "rr.p0219.b013",
+      "rr.p0219.b014",
+      "rr.p0219.b015"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Dominate Plants",
+    "source_ids": [
+      "rr.p0219.b018",
+      "rr.p0219.b019",
+      "rr.p0219.b020",
+      "rr.p0219.b021"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Earth’s Excrescence",
+    "source_ids": [
+      "rr.p0219.b024",
+      "rr.p0219.b025"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Earth’s Mire",
+    "source_ids": [
+      "rr.p0220.b003",
+      "rr.p0220.b004",
+      "rr.p0220.b005",
+      "rr.p0220.b006"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0220.b003",
+      "rr.p0220.b004",
+      "rr.p0220.b005",
+      "rr.p0220.b006"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Earth’s Movement",
+    "source_ids": [
+      "rr.p0220.b009"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0220.b009"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Earth’s Teeth",
+    "source_ids": [
+      "rr.p0220.b012",
+      "rr.p0220.b013"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Earth’s Tremor",
+    "source_ids": [
+      "rr.p0220.b016",
+      "rr.p0220.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0220.b016",
+      "rr.p0220.b017"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Earth’s Wave",
+    "source_ids": [
+      "rr.p0220.b020",
+      "rr.p0220.b021"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Energy Invulnerability",
+    "source_ids": [
+      "rr.p0220.b024"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0220.b024"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Energy Protection",
+    "source_ids": [
+      "rr.p0220.b027"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Enslave Humanoid",
+    "source_ids": [
+      "rr.p0221.b003",
+      "rr.p0221.b004",
+      "rr.p0221.b005"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0221.b003",
+      "rr.p0221.b004",
+      "rr.p0221.b005"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Faithful Companion",
+    "source_ids": [
+      "rr.p0221.b008",
+      "rr.p0221.b009",
+      "rr.p0221.b010",
+      "rr.p0221.b011"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Fan of Flames",
+    "source_ids": [
+      "rr.p0221.b014",
+      "rr.p0221.b015"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Fate",
+    "source_ids": [
+      "rr.p0221.b018",
+      "rr.p0221.b019"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0221.b018",
+      "rr.p0221.b019"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Fiery Pillar",
+    "source_ids": [
+      "rr.p0222.b003",
+      "rr.p0222.b004"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0222.b003",
+      "rr.p0222.b004"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Fillet and Serve",
+    "source_ids": [
+      "rr.p0222.b007",
+      "rr.p0222.b008"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0222.b007",
+      "rr.p0222.b008"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Fireball",
+    "source_ids": [
+      "rr.p0222.b011",
+      "rr.p0222.b012",
+      "rr.p0222.b013",
+      "rr.p0222.b014"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0222.b011",
+      "rr.p0222.b012",
+      "rr.p0222.b013",
+      "rr.p0222.b014"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Firestorm",
+    "source_ids": [
+      "rr.p0222.b017",
+      "rr.p0222.b018",
+      "rr.p0222.b019"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0222.b017",
+      "rr.p0222.b018",
+      "rr.p0222.b019"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Flay the Slain",
+    "source_ids": [
+      "rr.p0222.b022"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0222.b022"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Flesh to Ash",
+    "source_ids": [
+      "rr.p0222.b025"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0222.b025"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Flight",
+    "source_ids": [
+      "rr.p0222.b028",
+      "rr.p0223.b001"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0222.b028",
+      "rr.p0223.b001"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Force of Impetus",
+    "source_ids": [
+      "rr.p0223.b004",
+      "rr.p0223.b005",
+      "rr.p0223.b007",
+      "rr.p0223.b008"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {
+      "1": 1,
+      "5": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0223.b004",
+      "rr.p0223.b005",
+      "rr.p0223.b007",
+      "rr.p0223.b008"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Forest Enchantment",
+    "source_ids": [
+      "rr.p0223.b011",
+      "rr.p0223.b012",
+      "rr.p0223.b014",
+      "rr.p0223.b015",
+      "rr.p0223.b016",
+      "rr.p0223.b017",
+      "rr.p0223.b018",
+      "rr.p0223.b019"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {
+      "1": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0223.b011",
+      "rr.p0223.b012",
+      "rr.p0223.b014",
+      "rr.p0223.b015",
+      "rr.p0223.b016",
+      "rr.p0223.b017",
+      "rr.p0223.b018"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Forgetfulness",
+    "source_ids": [
+      "rr.p0224.b003",
+      "rr.p0224.b004",
+      "rr.p0224.b005"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0224.b003",
+      "rr.p0224.b004",
+      "rr.p0224.b005"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Frighten Beast",
+    "source_ids": [
+      "rr.p0224.b008",
+      "rr.p0224.b009"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Frighten Humanoid",
+    "source_ids": [
+      "rr.p0224.b012"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Frostbite",
+    "source_ids": [
+      "rr.p0224.b015"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {
+      "520": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Gale of Wind",
+    "source_ids": [
+      "rr.p0224.b018",
+      "rr.p0224.b019",
+      "rr.p0224.b020",
+      "rr.p0224.b021",
+      "rr.p0224.b022",
+      "rr.p0224.b023"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Gaseous Form",
+    "source_ids": [
+      "rr.p0224.b026",
+      "rr.p0224.b027"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0224.b026",
+      "rr.p0224.b027"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Giant Strength",
+    "source_ids": [
+      "rr.p0225.b003",
+      "rr.p0225.b004",
+      "rr.p0225.b005",
+      "rr.p0225.b006"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0225.b003",
+      "rr.p0225.b004",
+      "rr.p0225.b005",
+      "rr.p0225.b006"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Growth",
+    "source_ids": [
+      "rr.p0225.b009",
+      "rr.p0225.b010",
+      "rr.p0225.b011",
+      "rr.p0225.b012"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0225.b009",
+      "rr.p0225.b010",
+      "rr.p0225.b011",
+      "rr.p0225.b012"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Growth, Beast",
+    "source_ids": [
+      "rr.p0226.b003",
+      "rr.p0226.b004",
+      "rr.p0226.b005"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0226.b003",
+      "rr.p0226.b004",
+      "rr.p0226.b005"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Growth, Plant",
+    "source_ids": [
+      "rr.p0226.b008",
+      "rr.p0226.b009",
+      "rr.p0226.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0226.b008",
+      "rr.p0226.b009",
+      "rr.p0226.b010"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Guise Other",
+    "source_ids": [
+      "rr.p0226.b013"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0226.b013"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Guise Self",
+    "source_ids": [
+      "rr.p0226.b016"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0226.b016"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Halt Humanoids",
+    "source_ids": [
+      "rr.p0226.b019",
+      "rr.p0226.b020"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Halt Monsters",
+    "source_ids": [
+      "rr.p0227.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0227.b003"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Healing Circle",
+    "source_ids": [
+      "rr.p0227.b006",
+      "rr.p0227.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0227.b006",
+      "rr.p0227.b007"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Hidden Host",
+    "source_ids": [
+      "rr.p0227.b010",
+      "rr.p0227.b011"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0227.b010",
+      "rr.p0227.b011"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Holy Blessing",
+    "source_ids": [
+      "rr.p0227.b014",
+      "rr.p0227.b015",
+      "rr.p0227.b016",
+      "rr.p0227.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Holy Chant",
+    "source_ids": [
+      "rr.p0227.b020"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Holy Circle",
+    "source_ids": [
+      "rr.p0227.b023",
+      "rr.p0227.b024",
+      "rr.p0227.b025",
+      "rr.p0227.b026",
+      "rr.p0227.b027"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Holy Circle, Sustained",
+    "source_ids": [
+      "rr.p0228.b003",
+      "rr.p0228.b004"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0228.b003",
+      "rr.p0228.b004"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Holy Prayer",
+    "source_ids": [
+      "rr.p0228.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Home Ward",
+    "source_ids": [
+      "rr.p0228.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0228.b010"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Hypnotic Sigil",
+    "source_ids": [
+      "rr.p0228.b013"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Ice Floe",
+    "source_ids": [
+      "rr.p0228.b016",
+      "rr.p0228.b017",
+      "rr.p0228.b018",
+      "rr.p0228.b019",
+      "rr.p0228.b020"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {
+      "10%": 1
+    },
+    "numeric_extra": {
+      "10": 1
+    },
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Ice Sheet",
+    "source_ids": [
+      "rr.p0229.b003",
+      "rr.p0229.b004",
+      "rr.p0229.b005",
+      "rr.p0229.b006",
+      "rr.p0229.b007",
+      "rr.p0229.b008",
+      "rr.p0229.b009",
+      "rr.p0229.b010",
+      "rr.p0229.b011",
+      "rr.p0229.b012"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0229.b003",
+      "rr.p0229.b004",
+      "rr.p0229.b005",
+      "rr.p0229.b006",
+      "rr.p0229.b007",
+      "rr.p0229.b008",
+      "rr.p0229.b009",
+      "rr.p0229.b010",
+      "rr.p0229.b011",
+      "rr.p0229.b012"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Ice Storm",
+    "source_ids": [
+      "rr.p0229.b015",
+      "rr.p0229.b016",
+      "rr.p0229.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0229.b015",
+      "rr.p0229.b016",
+      "rr.p0229.b017"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Illumination",
+    "source_ids": [
+      "rr.p0229.b020",
+      "rr.p0229.b021",
+      "rr.p0229.b022"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Illumination, Perpetual",
+    "source_ids": [
+      "rr.p0230.b003",
+      "rr.p0230.b004",
+      "rr.p0230.b005",
+      "rr.p0230.b006"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0230.b003",
+      "rr.p0230.b004",
+      "rr.p0230.b005",
+      "rr.p0230.b006"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Illusory Duplicates",
+    "source_ids": [
+      "rr.p0230.b009",
+      "rr.p0230.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Illusory Figment",
+    "source_ids": [
+      "rr.p0230.b013",
+      "rr.p0230.b014",
+      "rr.p0230.b015"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Illusory Interior",
+    "source_ids": [
+      "rr.p0230.b018",
+      "rr.p0230.b019",
+      "rr.p0230.b020"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Illusory Terrain",
+    "source_ids": [
+      "rr.p0230.b023",
+      "rr.p0230.b024",
+      "rr.p0230.b025"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0230.b023",
+      "rr.p0230.b024",
+      "rr.p0230.b025"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Inaudibility",
+    "source_ids": [
+      "rr.p0231.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0231.b003"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Incite Madness",
+    "source_ids": [
+      "rr.p0231.b006",
+      "rr.p0231.b008"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0231.b006",
+      "rr.p0231.b008"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Indiscernibility",
+    "source_ids": [
+      "rr.p0231.b011",
+      "rr.p0231.b012"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0231.b011",
+      "rr.p0231.b012"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Inferno",
+    "source_ids": [
+      "rr.p0231.b015",
+      "rr.p0231.b016"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0231.b015",
+      "rr.p0231.b016"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Infuriate Beast",
+    "source_ids": [
+      "rr.p0231.b019",
+      "rr.p0231.b020"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Infuriate Humanoid",
+    "source_ids": [
+      "rr.p0232.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {
+      "+2": 1,
+      "-2": 1,
+      "+5": 1
+    },
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Infuriate Crowd",
+    "source_ids": [
+      "rr.p0232.b006"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0232.b006"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Inspire Awe",
+    "source_ids": [
+      "rr.p0232.b009",
+      "rr.p0232.b010",
+      "rr.p0232.b011"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0232.b009",
+      "rr.p0232.b010",
+      "rr.p0232.b011"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Invisibility",
+    "source_ids": [
+      "rr.p0232.b014",
+      "rr.p0232.b015",
+      "rr.p0232.b016",
+      "rr.p0232.b017",
+      "rr.p0232.b018"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0232.b014",
+      "rr.p0232.b015",
+      "rr.p0232.b016",
+      "rr.p0232.b018"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Invulnerability to Evil",
+    "source_ids": [
+      "rr.p0232.b021",
+      "rr.p0232.b022"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0232.b021",
+      "rr.p0232.b022"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Iron Maiden",
+    "source_ids": [
+      "rr.p0232.b025",
+      "rr.p0232.b026",
+      "rr.p0232.b027"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [
+      "rr.p0232.b025",
+      "rr.p0232.b026",
+      "rr.p0232.b027"
+    ],
+    "reviewed": false
+  },
+  {
+    "name": "Kindle Flame",
+    "source_ids": [
+      "rr.p0233.b003",
+      "rr.p0233.b004",
+      "rr.p0233.b005"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Lay of the Land",
+    "source_ids": [
+      "rr.p0233.b008",
+      "rr.p0233.b009"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {
+      "6": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Leaping",
+    "source_ids": [
+      "rr.p0233.b012"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Level Water",
+    "source_ids": [
+      "rr.p0233.b016",
+      "rr.p0233.b017",
+      "rr.p0233.b018",
+      "rr.p0233.b019"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {
+      "10": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Levitation",
+    "source_ids": [
+      "rr.p0234.b003",
+      "rr.p0234.b004",
+      "rr.p0234.b005",
+      "rr.p0234.b006",
+      "rr.p0234.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Life Transfer",
+    "source_ids": [
+      "rr.p0234.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Lightless Vision",
+    "source_ids": [
+      "rr.p0234.b013"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Lightless Vision, Mass",
+    "source_ids": [
+      "rr.p0234.b016"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Lightning Strike",
+    "source_ids": [
+      "rr.p0235.b003",
+      "rr.p0235.b004",
+      "rr.p0235.b005",
+      "rr.p0235.b006",
+      "rr.p0235.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Locate Animal or Plant",
+    "source_ids": [
+      "rr.p0235.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Locate Distant Object",
+    "source_ids": [
+      "rr.p0235.b013",
+      "rr.p0235.b014"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Locate Haunting",
+    "source_ids": [
+      "rr.p0235.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Locate Object",
+    "source_ids": [
+      "rr.p0235.b020"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Locate Place of Power",
+    "source_ids": [
+      "rr.p0235.b023"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Locate Treasure",
+    "source_ids": [
+      "rr.p0236.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Madness of Crowds",
+    "source_ids": [
+      "rr.p0236.b006",
+      "rr.p0236.b008"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Mage Missile",
+    "source_ids": [
+      "rr.p0236.b011"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Magic Carpet",
+    "source_ids": [
+      "rr.p0236.b014",
+      "rr.p0236.b015",
+      "rr.p0236.b016"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Magic Lock",
+    "source_ids": [
+      "rr.p0237.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Mirage",
+    "source_ids": [
+      "rr.p0237.b006",
+      "rr.p0237.b007",
+      "rr.p0237.b008",
+      "rr.p0237.b009"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Necromantic Invulnerability",
+    "source_ids": [
+      "rr.p0237.b012",
+      "rr.p0237.b013"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {
+      "11": 1,
+      "2": 1
+    },
+    "numeric_extra": {
+      "11.2": 1
+    },
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Necromantic Potence",
+    "source_ids": [
+      "rr.p0237.b016",
+      "rr.p0237.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Neutralize Poison",
+    "source_ids": [
+      "rr.p0237.b020",
+      "rr.p0237.b021"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Noiselessness",
+    "source_ids": [
+      "rr.p0237.b024"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Ogre Strength",
+    "source_ids": [
+      "rr.p0238.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Panic",
+    "source_ids": [
+      "rr.p0238.b006",
+      "rr.p0238.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Passageway",
+    "source_ids": [
+      "rr.p0238.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Pass Without Trace",
+    "source_ids": [
+      "rr.p0238.b013"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Perpetual Figment",
+    "source_ids": [
+      "rr.p0238.b016",
+      "rr.p0238.b017",
+      "rr.p0238.b018"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Petrification",
+    "source_ids": [
+      "rr.p0238.b021",
+      "rr.p0238.b022"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Phantasmal Figment",
+    "source_ids": [
+      "rr.p0239.b003",
+      "rr.p0239.b004",
+      "rr.p0239.b005"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Phantasmal Horror",
+    "source_ids": [
+      "rr.p0239.b008",
+      "rr.p0239.b009",
+      "rr.p0239.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Phoenix Aura",
+    "source_ids": [
+      "rr.p0239.b013",
+      "rr.p0239.b014"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Physical Invulnerability",
+    "source_ids": [
+      "rr.p0239.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Physical Protection",
+    "source_ids": [
+      "rr.p0239.b020"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Predict Weather",
+    "source_ids": [
+      "rr.p0240.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Prophetic Dream",
+    "source_ids": [
+      "rr.p0240.b006"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Programmatic Figment",
+    "source_ids": [
+      "rr.p0240.b009",
+      "rr.p0240.b010",
+      "rr.p0240.b011",
+      "rr.p0240.b012"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {
+      "1": 2
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Protection from Temperature",
+    "source_ids": [
+      "rr.p0240.b015"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Purify Food and Water",
+    "source_ids": [
+      "rr.p0241.b003",
+      "rr.p0241.b004"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Quest",
+    "source_ids": [
+      "rr.p0241.b007",
+      "rr.p0241.b008",
+      "rr.p0241.b009",
+      "rr.p0241.b010",
+      "rr.p0241.b011",
+      "rr.p0241.b012",
+      "rr.p0241.b013"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Rain of Vitriol",
+    "source_ids": [
+      "rr.p0242.b003",
+      "rr.p0242.b004",
+      "rr.p0242.b005"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Remove Curse",
+    "source_ids": [
+      "rr.p0242.b008",
+      "rr.p0242.b009",
+      "rr.p0242.b010",
+      "rr.p0242.b011",
+      "rr.p0242.b012",
+      "rr.p0242.b013",
+      "rr.p0242.b014",
+      "rr.p0242.b015",
+      "rr.p0242.b016",
+      "rr.p0242.b017",
+      "rr.p0242.b018"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {
+      "1": 1
+    },
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Remove Fear",
+    "source_ids": [
+      "rr.p0243.b003",
+      "rr.p0243.b004"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Repair Disfigurement and Disability",
+    "source_ids": [
+      "rr.p0243.b007",
+      "rr.p0243.b008"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Restore Life and Limb",
+    "source_ids": [
+      "rr.p0243.b011",
+      "rr.p0243.b012",
+      "rr.p0243.b013",
+      "rr.p0243.b014"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Reveal Ritual Magic",
+    "source_ids": [
+      "rr.p0243.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Righteous Wrath",
+    "source_ids": [
+      "rr.p0243.b020"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Rouse the Fallen",
+    "source_ids": [
+      "rr.p0243.b023",
+      "rr.p0243.b024",
+      "rr.p0243.b025",
+      "rr.p0243.b026"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Rune of Warding",
+    "source_ids": [
+      "rr.p0244.b003",
+      "rr.p0244.b004",
+      "rr.p0244.b005",
+      "rr.p0244.b006",
+      "rr.p0244.b007",
+      "rr.p0244.b008",
+      "rr.p0244.b009",
+      "rr.p0244.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Safe Travels",
+    "source_ids": [
+      "rr.p0244.b013"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Salvific Rain",
+    "source_ids": [
+      "rr.p0244.b016"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Salving Rest",
+    "source_ids": [
+      "rr.p0244.b019"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Sanctuary",
+    "source_ids": [
+      "rr.p0244.b022"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Scouring Zephyr",
+    "source_ids": [
+      "rr.p0244.b025",
+      "rr.p0245.b001",
+      "rr.p0245.b002",
+      "rr.p0245.b003",
+      "rr.p0245.b004",
+      "rr.p0245.b005",
+      "rr.p0245.b006"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Scry",
+    "source_ids": [
+      "rr.p0245.b009",
+      "rr.p0245.b010",
+      "rr.p0245.b011",
+      "rr.p0245.b012",
+      "rr.p0245.b013",
+      "rr.p0245.b014"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {
+      "1": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Seal Portal",
+    "source_ids": [
+      "rr.p0245.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Selective Fire",
+    "source_ids": [
+      "rr.p0245.b020",
+      "rr.p0245.b021"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Sharpness",
+    "source_ids": [
+      "rr.p0245.b024"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Shatter Blade",
+    "source_ids": [
+      "rr.p0245.b027",
+      "rr.p0245.b028"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Shimmer",
+    "source_ids": [
+      "rr.p0246.b001"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Shrieking Skull",
+    "source_ids": [
+      "rr.p0246.b004",
+      "rr.p0246.b005",
+      "rr.p0246.b006",
+      "rr.p0246.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Shrouding Fog",
+    "source_ids": [
+      "rr.p0246.b010",
+      "rr.p0246.b011",
+      "rr.p0246.b012"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Silent Step",
+    "source_ids": [
+      "rr.p0246.b015"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Skinchange",
+    "source_ids": [
+      "rr.p0246.b018",
+      "rr.p0246.b019",
+      "rr.p0246.b020"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Slicing Blow",
+    "source_ids": [
+      "rr.p0247.b003",
+      "rr.p0247.b004"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Slickness",
+    "source_ids": [
+      "rr.p0247.b007",
+      "rr.p0247.b008",
+      "rr.p0247.b009",
+      "rr.p0247.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {
+      "-4": 1,
+      "305": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Sling Stone",
+    "source_ids": [
+      "rr.p0247.b013",
+      "rr.p0247.b015"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Slumber",
+    "source_ids": [
+      "rr.p0247.b018"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Slumber, Deep",
+    "source_ids": [
+      "rr.p0248.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Smite Undead",
+    "source_ids": [
+      "rr.p0248.b006",
+      "rr.p0248.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Snakes to Staffs",
+    "source_ids": [
+      "rr.p0248.b010",
+      "rr.p0248.b011",
+      "rr.p0248.b012"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Soul Eating",
+    "source_ids": [
+      "rr.p0248.b015",
+      "rr.p0248.b016",
+      "rr.p0248.b017",
+      "rr.p0248.b018",
+      "rr.p0248.b019"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {
+      "1": 1
+    },
+    "numeric_extra": {
+      "+1": 1
+    },
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Soul Swap",
+    "source_ids": [
+      "rr.p0248.b022",
+      "rr.p0248.b023",
+      "rr.p0249.b001",
+      "rr.p0249.b002",
+      "rr.p0249.b003",
+      "rr.p0249.b004"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Speak with Beasts",
+    "source_ids": [
+      "rr.p0249.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Speak with Dead",
+    "source_ids": [
+      "rr.p0249.b010",
+      "rr.p0249.b011",
+      "rr.p0249.b012",
+      "rr.p0249.b013",
+      "rr.p0249.b014"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Speak with Plants",
+    "source_ids": [
+      "rr.p0249.b017",
+      "rr.p0249.b018",
+      "rr.p0249.b019"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Spectral Figment",
+    "source_ids": [
+      "rr.p0250.b003",
+      "rr.p0250.b004",
+      "rr.p0250.b005"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Spectral Legion",
+    "source_ids": [
+      "rr.p0250.b008",
+      "rr.p0250.b009",
+      "rr.p0250.b010",
+      "rr.p0250.b011",
+      "rr.p0250.b012"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Spellward",
+    "source_ids": [
+      "rr.p0250.b015",
+      "rr.p0250.b016"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {
+      "4": 1
+    },
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Spellward Other",
+    "source_ids": [
+      "rr.p0251.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Spellwarded Zone",
+    "source_ids": [
+      "rr.p0251.b006",
+      "rr.p0251.b007",
+      "rr.p0251.b008",
+      "rr.p0251.b009",
+      "rr.p0251.b010",
+      "rr.p0251.b011",
+      "rr.p0251.b012",
+      "rr.p0251.b013",
+      "rr.p0251.b014",
+      "rr.p0251.b015"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {
+      "14": 1,
+      "19": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Sphere of Invulnerability, Greater",
+    "source_ids": [
+      "rr.p0251.b018"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Sphere of Invulnerability, Lesser",
+    "source_ids": [
+      "rr.p0251.b021"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Spider Climbing",
+    "source_ids": [
+      "rr.p0251.b024",
+      "rr.p0251.b025",
+      "rr.p0251.b026"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Spirit of Healing",
+    "source_ids": [
+      "rr.p0252.b003",
+      "rr.p0252.b004"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {
+      "1d6+1": 1
+    },
+    "numeric_extra": {
+      "1d8+1": 1
+    },
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Spiritwalk",
+    "source_ids": [
+      "rr.p0252.b007",
+      "rr.p0252.b008",
+      "rr.p0252.b009"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Spiritual Weapon",
+    "source_ids": [
+      "rr.p0252.b012",
+      "rr.p0252.b013"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Strength of Mind",
+    "source_ids": [
+      "rr.p0252.b016",
+      "rr.p0252.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Strengthen the Unliving",
+    "source_ids": [
+      "rr.p0252.b020"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {
+      "1": 1
+    },
+    "numeric_extra": {
+      "+1": 1
+    },
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Striking",
+    "source_ids": [
+      "rr.p0252.b023"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Sudden Staircase",
+    "source_ids": [
+      "rr.p0252.b026",
+      "rr.p0252.b027",
+      "rr.p0252.b028",
+      "rr.p0252.b029",
+      "rr.p0252.b030"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Summon Hellhounds",
+    "source_ids": [
+      "rr.p0253.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Summon Insect Plague",
+    "source_ids": [
+      "rr.p0253.b006",
+      "rr.p0253.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Summon Insect Swarm",
+    "source_ids": [
+      "rr.p0253.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Summon Invisible Stalker",
+    "source_ids": [
+      "rr.p0253.b013"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Summon Manes",
+    "source_ids": [
+      "rr.p0253.b016",
+      "rr.p0253.b017",
+      "rr.p0253.b018"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Summon Ooze",
+    "source_ids": [
+      "rr.p0253.b021"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Summon Shadow",
+    "source_ids": [
+      "rr.p0254.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Summon Weather",
+    "source_ids": [
+      "rr.p0254.b006",
+      "rr.p0254.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {
+      "6": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Summon Winged Herald",
+    "source_ids": [
+      "rr.p0254.b010",
+      "rr.p0254.b011",
+      "rr.p0254.b012",
+      "rr.p0254.b013"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Sunder Structure",
+    "source_ids": [
+      "rr.p0254.b016"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Sunflare",
+    "source_ids": [
+      "rr.p0254.b019",
+      "rr.p0254.b020",
+      "rr.p0254.b021"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Swift Sword",
+    "source_ids": [
+      "rr.p0255.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Swift Sword, Sustained",
+    "source_ids": [
+      "rr.p0255.b006"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Swimming",
+    "source_ids": [
+      "rr.p0255.b009"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Sword of Fire",
+    "source_ids": [
+      "rr.p0255.b012",
+      "rr.p0255.b013",
+      "rr.p0255.b014"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {
+      "1d6+3": 1
+    },
+    "numeric_extra": {
+      "1d4": 1
+    },
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Telekinesis",
+    "source_ids": [
+      "rr.p0255.b017",
+      "rr.p0255.b018",
+      "rr.p0255.b019",
+      "rr.p0255.b020"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Telepathy",
+    "source_ids": [
+      "rr.p0255.b023",
+      "rr.p0255.b024",
+      "rr.p0255.b025",
+      "rr.p0255.b026"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Teleportation",
+    "source_ids": [
+      "rr.p0256.b003",
+      "rr.p0256.b004",
+      "rr.p0256.b005",
+      "rr.p0256.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Thunderbolt",
+    "source_ids": [
+      "rr.p0256.b010",
+      "rr.p0256.b011",
+      "rr.p0256.b012",
+      "rr.p0256.b013",
+      "rr.p0256.b014",
+      "rr.p0256.b015"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {
+      "8": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Thunderclap",
+    "source_ids": [
+      "rr.p0256.b018",
+      "rr.p0256.b019"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Tongues",
+    "source_ids": [
+      "rr.p0256.b022",
+      "rr.p0256.b023"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Torpor",
+    "source_ids": [
+      "rr.p0257.b003",
+      "rr.p0257.b004"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Transform Beast",
+    "source_ids": [
+      "rr.p0257.b007",
+      "rr.p0257.b008",
+      "rr.p0257.b009",
+      "rr.p0257.b010",
+      "rr.p0257.b011"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Transform Other",
+    "source_ids": [
+      "rr.p0257.b014",
+      "rr.p0257.b015",
+      "rr.p0257.b016",
+      "rr.p0257.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Transform Self",
+    "source_ids": [
+      "rr.p0258.b003",
+      "rr.p0258.b004"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Trollblood",
+    "source_ids": [
+      "rr.p0258.b007",
+      "rr.p0258.b008",
+      "rr.p0258.b009"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "True Seeing",
+    "source_ids": [
+      "rr.p0258.b012",
+      "rr.p0258.b013"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Turn to Dust",
+    "source_ids": [
+      "rr.p0258.b016"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Unliving Puppet",
+    "source_ids": [
+      "rr.p0258.b019",
+      "rr.p0258.b020",
+      "rr.p0258.b021"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Vigor",
+    "source_ids": [
+      "rr.p0258.b024"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Vitriolic Infusion",
+    "source_ids": [
+      "rr.p0258.b027"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {
+      "298": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Wall of Annihilation",
+    "source_ids": [
+      "rr.p0259.b003",
+      "rr.p0259.b004",
+      "rr.p0259.b005"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Wall of Corpses",
+    "source_ids": [
+      "rr.p0259.b008",
+      "rr.p0259.b009",
+      "rr.p0259.b010"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Wall of Flame",
+    "source_ids": [
+      "rr.p0259.b013",
+      "rr.p0259.b014"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Wall of Force",
+    "source_ids": [
+      "rr.p0259.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Wall of Frost",
+    "source_ids": [
+      "rr.p0260.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Wall of Smoke",
+    "source_ids": [
+      "rr.p0260.b006",
+      "rr.p0260.b007"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Wall of Stone",
+    "source_ids": [
+      "rr.p0260.b010",
+      "rr.p0260.b011"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {
+      "1000": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Wall of Thunder",
+    "source_ids": [
+      "rr.p0260.b014",
+      "rr.p0260.b015",
+      "rr.p0260.b016",
+      "rr.p0260.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Wall of Wood",
+    "source_ids": [
+      "rr.p0261.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {
+      "1200": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Warp Wood",
+    "source_ids": [
+      "rr.p0261.b006"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Water Breathing",
+    "source_ids": [
+      "rr.p0261.b009"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Water Walking",
+    "source_ids": [
+      "rr.p0261.b012"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Weave Fire",
+    "source_ids": [
+      "rr.p0261.b015",
+      "rr.p0261.b016",
+      "rr.p0261.b017"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Weave Smoke",
+    "source_ids": [
+      "rr.p0261.b020",
+      "rr.p0261.b021"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Weave Water",
+    "source_ids": [
+      "rr.p0262.b003",
+      "rr.p0262.b004",
+      "rr.p0262.b005"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Webbing",
+    "source_ids": [
+      "rr.p0262.b008",
+      "rr.p0262.b009",
+      "rr.p0262.b010",
+      "rr.p0262.b011",
+      "rr.p0262.b012",
+      "rr.p0262.b013"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Winged Flight",
+    "source_ids": [
+      "rr.p0263.b003"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "Word of Command",
+    "source_ids": [
+      "rr.p0263.b006",
+      "rr.p0263.b007",
+      "rr.p0263.b008",
+      "rr.p0263.b009",
+      "rr.p0263.b010",
+      "rr.p0263.b011",
+      "rr.p0263.b012",
+      "rr.p0263.b013",
+      "rr.p0263.b014",
+      "rr.p0263.b015",
+      "rr.p0263.b016",
+      "rr.p0263.b017",
+      "rr.p0263.b018",
+      "rr.p0263.b019",
+      "rr.p0263.b020",
+      "rr.p0263.b021"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": true,
+    "numeric_missing": {
+      "5": 1
+    },
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  },
+  {
+    "name": "X-Ray Vision",
+    "source_ids": [
+      "rr.p0263.b024"
+    ],
+    "candidate_reference": "CHAPTER 5_ SPELLS LIST ALL",
+    "paragraph_count_changed": false,
+    "numeric_missing": {},
+    "numeric_extra": {},
+    "english_body_ids": [],
+    "reviewed": false
+  }
+]

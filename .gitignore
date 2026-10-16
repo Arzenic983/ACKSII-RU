@@ -45,3 +45,16 @@ contributions/_export/
 .work/ch04-md/pure_translations.json
 .work/ch04-md/numeric_review.json
 .work/ch04-md/contributor_draft.txt
+
+# Chapter 5: regenerable review pages, draft extraction and local previews
+.work/ch05-md/source_*.md
+.work/ch05-md/review_*.md
+.work/ch05-md/pdf-*.png
+.work/ch05-md/chapter_preview.html
+.work/ch05-md/automatic.md
+.work/ch05-md/pure_translations.json
+.work/ch05-md/numeric_review.json
+.work/ch05-md/corrections_review_90.md
+.work/ch05-md/needs_translation.md
+.work/ch05-md/CHAPTER*.txt
+contributions/05/Черновик главы 5.md

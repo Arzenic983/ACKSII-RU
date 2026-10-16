@@ -1,0 +1,49 @@
+5 SPELLS | 5. Заклинания
+SPELLS | Заклинания
+SPELLS AND SPELL CASTERS | Заклинания и заклинатели
+CASTINGS PER DAY | Произнесений в день
+CASTING REQUIREMENTS | Требования к произнесению
+SPELL LISTS BY MAGIC TYPE | Списки заклинаний по видам магии
+SPELL REPERTOIRES | Репертуары заклинаний
+PRAYERFUL REPERTOIRE | Молитвенный репертуар
+REPERTOIRE RULES | Правила репертуара
+PRAYER REQUIREMENT | Требование молитвы
+STUDIOUS SPELL REPERTOIRE | Учёный репертуар заклинаний
+REPERTOIRE RULES | Правила репертуара
+STUDY REQUIREMENT | Требование занятий
+STARTING SPELL REPERTOIRE | Начальный репертуар заклинаний
+ACQUIRING NEW SPELL FORMULAS | Получение новых формул заклинаний
+ADDING OR REPLACING SPELLS | Добавление и замена заклинаний
+RECOVERING FROM A LOST OR DESTROYED SPELL BOOK | Восстановление утраченной или уничтоженной книги заклинаний
+SPELL REVERSAL | Обращение заклинаний
+SPELL SIGNATURES | Сигнатуры заклинаний
+SPELL TYPES | Типы заклинаний
+LIST OF SPELL TYPES BLAST SPELLS | Перечень типов: заклинания взрыва
+DEATH SPELLS | Заклинания смерти
+DETECTION SPELLS | Заклинания обнаружения
+ELEMENTAL SPELLS | Стихийные заклинания
+ENCHANTMENT SPELLS | Заклинания очарования
+ESOTERIC SPELLS | Эзотерические заклинания
+HEALING SPELLS | Заклинания исцеления
+ILLUSORY SPELLS | Заклинания иллюзии
+MOVEMENT SPELLS | Заклинания движения
+PROTECTION SPELLS | Заклинания защиты
+SUMMONING SPELLS | Заклинания призыва
+TRANSMOGRIFICATION | Трансмогрификация
+WALL SPELLS | Заклинания стены
+SPELL TYPE ABBREVIATIONS | Сокращения типов заклинаний
+SPELL LISTS & REPERTOIRES | Списки и репертуары заклинаний
+ARCANE SPELL LIST | Список тайных заклинаний
+ARCANE SPELL LIST CONTINUED... | Список тайных заклинаний: продолжение
+DIVINE SPELL LIST | Список божественных заклинаний
+DIVINE SPELL LIST CONTINUED... | Список божественных заклинаний: продолжение
+BLADEDANCER SPELL REPERTOIRE | Репертуар Девы клинков
+CRUSADER SPELL REPERTOIRE | Репертуар Крестоносца
+PRIESTESS SPELL REPERTOIRE | Репертуар Жрицы
+SHAMAN SPELL REPERTOIRE | Репертуар Шамана
+SPELL DESCRIPTIONS | Описания заклинаний
+SPELL FORMAT | Формат заклинания
+DEFINED TERMS | Определения терминов
+SPELL INDEX | Указатель заклинаний
+CONTROL WEATHER EFFECTS | Эффекты управления погодой
+FATE SPELL ANSWERS | Ответы заклинания «Судьба»
