@@ -1,0 +1,119 @@
+ARMY A’S STANCE	УСТАНОВКА АРМИИ A
+ARMY B’S STANCE	УСТАНОВКА АРМИИ B
+ARMY A’S STANCE (AWARE)	УСТАНОВКА АРМИИ A (ОСВЕДОМЛЕНА)
+ARMY B’S STANCE (UNAWARE)	УСТАНОВКА АРМИИ B (НЕ ОСВЕДОМЛЕНА)
+OFFENSIVE	НАСТУПАТЕЛЬНАЯ
+DEFENSIVE	ОБОРОНИТЕЛЬНАЯ
+EVASIVE	УКЛОНЯЮЩАЯСЯ
+Offensive	Наступательная
+Defensive	Оборонительная
+Evasive	Уклоняющаяся
+No Battle	Без сражения
+Pitched Battle	Развёрнутое сражение
+Meeting Engagement	Встречный бой
+Rear Guard Action	Арьергардный бой
+Skirmish	Стычка
+Ambush	Засада
+Envelopment	Охват
+Deep Envelopment	Глубокий охват
+Rear Guard Envelopment	Охват арьергарда
+TROOP TTYPE	ТИП ВОЙСК
+HUMAN	ЧЕЛОВЕК
+DWARF	ДВАРФ
+ELF	ЭЛЬФ
+KOBOLD	КОБОЛЬД
+GOBLIN	ГОБЛИН
+ORC	ОРК
+HOB.	ХОБГОБЛИН
+GNOLL	ГНОЛЛ
+LIZARDMAN	ЯЩЕРОЛЮД
+BUGBEAR	БУГБИР
+OGRE	ОГР
+Conscript/Militia	Рекрут / Ополченец
+Light Infantry	Лёгкая пехота
+Heavy Infantry	Тяжёлая пехота
+Slinger	Пращник
+Bowman	Лучник
+Composite Bowman	Лучник с составным луком
+Crossbowman	Арбалетчик
+Longbowman	Стрелок
+Light Cavalry	Лёгкая конница
+Horse Archers	Конные лучники
+Medium Cavalry	Средняя конница
+Heavy Cavalry	Тяжёлая конница
+Cataphract Cavalry	Катафрактная конница
+Camel Archers	Лучники на верблюдах
+Camel Lancers	Копейщики на верблюдах
+War Elephants	Боевые слоны
+Mounted Crossbowman	Конный арбалетчик
+Beast Rider	Всадник на звере
+Army B Reserve	Резерв армии B
+Army B Right	Правая зона армии B
+Army B Center	Центральная зона армии B
+Army B Left	Левая зона армии B
+Army A Left	Левая зона армии A
+Army A Center	Центральная зона армии A
+Army A Right	Правая зона армии A
+Army A Reserve	Резерв армии A
+ATTACK THROW MODIFIERS	МОДИФИКАТОРЫ БРОСКОВ АТАКИ
+MODIFIER	МОДИФИКАТОР
+Commander or Lieutenant personally leading unit	Командир или Лейтенант лично возглавляет подразделение
+Unit facing broken zone	Подразделение напротив прорванной зоны
+Opposing army surprised (first battle turn only)	Вражеская армия застигнута врасплох (только первый ход сражения)
+Opposing army occupies advantageous terrain<br>(hill, ridgeline)	Вражеская армия занимает выгодную местность<br>(холм, гребень)
+BR STAKED	БР НА КОНУ
+HERO IS …	ГЕРОЙ…
+Entering the foray	Вступает в вылазку
+Leading from the front	Ведёт за собой из первых рядов
+Heroically charging into battle	Героически бросается в бой
+Attacking in front of the vanguard	Атакует впереди авангарда
+Cutting a swath of glory	Прорубает себе путь к славе
+Carving his name into the epics	Вписывает своё имя в эпос
+Seeking glorious death!	Ищет славной смерти!
+TERRAIN TYPE	ТИП МЕСТНОСТИ
+MISSILE<br>ENCOUNTER<br>DISTANCE	ДАЛЬНОБОЙНАЯ<br>ДИСТАНЦИЯ<br>СТОЛКНОВЕНИЯ
+MELEE<br>ENCOUNTER<br>DISTANCE	РУКОПАШНАЯ<br>ДИСТАНЦИЯ<br>СТОЛКНОВЕНИЯ
+Barrens (any)	Степь (любая)
+Desert (rocky)	Пустыня (каменистая)
+Desert (sandy)	Пустыня (песчаная)
+Forest (taiga)	Лес (тайга)
+Forest (deciduous)	Лес (лиственный)
+Grassland (farmland/prairie)	Поля (пашни/прерия)
+Grassland (steppe)	Поля (степные)
+Hills (forested)	Холмы (лесистые)
+Hills (rocky/terraced)	Холмы (каменистые/террасированные)
+Jungle (any)	Джунгли (любые)
+Mountains (forested)	Горы (лесистые)
+Mountains (rocky/terraced)	Горы (каменистые/террасированные)
+Scrubland (low, sparse)	Саванна (низкая редкая растительность)
+Scrubland (high, dense)	Саванна (высокая густая растительность)
+Swamp (marshy)	Болота (топкие)
+Swamp (scrubby)	Болота (с кустарником)
+ADJUSTED DIE ROLL	СКОРРЕКТИРОВАННЫЙ БРОСОК КОСТЕЙ
+RESULT	РЕЗУЛЬТАТ
+Rout	Паническое бегство
+Flee	Бегство
+Waver	Колебание
+Stand Firm	Стоять твёрдо
+Rally	Подъём духа
+MORALE ROLL MODIFIERS	МОДИФИКАТОРЫ БРОСКА БОЕВОГО ДУХА
+ARMY MODIFIERS (APPLY TO ALL UNITS)	МОДИФИКАТОРЫ АРМИИ (ДЛЯ ВСЕХ ПОДРАЗДЕЛЕНИЙ)
+Army leader present on battlefield	Предводитель армии присутствует на поле боя
++1/2 Morale Modifier (round up)	+1/2 модификатора боевого духа (округление вверх)
+Army has lost 1/2 or more of its starting units, but less than 2/3	Армия потеряла не менее 1/2 исходных подразделений, но менее 2/3
+Army has lost 2/3 or more of its starting units	Армия потеряла 2/3 исходных подразделений или более
+Army has destroyed more units than opposing army	Армия уничтожила больше подразделений, чем вражеская армия
+Army has lost more units than opposing army	Армия потеряла больше подразделений, чем вражеская армия
+Army cannot retreat (surrounded, trapped, etc.)	Армия не может отступить (окружена, в ловушке и т. п.)
+Army defending homeland / sacred ground	Армия защищает родную землю / священное место
+Judge’s Discretion	По решению Арбитра
+UNIT MODIFIERS	МОДИФИКАТОРЫ ПОДРАЗДЕЛЕНИЯ
+Officer attached to unit	К подразделению прикреплён офицер
++ Morale Modifier	+ модификатор боевого духа
+Unit is wavering or disordered	Подразделение колеблется или находится в беспорядке
+Unit is adjacent to a broken zone	Подразделение соседствует с прорванной зоной
+PURSUING UNIT	ПРЕСЛЕДУЮЩЕЕ ПОДРАЗДЕЛЕНИЕ
+PURSUIT THROW	БРОСОК ПРЕСЛЕДОВАНИЯ
+Light Cavalry or Flyer	Лёгкая конница или летающие войска
+Other Cavalry	Прочая конница
+Other Infantry	Прочая пехота

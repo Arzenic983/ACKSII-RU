@@ -126,10 +126,10 @@
     "title_ru": "Сражения",
     "first_pdf_page": 462,
     "last_pdf_page": 473,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 618,
-    "translated_units": 0,
-    "pending_units": 618
+    "translated_units": 618,
+    "pending_units": 0
   },
   {
     "id": "12",

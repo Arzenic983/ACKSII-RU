@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-17",
+  "previous_commit": "cbe6af74fa680816f322deb3d6404b1c469a3be8",
+  "other_chapters": "1c48669d178a8fe632c092b3dc5e5ef833c645199d9382eddc1d6bb1e8d9f3de",
+  "immutable_tables": {
+    "units": "8a1f785dda7d7a38e83a3011f5d333139491a7ddfc65917bc9d99dda283eef78",
+    "source_tables": "d4cca778255d7a6f449db0d455c4df9ee5580857b771b3798108fe23a7eb2d7a",
+    "pages": "6f73cdad9b0567b08d6f3e87692572932e33dff7fc2f805d88ee6a8bfc98a55b",
+    "glossary": "217ff9d79a45130898cd85fe6a1e291938e5b0248ab7befb32026098f9e7dde9",
+    "working_labels": "a00b9abc45d7ec1268f26402d16c6584acacc45621d7927bbe056426c3cf3723",
+    "sources": "9e2664910fe4b2691a1dee7591b9694c1cac225da781e634612bf18447b6b8c0"
+  },
+  "protected_files": {
+    "ACKSII\\Перевод Markdown\\00 Начало.md": "0bbb591e5cf5ce708c9921c55ceb92d419a6c7afbd18b054f41ba39f4de84acb",
+    "ACKSII\\Перевод Markdown\\01 Персонажи.md": "4a73a75f7f9e2dc8264f4594ea921b8ccd8afe1d17cfaba5900bfbb98409f5af",
+    "ACKSII\\Перевод Markdown\\02 Классы.md": "fafd8326ab6c197ac72d0a3d31cf402e68ad3777c772b2d0081e891912424832",
+    "ACKSII\\Перевод Markdown\\03 Навыки.md": "7a2753ebf9bab810396adeba2680b6bf549d8d15a92b04df505e24b6fcfd8bcd",
+    "ACKSII\\Перевод Markdown\\04 Снаряжение.md": "ac5e64c0958ebd095a4eae54d185f55d204521baa53fbe5e950482df189c570d",
+    "ACKSII\\Перевод Markdown\\05 Заклинания.md": "177d68a2aad7c6113f80f28af8804df923af8256844a52fd74772693a1747ebc",
+    "ACKSII\\Перевод Markdown\\06 Приключения.md": "750715aad5cc94f2cf86680a98cb319c6fa5d16b7cf064b6d82e8c62638de828",
+    "ACKSII\\Перевод Markdown\\07 Плавания.md": "c49b92981ed75ace4689e4793c51aa07c60b35d58a7030f5f62f469557f732a4",
+    "ACKSII\\Перевод Markdown\\08 Кампании.md": "18512431c8a44713931ca5f31301d53c91d7562c39a3b7e91af20ce09b162cd2",
+    "ACKSII\\Перевод Markdown\\09 Армии.md": "ae16ade1ac221061206156b20cad52e6bfae1edef934afe598b9d358ddf5147e",
+    "ACKSII\\Перевод Markdown\\10 Манёвры.md": "30d1b2c4c4d906256c6e2ac290333300d0d2249f42b66a0b3489a9a220ec6c52",
+    "ACKSII\\Перевод Markdown\\ACKS II — Начало и главы 1–10.md": "ed94e93dbd1ce848a9c304d2ffc1df2a3be6cacf7b37ca3d997ff48f9554f044",
+    "ACKSII\\Перевод Markdown\\ACKS II — Начало и главы 1–5.md": "b0837f987d0538328a4e4c06739c3f9936c287ff89488592ce02b5af6a949069",
+    "ACKSII\\Перевод Markdown\\ACKS II — Начало и главы 1–6.md": "3d5ca59594227997ffce47a4c8e8fa12b278e2828aecba91b705fe897a0f393b",
+    "ACKSII\\Перевод Markdown\\ACKS II — Начало и главы 1–7.md": "cb0d2ac45cc530a0b929a273d97a9ba64241b62089647ab45ba8db28becc3295",
+    "ACKSII\\Перевод Markdown\\ACKS II — Начало и главы 1–8.md": "c80bfa4390ffc37eb598c12a15829d9b27aa94eb1c48d354fd5d48443810c6cd",
+    "ACKSII\\Перевод Markdown\\ACKS II — Начало и главы 1–9.md": "97a3e150f03d6b3a54d0649101b0e52d5d79175b5987d09e3b6490b9cee330c2",
+    "ACKSII\\Перевод Markdown\\Примечания редактора.md": "25b4abf3a4bd934d6d3db81791517c814db969f2f9d7d7d587521a58f4a9b9ac"
+  },
+  "unit_kinds": {
+    "heading": 41,
+    "paragraph": 137,
+    "table_cell": 410,
+    "list_item": 30
+  },
+  "tables": [
+    {
+      "id": "rr.p0463.t01",
+      "row_count": 5,
+      "column_count": 4
+    },
+    {
+      "id": "rr.p0463.t02",
+      "row_count": 5,
+      "column_count": 4
+    },
+    {
+      "id": "rr.p0463.t03",
+      "row_count": 5,
+      "column_count": 4
+    },
+    {
+      "id": "rr.p0465.t01",
+      "row_count": 19,
+      "column_count": 12
+    },
+    {
+      "id": "rr.p0465.t02",
+      "row_count": 4,
+      "column_count": 3
+    },
+    {
+      "id": "rr.p0467.t01",
+      "row_count": 5,
+      "column_count": 2
+    },
+    {
+      "id": "rr.p0468.t01",
+      "row_count": 8,
+      "column_count": 2
+    },
+    {
+      "id": "rr.p0468.t02",
+      "row_count": 17,
+      "column_count": 3
+    },
+    {
+      "id": "rr.p0470.t01",
+      "row_count": 6,
+      "column_count": 2
+    },
+    {
+      "id": "rr.p0470.t02",
+      "row_count": 13,
+      "column_count": 2
+    },
+    {
+      "id": "rr.p0471.t01",
+      "row_count": 5,
+      "column_count": 2
+    }
+  ],
+  "first_id": "rr.p0462.b001",
+  "last_id": "rr.p0473.b013",
+  "all_checked_source_pages_equal_database": true
+}

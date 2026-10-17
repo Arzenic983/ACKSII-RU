@@ -131,3 +131,13 @@ contributions/05/Черновик главы 5.md
 .work/ch10-md/preview*.html
 .work/ch10-md/visual-*.png
 .work/ch10-md/edge-preview/
+
+# Chapter 11: local inspection data and regenerable views
+.work/ch11-md/metadata.json
+.work/ch11-md/pure.json
+.work/ch11-md/mechanics_differences.json
+.work/ch11-md/render_differences.json
+.work/ch11-md/pdf*.png
+.work/ch11-md/preview*.html
+.work/ch11-md/visual-*.png
+.work/ch11-md/RESUME.md
