@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-17",
+  "sources": {
+    "ACKSII\\Глоссарий.md": "2065d5a3fdc063d30e0c50d316d34456b72268f3ba98ff310e9eff4a60f38ddc",
+    "ACKSII\\База перевода\\glossary.json": "1e6b128e349be9073c93387286363aea92c4dee614a877962d33b1c520027c8c",
+    "ACKSII\\База перевода\\bilingual_terms.md": "fe0f5a7ad7c30026b06881496649341a722775c176e2834f04747a37b39e482b"
+  },
+  "matched_approved_entries": [
+    {
+      "english": "NPC",
+      "russian": "НИП"
+    },
+    {
+      "english": "extraordinary (damage)",
+      "russian": "Особый"
+    },
+    {
+      "english": "Mortal Wounds",
+      "russian": "смертельные раны"
+    },
+    {
+      "english": "permanent wound",
+      "russian": "необратимые раны"
+    },
+    {
+      "english": "Tampering with Mortality",
+      "russian": "игра со смертью"
+    },
+    {
+      "english": "Horsetail",
+      "russian": "Хвощ"
+    },
+    {
+      "english": "Order, lawful",
+      "russian": "порядочное"
+    },
+    {
+      "english": "Listening",
+      "russian": "подслушивание"
+    },
+    {
+      "english": "Berserkergang",
+      "russian": "Берсерк"
+    },
+    {
+      "english": "Familiar",
+      "russian": "Фамильяр"
+    },
+    {
+      "english": "Healing",
+      "russian": "Целительство"
+    },
+    {
+      "english": "Laying on Hands",
+      "russian": "Возложение рук"
+    },
+    {
+      "english": "Listening",
+      "russian": "Подслушивание"
+    },
+    {
+      "english": "Quiet Magic",
+      "russian": "Тихая магия"
+    },
+    {
+      "english": "Berserk",
+      "russian": "Берсерк"
+    },
+    {
+      "english": "Blinded",
+      "russian": "Ослепленный"
+    },
+    {
+      "english": "Helpless",
+      "russian": "Беспомощный"
+    },
+    {
+      "english": "Mute",
+      "russian": "Немой"
+    },
+    {
+      "english": "Paralyzed",
+      "russian": "Парализованный"
+    }
+  ],
+  "working_terms": {
+    "Savage Mortal Wounds": "Зверские смертельные раны",
+    "Scarring": "Шрамы",
+    "minor / notable / gruesome scarring": "незначительные / заметные / жуткие шрамы",
+    "Choosers of the Slain": "Избирающие Павших",
+    "Logos": "Логос",
+    "Outer Darkness": "Внешняя Тьма",
+    "Valor": "Доблесть",
+    "shrinking": "сжатие",
+    "lamassu": "ламассу"
+  },
+  "glossary_database_unchanged": true,
+  "human_approval": false
+}

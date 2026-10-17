@@ -1,0 +1,120 @@
+особого урона излучениями	extraordinary luminous
+бонус[а-яё]* бойца к урону	fighter damage bonus
+Кост[а-яё]* Здоровья	Hit Die
+очк[а-яё]* здоровь[а-яё]*	hit points
+изгнани[а-яё]* нежити	rebuking undead
+исцелени[а-яё]* увечий и инвалидности	repair disfigurement and disability
+восстановлени[а-яё]* жизни и конечностей	restore life and limb
+разговор[а-яё]* с м[её]ртвыми	Speak with Dead
+Игр[а-яё]* со смертью	Tampering with Mortality
+Зверск[а-яё]+ смертельн[а-яё]+ ран[а-яё]*	Savage Mortal Wounds
+смертельно ранен[а-яё]*	mortally wounded
+тяжело ранен[а-яё]*	grievously wounded
+критически ранен[а-яё]*	critically wounded
+в шоке	in shock
+оглушен[а-яё]*|оглуш[её]н[а-яё]*	dazed
+смертельн(?:ые|ых|ым|ыми) ран[а-яё]*	Mortal Wounds
+необратим[а-яё]+ ран[а-яё]*	permanent wound
+побочн[а-яё]+ эффект[а-яё]*	side effect
+незначительн[а-яё]+ шрам[а-яё]*	minor scarring
+заметн[а-яё]+ шрам[а-яё]*	notable scarring
+жутк[а-яё]+ шрам[а-яё]*	gruesome scarring
+Избирающ[а-яё]+ Павших	Choosers of the Slain
+броск[а-яё]* дальнобойных атак	missile attack throws
+броск[а-яё]* атаки	attack throws
+броск[а-яё]* реакции	reaction rolls
+броск[а-яё]* внезапности	surprise rolls
+броск[а-яё]* подслушивания	Listening throws
+броск[а-яё]* инициативы	initiative rolls
+спасброс[а-яё]* от Смерти	Death saving throw
+спасброс[а-яё]* от паралича	Paralysis saving throw
+спасброс[а-яё]* от заклинаний	Spells saving throw
+спасброс[а-яё]*	saving throw
+магическ[а-яё]+ исследовани[а-яё]*	magical research
+ключев[а-яё]+ атрибут[а-яё]*	prime requisite
+постельн[а-яё]+ режим[а-яё]*	bed rest
+исцеляющ[а-яё]+ маги[а-яё]*	healing magic
+магическ[а-яё]+ исцелени[а-яё]*	magical healing
+естественн[а-яё]+ оружи[а-яё]*	natural weapons
+стил[а-яё]* боя двуручным оружием	two-handed weapon fighting style
+двуручн[а-яё]+ оружи[а-яё]*	two-handed weapons
+двумя оружиями	dual wield
+лини[а-яё]* видимости	line of sight
+экспедиционн[а-яё]+ скорост[а-яё]*	expedition speed
+скорост[а-яё]* пол[её]та	Flight speed
+скорост[а-яё]* передвижения	movement rate
+форсированн[а-яё]+ марш[а-яё]*	force march
+конструкт[а-яё]*-нежит[а-яё]*	undead constructs
+отродь[а-яё]* какодемон[а-яё]*	cacodemon spawn
+Тлетворн[а-яё]+ слабост[а-яё]*	Corrupting Weaknesses
+Втор[а-яё]+ зрени[а-яё]*	Second Sight
+Тих[а-яё]+ маги[а-яё]*	Quiet Magic
+Исцелени[а-яё]* болезни	Cure Disease
+Телепати[а-яё]*	Telepathy
+Возложени[а-яё]* рук	Laying on Hands
+Целительств[а-яё]*	Healing
+Хвощ[а-яё]*	Horsetail
+Чуд[а-яё]*	miracle
+Желани[а-яё]*	wish
+Обет[а-яё]*	quest
+Доблест[а-яё]*	Valor
+Рост[а-яё]*	growth
+сжати[а-яё]*	shrinking
+СИЛ	STR
+ЛОВ	DEX
+ТЕЛ	CON
+ВОЛ	WIL
+ХАР	CHA
+КБ	AC
+ОЗ	hp
+КЗ	HD
+Телосложени[а-яё]*	Constitution
+Харизм[а-яё]*	Charisma
+Арбитр[а-яё]*	Judge
+Ведущ[а-яё]+ игры	GM
+НИП	NPC
+подручн[а-яё]*	henchman
+верност[а-яё]*	loyalty
+нагрузк[а-яё]*	encumbrance
+стоун[а-яё]*	stone
+ход[а-яё]*	turn
+раунд[а-яё]*	round
+инициатив[а-яё]*	initiative
+подслушивани[а-яё]*	Listening
+передвижени[а-яё]*	movement
+ослепл[её]н[а-яё]*	blinded
+нем(?:ой|ое|ая|ого|ому|ым|ом|ую|ые|ых|ыми|о)	mute
+парализованн[а-яё]*	paralyzed
+беспомощн[а-яё]*	helpless
+бессознательн[а-яё]*	unconscious
+ошараш[её]н[а-яё]*	surprised
+околдовыва[а-яё]*	bewitch
+Берсерк[а-яё]*	berserk
+безуми[а-яё]*	madness
+неуязвим[а-яё]*	immune
+обычн[а-яё]+ урон[а-яё]*	mundane damage
+дробящ[а-яё]*	bludgeoning
+сейсмическ[а-яё]*	seismic
+колющ[а-яё]*	piercing
+рубящ[а-яё]*	slashing
+мировоззрени[а-яё]*	alignment
+порядочн[а-яё]*	Lawful
+хаотичн[а-яё]*	Chaotic
+нейтральн[а-яё]*	Neutral
+зачарованн[а-яё]*	enchanted
+внепланарн[а-яё]*	extraplanar
+какодемон[а-яё]*	cacodemon
+элементал[а-яё]*	elemental
+ламассу	lamassu
+умертви[а-яё]*	wight
+фамильяр[а-яё]*	Familiar
+нежит[а-яё]*	undead
+Логос[а-яё]*	Logos
+Внешн[а-яё]+ Тьм[а-яё]*	Outer Darkness
+Магическ[а-яё]+ мутаци[а-яё]*	Magical Mutations
+шрам[а-яё]*	scarring
+заклинани[а-яё]*	spell
+магическ[а-яё]+ предмет[а-яё]*	magic item
+навык[а-яё]*	proficiency
+атрибут[а-яё]*	attribute
+бойц[а-яё]*|боец	combatant

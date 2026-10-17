@@ -175,3 +175,17 @@ contributions/05/Черновик главы 5.md
 .work/app-b-md/pdf*.png
 .work/app-b-md/preview*.html
 .work/app-b-md/visual-*.png
+
+# Appendix C: regenerable translation checks and local inspection samples
+.work/app-c-md/metadata.json
+.work/app-c-md/english.txt
+.work/app-c-md/partial.json
+.work/app-c-md/pure.json
+.work/app-c-md/styled.json
+.work/app-c-md/styled_notes.json
+.work/app-c-md/mechanics_differences.json
+.work/app-c-md/render_differences.json
+.work/app-c-md/pdf*.png
+.work/app-c-md/source*.png
+.work/app-c-md/preview*.html
+.work/app-c-md/visual-*.png

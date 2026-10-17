@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-17",
+  "source_pages_rendered": [
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531
+  ],
+  "source_overview_inspected": [
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530
+  ],
+  "source_pages_inspected_in_detail": [
+    519,
+    522,
+    523,
+    528,
+    530
+  ],
+  "rendered_overview_inspected": [
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530
+  ],
+  "rendered_details_inspected": [
+    "519 prose",
+    "522 row 1–5, both halves",
+    "528 row 1–5, both halves",
+    "530 row 1–5, both halves"
+  ],
+  "metrics": "visual_metrics.json",
+  "viewport_width": 2400,
+  "result": "11 полных таблиц 9×8 без обрезания, перекрытий или горизонтального переполнения; различие подписи термина и меньших английских заголовков сохранено.",
+  "limitations": "Обзор всех 11 таблиц и шесть подробных фрагментов не равнозначны визуальному чтению каждой ячейки. Смысл сверен отдельно по тексту. Печатная PDF-вёрстка перевода не создавалась.",
+  "reader_metrics": "reader_visual_metrics.json",
+  "reader_viewport_width": 1500,
+  "reader_text_width": 1080,
+  "reader_images_inspected": [
+    "visual-reader-520.png",
+    "visual-reader-530-row4.png"
+  ],
+  "reader_tables_all_fit": true
+}

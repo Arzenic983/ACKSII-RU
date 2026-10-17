@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-17",
+  "chapter": "C",
+  "pdf_pages": [
+    518,
+    531
+  ],
+  "units": 827,
+  "complete_semantic_review_by_Codex": true,
+  "human_approval": false,
+  "reviewer": "Codex",
+  "method": "Сопоставление русского с первичным EN checked и 827 исходными единицами; ручная сверка всех уникальных английских текстов, точные повторы распространены без смысловой подмены. Проверены отрицания, сроки, изменения на/до, состояния, ограничения оружия, атрибуты, вероятность, восстановление и мировоззрение. Один Codex, без независимого второго редактора.",
+  "distinct_table_texts": 416,
+  "russian_units_sha256": "5a5287385c7fbcb59003111afb8a10da54fc0684799ed8e753bfe8dcd58a9989",
+  "source_package_sha256": "c223f56437b33f51e371d7f44c2cc8c3d25f5e1b880aed36d3d801a29b7987fc",
+  "primary_source": "ACKSII/Source/ACKSII Revised Rulebook (EN checked).md",
+  "all_checked_pages_equal_database": true,
+  "crosschecks": [
+    "rr.p0302.b025–rr.p0303.b011: смертельные раны и Игра со смертью",
+    "rr.p0510.b004–rr.p0510.b008: blinded; rr.p0514.b009–rr.p0514.b012: mute и paralyzed",
+    "rr.p0079.b021: Second Sight",
+    "rr.p0039.b003, rr.p0039.t02.r006.c01: rebuking и wight",
+    "rr.p0076.b017: Corrupting Weaknesses",
+    "глава 5: Quest, Speak with Dead, Telepathy, Growth, Cure Disease, Repair Disfigurement and Disability, Restore Life and Limb"
+  ],
+  "limitations": [
+    "Сохраняются авторские неоднозначности и противоречия; исправления правил не выдуманы.",
+    "Новые рабочие термины не утверждены человеком.",
+    "Визуальная проверка имеет отдельный документированный объём."
+  ],
+  "editorial_notes": 25
+}
