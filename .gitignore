@@ -102,3 +102,20 @@ contributions/05/Черновик главы 5.md
 !.work/ch08-md/parts/*/review.json
 !.work/ch08-md/parts/*/root_review_*.json
 !.work/ch08-md/parts/*/independent_review_*.json
+
+# Chapter 9: local source inspection and disposable render
+.work/ch09-md/*.png
+.work/ch09-md/rendered_fragment.html
+.work/ch09-md/render_differences.json
+.work/ch09-md/parts/*/*.png
+.work/ch09-md/parts/*/source.txt
+.work/ch09-md/parts/*/build*.py
+.work/ch09-md/edge-preview/
+.work/ch09-md/preview.html
+.work/ch09-md/visual-*.html
+.work/ch09-md/parts_audit.json
+.work/ch09-md/parts/*/*
+!.work/ch09-md/parts/*/translations.json
+!.work/ch09-md/parts/*/notes.json
+!.work/ch09-md/parts/*/term_map.json
+!.work/ch09-md/parts/*/review*.json

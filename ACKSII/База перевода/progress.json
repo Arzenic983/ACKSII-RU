@@ -104,10 +104,10 @@
     "title_ru": "Армии",
     "first_pdf_page": 428,
     "last_pdf_page": 447,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 3179,
-    "translated_units": 0,
-    "pending_units": 3179
+    "translated_units": 3179,
+    "pending_units": 0
   },
   {
     "id": "10",

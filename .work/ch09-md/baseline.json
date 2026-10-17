@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-17",
+  "previous_commit": "cdf4081",
+  "all_bilingual_sha256": "3e51cc516f3cdea00ce853544dd0226ab376bd946fcc4ec2e60a9ee873579924",
+  "source_units_sha256": "8a1f785dda7d7a38e83a3011f5d333139491a7ddfc65917bc9d99dda283eef78",
+  "source_tables_sha256": "d4cca778255d7a6f449db0d455c4df9ee5580857b771b3798108fe23a7eb2d7a",
+  "protected": {
+    "ACKSII\\Перевод Markdown\\00 Начало.md": "0bbb591e5cf5ce708c9921c55ceb92d419a6c7afbd18b054f41ba39f4de84acb",
+    "ACKSII\\Перевод Markdown\\01 Персонажи.md": "4a73a75f7f9e2dc8264f4594ea921b8ccd8afe1d17cfaba5900bfbb98409f5af",
+    "ACKSII\\Перевод Markdown\\02 Классы.md": "fafd8326ab6c197ac72d0a3d31cf402e68ad3777c772b2d0081e891912424832",
+    "ACKSII\\Перевод Markdown\\03 Навыки.md": "7a2753ebf9bab810396adeba2680b6bf549d8d15a92b04df505e24b6fcfd8bcd",
+    "ACKSII\\Перевод Markdown\\04 Снаряжение.md": "ac5e64c0958ebd095a4eae54d185f55d204521baa53fbe5e950482df189c570d",
+    "ACKSII\\Перевод Markdown\\05 Заклинания.md": "177d68a2aad7c6113f80f28af8804df923af8256844a52fd74772693a1747ebc",
+    "ACKSII\\Перевод Markdown\\06 Приключения.md": "750715aad5cc94f2cf86680a98cb319c6fa5d16b7cf064b6d82e8c62638de828",
+    "ACKSII\\Перевод Markdown\\07 Плавания.md": "c49b92981ed75ace4689e4793c51aa07c60b35d58a7030f5f62f469557f732a4",
+    "ACKSII\\Перевод Markdown\\08 Кампании.md": "18512431c8a44713931ca5f31301d53c91d7562c39a3b7e91af20ce09b162cd2",
+    "ACKSII\\Перевод Markdown\\ACKS II — Начало и главы 1–5.md": "b0837f987d0538328a4e4c06739c3f9936c287ff89488592ce02b5af6a949069",
+    "ACKSII\\Перевод Markdown\\ACKS II — Начало и главы 1–6.md": "3d5ca59594227997ffce47a4c8e8fa12b278e2828aecba91b705fe897a0f393b",
+    "ACKSII\\Перевод Markdown\\ACKS II — Начало и главы 1–7.md": "cb0d2ac45cc530a0b929a273d97a9ba64241b62089647ab45ba8db28becc3295",
+    "ACKSII\\Перевод Markdown\\ACKS II — Начало и главы 1–8.md": "c80bfa4390ffc37eb598c12a15829d9b27aa94eb1c48d354fd5d48443810c6cd",
+    "ACKSII\\Перевод Markdown\\Примечания редактора.md": "da1d89e71fb4a5eff6ead58019a99f8dde85b22107d6f79a6e0f6137b8ec785c"
+  }
+}

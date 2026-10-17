@@ -1,0 +1,35 @@
+{
+  "chapter": "09",
+  "pdf_pages": [
+    435,
+    438
+  ],
+  "first_id": "rr.p0435.b001",
+  "last_id": "rr.p0438.b014",
+  "units": 132,
+  "by_kind": {
+    "heading": 17,
+    "paragraph": 57,
+    "table_cell": 56,
+    "list_item": 2
+  },
+  "all_ids_translated": true,
+  "numbers_in_order_equal": true,
+  "asterisks_equal": true,
+  "escaped_author_asterisks_equal": true,
+  "original_revision_and_sha_preserved": true,
+  "semantic_review": "Все словесные единицы сопоставлены с английскими блоками; проверены пределы и замещение клановых воинов, доли ветеранов, выплаты и добыча, броски верности/боевого духа, сбор вассальных войск по Владению, сроки половина/четверть/остаток, ограничения размеров подразделений, численность соединений, требования к офицерам и все три их характеристики.",
+  "tables": "Полностью переведена таблица 436.t01 (8 строк × 7 столбцов, 56 ячеек). Числовые ячейки скопированы, gp заменено на зм [gp]. K/M сохранены как исходные числовые сокращения. Геометрия собранной таблицы не проверялась.",
+  "bilingual_headers": true,
+  "source_pdf_images_viewed": [],
+  "visual_review": "Визуальная проверка не выполнялась.",
+  "notes": [
+    "rr.p0435.b002",
+    "rr.p0435.b012",
+    "rr.p0435.b016",
+    "rr.p0438.b001"
+  ],
+  "terminology": "Глоссарий.md, glossary.json, bilingual_terms.md/style и отчёт09 прочитаны; релевантные записи сопоставлены. Новые формы рабочие.",
+  "human_approved": false,
+  "shared_files_changed": false
+}
