@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-17",
+  "sources": {
+    "ACKSII/Глоссарий.md": "2065d5a3fdc063d30e0c50d316d34456b72268f3ba98ff310e9eff4a60f38ddc",
+    "ACKSII/База перевода/glossary.json": "1e6b128e349be9073c93387286363aea92c4dee614a877962d33b1c520027c8c",
+    "ACKSII/База перевода/bilingual_terms.md": "02e707f5629bfff637b2a58eb763d4dae071c45496c9e4dd4d3ba592e6b9e49b"
+  },
+  "matched_project_entries": [
+    {
+      "english": "Mortal Wounds",
+      "russian": "смертельные раны",
+      "category": "Системные термины (несортированных)",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Tampering with Mortality",
+      "russian": "игра со смертью",
+      "category": "Системные термины (несортированных)",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Listening",
+      "russian": "подслушивание",
+      "category": "Class Power Способности класса (стартовые и дополнительные)",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Realm",
+      "russian": "Владение",
+      "category": "Места",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Domain",
+      "russian": "Домен",
+      "category": "Места",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Hideout",
+      "russian": "Укрытие",
+      "category": "Крепости",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Fastness",
+      "russian": "Оплот",
+      "category": "Крепости",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Cleave",
+      "russian": "рассечение",
+      "category": "Особенности",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Healing",
+      "russian": "Целительство",
+      "category": "▶ Навыки",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Listening",
+      "russian": "Подслушивание",
+      "category": "▶ Навыки",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Loremastery",
+      "russian": "Мифография",
+      "category": "▶ Навыки",
+      "status": "user_confirmed"
+    },
+    {
+      "english": "Naturalism",
+      "russian": "Природоведение",
+      "category": "▶ Навыки",
+      "status": "user_confirmed"
+    },
+    {
+      "english": "Sneaking",
+      "russian": "Подкрадывание",
+      "category": "▶ Навыки",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Cowering",
+      "russian": "Трясущийся",
+      "category": "◈ Состояния",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Shaken",
+      "russian": "Трясущийся",
+      "category": "◈ Состояния",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Sneaking",
+      "russian": "Крадущийся",
+      "category": "◈ Состояния",
+      "status": "project_glossary"
+    }
+  ],
+  "approved_forms_retained": [
+    "Природоведение",
+    "Мифография",
+    "смертельные раны",
+    "Игра со смертью"
+  ],
+  "context_decisions": {
+    "Sneaking": "Подкрадывание / Крадущийся в общей записи со ссылками на навык и состояние",
+    "Cowering / Shaken": "различены английскими именами при одинаковой русской форме",
+    "Magical Research": "Малые / Великие / Высшие — по классовым способностям главы 2"
+  },
+  "working_labels": "manual_labels.tsv; названия обратных форм, отсутствующие как отдельные заголовки в главе 5, не становятся утверждённым словарём",
+  "glossary_database_unchanged": true,
+  "human_approval": false
+}

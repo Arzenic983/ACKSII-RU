@@ -1,0 +1,931 @@
+﻿id;chapter_id;pdf_page;printed_page;kind;english;russian;status;origin;revision;note;source_sha256;pdf_reference
+rr.p0538.b001;E;538;;heading;E INDEX;E. Предметный указатель;reviewed;new_translation;0;"Диапазон приложения E в подготовленной базе включает памятный список спонсоров и указатели: общий, заклинаний, обратных заклинаний и таблиц. Все разделы сохранены в порядке книги; новые единицы или таблицы ради вёрстки не создавались.";d2ca682b4802f306b29086fafcf0db2e95c0fe01813619fded54ebd853437a3a;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=538
+rr.p0539.b001;E;539;537;heading;ACKS II BACKER MEMORIAL;Памятный список спонсоров ACKS II;reviewed;new_translation;0;;70d410bc90b94e45d0ff0533a6acbc15313abfe3d39436a93572f5dac2e53364;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b002;E;539;537;paragraph;The ***Adventurer Conqueror King System Imperial Imprint*** was made possible by the support of 1,972 Kickstarter backers and 114 late backers. May their names be memorialized with imperishable fame in the annals of the Auran Empire.;***Имперское издание системы ACKS II*** стало возможным благодаря поддержке 1 972 спонсоров Kickstarter и 114 спонсоров, присоединившихся позднее. Да будут их имена увековечены нетленной славой в летописях Ауранской империи.;reviewed;new_translation;0;"Сохранены оба исходных числа спонсоров: 1 972 на Kickstarter и 114 присоединившихся позднее. Названия уровней поддержки переданы по смыслу; «автархи» и «космархи» — рабочие формы, без изменения утверждённого словаря.";05fc59072241f55d5f51ddca1b36748bbae0bd28705289d3e4535794327b0e9b;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b003;E;539;537;heading;AUTARCHS SUPREME;Верховные автархи;reviewed;new_translation;0;;f3b7dac444587b5a2f483de31db65a26ddf2c51e43448a6ffcbc0558244bbdbf;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b004;E;539;537;paragraph;Birch Boyer Delian Teak Charles Myers Emil Westenius;Birch Boyer Delian Teak Charles Myers Emil Westenius;reviewed;new_translation;0;;ad6826a13068620659692a1f358d20db5b99b5766de9641711ee5d3fc01d596d;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b005;E;539;537;paragraph;John Roberts Warduke Sherian;John Roberts Warduke Sherian;reviewed;new_translation;0;;f6ca190ff0adcf73c60fad97f840a8ada01a1bb7b2ead3bca4c2af4a1571ed03;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b006;E;539;537;heading;AUTARCHS;Автархи;reviewed;new_translation;0;;254f9bf56686d687fcd7dd1188cf19bf0316467d4946e278427d1095f25199f1;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b007;E;539;537;paragraph;Andrew Morris Bryant Szutka Anthony Trevino David Johnston Bobloblah Harrison Snodgrass;Andrew Morris Bryant Szutka Anthony Trevino David Johnston Bobloblah Harrison Snodgrass;reviewed;new_translation;0;;4c0dd092859aff7a835f2361bf27b5dba38a8e2136059e0550690b899d3049aa;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b008;E;539;537;paragraph;Jeffrey Binder Jordan McCray Robert Whitcomb;Jeffrey Binder Jordan McCray Robert Whitcomb;reviewed;new_translation;0;;980c75cde05afd062122c4ea9195dc366eafa136df6f23ac729af4cba830c86d;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b009;E;539;537;heading;COSMARCHS;Космархи;reviewed;new_translation;0;;ed789ff43a668152bd3efd00be68d303f8a3f18a9d7bbc51c982fb3d12884678;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b010;E;539;537;paragraph;"Alex Mooney D. McGrane Brad ""KI6HDB"" Mitchell, XDM Kevin Mattes Casey Ludwig Kiyosakibear Chris Wakulik Mark R James";"Alex Mooney D. McGrane Brad ""KI6HDB"" Mitchell, XDM Kevin Mattes Casey Ludwig Kiyosakibear Chris Wakulik Mark R James";reviewed;new_translation;0;;63b0b0c0c1c8a01221233ca7c46cb4905a5727f99f9ab75ae5c0458aa159138a;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b011;E;539;537;paragraph;Matthew M. Teofilo Hurtado Milliardo Beercraft The Watchers at the Brink NorthScorpion R.D.;Matthew M. Teofilo Hurtado Milliardo Beercraft The Watchers at the Brink NorthScorpion R.D.;reviewed;new_translation;0;;91e6052067ba38b8d2290c9bae39dd2ef42602e4f3f402590938129fab92c192;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b012;E;539;537;heading;ARBITERS OF WORLDS;Арбитры миров;reviewed;new_translation;0;;37dbeaec836c38ff9c163fdca90f4f24f159ef838c7b171fa870098e5658b2a1;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b013;E;539;537;paragraph;Bryan V Porter GLUCK WUZ HEER! So was Glibb. Corey Brown Joseph Harvey Fred Liner MBK;Bryan V Porter GLUCK WUZ HEER! So was Glibb. Corey Brown Joseph Harvey Fred Liner MBK;reviewed;new_translation;0;;72a0251b05d0565423c87bae0f6ff2b16815e5f5aa8c88592f44f994e15ddcdf;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b014;E;539;537;paragraph;Rob Heck Sage McLaughlin Shane Walden;Rob Heck Sage McLaughlin Shane Walden;reviewed;new_translation;0;;5837242d8fe57f4a2d22a659f8c185426eaab621f0480fc8ffe85bc9ebcf6e88;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b015;E;539;537;heading;PATRON DEITIES;Боги-покровители;reviewed;new_translation;0;;b13480df8384716862dea54cd5f5c4ad25fe93038259bbec9f9d31fc335d9719;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b016;E;539;537;paragraph;Andreas Andersen Eric Kraaier Contentronix, Inc. George Davidson Dan Vince Heather Szutka David Hazzard Jared Burrell DeadlyReed John Prisendorf;Andreas Andersen Eric Kraaier Contentronix, Inc. George Davidson Dan Vince Heather Szutka David Hazzard Jared Burrell DeadlyReed John Prisendorf;reviewed;new_translation;0;;81d6f9fb5a0b687f5172aad7b08af43fad383894a24cc8b445b2bf0b65c59079;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b017;E;539;537;paragraph;Jonathan Oldenburg Newton E. Grant Kevin Conyers - ShockTohp Pierre Brun Mark Barnes Varcel Matt C.Ho WCSP Michael Strauss;Jonathan Oldenburg Newton E. Grant Kevin Conyers - ShockTohp Pierre Brun Mark Barnes Varcel Matt C.Ho WCSP Michael Strauss;reviewed;new_translation;0;;3e609dba32f782c2d38b8cc876ebf0fe43f72586ca8fc8bca9ead4da8aab2ffe;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b018;E;539;537;heading;DEMIGODS;Полубоги;reviewed;new_translation;0;;1c77f4801862970b54feadf9a9a786e835c837039fd6616ddf1f0765b5d4dda1;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b019;E;539;537;paragraph;“Krafty” Matt Kraft the Princeps of Al Derby the Imperial Imprint Alex Gates-Shannon “Pandino” Isaac Leinen Alex J. Taylor @ARRGETSTUFFED Alex Necakov @DoomstoneCrom Alex Parker @Oghma\_em Alexander af Granskär ~X Purple Druid X~ Alexander Bachik 0ldSch00l13 Alexander Tan 40P Ali\_J\_101 A Wolk Allan MacKenzie-Graham A.A Rabbit Allan Rodda Aaaaaaanonymous AllanBz Aaron Barclay Alter Schwede Aaron Davies Ancient Dungeons & Dragons Aaron Denney Players Aaron J. Schrader Andrew Chow Aaron Mitchell Andrew Edwards Aaron N Martin Andrew Gale Aaron Peachman Andrew J Garbade Abysmal Horror Andrew Glidden AC Severin Andrew Johnson Adam “GoBears!” Sena Andrew Hamblin Adam Baulderstone Andrew M. Adam Hartley Andrew Mills Adam J Cody Andrew Stark Adam Maloy Andrew Wright Adam Meyers Andrzej “Ulran” Gronowski Adam Morton Andy Bigham Adam Simpson Andy Buccaro AdamC Andy E. adarienh Anon Adrian “Nantel” Gojdz Anonymous Aether Tallyman Anonymous Aidan S. Mendler Anonymous Aidan Whittle Anonymous Alan Bohnert Anonymous;“Krafty” Matt Kraft the Princeps of Al Derby the Imperial Imprint Alex Gates-Shannon “Pandino” Isaac Leinen Alex J. Taylor @ARRGETSTUFFED Alex Necakov @DoomstoneCrom Alex Parker @Oghma\_em Alexander af Granskär ~X Purple Druid X~ Alexander Bachik 0ldSch00l13 Alexander Tan 40P Ali\_J\_101 A Wolk Allan MacKenzie-Graham A.A Rabbit Allan Rodda Aaaaaaanonymous AllanBz Aaron Barclay Alter Schwede Aaron Davies Ancient Dungeons & Dragons Aaron Denney Players Aaron J. Schrader Andrew Chow Aaron Mitchell Andrew Edwards Aaron N Martin Andrew Gale Aaron Peachman Andrew J Garbade Abysmal Horror Andrew Glidden AC Severin Andrew Johnson Adam “GoBears!” Sena Andrew Hamblin Adam Baulderstone Andrew M. Adam Hartley Andrew Mills Adam J Cody Andrew Stark Adam Maloy Andrew Wright Adam Meyers Andrzej “Ulran” Gronowski Adam Morton Andy Bigham Adam Simpson Andy Buccaro AdamC Andy E. adarienh Anon Adrian “Nantel” Gojdz Anonymous Aether Tallyman Anonymous Aidan S. Mendler Anonymous Aidan Whittle Anonymous Alan Bohnert Anonymous;reviewed;new_translation;0;"Личные имена, псевдонимы, компании, диакритики и пользовательские подписи сохранены в исходном латинском написании. Это имена в памятном списке, а не непереведённые правила. Сохранён порядок проверенного дампа; слитые потоком текста колонки не разрезаны догадкой на новые имена.";cef889f93b5ffa4f558e7fb8180222c7b977748ab1cb2a88ff4abc1fa86c75b1;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0539.b020;E;539;537;paragraph;Anonymous Ben Mabry Anonymous Ben P. Balestra Anonymous Ben Warner Anonymous Benjamin Foster Anonymous Benjamin Hahn Anonymous TTRPG Fan Benjamin Howard Anthony Foderaro Benjamin I. Espen Anthony Hansen Benoist Poire Anthony Pirrotta Benton ‘Gadigan’ Wilson Anthony Valterra Bernard E. Howell Anton Charles Laszlo Manak Bernard Guerrero Aphron Bevan Anderson Apostol Apostolov Bill Leonard Aras Vitkus Bill Vee ArcanistWill Billy Luckey Argamae Bíró Ádám Armando DiCianno Blacksteel Arthur Braune Blain Crighton Aryxymaraki Blake Cefoldo As Lars Hoffmann Bob Friedman Ashton Dyck Bob Seifert ASP Bobby Jackson AST Brandin Stoy Atsumori Kofuhara Brandon Augustus D. Rime Brandon Boon AWZ Brandon Kaleo Aguinaldo B.Novakowski Brendan Lyle Bad Syntax Brent Evans Bakacs Márton Brent May bara Brent Richmond Barbara Christine McDonald Brett Griffiths Barry Ross Brian Babyok Bastien Pilon Brian Buckley Beau Rancourt Brian Goslinga Ben K Brian Sniffen Ben Krauskopf Brian Sprick;Anonymous Ben Mabry Anonymous Ben P. Balestra Anonymous Ben Warner Anonymous Benjamin Foster Anonymous Benjamin Hahn Anonymous TTRPG Fan Benjamin Howard Anthony Foderaro Benjamin I. Espen Anthony Hansen Benoist Poire Anthony Pirrotta Benton ‘Gadigan’ Wilson Anthony Valterra Bernard E. Howell Anton Charles Laszlo Manak Bernard Guerrero Aphron Bevan Anderson Apostol Apostolov Bill Leonard Aras Vitkus Bill Vee ArcanistWill Billy Luckey Argamae Bíró Ádám Armando DiCianno Blacksteel Arthur Braune Blain Crighton Aryxymaraki Blake Cefoldo As Lars Hoffmann Bob Friedman Ashton Dyck Bob Seifert ASP Bobby Jackson AST Brandin Stoy Atsumori Kofuhara Brandon Augustus D. Rime Brandon Boon AWZ Brandon Kaleo Aguinaldo B.Novakowski Brendan Lyle Bad Syntax Brent Evans Bakacs Márton Brent May bara Brent Richmond Barbara Christine McDonald Brett Griffiths Barry Ross Brian Babyok Bastien Pilon Brian Buckley Beau Rancourt Brian Goslinga Ben K Brian Sniffen Ben Krauskopf Brian Sprick;reviewed;new_translation;0;;a7f674b59796fcc795172ddd90ac4e90389009beaafa5c016fdd3363e4dedd2a;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=539
+rr.p0540.b001;E;540;538;paragraph;Brian Sullivan Curtis C. Hooper Brooks Dailey Cyr Rakarth Brother Tom D. Lyons Bruno Pešec D.C. Fischer Brutorz Bill D.J. Schreffler Bryan Burns Dale Burnett Bryan E Rye Dale Lamb Bryan Green Damian J. Henderson Bryan Lee Briggs DamndestBastard Bryan Racette Dan Fehr Bryanna Dan Lammay Brynsta Dan Past Buck Whitman Daniel Andersen Byron Hudgins Daniel Bates C and J Sutherland Daniel Enoch Tobin C. Hageman Daniel Herink C. Southwick Daniel K. Bendele C.D. Cerda Daniel Koolbeck Cain Gillespie Daniel Peek Cal Vanoni Daniel Pfleging Caleb Hines Daniel Rodrigues Callan J Hassall Darius Garsys Callum Clegg Darrell Vaughan CAPRAE Darren Wheeler Captain Waffles Darryl Sukkau Carl Folke Henschen Edman Darth Mckay Carlos Eugenio Nicot II Dave Bunge Cayden Skipper Dave Cunningham Chad Mercer Dave Ellingwood Chance H Dale Dave Mann Chaotic Gord Dave Younce Chapman Jones DaveD Charles A. Williams David “Krugus” Lewis Charles Kandalaft David Bettsack Charles Plante David D Charles Town David DeRocha Charles Voyce David E. Durrett Jr. CharlieAmra David Fortin Che Webster David Harrison Chen-Hsun Chiu David Hebert Chip Fursdon David Jimenez Chris Currie David Keyser Chris Heath David L. Tripp Chris J David Martin Chris Kenney David Orwig Chris Knight David Priver Chris McNeil David Sánchez Chris Sanderson David Shlafer Chris Wall Davis Walker Christian Deja Vous Christian Wanamaker Demorgan Christopher “csmithere” Smith Denis Ricard Christopher A Huddleston Dennis Bretton Christopher AC Esposito Derek Jones Christopher Boc Deron Dorna Christopher D Brant Dhomhnall Christopher Da Pra Diana Thomas Christopher Feola Diego Martin Christopher Hill Diversity & Dragons Christopher J. De La Rosa DLB Christopher Käck Dmitrii Tretiakov Christopher Kearney DobbysWorld Christopher Long DocMcJansen Christopher Roy Doesn’t really matter. Christopher Spindola Dominic Johnson Chuck Frizzell Don Kalinich Cilosid Don Pierce CJ Lovrien Don Scherig Clay Castle Don’t include my name Clayton “Wise Kobold” Rennie Douglas Ghizzoni Clutterbane Douglas H. Cole Cody J Downing Dr Eric Silverman Colin Boxall Dr Walter Campbell Colin Summers Dr. ERIC WALCHAK Connor Burnett Dr. John Marr Corey Schaff DS Corey Spencer Duane M. Cory White Duane Moore CPE Gaebler Dunder Moose Craig Hindle Dustan McArthur Craig N. Dustin Headen Cristo Leon Dustin Sprick CriticalDom Dylan Quintal;Brian Sullivan Curtis C. Hooper Brooks Dailey Cyr Rakarth Brother Tom D. Lyons Bruno Pešec D.C. Fischer Brutorz Bill D.J. Schreffler Bryan Burns Dale Burnett Bryan E Rye Dale Lamb Bryan Green Damian J. Henderson Bryan Lee Briggs DamndestBastard Bryan Racette Dan Fehr Bryanna Dan Lammay Brynsta Dan Past Buck Whitman Daniel Andersen Byron Hudgins Daniel Bates C and J Sutherland Daniel Enoch Tobin C. Hageman Daniel Herink C. Southwick Daniel K. Bendele C.D. Cerda Daniel Koolbeck Cain Gillespie Daniel Peek Cal Vanoni Daniel Pfleging Caleb Hines Daniel Rodrigues Callan J Hassall Darius Garsys Callum Clegg Darrell Vaughan CAPRAE Darren Wheeler Captain Waffles Darryl Sukkau Carl Folke Henschen Edman Darth Mckay Carlos Eugenio Nicot II Dave Bunge Cayden Skipper Dave Cunningham Chad Mercer Dave Ellingwood Chance H Dale Dave Mann Chaotic Gord Dave Younce Chapman Jones DaveD Charles A. Williams David “Krugus” Lewis Charles Kandalaft David Bettsack Charles Plante David D Charles Town David DeRocha Charles Voyce David E. Durrett Jr. CharlieAmra David Fortin Che Webster David Harrison Chen-Hsun Chiu David Hebert Chip Fursdon David Jimenez Chris Currie David Keyser Chris Heath David L. Tripp Chris J David Martin Chris Kenney David Orwig Chris Knight David Priver Chris McNeil David Sánchez Chris Sanderson David Shlafer Chris Wall Davis Walker Christian Deja Vous Christian Wanamaker Demorgan Christopher “csmithere” Smith Denis Ricard Christopher A Huddleston Dennis Bretton Christopher AC Esposito Derek Jones Christopher Boc Deron Dorna Christopher D Brant Dhomhnall Christopher Da Pra Diana Thomas Christopher Feola Diego Martin Christopher Hill Diversity & Dragons Christopher J. De La Rosa DLB Christopher Käck Dmitrii Tretiakov Christopher Kearney DobbysWorld Christopher Long DocMcJansen Christopher Roy Doesn’t really matter. Christopher Spindola Dominic Johnson Chuck Frizzell Don Kalinich Cilosid Don Pierce CJ Lovrien Don Scherig Clay Castle Don’t include my name Clayton “Wise Kobold” Rennie Douglas Ghizzoni Clutterbane Douglas H. Cole Cody J Downing Dr Eric Silverman Colin Boxall Dr Walter Campbell Colin Summers Dr. ERIC WALCHAK Connor Burnett Dr. John Marr Corey Schaff DS Corey Spencer Duane M. Cory White Duane Moore CPE Gaebler Dunder Moose Craig Hindle Dustan McArthur Craig N. Dustin Headen Cristo Leon Dustin Sprick CriticalDom Dylan Quintal;reviewed;new_translation;0;;6f4db448b56583d4f16c0c8368822823605a9ef93a2e0e7ab290778092d07535;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=540
+rr.p0540.b002;E;540;538;paragraph;E. Brooks grimschneider Ed Mac Grindel Ed Mikkelsen Guillaume F Edward Hughes Gully Feuerhammar Edward Pierson GusB EJ van Dijk Hal Skelley Eli Ryan Hamish Meiklejohn Elias Kokkinis Hamish Thomson Elijah Dixon Hannah Craig Eloy “Umbramancer” Cintron HÄNSEL HÖLLENSTRUM EmanantVolition Harald Coin Emiliano M. Harokin Emily Z Harrowed Emmanuel Kanter Hawksmoor Emmanuel Papst Hayde Rice Emsworth Heath Medlin Eric Campion Helmut Fritz Eric Gesell Herb S. Eric Kitchen Herbert “PulpHerb” Nowell Eric Maloof HjeuphosAcre Eric Michael LeVine Horkus Eric Zylstra Howard Stroupe Erik Jensen Hoystein Erik Luken Humphrey Erik Talvola Huw Smith-Jones Etienne Swartz Hyper Borean Evan C Johnson Iain Barr Evan Hurd Ian Blackmer Evan Lowry Ian Bryans Evil Eli the Vile Ian C. Nodurft Fabio Mascarenhas Ian Gray Fabio Milito Pagliara Ian Melcher Fabrice Gatille Ian Oushani Falka Stegemann InterphasicAlien Falnazor Ironcaster Federebus Ironsheep Federico Bevilacqua Isaac Lee Felix Falkenberg Isaac Priestley Fernando Torres Isac Björnström, aspiring author Férumil Itamar Parann Flade Ituralde Florian Hübner Ivan A. Finzen IV Fluid the Druid Ivan Šokić Formerly Monty Yuanti J. Davis Forrest Maready J. Evans Payne Forrestt Derry J. LeTourneau Fox Y. Whitworth J. Preston Holmes Foximus J. Rojas Frank C. Manning J.S.Young Frank Romsvig J.T. Dimino Frankie Wakefield Jack Morrison FrDave Jacob F. Grant Fred Daniel Jacob Herrera Fritcher Jacob P. Morris G.Leiper Jacob Rosenberg Gabe Mamola Jacob Runde Gábor Csomós (Chomy) Jacopo Gabor Lux Jake Cook Gabriel Julian Dahlen Jake Evans Gabriel MacBride Jake Parker Gabriel N. Jakob McFarland Gabriel Rossman James A. Helm Sr. Galen Helfter James Brooker Gary McBride James C. Bennett Gavin Ralston James D the Destroyer George A. Wakulik III James Edward Lowery Gerald Vanover James Greidanus Gerard Cagayat James Jeffers Ghiliard Starmax James Jensen Ginger Fraiser (Black Lodge Games) James Koncz Giovanni James Mansson Glen Adams James McDaniel Glowing Finger Films James McGookin GoBa James Miller Goblin King Games - Ocala, FL James O’Hara Grady James R. Goodlink Grady Booth James Robert Williams Graham Hawkins James Rumph Graham Sandison James T. Hughes Grandy Peace James Thiel-Delgado Greg D James Thrasher-Sneathen Greg Drysdale James Unick Greg Spatuzzi Jamie “Demiurge” Lancashire;E. Brooks grimschneider Ed Mac Grindel Ed Mikkelsen Guillaume F Edward Hughes Gully Feuerhammar Edward Pierson GusB EJ van Dijk Hal Skelley Eli Ryan Hamish Meiklejohn Elias Kokkinis Hamish Thomson Elijah Dixon Hannah Craig Eloy “Umbramancer” Cintron HÄNSEL HÖLLENSTRUM EmanantVolition Harald Coin Emiliano M. Harokin Emily Z Harrowed Emmanuel Kanter Hawksmoor Emmanuel Papst Hayde Rice Emsworth Heath Medlin Eric Campion Helmut Fritz Eric Gesell Herb S. Eric Kitchen Herbert “PulpHerb” Nowell Eric Maloof HjeuphosAcre Eric Michael LeVine Horkus Eric Zylstra Howard Stroupe Erik Jensen Hoystein Erik Luken Humphrey Erik Talvola Huw Smith-Jones Etienne Swartz Hyper Borean Evan C Johnson Iain Barr Evan Hurd Ian Blackmer Evan Lowry Ian Bryans Evil Eli the Vile Ian C. Nodurft Fabio Mascarenhas Ian Gray Fabio Milito Pagliara Ian Melcher Fabrice Gatille Ian Oushani Falka Stegemann InterphasicAlien Falnazor Ironcaster Federebus Ironsheep Federico Bevilacqua Isaac Lee Felix Falkenberg Isaac Priestley Fernando Torres Isac Björnström, aspiring author Férumil Itamar Parann Flade Ituralde Florian Hübner Ivan A. Finzen IV Fluid the Druid Ivan Šokić Formerly Monty Yuanti J. Davis Forrest Maready J. Evans Payne Forrestt Derry J. LeTourneau Fox Y. Whitworth J. Preston Holmes Foximus J. Rojas Frank C. Manning J.S.Young Frank Romsvig J.T. Dimino Frankie Wakefield Jack Morrison FrDave Jacob F. Grant Fred Daniel Jacob Herrera Fritcher Jacob P. Morris G.Leiper Jacob Rosenberg Gabe Mamola Jacob Runde Gábor Csomós (Chomy) Jacopo Gabor Lux Jake Cook Gabriel Julian Dahlen Jake Evans Gabriel MacBride Jake Parker Gabriel N. Jakob McFarland Gabriel Rossman James A. Helm Sr. Galen Helfter James Brooker Gary McBride James C. Bennett Gavin Ralston James D the Destroyer George A. Wakulik III James Edward Lowery Gerald Vanover James Greidanus Gerard Cagayat James Jeffers Ghiliard Starmax James Jensen Ginger Fraiser (Black Lodge Games) James Koncz Giovanni James Mansson Glen Adams James McDaniel Glowing Finger Films James McGookin GoBa James Miller Goblin King Games - Ocala, FL James O’Hara Grady James R. Goodlink Grady Booth James Robert Williams Graham Hawkins James Rumph Graham Sandison James T. Hughes Grandy Peace James Thiel-Delgado Greg D James Thrasher-Sneathen Greg Drysdale James Unick Greg Spatuzzi Jamie “Demiurge” Lancashire;reviewed;new_translation;0;;47efc39183f20f12c88480c322def9a1a4e5c0be16ed8d7aca8aba63fbf3afaa;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=540
+rr.p0541.b001;E;541;539;paragraph;Jan Schumacher Jon Griffin Jan Sjögren Jon Hastings Janis Sprukts Jon Utoft Nielsen Janusz Matkowski Jonás Pérez Jared Daigle Jonathan Craton Jarrett Rhoades Jonathan Hoffmann JASAL Jonathan Miller Jason - Vortex Jonathan Miller Jason “Hierax” Verbitsky Jonathan Tate Jason “Ludanto” Smith Jonathas Jason Barker Jose Perez Bromos Jason Jacobson Joseph Ashley Jason Jensen Joseph B. Lauriti Jason Smith Joseph Balderrama Jason Spurgeon Joseph Delaney Jason Taylor Joseph Pirc Jason William Staiert Josh Sharp Jason Wright Josh Williams Javed Mirza Joshua Bailey Jay White Joshua Bennett JC Smith Joshua Cairns JD Kelley Joshua Lee Goodlink Jeff and Tanya Jeffcoat Joshua Liner Jeff Chenier Joshua Saguil-Schweitzer Jeff H Joshua Ward Jeff Heising Jouni Kittela Jeff Painter, II JS Roy Jeff Phinney Juan Casanova (Ragnarol) Jeff Quigley Jude Purrington Jeff Robinson Julian C. Steen Jeff Russell Justin A. McCright Jeff Vincent Justin Cain Jeff Whitman Justin Rastin Jeff Workman K. Drew Saxton Jeffrey Moynagh K. Kennedy Jens “Gemmenzwerg” Racher- K. Nelson bäumer K.C. L’Roy Jeremy Coffey Kahleel Hassan Jeremy Grodzicki Kaltkäse Jeremy Holley Karl Benson Jeremy King Keith Antony Wheaton Jeremy Livingston Keith Edwards Jeremy McKean Keith Malinowski Jerome Chenu Keith R Hershey Jr Jesper Keith W. Mullen Jesse Grimes Kelly M. Ramsey Jesse Prevey Ken Allen Jesse The Great Kenneth Proven JF Christenson Kenny McGuffee Jim “Wilmanric” Pacek Kenny Parker Jim Auer Kevala Keller Jim Carter Kevin A Swartz, MD PhD Jim Ebert Kevin Alfred Mastron Jim Fetzner Kevin Crawford Jim Nealon Kevin Flühs Joe Bartlett Kevin Serafini Joe Blackwood Kobra Joe Blancato Kristian “Rompcat” Jaech Joe C KS Joe Davis Kyle and Shelby Murray Joe Slag Kyle Bevan Joel T. Clark Kyle Cook Joethelawyer Kyle Greene John “MaxLiao” Schloe Kyle J Donovan John Arendt Kyle Mussmann John Canales Kyle Oppy John Culley Kyle Westjohn John D. Hart Kyrinn S. Eis John Fletcher Ladybug John Guthrie Lakshman Godbole John Hutton lamashtu John Irving Lance Teasdale John Kane Larry Sawh John McGlynn Lars, Man of Letters John Schwartz Laup John Sorma Laurence Walls Johnathan Desrosiers Le Chat Johnathon Neuenschwander Lee Gray John-Matthew DeFoggi Leon Atkinson Johnny F. Normal Leptopus Johnny King aka Cerulean Rex LeRoy Davis Jojodogboy Liam Leas Jon Finn Liam Ord;Jan Schumacher Jon Griffin Jan Sjögren Jon Hastings Janis Sprukts Jon Utoft Nielsen Janusz Matkowski Jonás Pérez Jared Daigle Jonathan Craton Jarrett Rhoades Jonathan Hoffmann JASAL Jonathan Miller Jason - Vortex Jonathan Miller Jason “Hierax” Verbitsky Jonathan Tate Jason “Ludanto” Smith Jonathas Jason Barker Jose Perez Bromos Jason Jacobson Joseph Ashley Jason Jensen Joseph B. Lauriti Jason Smith Joseph Balderrama Jason Spurgeon Joseph Delaney Jason Taylor Joseph Pirc Jason William Staiert Josh Sharp Jason Wright Josh Williams Javed Mirza Joshua Bailey Jay White Joshua Bennett JC Smith Joshua Cairns JD Kelley Joshua Lee Goodlink Jeff and Tanya Jeffcoat Joshua Liner Jeff Chenier Joshua Saguil-Schweitzer Jeff H Joshua Ward Jeff Heising Jouni Kittela Jeff Painter, II JS Roy Jeff Phinney Juan Casanova (Ragnarol) Jeff Quigley Jude Purrington Jeff Robinson Julian C. Steen Jeff Russell Justin A. McCright Jeff Vincent Justin Cain Jeff Whitman Justin Rastin Jeff Workman K. Drew Saxton Jeffrey Moynagh K. Kennedy Jens “Gemmenzwerg” Racher- K. Nelson bäumer K.C. L’Roy Jeremy Coffey Kahleel Hassan Jeremy Grodzicki Kaltkäse Jeremy Holley Karl Benson Jeremy King Keith Antony Wheaton Jeremy Livingston Keith Edwards Jeremy McKean Keith Malinowski Jerome Chenu Keith R Hershey Jr Jesper Keith W. Mullen Jesse Grimes Kelly M. Ramsey Jesse Prevey Ken Allen Jesse The Great Kenneth Proven JF Christenson Kenny McGuffee Jim “Wilmanric” Pacek Kenny Parker Jim Auer Kevala Keller Jim Carter Kevin A Swartz, MD PhD Jim Ebert Kevin Alfred Mastron Jim Fetzner Kevin Crawford Jim Nealon Kevin Flühs Joe Bartlett Kevin Serafini Joe Blackwood Kobra Joe Blancato Kristian “Rompcat” Jaech Joe C KS Joe Davis Kyle and Shelby Murray Joe Slag Kyle Bevan Joel T. Clark Kyle Cook Joethelawyer Kyle Greene John “MaxLiao” Schloe Kyle J Donovan John Arendt Kyle Mussmann John Canales Kyle Oppy John Culley Kyle Westjohn John D. Hart Kyrinn S. Eis John Fletcher Ladybug John Guthrie Lakshman Godbole John Hutton lamashtu John Irving Lance Teasdale John Kane Larry Sawh John McGlynn Lars, Man of Letters John Schwartz Laup John Sorma Laurence Walls Johnathan Desrosiers Le Chat Johnathon Neuenschwander Lee Gray John-Matthew DeFoggi Leon Atkinson Johnny F. Normal Leptopus Johnny King aka Cerulean Rex LeRoy Davis Jojodogboy Liam Leas Jon Finn Liam Ord;reviewed;new_translation;0;;33301ad8b77dc320949b19e74edad547e2a89c9a9769d858dabc34d17713201e;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=541
+rr.p0541.b002;E;541;539;paragraph;Logan and Shawn Bouck Michael G Palmer Logan Dorn Michael G Westenhouser Logan Kent Michael G. Potter Logan Smith Michael Greenly Loki63 Michael H Lorenzo B Michael H Davis Lorgalis Michael Hamann Louie Stewart Michael Hohenstein Louis Branch Michael J. Ramps Luca Lettieri Michael John Werbiskis IV Lucamarchi Michael Kirk Lucas Michael Mudgett Luke Stibbs Michael Palkendo M Allen Powell Michael Stevens M Eskridge Michael Tapia M J Logan MichalS M Pierce Mike Capps Macallan Lehane Mike Dobiesz Macho Mandalf Mike Fletcher Mad Italian Mike Gowdy Magus7a Mike Holt Major Greg Estvander USMC Mike Lowery Man of the Atom Mitch Goldstein Mann McManahan Monky Marc Senneret Moomin “Rannos” James Marc Young Moralai Marcelo Lira Morgan Hazel Marcelo Sepúlveda Mortan Jacobsen Marcus Valone Mortbury Press Mark Beussink Mpromptu Media Mark Brooks Mr.Muesli Mark Campbell MrMaxBoivin Mark Charters mudcore.substack.com Mark D. Sebastian Myke Diemart Mark Fisher Nate M. Mark Francis Nate Miller Mark Harvey Nathan Birch Mark Madachik Nathan Fox Mark Magagna Nathan Hayden Mark Martin Nathan Hicks Mark Mealman Nathan M.P. Franklin Mark Miller Nathan Swift Mark R Nathanael Mathews Mark Roylance Nathaniel Bennett Markus Sillanpää Nathaniel Boggs Martin Lecointe necrobious Martin M Nectarios Andrews Martin Mandler Neil R Lindgren Martin Nichol Nicholas Geraghty Masaki Yamazaki Nicholas Guidotti (Black Lodge Mathew Hintz Games) Matt Davis Nicholas Matzen Matt Houseman Nicholas Phariss Matt Price Nicholas Toman Matt Walsh Nicholas Zakus Matthew “CatatonicMan” Grieco Nick James Matthew Blackwell Nick McGouran Matthew Carlson Nicklaus R. Martinez Matthew Escher Nickolaus Lemley Matthew Gregg Franklin Nico Freda Matthew Hammer Nike Matthew Hunter Nikki Bloom Matthew Jones Niklas Kern Matthew Luethje Nikolai Harrison Matthew Sigfried Muller Nikolaj Thorup Jensen Matthew Sprick Nikolaos Katevas Matthew Springer Nikolaos Stamatopoulos Matthew T. Austin Nikolas “Taffer” Cuje Maurice M. Nina Blain Mauricio Leal Montemayor Nolan Lewis Mauro Perez-Gaona Olle Skogren Max Jankowski Omer Cohen Max Schneider Omer Golan-Joel Max Scruby omonubi Maxin Carroll Osha McFulton Ozborn Megarith Paco Falomir Micah Sweet Padrach Michael “solomani” Mifsud Padre Brendon Michael Alkema Palladionhearts Michael Beeson Panos Gotsis Michael Champagne Part Time Michael De Rosa Pat Kilbane;Logan and Shawn Bouck Michael G Palmer Logan Dorn Michael G Westenhouser Logan Kent Michael G. Potter Logan Smith Michael Greenly Loki63 Michael H Lorenzo B Michael H Davis Lorgalis Michael Hamann Louie Stewart Michael Hohenstein Louis Branch Michael J. Ramps Luca Lettieri Michael John Werbiskis IV Lucamarchi Michael Kirk Lucas Michael Mudgett Luke Stibbs Michael Palkendo M Allen Powell Michael Stevens M Eskridge Michael Tapia M J Logan MichalS M Pierce Mike Capps Macallan Lehane Mike Dobiesz Macho Mandalf Mike Fletcher Mad Italian Mike Gowdy Magus7a Mike Holt Major Greg Estvander USMC Mike Lowery Man of the Atom Mitch Goldstein Mann McManahan Monky Marc Senneret Moomin “Rannos” James Marc Young Moralai Marcelo Lira Morgan Hazel Marcelo Sepúlveda Mortan Jacobsen Marcus Valone Mortbury Press Mark Beussink Mpromptu Media Mark Brooks Mr.Muesli Mark Campbell MrMaxBoivin Mark Charters mudcore.substack.com Mark D. Sebastian Myke Diemart Mark Fisher Nate M. Mark Francis Nate Miller Mark Harvey Nathan Birch Mark Madachik Nathan Fox Mark Magagna Nathan Hayden Mark Martin Nathan Hicks Mark Mealman Nathan M.P. Franklin Mark Miller Nathan Swift Mark R Nathanael Mathews Mark Roylance Nathaniel Bennett Markus Sillanpää Nathaniel Boggs Martin Lecointe necrobious Martin M Nectarios Andrews Martin Mandler Neil R Lindgren Martin Nichol Nicholas Geraghty Masaki Yamazaki Nicholas Guidotti (Black Lodge Mathew Hintz Games) Matt Davis Nicholas Matzen Matt Houseman Nicholas Phariss Matt Price Nicholas Toman Matt Walsh Nicholas Zakus Matthew “CatatonicMan” Grieco Nick James Matthew Blackwell Nick McGouran Matthew Carlson Nicklaus R. Martinez Matthew Escher Nickolaus Lemley Matthew Gregg Franklin Nico Freda Matthew Hammer Nike Matthew Hunter Nikki Bloom Matthew Jones Niklas Kern Matthew Luethje Nikolai Harrison Matthew Sigfried Muller Nikolaj Thorup Jensen Matthew Sprick Nikolaos Katevas Matthew Springer Nikolaos Stamatopoulos Matthew T. Austin Nikolas “Taffer” Cuje Maurice M. Nina Blain Mauricio Leal Montemayor Nolan Lewis Mauro Perez-Gaona Olle Skogren Max Jankowski Omer Cohen Max Schneider Omer Golan-Joel Max Scruby omonubi Maxin Carroll Osha McFulton Ozborn Megarith Paco Falomir Micah Sweet Padrach Michael “solomani” Mifsud Padre Brendon Michael Alkema Palladionhearts Michael Beeson Panos Gotsis Michael Champagne Part Time Michael De Rosa Pat Kilbane;reviewed;new_translation;0;;2fc4e6abd7b0fd4f8caae7084be6d9fecb3fc0f744094f534acc5985591ab29c;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=541
+rr.p0542.b001;E;542;540;paragraph;Patrick B Rob Dunning Patrick Brown Rob Kalbach Patrick Dugan Rob Meerscheidt Patrick M. Cox II Robert Alderman - Pulp Hummock Patrick P. Press Patrick Pelletier Robert Burr Paul & Tracy Will Robert Cousland Paul Bachleda Robert D. Malmstrom Paul Bigbee Robert DeMercurio Paul Braun Robert Farrar Paul G. Quarles Robert Karstenson Paul Heinze Jr Robert Mania Paul Lints Robert Mastrud Paul Nemeth Robert Ohanian Paul Ryan Kuykendall Robert Pena Paul Stanley (An RPG Abstrac- Robert Quimbey tionist) Rod Spellman Paul Van Dyke Roger C. Jones Pedro Filipe Monteiro Rocha Roger Harvell Jr Pete C Roger Rebisz Pete Frederick Rokbitz Peter “Petromir” Proniewicz-Brooks Ronald Gardner Peter O’Meara Ronald H. Miller Peyton McCauley Ross (Mythic Mountains) Phil Hartwich Ross Spiller Phil Stepp Ross Taylor Philip Champigny Roth Philip Hoff Ruben Perez Philip W Rogers Jr Ruler of the Doughnuts Phillip Weiss Ryan Pippa Brooks Ryan Ambrose please do not include me Ryan Butler Pobaxi Ryan Caveney PoshTiara Ryan G PraetorH Ryan Heffelfinger ProfAllister Ryan Hollems pulseunit Ryan Howard Puț Iulian-Ioan Ryan Peck Qi Gao S.F. Rattan QuantumWings Sam Hart Quinn Kimball Samuel Gaines Quinn S Samuel John Wilson R Percy Samuel Panther R.A. Mc Reynolds Samuel Patterson R.J.J. Ward Samuel Sterling Potter Ragnar Kempf Sante’ Jonker Rahgedfu Sardan the Seer Rahshaad Benjamin Sawyer S Cantrell Randall Wagner Scott B Randy Buttram Scott Boston Randy S. Scott Craig Randy Smith Scott Isensee Rasmus Behr Dagsson Skjelborg Scott Langston RazorMP3 Scott Llewelyn Redfuji6 Scott Maynard Rene Dupre Scott Strattner Rens Scott Templeman RG Scott Tooker Rhea Shelley Seamus Norton Rich Canino Sean Falconi Rich Ireland Seán McMahon Rich Spainhour Sean O’Riordan Richard “Bluddworth” Sellati Sean Poynter Richard Acker Sean Rivera Richard Butler Sean Sheedy Richard C. Smith, Esq. sebi94504 Richard Hildreth Selemas Richard Mundy SG & AG Richard W Byers Shahar Halevy Richard White Shamus Nicholson Riley Lum Shan Palmatier R-Kurbis Shane Cockle Rob 2.0 Shane Dunlap Rob Banks! Shaun;Patrick B Rob Dunning Patrick Brown Rob Kalbach Patrick Dugan Rob Meerscheidt Patrick M. Cox II Robert Alderman - Pulp Hummock Patrick P. Press Patrick Pelletier Robert Burr Paul & Tracy Will Robert Cousland Paul Bachleda Robert D. Malmstrom Paul Bigbee Robert DeMercurio Paul Braun Robert Farrar Paul G. Quarles Robert Karstenson Paul Heinze Jr Robert Mania Paul Lints Robert Mastrud Paul Nemeth Robert Ohanian Paul Ryan Kuykendall Robert Pena Paul Stanley (An RPG Abstrac- Robert Quimbey tionist) Rod Spellman Paul Van Dyke Roger C. Jones Pedro Filipe Monteiro Rocha Roger Harvell Jr Pete C Roger Rebisz Pete Frederick Rokbitz Peter “Petromir” Proniewicz-Brooks Ronald Gardner Peter O’Meara Ronald H. Miller Peyton McCauley Ross (Mythic Mountains) Phil Hartwich Ross Spiller Phil Stepp Ross Taylor Philip Champigny Roth Philip Hoff Ruben Perez Philip W Rogers Jr Ruler of the Doughnuts Phillip Weiss Ryan Pippa Brooks Ryan Ambrose please do not include me Ryan Butler Pobaxi Ryan Caveney PoshTiara Ryan G PraetorH Ryan Heffelfinger ProfAllister Ryan Hollems pulseunit Ryan Howard Puț Iulian-Ioan Ryan Peck Qi Gao S.F. Rattan QuantumWings Sam Hart Quinn Kimball Samuel Gaines Quinn S Samuel John Wilson R Percy Samuel Panther R.A. Mc Reynolds Samuel Patterson R.J.J. Ward Samuel Sterling Potter Ragnar Kempf Sante’ Jonker Rahgedfu Sardan the Seer Rahshaad Benjamin Sawyer S Cantrell Randall Wagner Scott B Randy Buttram Scott Boston Randy S. Scott Craig Randy Smith Scott Isensee Rasmus Behr Dagsson Skjelborg Scott Langston RazorMP3 Scott Llewelyn Redfuji6 Scott Maynard Rene Dupre Scott Strattner Rens Scott Templeman RG Scott Tooker Rhea Shelley Seamus Norton Rich Canino Sean Falconi Rich Ireland Seán McMahon Rich Spainhour Sean O’Riordan Richard “Bluddworth” Sellati Sean Poynter Richard Acker Sean Rivera Richard Butler Sean Sheedy Richard C. Smith, Esq. sebi94504 Richard Hildreth Selemas Richard Mundy SG & AG Richard W Byers Shahar Halevy Richard White Shamus Nicholson Riley Lum Shan Palmatier R-Kurbis Shane Cockle Rob 2.0 Shane Dunlap Rob Banks! Shaun;reviewed;new_translation;0;;adcda80c1eb8907d5cb8a6f1a22ac62a2af99004e9b2dde4ecceae7ad20b7a88;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=542
+rr.p0542.b002;E;542;540;paragraph;Shaun D. Burton Tom McKendree Shaun Low Tomas J. McIntee Shawn Brown Tomas K. Fontanari Shawn F Sullivan TomKench Shawn Ray Tony Digaetano Shawn Rose Tony Fucina Shawn Shipp Tony Patterson Shawn Wood Tony Stocker Simon Brooke Tookieman Simon Wild Tora Sir Eric Fabiaschi Torben van Hees Sir Guinhill Torches and Rations Sir Scropi totalpigeon Sirius Faerie Toxicpixie Slackarius Travis Kalama sol Travis Vance Spam Viking Trentin C Bergeron Spencer Paustian Trevor Bradley Spj187 Trevor W Johnson Spysix troyamonga Starglyte Tsar Bombadil Stephen Anderson Tuomas J. Salo Stephen Teixeira Tupla-J Steve Ty Hilliard Steve Chovanec Tyler Van Dykhuizen Steve Flores Vaultdweller604 Steve Juranich Vic Melenbrink Steven “Finlos” Jones Vince Kindfuller Steven Butterworth Vince McMaximus Steven Carrillo Vincent FURSTENBERGER Steven Danielson Vincente B Steven Fader Vintoks Steven Kummins Vortak Games Steven Lawley Wayne LaBelle Steven Thivierge Wayne Petersen Stijn Van Hove Wes Pryor Stoltverd Wesley E Marshall Stuart A. Friedberg Wesley Nott Student of Serbia Wibstozbin Sullivan Brophy Will Culbertson SuperSijy Will L. Supreme Overlord Will Maranto Sure William Ames Sylvain Lafleche William D. Dement II T. Kurt Bond William Humphreys Tadd McCauley William Schuchman Talethnet William Sova tamer & belly rubber Tallawampus of the most tepidly ferocious Pug Tatianna Minor of Luxembourg Taubuster William T. Hoover Taylor Harrell Wim Hoek Tenkar WoolyBeard Terren Wyatt West Terry Morton Xanerma Thaddeus G. Moore Xavier “Globo” de Canteloube The Amazing Rando Xeweros The Ensanguinated Fangs of Volup- Xychotic tuous Drelzna Y||B TheBasicExpert yardstickninja TheBigBadBear Yue Bond Chui TheMunkis Z Benz Thomas Darlington Z. Yatso Thomas Milazzo Zach H. Thomas Woodall Zach Pierce thubar2000 Zach Trimble Tim W Rudolph Zachary Corbin Tim Wolfe Zachary Sandlin Timothy A Torres Zachery Delafosse Timothy Havens Zain Jarrar TLPS Zak Knippel Todd Zeraska Todd Bergez Zinzer Tom “Vraven” Morales Tom Hudson;Shaun D. Burton Tom McKendree Shaun Low Tomas J. McIntee Shawn Brown Tomas K. Fontanari Shawn F Sullivan TomKench Shawn Ray Tony Digaetano Shawn Rose Tony Fucina Shawn Shipp Tony Patterson Shawn Wood Tony Stocker Simon Brooke Tookieman Simon Wild Tora Sir Eric Fabiaschi Torben van Hees Sir Guinhill Torches and Rations Sir Scropi totalpigeon Sirius Faerie Toxicpixie Slackarius Travis Kalama sol Travis Vance Spam Viking Trentin C Bergeron Spencer Paustian Trevor Bradley Spj187 Trevor W Johnson Spysix troyamonga Starglyte Tsar Bombadil Stephen Anderson Tuomas J. Salo Stephen Teixeira Tupla-J Steve Ty Hilliard Steve Chovanec Tyler Van Dykhuizen Steve Flores Vaultdweller604 Steve Juranich Vic Melenbrink Steven “Finlos” Jones Vince Kindfuller Steven Butterworth Vince McMaximus Steven Carrillo Vincent FURSTENBERGER Steven Danielson Vincente B Steven Fader Vintoks Steven Kummins Vortak Games Steven Lawley Wayne LaBelle Steven Thivierge Wayne Petersen Stijn Van Hove Wes Pryor Stoltverd Wesley E Marshall Stuart A. Friedberg Wesley Nott Student of Serbia Wibstozbin Sullivan Brophy Will Culbertson SuperSijy Will L. Supreme Overlord Will Maranto Sure William Ames Sylvain Lafleche William D. Dement II T. Kurt Bond William Humphreys Tadd McCauley William Schuchman Talethnet William Sova tamer & belly rubber Tallawampus of the most tepidly ferocious Pug Tatianna Minor of Luxembourg Taubuster William T. Hoover Taylor Harrell Wim Hoek Tenkar WoolyBeard Terren Wyatt West Terry Morton Xanerma Thaddeus G. Moore Xavier “Globo” de Canteloube The Amazing Rando Xeweros The Ensanguinated Fangs of Volup- Xychotic tuous Drelzna Y||B TheBasicExpert yardstickninja TheBigBadBear Yue Bond Chui TheMunkis Z Benz Thomas Darlington Z. Yatso Thomas Milazzo Zach H. Thomas Woodall Zach Pierce thubar2000 Zach Trimble Tim W Rudolph Zachary Corbin Tim Wolfe Zachary Sandlin Timothy A Torres Zachery Delafosse Timothy Havens Zain Jarrar TLPS Zak Knippel Todd Zeraska Todd Bergez Zinzer Tom “Vraven” Morales Tom Hudson;reviewed;new_translation;0;;7e7504d4dd16006fa283266716ccf131b9ab70e22817d315fe59a182a0d1dd11;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=542
+rr.p0542.b003;E;542;540;heading;EMPERORS;Императоры;reviewed;new_translation;0;;7e72e063f4071026ba55e392b1f2b0e8e46b3cd057f9a5eaf9aa6e00f8b69044;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=542
+rr.p0542.b004;E;542;540;paragraph;Arcane Rhino Grimmric Bruce Kroeze K. Bounds Dan Wentzel Kestutis Kalvaitis Doug Rutledge Luca Simon Stefan Eric C Brown Lurch (DM);Arcane Rhino Grimmric Bruce Kroeze K. Bounds Dan Wentzel Kestutis Kalvaitis Doug Rutledge Luca Simon Stefan Eric C Brown Lurch (DM);reviewed;new_translation;0;;d55f587d916430edd7532bb3807911a33d5c16b01320536b5955151de4cb1488;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=542
+rr.p0542.b005;E;542;540;paragraph;Michael Fagan Two Cents Red Rooster Redarcs Rudy Randolph Sedge Lewis;Michael Fagan Two Cents Red Rooster Redarcs Rudy Randolph Sedge Lewis;reviewed;new_translation;0;;48476621ac880ecfb27d996b20d58d4c22bc3c7bf98439721f58b1d5e08b769f;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=542
+rr.p0543.b001;E;543;541;heading;KINGS;Короли;reviewed;new_translation;0;;eacdeac887ea8b3faa4cd4ab6b17a0e1903778dbf037720f51ab4b33a3e4657e;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=543
+rr.p0543.b002;E;543;541;paragraph;Aaron the Raccoon Greg Ladd Anthony Fontanetta Hawthorne (V.D.) AussieHelaman Hunter Feenstra Brandon Binggeli Igor “Murphy700018” Guerra Brooks Gordon Jack Wyatt Dan St. Cyr Jacob Pi Danger Casey James David Rache Jason S. El Nota Jedidiah Taubel Evan L Jeffrey May fgreg Jitterbelly;Aaron the Raccoon Greg Ladd Anthony Fontanetta Hawthorne (V.D.) AussieHelaman Hunter Feenstra Brandon Binggeli Igor “Murphy700018” Guerra Brooks Gordon Jack Wyatt Dan St. Cyr Jacob Pi Danger Casey James David Rache Jason S. El Nota Jedidiah Taubel Evan L Jeffrey May fgreg Jitterbelly;reviewed;new_translation;0;;097a0e1d0c38bfc625a5737960dd640534d3eb3a3c1c8da916d51c1cf61cdfb9;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=543
+rr.p0543.b003;E;543;541;paragraph;John “evernevermore” Schrib Skean Julian Waller Tim Young Lee Boone Trey Garrison Leriel Uinum Lewis Jubb Wilfried Meybohm Luna Will Pehush Octavius Will Whiteside Ron Parker William Douglas Burns Ross A. Metcalf Zach Thomas Sarah Santy Zachary Betzen Servercat;John “evernevermore” Schrib Skean Julian Waller Tim Young Lee Boone Trey Garrison Leriel Uinum Lewis Jubb Wilfried Meybohm Luna Will Pehush Octavius Will Whiteside Ron Parker William Douglas Burns Ross A. Metcalf Zach Thomas Sarah Santy Zachary Betzen Servercat;reviewed;new_translation;0;;c5a541ce0adb658aedd6ceecf022e122ec3b31d42c33418bd658378f81e2700d;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=543
+rr.p0543.b004;E;543;541;heading;CONQUERORS;Завоеватели;reviewed;new_translation;0;;a4ceec0633c900eb97ea2211040d74774dc984235f47d6502e38818e18cc8b3b;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=543
+rr.p0543.b005;E;543;541;paragraph;Brined\_Porkchop JR Thompson Chris Miller (Mad Scribe Games) Jakob Man Of Action Arndal Garrett Copeland John Casisa Grey Lee Fuller IKS Michael Brewer;Brined\_Porkchop JR Thompson Chris Miller (Mad Scribe Games) Jakob Man Of Action Arndal Garrett Copeland John Casisa Grey Lee Fuller IKS Michael Brewer;reviewed;new_translation;0;;a3b7e1a309be268f067f6a1f143891f5d13d9f6015f97fb26802e70fec684257;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=543
+rr.p0543.b006;E;543;541;paragraph;Michael DiBaggio R Podolski Michael Gai Scott Caslow Mingolo Mingolonio Peter Eliot Zeender pkbyron;Michael DiBaggio R Podolski Michael Gai Scott Caslow Mingolo Mingolonio Peter Eliot Zeender pkbyron;reviewed;new_translation;0;;eae2093f1822e59e248eee5f70645cb6a619439fd368c0a35ab28ed7d71e320d;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=543
+rr.p0543.b007;E;543;541;heading;ADVENTURERS;Искатели приключений;reviewed;new_translation;0;;043cf24c233bf961308f404715e07666e2f35000822afbe814fae72bae8cdfb7;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=543
+rr.p0543.b008;E;543;541;paragraph;[Vicious]Easy Brynduraz Aaron Fleischer bynw Aaron Johnston C. Muhl Adam Carlos Adam Crossingham Carlos de la Cruz Adam Gulledge Casper Ståhl Aharon Almog Chad Berger Aidan O’Hara Chad Stevens Alessandro Del Gobbo Chadwick Alexei McDonald Charles A Williams Jr Alexpacio Charles Barchuk Alicia Wright Charles E Miller Alisa Chan Charles Saeger allagash Charles Shirk Andrea Maurizio Medici Charles William Alexander Lawrie Andreas Goettinger Chris Chaney II Andreas Habicher Chris Mitchell Andrew “Volund” Bastien Christopher Rivett Andrew Friedman Christopher W. Dentel Andrew Gil Chuck Dee Andrew McLaren Chuck Mock Andrew Sturman Clark Savage, Jr Andy Davis Cory Hargreaves Anonymous Cory Hirano Anonymous Craig Janssen anonymous Craig Maczkowicz Anonymous Creaperbox Anonymous CthulhusDream Anonymous D. Ng Anonymous Damon Griffin Anonymous Damon T. Wilson Anonymous Daniel Maxson Ariwch Daniel Rose Armin Mobasseri Daniele Papsy ArtemisWyrm Danny BellSilver Arturito, o sulista selvagem Darknecros Ashan Parmar Darren Hsiung Austin Chyenne Yontz Dave “Wintergreen” Harrison Aveio D Acosta Dave Przybyla Ben Erickson David A. Nixon Benjamin Steenbock David Blethen Bill Keller David D West Billy the King David K Blaine Pack David Kalnins Bob David L Majors Brad Elledge David Lachut Bradly “Oak” Cozby David Morgan Brandon Crane David Parlin Brandon Goehringer David Phillip Wray Brant Waterson David Stephenson Brett R Saunders David Whittaker Brian Dorion Dennis Kaur Brown Wizard Winston Dhaerow Bruce Gulke Dicemad Bryan Brown Dillon Russell Bryan D. Fran Dizzy Bryce DJ Ulrich;[Vicious]Easy Brynduraz Aaron Fleischer bynw Aaron Johnston C. Muhl Adam Carlos Adam Crossingham Carlos de la Cruz Adam Gulledge Casper Ståhl Aharon Almog Chad Berger Aidan O’Hara Chad Stevens Alessandro Del Gobbo Chadwick Alexei McDonald Charles A Williams Jr Alexpacio Charles Barchuk Alicia Wright Charles E Miller Alisa Chan Charles Saeger allagash Charles Shirk Andrea Maurizio Medici Charles William Alexander Lawrie Andreas Goettinger Chris Chaney II Andreas Habicher Chris Mitchell Andrew “Volund” Bastien Christopher Rivett Andrew Friedman Christopher W. Dentel Andrew Gil Chuck Dee Andrew McLaren Chuck Mock Andrew Sturman Clark Savage, Jr Andy Davis Cory Hargreaves Anonymous Cory Hirano Anonymous Craig Janssen anonymous Craig Maczkowicz Anonymous Creaperbox Anonymous CthulhusDream Anonymous D. Ng Anonymous Damon Griffin Anonymous Damon T. Wilson Anonymous Daniel Maxson Ariwch Daniel Rose Armin Mobasseri Daniele Papsy ArtemisWyrm Danny BellSilver Arturito, o sulista selvagem Darknecros Ashan Parmar Darren Hsiung Austin Chyenne Yontz Dave “Wintergreen” Harrison Aveio D Acosta Dave Przybyla Ben Erickson David A. Nixon Benjamin Steenbock David Blethen Bill Keller David D West Billy the King David K Blaine Pack David Kalnins Bob David L Majors Brad Elledge David Lachut Bradly “Oak” Cozby David Morgan Brandon Crane David Parlin Brandon Goehringer David Phillip Wray Brant Waterson David Stephenson Brett R Saunders David Whittaker Brian Dorion Dennis Kaur Brown Wizard Winston Dhaerow Bruce Gulke Dicemad Bryan Brown Dillon Russell Bryan D. Fran Dizzy Bryce DJ Ulrich;reviewed;new_translation;0;;7bdac7965346180d87cf0381c4cbf5aa93cdb9fcdb4e6e1caaa13ad012723eb4;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=543
+rr.p0543.b009;E;543;541;paragraph;Djemil Daniel James Bondage Donald Wheeler James C Washington III Dono James Dyer Douglas Sims James Huddleston Douglas Thompson` James Samuel Dr. Mirabilis Jarad Taylor EH Jason (DiceAddict) Blalock Ekapob Ukritnukun Jason Emlyn Domenico Italiano Elliott L Ward Jason Lee Emil Jason Peter Steyn Emil Feng Jason Sunday Emirikol Jason Vines Eric S Jason Ward Eric Sutton JD Beers Eric Swiersz Jeff Burton Erik Lee Jeffrey Jones ERYFKRAD Jens-Olaf Hultgreen Ethan Merica Jeremy Carney Evan Bright Jeremy W. Sherman Evan Halverson Jerry Taylor F Bob Mosdal JHILLOS farralon Jim Montgomery Ferd Metzger Jimmy C. Wu FreeIceCream Jiri “Markus” Petru Fyzikar123 jlampar Gabriel João Pires Gareth Grinnall Joe “Ofletar the Old” Hepler Garret Walton Joe Katzman garth John Haines GARTH OF THE GODS John Hickey Gnaskar John Howell Greg Jones John J Schneider Greg Kelsey John Jacobs Grzegorz Krzywicki John R. Trapasso GungaFH John Schuhr Gustavo La fontaine Jon Petit Hagakure Jonathan Agens Hal Hamilton Jr. JONATHAN BEELER, MD Hans G. Schantz Jonathan Dunwell Harry C. Jordan Trais Harry Stamford Jordi “Dimuscul” Franch He-Who-Meows Jose Hoss Jose Lozada Hugo Marrero Josh Pix Hunter Jones Joshua Crosby Ian Joshua Fahey Ian Magee Joshua R. idprism Joshua Steadmon Imredave Joshua Tipton Irifan JTM J. Kristian Ahonen Judd M. Goswick J. Sadosky Justin Clark Jacob Vardy Justin Kietzman Jacob Zumbrennen K Stein Jacques Nel Kaden Leavitt JAHutchinson Karl Miller Jaime Bertuchi Keith;Djemil Daniel James Bondage Donald Wheeler James C Washington III Dono James Dyer Douglas Sims James Huddleston Douglas Thompson` James Samuel Dr. Mirabilis Jarad Taylor EH Jason (DiceAddict) Blalock Ekapob Ukritnukun Jason Emlyn Domenico Italiano Elliott L Ward Jason Lee Emil Jason Peter Steyn Emil Feng Jason Sunday Emirikol Jason Vines Eric S Jason Ward Eric Sutton JD Beers Eric Swiersz Jeff Burton Erik Lee Jeffrey Jones ERYFKRAD Jens-Olaf Hultgreen Ethan Merica Jeremy Carney Evan Bright Jeremy W. Sherman Evan Halverson Jerry Taylor F Bob Mosdal JHILLOS farralon Jim Montgomery Ferd Metzger Jimmy C. Wu FreeIceCream Jiri “Markus” Petru Fyzikar123 jlampar Gabriel João Pires Gareth Grinnall Joe “Ofletar the Old” Hepler Garret Walton Joe Katzman garth John Haines GARTH OF THE GODS John Hickey Gnaskar John Howell Greg Jones John J Schneider Greg Kelsey John Jacobs Grzegorz Krzywicki John R. Trapasso GungaFH John Schuhr Gustavo La fontaine Jon Petit Hagakure Jonathan Agens Hal Hamilton Jr. JONATHAN BEELER, MD Hans G. Schantz Jonathan Dunwell Harry C. Jordan Trais Harry Stamford Jordi “Dimuscul” Franch He-Who-Meows Jose Hoss Jose Lozada Hugo Marrero Josh Pix Hunter Jones Joshua Crosby Ian Joshua Fahey Ian Magee Joshua R. idprism Joshua Steadmon Imredave Joshua Tipton Irifan JTM J. Kristian Ahonen Judd M. Goswick J. Sadosky Justin Clark Jacob Vardy Justin Kietzman Jacob Zumbrennen K Stein Jacques Nel Kaden Leavitt JAHutchinson Karl Miller Jaime Bertuchi Keith;reviewed;new_translation;0;;576730652fac00ef3bc2c65362610aada5f45ca8de84f9a67f813fbb5fd93a22;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=543
+rr.p0544.b001;E;544;542;paragraph;Keith Rosenberg Michał Z. Keith Simmons Miguel Zapico Keith Strickland Mikailos Kepler Mike Hensley KevinR Mike Schmidt Kieran Jimenez Mikkel Høgh Kristopher Volter Mildra The Monk Kurt Piersol Minh Nguyen Kyle Griffin Monte “Cyphur” Young Kyle Hilliard NanbanJim Kyle Payne Nathan D. Kyle W Nathan Du L. A. Parker Nathan Karnes Lactamaeon Neil Coles Larry Nessalantha Lee Carter Nguyen Thi Bich Tuyet Leonardo Prunk Niccolson Levy Keen Nicola LJV Niels Adair Logan Godfrey NIS Logan Hovermale nl3ss Louis Cunanan no Lucid Noah Birch Lumla O\_N M. Davidson Olek Kubik Maeyanie Oona the Noble Malcolm O’win the Mage Malcolm Coull Pants Mamoru Kusanagi Patrick Brannigan ManateeMan Paul J. Mocarski mangrr73 Paul Linn Manuelinho Paul St. John Marc Gillham Pavel “Snarls-at-Fleas” Berlin Marco Stricker Paweł Borawski Mark J Modugno Pedro Gómez-Esteban Mark K Peter Fagan Mark Leymaster of Grammarye Peter Giannacopoulos Mark R Peter Lindstrom Mark Solino Peter S. Fam Markus Raab Petr Vilimek Martin Nunez Phillip Bush Martin of Scandinavia Phillip Pontious Mateusz Wiśniewski Phroggelator Mathew Folwarski Pierrot Matt Gregory Pontus Rudholm Matthew Carberry Preston Buck Matthew Kane R Radford Matthew V R. Poindexter McClellan Rafael Nicoletti Meaty Ralk Melnuur Raphael metamage Ray Weidner Michael Allen ‘Reg Michael Cox Reverance Pavane Michael Feldhusen Rex Gator Michael Young RG;Keith Rosenberg Michał Z. Keith Simmons Miguel Zapico Keith Strickland Mikailos Kepler Mike Hensley KevinR Mike Schmidt Kieran Jimenez Mikkel Høgh Kristopher Volter Mildra The Monk Kurt Piersol Minh Nguyen Kyle Griffin Monte “Cyphur” Young Kyle Hilliard NanbanJim Kyle Payne Nathan D. Kyle W Nathan Du L. A. Parker Nathan Karnes Lactamaeon Neil Coles Larry Nessalantha Lee Carter Nguyen Thi Bich Tuyet Leonardo Prunk Niccolson Levy Keen Nicola LJV Niels Adair Logan Godfrey NIS Logan Hovermale nl3ss Louis Cunanan no Lucid Noah Birch Lumla O\_N M. Davidson Olek Kubik Maeyanie Oona the Noble Malcolm O’win the Mage Malcolm Coull Pants Mamoru Kusanagi Patrick Brannigan ManateeMan Paul J. Mocarski mangrr73 Paul Linn Manuelinho Paul St. John Marc Gillham Pavel “Snarls-at-Fleas” Berlin Marco Stricker Paweł Borawski Mark J Modugno Pedro Gómez-Esteban Mark K Peter Fagan Mark Leymaster of Grammarye Peter Giannacopoulos Mark R Peter Lindstrom Mark Solino Peter S. Fam Markus Raab Petr Vilimek Martin Nunez Phillip Bush Martin of Scandinavia Phillip Pontious Mateusz Wiśniewski Phroggelator Mathew Folwarski Pierrot Matt Gregory Pontus Rudholm Matthew Carberry Preston Buck Matthew Kane R Radford Matthew V R. Poindexter McClellan Rafael Nicoletti Meaty Ralk Melnuur Raphael metamage Ray Weidner Michael Allen ‘Reg Michael Cox Reverance Pavane Michael Feldhusen Rex Gator Michael Young RG;reviewed;new_translation;0;;a360b9ed60c3e481424e409c4733e210fb01025bf44965d0ccd16db095aa65b8;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=544
+rr.p0544.b002;E;544;542;paragraph;RGS Hartley Terry R. Barnette Ribbz THE Donnie Ricardo Dorda Laforet The Pink Phantom Rich Harkrader The Skulk Rich Riddle Theaitetos Richard Gill TheJRKgm Rms Theodore Meyer Roads Of Shadow Thierry De Gagne Rob Muadib Thomas P. Kurilla Rob Necronomicon Tim Baker Robert S. Conley Timbo Roger Altman Timolution Roger VanLandingham Timothy Griffin Roman Kuzyk Timothy Westwind Ron Frazier Toby Toogood Ronald Morris Williams Tod Casasent Rook Bramblefoot Tony Burns Ross Hellwig Tony McCormick RuleOfThule Totti Ryan Heck Travis M. Erickson sailorgrenoble Tre F Sam Kiner Trenton Anderson Samir El Aouar Trenton Vartabedian Schuyler Smith Troy Ellis Scot Boyd Tuomas Lempiäinen Scribal OSR Twen Sean Wiley Williams Uldeim Harthrow Sebastien Maurice Unlucky Olaf Sensei Walker Vasiliy S. Shai Victarion Shawn Applegate Victor Serrano Shawn Ho Vidya and Johnny’s das Shinya Hanataka Viktor Gorchev Shuffling Wombat Vincent “Blackpaladin” Arebalo Simon J. Hogwood Vlarnok Simon Plain Volker Lahme Simon Stroud vonpenguin Sir Hieronymus Vorth Tarvastus Solidwaste Waddigity Stacie Winters Weniaciel Stephan Szabo Wesley R. Steve Arensberg William Armes Steve Dodge William Stearns Steve, the Great and Powerful William T Batten Steven Johnson Wolfgang Rittmeister Steven Locke Wyatt Kinkade Steven Setzer X Steven Wales Xentari Steven Warble Yehonatan Shabash Stewart Watson Yehor Blokhin Surfal of KoSH Yuri “Dies at the end” Lukach Szymon Góra Zach B Talon Slead Zak A. Tanner Yea TDK Ted Ludemann;RGS Hartley Terry R. Barnette Ribbz THE Donnie Ricardo Dorda Laforet The Pink Phantom Rich Harkrader The Skulk Rich Riddle Theaitetos Richard Gill TheJRKgm Rms Theodore Meyer Roads Of Shadow Thierry De Gagne Rob Muadib Thomas P. Kurilla Rob Necronomicon Tim Baker Robert S. Conley Timbo Roger Altman Timolution Roger VanLandingham Timothy Griffin Roman Kuzyk Timothy Westwind Ron Frazier Toby Toogood Ronald Morris Williams Tod Casasent Rook Bramblefoot Tony Burns Ross Hellwig Tony McCormick RuleOfThule Totti Ryan Heck Travis M. Erickson sailorgrenoble Tre F Sam Kiner Trenton Anderson Samir El Aouar Trenton Vartabedian Schuyler Smith Troy Ellis Scot Boyd Tuomas Lempiäinen Scribal OSR Twen Sean Wiley Williams Uldeim Harthrow Sebastien Maurice Unlucky Olaf Sensei Walker Vasiliy S. Shai Victarion Shawn Applegate Victor Serrano Shawn Ho Vidya and Johnny’s das Shinya Hanataka Viktor Gorchev Shuffling Wombat Vincent “Blackpaladin” Arebalo Simon J. Hogwood Vlarnok Simon Plain Volker Lahme Simon Stroud vonpenguin Sir Hieronymus Vorth Tarvastus Solidwaste Waddigity Stacie Winters Weniaciel Stephan Szabo Wesley R. Steve Arensberg William Armes Steve Dodge William Stearns Steve, the Great and Powerful William T Batten Steven Johnson Wolfgang Rittmeister Steven Locke Wyatt Kinkade Steven Setzer X Steven Wales Xentari Steven Warble Yehonatan Shabash Stewart Watson Yehor Blokhin Surfal of KoSH Yuri “Dies at the end” Lukach Szymon Góra Zach B Talon Slead Zak A. Tanner Yea TDK Ted Ludemann;reviewed;new_translation;0;;44ca02ef74f45f25ea32365a7d4d73dcbf95de62064e7905b4b4b2742354929f;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=544
+rr.p0545.b001;E;545;543;heading;INDEXES;Указатели;reviewed;new_translation;0;;019e4e7203ec6950298d6de623e9536ced01db58abac312d3aa1ae9512bbf3b3;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=545
+rr.p0545.b002;E;545;543;heading;GENERAL INDEX;Общий указатель;reviewed;new_translation;0;"Буквы и последовательность записей относятся к английскому указателю и порядку подготовленного дампа. Русские названия не пересортированы по русскому алфавиту. Перемешанные колонки показаны отдельными читаемыми строками; специальные названия повторяют английское имя при каждом употреблении.";0ddc21cd1d78a19d2fd91f4c7e031683615a9f6be64e7945bbea068a0487a2eb;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=545
+rr.p0545.b003;E;545;543;heading;A;A;reviewed;new_translation;0;;559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=545
+rr.p0545.b004;E;545;543;paragraph;Access to Capital .......................................42 Acrobatics ..........................................86, 105 Adventuring ............................................105 After the Flesh ...........................................98 Alchemy .............................................74, 105 Alertness ............................................26, 105 Ambushing ........................................26, 105 Ancient Pacts ............................................98 Animal Husbandry .................................106 Animal Magnetism ...................................49 Animal Reflexes ..................................26, 48 Animal Training .....................................106 Antiquarian Witch ...................................77 Arcane Dabbling ...............................52, 106 Arcane Magic .............34, 72, 88, 90, 92, 97 Arcane Striking .........................................97 Armor Training ......................................107 Art/Craft ..................................................107 Attention to Detail ....................................80 Attunement to Nature ........................89, 90 Aura of Protection ....................................60;"Доступ к капиталу — 42
+Акробатика — 86, 105
+Авантюризм — 105
+За пределами плоти — 98
+Алхимия — 74, 105
+Внимательность — 26, 105
+Засада — 26, 105
+Древние договоры — 98
+Уход за животными — 106
+Животный магнетизм — 49
+Животные инстинкты — 26, 48
+Дрессировка — 106
+Ведьма старинной традиции — 77
+Основы магии — 52, 106
+Тайная магия — 34, 72, 88, 90, 92, 97
+Тайный удар — 97
+Тренировка в доспехах — 107
+Искусство/Ремесло — 107
+Внимание к деталям — 80
+Созвучие с природой — 89, 90
+Аура защиты — 60";reviewed;new_translation;0;"Номера в указателях — печатные страницы английского издания. В Markdown они ведут к соответствующей границе страницы полного общего перевода; соответствие печатных и физических страниц проверено по таблице pages базы. Номера не заменены страницами русского текста.";c9308a22838e267fd95e18fcfa69d0277d3c7336cc7c4ff7070f5c47674db375;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=545
+rr.p0545.b005;E;545;543;heading;B;B;reviewed;new_translation;0;;df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=545
+rr.p0545.b006;E;545;543;paragraph;Backstabbing ................................30, 45, 87 Bargaining ...............................................107 Battlefield Prowess ..............................24, 84 Battle Magic .............................................107 Beast Friendship .....................................107 Bedazzling Glamour .................................78 Beholding ................................................507 Berserk .....................................................507 Berserkergang .........................................108 Bewitched ................................................507 Black Lore of Zahar ................................108 Blessed / Inspired ....................................508 Blinded .....................................................508 Blind Fighting .........................................108 Blood of Ancient Kings ...........................93 Border Fort ................................................28 Brew Potions .............................................77 Bribery ...............................................40, 108 Bright Lore of Aura ................................108 Burning ....................................................508;"Удар в спину — 30, 45, 87
+Торг — 107
+Боевая доблесть — 24, 84
+Боевая магия — 107
+Дружба с животными — 107
+Ослепительные чары — 78
+Наблюдающий — 507
+Берсерк — 507
+Берсерк — 108
+Околдованный — 507
+Темные знания Захарийцев — 108
+Благословлённый / Воодушевлённый — 508
+Ослеплённый — 508
+Бой вслепую — 108
+Кровь древних царей — 93
+Пограничный форт — 28
+Варка зелий — 77
+Подкуп — 40, 108
+Светлые знания Ауры — 108
+Горящий — 508";reviewed;new_translation;0;;db5cb8df8ea8bb3de26315c4295747361ed66be0bac0605426a03001123a303d;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=545
+rr.p0545.b007;E;545;543;heading;C;C;reviewed;new_translation;0;;6b23c0d5f35d1b11f9b683f0b0a617355deb11277d91ae091d399c655b87940d;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=545
+rr.p0545.b008;E;545;543;paragraph;Castle ..........................................................24 Cat Burglary ............................................108 Caving ......................................................108 Charging ..................................................508 Chieftain’s Hall ..........................................49 Choking / Vomiting ...............................508 Chronicles of Battle ..................................53 Chthonic Witch ........................................78 Clambering ..............................................508 Climbing .....................................30, 87, 108 Cloister .......................................................65 Close Friend of Birds and Beasts ............79 Code of Behavior .38, 57, 66, 71, 79, 81, 93;"Замок — 24
+Кошачья грация — 108
+Исследователь подземелий — 108
+В натиске — 508
+Зал вождей — 49
+Удушение / Рвота — 508
+Хроники битв — 53
+Хтоническая ведьма — 78
+Карабкающийся — 508
+Лазание — 30, 87, 108
+Монастырь — 65
+Близкий друг птиц и зверей — 79
+Кодекс поведения — 38, 57, 66, 71, 79, 81, 93";reviewed;new_translation;0;;fb19d48ed8961a127c3bdb168ce73d6f8aea6a7dedb6a8e604763cfd59ebe24a;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=545
+rr.p0545.b009;E;545;543;paragraph;Collegiate Wizardry ............34, 90, 93, 108 Enlarged ...................................................509 Combat Ferocity .....................................108 Enslaved ...................................................510 Combat Reflexes .....................................108 Enthralled ................................................510 Combat Trickery .....................................109 Evasion .......................................................27 Command ................................................109 Evil Eye .......................................................78 Commune with Spirits .............................68 Expanded Repertoire ................73, 74, 110 Concentrating .........................................508 Experience and Hardiness .......................28 Concentrating and Stationary ...............508 Experimenting ........................................110 Conjure Dark Powers ...............................73 Expert Bargaining .....................................40 Conjure Hellion ........................................73 Expert Traveling .......................................41 Connection to Nature ........................89, 91 Consolation ...............................................64 **F** Contemplation ........................................109 Contortionism ........................................109 Faltering ...................................................510 Corrupting Weaknesses ...........................74 Familiar ....................................................111 Counterspelling ......................................109 Fastness ......................................................90 Cowering .................................................508 Fatigued ...................................................510 Crafting ......................................................80 Favor of the Empyrean Powers ...............93 Fighting Style Specialization .................111 **D** Flanked ....................................................510 Folkways ..................................................111 Dark Blessing ............................................97 Forgetful ...................................................510 Dark Charisma ..........................................97 Fortified Church .......................................38 Dark Fortress .............................................97 Fortress ......................................................61 Dark Path ...................................................73 Friend of Birds and Beasts .......................79 Dark Path II ...............................................73 Frightened ...............................................511 Dark Path III .............................................73 Dark Path IV .............................................73 **G** Dark Path V ...............................................73 Dark Path VI .............................................73 Gambling .................................................111 Dark Souls .................................................98 Goblin-Slaying ........................................111 Deafened ..................................................508 Grabbed ...................................................511 Death Healing ...........................................97 Graceful Fighting ......................................56 Decadent Arts ...........................................78 Great Hall ..................................................54 Deciphering .........................................33, 53 Grotesque Arts of Transformation .........74 Dehydrated ..............................................508 Guildhouse ................................................43 Demonology ..............................................73 Diplomacy ..................................40, 64, 109;"Школа магии — 34, 90, 93, 108
+Увеличенный — 509
+Боевая свирепость — 108
+Порабощённый — 510
+Боевые рефлексы — 108
+Одурманенный — 510
+Боевая хитрость — 109
+Избегание — 27
+Командование — 109
+Дурной глаз — 78
+Общение с духами — 68
+Расширенный репертуар — 73, 74, 110
+Концентрирующийся — 508
+Опыт и закалка — 28
+Неподвижно концентрирующийся — 508
+Экспериментаторство — 110
+Вызов тёмных сил — 73
+Торговый эксперт — 40
+Вызов беса — 73
+Эксперт путешествий — 41
+Связь с природой — 89, 91
+Утешение — 64
+**F**
+Созерцание — 109
+Гибкость — 109
+Нерешительный — 510
+Тлетворные слабости — 74
+Фамильяр — 111
+Рассеивание магии — 109
+Оплот — 90
+Трясущийся — 508
+Истощённый — 510
+Ремесло — 80
+Благоволение эмпирейских сил — 93
+Специализация на боевом стиле — 111
+**D**
+Фланкированный — 510
+Фольклор — 111
+Тёмное благословение — 97
+Забывчивый — 510
+Тёмная харизма — 97
+Укреплённая церковь — 38
+Тёмная крепость — 97
+Крепость — 61
+Тёмный путь — 73
+Друг птиц и зверей — 79
+Тёмный путь II — 73
+Устрашённый — 511
+Тёмный путь III — 73
+Тёмный путь IV — 73
+**G**
+Тёмный путь V — 73
+Тёмный путь VI — 73
+Азартные игры — 111
+Тёмные души — 98
+Убийца гоблинов — 111
+Глухой — 508
+Схваченный — 511
+Исцеление смертью — 97
+Грациозный бой — 56
+Искусства упадка — 78
+Большой зал — 54
+Дешифрирование — 33, 53
+Гротескные искусства превращения — 74
+Обезвоженный — 508
+Торговый дом — 43
+Демонология — 73
+Дипломатия — 40, 64, 109";reviewed;new_translation;0;;23e4a0495c8c0dc21a42528ba6fe7424bd1ef6264dea9a4fb2fa5851e3adccc8;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=545
+rr.p0545.b010;E;545;543;heading;H;H;reviewed;new_translation;0;;44bd7ae60f478fae1061e11a7739f4b94d1daf917982d33b6fc8a01a63f89c21;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=545
+rr.p0545.b011;E;545;543;paragraph;Disfavored ...............................................508 Disguise ....................................................109 Hardy ....................................................81, 84 Disordered ...............................................509 Healing .....................................................112 Divine Blessing .......................................109 Healing Arts ..............................................77 Divine Health ....................................93, 109 Helpless ....................................................511 Divine Magic ....................36, 56, 64, 69, 93 Hidden .....................................................511 Dominated ...............................................509 Hideous Servant .......................................74 Driving .....................................................109 Hideout .........................................33, 46, 89 Drowning .................................................509 Hiding ...........................................31, 45, 87 Dungeonbashing Expertise ...................109 Holy Fervor ...............................................61 Dwarf Tongues ....................................81, 84 Hungry .....................................................511 Dwarven Brewing ...................................110 Hypothermic ...........................................511;"Неугодный — 508
+Маскировка — 109
+Крепость — 81, 84
+В беспорядке — 509
+Целительство — 112
+Божественное благословение — 109
+Искусство исцеления — 77
+Божественное здоровье — 93, 109
+Беспомощный — 511
+Божественная магия — 36, 56, 64, 69, 93
+Спрятанный — 511
+Задоминированный — 509
+Отвратительный слуга — 74
+Возничий — 109
+Укрытие — 33, 46, 89
+Утопающий — 509
+Прятание — 31, 45, 87
+Эксперт выбивания дверей — 109
+Священное рвение — 61
+Языки дварфов — 81, 84
+Голодный — 511
+Дварфийское пивоварение — 110
+Переохлаждённый — 511";reviewed;new_translation;0;;6fe1182961577177c9386a3e0fae11afaadaba2ab63e762d6de2fad2d2f2ed14;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=545
+rr.p0545.b012;E;545;543;heading;E I;E I;reviewed;new_translation;0;;cd5de1c4f80fb87d178ed31a0117188e582462f0db54dd37bce416628f4707bd;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=545
+rr.p0545.b013;E;545;543;paragraph;Eavesdropping ........................................110 Illusion Resistance ..................................112 Elementalism ...........................................110 Immune ...................................................511 Elf Tongues ..........................................89, 91 Incapacitated ...........................................511 Elven Bloodline .......................................110 Inexorable ..................................................99 Enchanted Forest ......................................79 Infuriated .................................................511 Endurance .........................................27, 110 Inspire Courage ........................................53 Enervated .................................................509 Inspire Hope ..............................................54 Engaged ....................................................509 Intimidation ............................................112 Engineering .............................................110;"Чутье — 110
+Устойчивость к иллюзиям — 112
+Элементализм — 110
+Неуязвимый — 511
+Языки эльфов — 89, 91
+Недееспособный — 511
+Эльфийская кровь — 110
+Неумолимость — 99
+Зачарованный лес — 79
+Разъярённый — 511
+Стойкость — 27, 110
+Внушение отваги — 53
+Обессиленный — 509
+Внушение надежды — 54
+Вплотную — 509
+Запугивание — 112
+Инженерное дело — 110";reviewed;new_translation;0;;a0aa167989320c1aaa804619914bb93f66ee86809ba4b05610e25e15ff8f31f4;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=545
+rr.p0546.b001;E;546;544;heading;J O;J O;reviewed;new_translation;0;;0e2cc573b816e70e1f94107f5b316ef440b1c83cc8e9a5f69a311c9b5aa9515a;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=546
+rr.p0546.b002;E;546;544;paragraph;Jack of All Trades ......................................53 Occultism ..................................................73 Jack of All Trades II ..................................53 Jack of All Trades III ................................53 **P** Jack of All Trades IV ................................54 Jack of All Trades V ..................................54 Paralyzed ..................................................512 Passing Without Trace ...........................116 **K** Pathfinding ..........................................27, 41 Performance ......................................53, 116 Kin-Slaying ..............................................112 Petrified ....................................................512 Knowledge ...............................................112 Pickpocketing ............................................32 Poisoning .................................................116 **L** Power of Sacrifice .....................................73 Precise Shooting .....................................116 Labor ........................................................113 Prestidigitation ........................................116 Land Surveying .......................................113 Preternatural Quickening ........................97 Language ..................................................113 Profession ................................................117 Laying on Hands .....................................113 Prone ........................................................512 Lay on Hands ...............................60, 65, 93 Prophecy ..................................................117 Leadership ...............................................113 Prospecting ..............................................117 Lip Reading .............................................113 Purity of the Body ....................................65 Listening ..............................................31, 53 Lockpicking ...............................................31 **Q** Lockpicking Expertise ...........................113 Longeval .....................................................93 Queasy ......................................................512 Lordship Over the Undead .....................74 Quiet Magic .......................................88, 117 Loremastery .......................................53, 113;"Мастер на все руки — 53
+Оккультизм — 73
+Мастер на все руки II — 53
+Мастер на все руки III — 53
+**P**
+Мастер на все руки IV — 54
+Мастер на все руки V — 54
+Парализованный — 512
+Проход без следа — 116
+**K**
+Поиск пути — 27, 41
+Выступление — 53, 116
+Убийца родичей — 112
+Окаменевший — 512
+Знания — 112
+Карманные кражи — 32
+Знание ядов — 116
+**L**
+Сила жертвоприношения — 73
+Точная стрельба — 116
+Труд — 113
+Фокусничество — 116
+Геодезия — 113
+Сверхъестественное ускорение — 97
+Язык — 113
+Профессия — 117
+Возложение рук — 113
+Опрокинутый — 512
+Возложение рук — 60, 65, 93
+Пророчество — 117
+Лидерство — 113
+Геолог — 117
+Чтение по губам — 113
+Чистота тела — 65
+Подслушивание — 31, 53
+Взлом — 31
+**Q**
+Мастерство взлома — 113
+Долголетие — 93
+Недомогание — 512
+Власть над нежитью — 74
+Тихая магия — 88, 117
+Мифография — 53, 113";reviewed;new_translation;0;;f3819248afbcaabc86528559bb3c1c2cb4ed07225d177e7309067e829312af9d;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=546
+rr.p0546.b003;E;546;544;heading;R M;R M;reviewed;new_translation;0;;e0ee741286f1a87cd9d40fdfb2b725255fcc840fe3724f8072285db77a03eaac;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=546
+rr.p0546.b004;E;546;544;paragraph;Rebuke Undead ...................................37, 80 Mad ..........................................................512 Reliquarianism ........................................117 Magical Engineering ..............................113 Resistant ...................................................513 Magical Music .........................................114 Restrained ................................................513 Magical Research, Major 34, 38, 57, 66, 71, Revelry .....................................................117 73, 77, 81, 90, 93, 98 Riding .......................................................117 Magical Research, Minor .....34, 38, 57, 65, Righteous Rebuke ...................................117 71, 73, 77, 81, 88, 90, 93, 97 Rumormongering .....................................41 Magical Research, Supreme 35, 38, 57, 66, Running ...................................................117 71, 73, 77, 93 Magic Mirror .............................................77 **S** Manual of Arms .............24, 60, 84, 97, 114 Mapping ...................................................114 Sanctified Body .........................................61 Martial Training ......................................114 Sanctum ........................................34, 73, 93 Mastery of Conj. & Summoning ..........115 Savage Resilience ......................................49 Mastery of Enchantments & Illusions .115 Scribe Scrolls .............................................77 Medicine Lodge ........................................71 Scrollreading .......................................33, 54 Mercantile Network .................................41 Seafaring ..................................................117 Mesmerized .............................................512 Searching ...................................................32 Military Strategy .....................................115 Second Sight ..............................................77 Mimicry ...................................................115 Secrets of Life and Death .........................74 Monopoly Power ......................................43 Secrets of the Dark Arts ...........................74 Mortuary Science .....................................74 Seduction .................................................117 Mountaineering ......................................115 Sensing Evil .......................................61, 118 Mounted Combat ...................................115 Sensing Good ..........................................118 Multilingual .........................................41, 53 Sensing Power .........................................118 Mute .........................................................512 Sensitivity to Rock and Stone ............81, 84 Mystic Aura .............................................115 Shadowy Senses ...........................32, 45, 87 Shaken ......................................................513 **N** Shapechanging ..........................................71 Shrunk ......................................................513 Natural Arts ...............................................79 Siege Engineering ...................................118 Naturalism ...............................................116 Signaling ..................................................119 Natural Proficiency ...................................49 Skinchange ................................................74 Natural Stealth ....................................27, 49 Skirmishing .............................................119 Navigation ...............................................116 Skulking ...................................................119 Necromancy ..............................................74 Slumbering ..............................................513 Sneaking ...............................32, 45, 88, 513;"Изгнание нежити — 37, 80
+Безумный — 512
+Реликварианизм — 117
+Магическая Инженерия — 113
+Устойчивый — 513
+Волшебное музицирование — 114
+Скованный — 513
+Великие магические исследования — 34, 38, 57, 66, 71, 73, 77, 81, 90, 93, 98
+Гуляка — 117
+Верховая езда — 117
+Малые магические исследования — 34, 38, 57, 65, 71, 73, 77, 81, 88, 90, 93, 97
+Праведное изгнание — 117
+Распускание слухов — 41
+Высшие магические исследования — 35, 38, 57, 66, 71, 73, 77, 93
+Бегун — 117
+Волшебное зеркало — 77
+**S**
+Военная подготовка — 24, 60, 84, 97, 114
+Картография — 114
+Освящённое тело — 61
+Боевая подготовка — 114
+Санктум — 34, 73, 93
+Мастерство колдовства и призыва — 115
+Дикая живучесть — 49
+Мастерство зачарования и иллюзий — 115
+Создание свитков — 77
+Капище — 71
+Чтение свитков — 33, 54
+Торговая сеть — 41
+Мореплавание — 117
+Загипнотизированный — 512
+Поиск — 32
+Военная стратегия — 115
+Второе зрение — 77
+Мимикрия — 115
+Тайны жизни и смерти — 74
+Монопольная власть — 43
+Тайны тёмных искусств — 74
+Наука о мёртвом теле — 74
+Соблазнение — 117
+Альпинизм — 115
+Чувство зла — 61, 118
+Бой верхом — 115
+Чувство добра — 118
+Полиглот — 41, 53
+Чувство силы — 118
+Немой — 512
+Чувствительность к камню — 81, 84
+Мистическая аура — 115
+Теневое чутьё — 32, 45, 87
+Трясущийся — 513
+**N**
+Оборотничество — 71
+Сжатый — 513
+Природные искусства — 79
+Осадное дело — 118
+Природоведение — 116
+Сигналы — 119
+Природные навыки — 49
+Смена шкуры — 74
+Природная скрытность — 27, 49
+Бей и беги — 119
+Навигация — 116
+Поиск укрытий — 119
+Некромантия — 74
+Дремлющий — 513
+Подкрадывание / Крадущийся — 32, 45, 88, 513";reviewed;new_translation;0;"На PDF 546 три ссылки Magical Research, Major/Minor/Supreme переносятся на следующие строки той же колонки. Дамп смешал эти продолжения с Revelry, Riding, Righteous Rebuke, Rumormongering, Running и Magic Mirror соседней колонки. По изображению восстановлены полные списки страниц Великих, Малых и Высших магических исследований; каждое исходное число сохранено. Английские единицы и хеши не менялись.";7e5a0f41cbcb2d2dd5a3b1985793c185cfac12f4d015347c13b0ff4d6d49517a;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=546
+rr.p0546.b005;E;546;544;paragraph;Sniping .....................................................119 Soothsaying .............................................119 Speak with Dead .......................................74 Spell Storing ..............................................98 Spiritual Ritual ..........................................71 Spiritwalking .............................................71 Starving ....................................................513 Steady Trade Route ......................41, 42, 43 Streetwise ..............................32, 45, 88, 119 Strength of Faith .......................................57 Stuck .........................................................514 Studious Divine Magic .......................76, 80 Subjacent ..................................................514 Subtle Beguilement ...................................78 Surprised ..................................................514 Survival ....................................................119 Swashbuckling ........................................119 Swimming ................................................119 Sylvan Witch .............................................79 Syncretism ...............................................119;"Подготовка снайпера — 119
+Гадание — 119
+Разговор с мёртвыми — 74
+Хранение заклинания — 98
+Духовный ритуал — 71
+Странствие духа — 71
+Оголодавший — 513
+Постоянный торговый маршрут — 41, 42, 43
+Знание улиц — 32, 45, 88, 119
+Сила веры — 57
+Застрявший — 514
+Учёная божественная магия — 76, 80
+Нижестоящий — 514
+Тонкое обольщение — 78
+Ошарашен — 514
+Выживание — 119
+Бравада — 119
+Плавание — 119
+Лесная ведьма — 79
+Синкретизм — 119";reviewed;new_translation;0;"Sneaking в общем указателе объединяет ссылки на навык «Подкрадывание» и состояние «Крадущийся»; в русском показаны оба имени. Одноимённые русские Cowering/Shaken и разные игровые значения других названий различаются исходными английскими подписями и номерами страниц.";0010a65368e3dc36182f8a4a449fb72aa8a3d4101d5094e853861538cfa7b27d;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=546
+rr.p0546.b006;E;546;544;heading;T;T;reviewed;new_translation;0;;e632b7095b0bf32c260fa4c539e9fd7b852d0de454e9be26f24d0d6f91d069d3;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=546
+rr.p0546.b007;E;546;544;paragraph;Temple ........................................................57 Theology ...................36, 57, 65, 73, 81, 119 Totem Animal ...........................................69 Tracking ...................................................120 Tradition ....................................................76 Traditional Medicine ................................77 Traditions ...................................................77 Transmogrification ...........................74, 120 Trapbreaking .............................................32 Trapfinding ..............................................121 Trapping ...................................................121 Treachery ...................................................41 Tribal Traditions .......................................69;"Храм — 57
+Теология — 36, 57, 65, 73, 81, 119
+Тотемное животное — 69
+Выслеживание — 120
+Традиция — 76
+Традиционная медицина — 77
+Традиции — 77
+Трансмогрификация — 74, 120
+Обезвреживание ловушек — 32
+Поиск ловушек — 121
+Создание ловушек — 121
+Вероломство — 41
+Племенные традиции — 69";reviewed;new_translation;0;;a965f614bd987a249da5a2a64b05cf2b120b48a0bca15c1bc325801d977c71f2;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=546
+rr.p0546.b008;E;546;544;heading;U;U;reviewed;new_translation;0;;a25513c7e0f6eaa80a3337ee18081b9e2ed09e00af8531c8f7bb2542764027e7;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=546
+rr.p0546.b009;E;546;544;paragraph;Unarmed Fighting ..................................121 Unconscious ............................................514 Underfed ..................................................514 Unflappable Casting ...............................121;"Рукопашный бой — 121
+Бессознательный — 514
+Недокормленный — 514
+Непоколебимый заклинатель — 121";reviewed;new_translation;0;;76456fa2359aeec90f7b7ff5dae875d35d00da2654916dcba3213c92c99f2ec9;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=546
+rr.p0546.b010;E;546;544;heading;V;V;reviewed;new_translation;0;;de5a6f78116eca62d7fc5ce159d23ae6b889b365a1739ad2cf36f925a140d0cc;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=546
+rr.p0546.b011;E;546;544;paragraph;Vault .....................................................81, 84 Vermin-Slaying .......................................121 Vexed ........................................................514 Village Wisdom ........................................77 Vulnerable ...............................................514;"Убежище — 81, 84
+Убийца вредителей — 121
+Раздражённый — 514
+Деревенская мудрость — 77
+Уязвимый — 514";reviewed;new_translation;0;;616308624615385d7576fc9616c756b946f89a177945cea7fed139b1d6d56055;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=546
+rr.p0546.b012;E;546;544;heading;W;W;reviewed;new_translation;0;;fcb5f40df9be6bae66c1d77a6c15968866a9e6cbd7314ca432b019d17392f6f4;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=546
+rr.p0546.b013;E;546;544;paragraph;Wakefulness .............................................121 Weapon Finesse ................................57, 121 Weapon Focus ...................................97, 121 Webbed ....................................................514 Winded ....................................................515 Witch’s Cottage .........................................77 Words of Command and Obedience .....73 Wrestled ...................................................515;"Транс — 121
+Изящное владение оружием — 57, 121
+Любимое оружие — 97, 121
+Опутанный — 514
+Запыхавшийся — 515
+Ведьмина изба — 77
+Слова приказа и повиновения — 73
+Скрученный — 515";reviewed;new_translation;0;;84a7257086303e4e331471d21a1b9f2239b498b83742b4f4ace96dec9491ea19;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=546
+rr.p0546.b014;E;546;544;heading;Z;Z;reviewed;new_translation;0;;bbeebd879e1dff6918546dc0c179fdde505f2a21591c9a9c96e36b054ec5af83;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=546
+rr.p0546.b015;E;546;544;paragraph;Zaharan Tongues ......................................99;Языки захарийцев — 99;reviewed;new_translation;0;;79c832cd8b4b54df912ed7bb12c599a883ab11f24fb08cc66b396b918025d747;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=546
+rr.p0547.b001;E;547;545;heading;SPELL INDEX;Указатель заклинаний;reviewed;new_translation;0;;a2895d3d9df1ad8b353844a2fd181f9016fbebdc3588763cf5b0ed2aedd61e11;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=547
+rr.p0547.b002;E;547;545;paragraph;Adjust Self .................................................194 Allure .........................................................194 Angelic Aura ............................................194 Angelic Choir ...........................................194 Animate Undead .....................................194 Anti-Magic Sphere ..................................194 Arcane Armor ..........................................194 Arcane Shift ..............................................195 Arrows of the Sun ....................................195 Atonement ................................................195 Auditory Illusion .....................................195 Augury ......................................................195 Avian Messenger ......................................196 Bane-Rune ................................................196 Banner of Invincibility ............................196 Barrier of Blades ......................................196 Bath of the Goddess ................................197 Battering Ram ..........................................197 Beguile Humanoid ..................................197 Bewitch Beast ...........................................197 Bewitch Crowd ........................................197 Bewitch Humanoid .................................198 Bewitch Monster ......................................198 Blast Ward ................................................198 Blast Ward, Greater .................................198 Blinding Flash ..........................................198 Bloody Flux ..............................................198 Body Swap ................................................198 Boil Blood .................................................199 Burning Sparks ........................................199 Call of the Aerophract Steeds ................199 Call of the Ancient Tusk .........................199 Call of the Galloping Herd .....................200 Call of the Great Cats ..............................200 Call of the Regal Pride ............................201 Call of the Wild Bear ...............................201 Call of the Wolf ........................................201 Call of the Wolf Pack ...............................202 Capsizing Wave ........................................202 Carnage .....................................................202 Chameleon ...............................................203 Chimerical Figment ................................203 Choking Grip ...........................................203 Circle of Agony ........................................203 Circling Winds .........................................204 Clairaudiency ...........................................204 Clairaudiency, Greater ............................204 Clairvoyancy ............................................204 Clairvoyancy, Greater .............................205 Cloud of Poison .......................................205 Communion .............................................205 Cone of Fear .............................................205 Cone of Frost ............................................205 Cone of Paralysis .....................................205 Conflagration ...........................................205 Conjure Cacodemon Spawn ..................206 Conjure Dybbuk ......................................206 Conjure Fiend ..........................................206 Conjure Genie ..........................................206 Conjure Hellion .......................................206 Conjure Imp .............................................206 Conjure Incubus ......................................207;"Изменение себя — 194
+Очарование — 194
+Ангельская аура — 194
+Ангельский хор — 194
+Оживление нежити — 194
+Антимагическая сфера — 194
+Тайная броня — 194
+Тайное перемещение — 195
+Стрелы солнца — 195
+Искупление — 195
+Звуковая иллюзия — 195
+Предзнаменование — 195
+Крылатый посланник — 196
+Губительная руна — 196
+Знамя неуязвимости — 196
+Преграда клинков — 196
+Купель богини — 197
+Таран — 197
+Обольщение гуманоида — 197
+Околдовать зверя — 197
+Околдовать толпу — 197
+Околдовать гуманоида — 198
+Околдовать чудовище — 198
+Защита от взрыва — 198
+Великая защита от взрыва — 198
+Ослепительная вспышка — 198
+Кровавый понос — 198
+Обмен телами — 198
+Кипящая кровь — 199
+Обжигающие искры — 199
+Зов крылатых скакунов — 199
+Зов древнего бивня — 199
+Зов скачущего табуна — 200
+Зов больших кошек — 200
+Зов царственного прайда — 201
+Зов дикого медведя — 201
+Волчий зов — 201
+Зов волчьей стаи — 202
+Опрокидывающая волна — 202
+Резня — 202
+Хамелеон — 203
+Химерический образ — 203
+Удушающая хватка — 203
+Круг агонии — 203
+Кружащие ветры — 204
+Яснослышание — 204
+Великое яснослышание — 204
+Ясновидение — 204
+Великое ясновидение — 205
+Ядовитое облако — 205
+Общение с божеством — 205
+Конус страха — 205
+Конус мороза — 205
+Конус паралича — 205
+Великое пламя — 205
+Вызов отродья какодемона — 206
+Вызвать диббука — 206
+Вызов исчадия — 206
+Вызвать джинна — 206
+Вызов беса — 206
+Вызвать беса — 206
+Вызвать инкуба — 207";reviewed;new_translation;0;;c5aee2d8ad75991d49c2cff2b5ee33a6a98f5ac95de9225a2afa5cc00963d01d;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=547
+rr.p0547.b003;E;547;545;paragraph;Conjure Major Elemental .......................207 Fillet and Serve ........................................220 Conjure Petty Elemental .........................207 Fireball ......................................................220 Conjure Supreme Elemental ..................207 Firestorm ..................................................220 Contact Other Sphere .............................208 Flay the Slain ............................................220 Control Weather ......................................209 Flesh to Ash ..............................................220 Control Winds .........................................209 Flight .........................................................220 Counterspell .............................................210 Force of Impetus ......................................221 Crafting .....................................................210 Forest Enchantment ................................221 Create Chasm ...........................................210 Forgetfulness ............................................222 Create Food ..............................................210 Frighten Beast ..........................................222 Create Water .............................................210 Frighten Humanoid.................................222 Cure Blindness .........................................211 Frostbite ....................................................222 Cure Critical Injury .................................211 Gale of Wind ............................................222 Cure Disease .............................................211 Gaseous Form ..........................................222 Cure Light Injury .....................................211 Giant Strength ..........................................223 Cure Major Injury ...................................211 Growth ......................................................223 Cure Moderate Injury .............................211 Growth, Beast ...........................................224 Cure Serious Injury .................................211 Growth, Plant ...........................................224 Curse of the Swine ...................................211 Guise Other ..............................................224 Dark Whisper...........................................212 Guise Self ..................................................224 Deathless Minion ....................................212 Halt Humanoids ......................................224 Death Ward ..............................................212 Halt Monsters ...........................................225 Deflect Ordinary Missiles .......................212 Healing Circle ..........................................225 Deflect Ordinary Weapons .....................212 Hidden Host .............................................225 Delay Death ..............................................213 Holy Blessing ............................................225 Delay Disease ...........................................213 Holy Chant ...............................................225 Delay Poison .............................................213 Holy Circle................................................225 Desiccate ...................................................213 Holy Circle, Sustained .............................226 Destroy Dead ...........................................213 Holy Prayer ...............................................226 Discern Bewitchment .............................213 Home Ward ..............................................226 Discern Curse ..........................................214 Hypnotic Sigil...........................................226 Discern Evil ..............................................214 Ice Floe ......................................................226 Discern Gist ..............................................214 Ice Sheet ....................................................227 Discern Invisible ......................................214 Ice Storm ...................................................227 Discern Magic ..........................................214 Illumination .............................................227 Discern Poison .........................................214 Illumination, Perpetual ...........................228 Disfigure Body and Soul .........................214 Illusory Duplicates ..................................228 Disintegration ..........................................215 Illusory Figment ......................................228 Dismember ...............................................215 Illusory Interior .......................................228 Dispel Evil.................................................216 Illusory Terrain ........................................228 Dispel Magic ............................................216 Inaudibility ...............................................229 Divination .................................................216 Incite Madness .........................................229 Divine Armor ...........................................216 Indiscernibility .........................................229 Divine Grace ............................................216 Inferno ......................................................229 Divine Protection ....................................216 Infuriate Beast ..........................................229 Dominate Beasts ......................................217 Infuriate Crowd .......................................230 Dominate Humanoid ..............................217 Infuriate Humanoid ................................230 Dominate Monster ..................................217 Inspire Awe ...............................................230 Dominate Plants ......................................217 Invisibility .................................................230 Earth’s Excrescence ..................................217 Invulnerability to Evil .............................230 Earth’s Mire ..............................................218 Iron Maiden..............................................230 Earth’s Movement ....................................218 Kindle Flame ............................................231 Earth’s Teeth .............................................218 Lay of the Land ........................................231 Earth’s Tremor ..........................................218 Leaping ......................................................231 Earth’s Wave .............................................218 Level Water ...............................................231 Energy Invulnerability ............................218 Levitation ..................................................232 Energy Protection ....................................218 Life Transfer .............................................232 Enslave Humanoid ..................................219 Lightless Vision ........................................232 Faithful Companion ................................219 Lightless Vision, Mass .............................232 Fan of Flames ...........................................219 Lightning Strike .......................................233 Fate ............................................................219 Locate Animal or Plant ...........................233 Fiery Pillar ................................................220 Locate Distant Object .............................233;"Вызвать великого элементаля — 207
+Разделать и подать — 220
+Вызвать малого элементаля — 207
+Огненный шар — 220
+Вызвать верховного элементаля — 207
+Огненная буря — 220
+Связь с иной сферой — 208
+Освежевать убитого — 220
+Управление погодой — 209
+Плоть в пепел — 220
+Управление ветрами — 209
+Полёт — 220
+Контрзаклинание — 210
+Сила натиска — 221
+Ремесло — 210
+Лесное зачарование — 221
+Создание пропасти — 210
+Забвение — 222
+Создание пищи — 210
+Устрашение зверя — 222
+Создание воды — 210
+Устрашение гуманоида — 222
+Исцеление слепоты — 211
+Обморожение — 222
+Исцеление критической травмы — 211
+Порыв ветра — 222
+Исцеление болезни — 211
+Газообразная форма — 222
+Исцеление лёгкой травмы — 211
+Сила великана — 223
+Исцеление тяжёлой травмы — 211
+Рост — 223
+Исцеление умеренной травмы — 211
+Рост зверя — 224
+Исцеление серьёзной травмы — 211
+Рост растений — 224
+Проклятие свиньи — 211
+Личина другого — 224
+Тёмный шёпот — 212
+Собственная личина — 224
+Бессмертный слуга — 212
+Остановка гуманоидов — 224
+Защита от смерти — 212
+Остановка чудовищ — 225
+Отклонение обычных снарядов — 212
+Круг исцеления — 225
+Отклонение обычного оружия — 212
+Скрытое воинство — 225
+Отсрочка смерти — 213
+Святое благословение — 225
+Отсрочка болезни — 213
+Святое песнопение — 225
+Отсрочка яда — 213
+Святой круг — 225
+Иссушение — 213
+Продлённый священный круг — 226
+Уничтожение мертвецов — 213
+Святая молитва — 226
+Распознавание околдования — 213
+Защита дома — 226
+Распознавание проклятия — 214
+Гипнотический знак — 226
+Распознавание зла — 214
+Льдина — 226
+Распознавание смысла — 214
+Ледяной покров — 227
+Распознавание невидимого — 214
+Ледяная буря — 227
+Распознавание магии — 214
+Освещение — 227
+Распознавание яда — 214
+Неугасающее освещение — 228
+Увечье тела и души — 214
+Иллюзорные двойники — 228
+Дезинтеграция — 215
+Иллюзорный образ — 228
+Расчленение — 215
+Иллюзорный интерьер — 228
+Рассеивание зла — 216
+Иллюзорная местность — 228
+Рассеивание магии — 216
+Неслышимость — 229
+Прорицание — 216
+Навести безумие — 229
+Божественный доспех — 216
+Сокрытие от обнаружения — 229
+Божественная благодать — 216
+Адское пламя — 229
+Божественная защита — 216
+Ярость зверя — 229
+Подчинение зверей — 217
+Ярость толпы — 230
+Подчинение гуманоида — 217
+Ярость гуманоида — 230
+Подчинение чудовища — 217
+Внушение благоговения — 230
+Подчинение растений — 217
+Невидимость — 230
+Нарост земли — 217
+Неуязвимость ко злу — 230
+Земляная трясина — 218
+Железная дева — 230
+Движение земли — 218
+Разжигание пламени — 231
+Зубы земли — 218
+Обзор местности — 231
+Дрожь земли — 218
+Прыжок — 231
+Земляная волна — 218
+Изменение уровня воды — 231
+Неуязвимость к энергии — 218
+Левитация — 232
+Защита от энергии — 218
+Передача жизни — 232
+Порабощение гуманоида — 219
+Тёмное зрение — 232
+Верный спутник — 219
+Массовое тёмное зрение — 232
+Веер пламени — 219
+Удар молнии — 233
+Судьба — 219
+Поиск животного или растения — 233
+Огненный столп — 220
+Поиск далёкого предмета — 233";reviewed;new_translation;0;;b7ca0f39dd5f96af5807c496e0c8c92e84cc1c7b33897c251ca66d9fd82244fd;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=547
+rr.p0548.b001;E;548;546;paragraph;Locate Haunting ......................................233 Scry ............................................................243 Locate Object ...........................................233 Seal Portal .................................................243 Locate Place of Power .............................233 Selective Fire ............................................243 Locate Treasure ........................................234 Sharpness ..................................................243 Madness of Crowds .................................234 Shatter Blade ............................................243 Mage Missile.............................................234 Shimmer ...................................................243 Magic Carpet ............................................234 Shrieking Skull .........................................244 Magic Lock ...............................................235 Shrouding Fog ..........................................244 Mirage .......................................................235 Silent Step .................................................244 Necromantic Invulnerability ..................235 Skinchange ...............................................244 Necromantic Potence ..............................235 Slicing Blow ..............................................245 Neutralize Poison ....................................235 Slickness ....................................................245 Noiselessness ............................................235 Sling Stone ................................................245 Ogre Strength ...........................................236 Slumber .....................................................245 Panic ..........................................................236 Slumber, Deep ..........................................246 Passageway ...............................................236 Smite Undead ...........................................246 Pass Without Trace ..................................236 Snakes to Staffs .........................................246 Perpetual Figment ...................................236 Soul Eating ...............................................246 Petrification ..............................................236 Soul Swap ..................................................246 Phantasmal Figment ...............................237 Speak with Beasts ....................................247 Phantasmal Horror ..................................237 Speak with Dead ......................................247 Phoenix Aura ...........................................237 Speak with Plants .....................................247 Physical Invulnerability ..........................237 Spectral Figment ......................................248 Physical Protection ..................................237 Spectral Legion ........................................248 Predict Weather .......................................238 Spellward ..................................................248 Programmatic Figment ...........................238 Spellwarded Zone ....................................249 Prophetic Dream .....................................238 Spellward Other .......................................249 Protection from Temperature ................238 Sphere of Invulnerability, Greater .........249 Purify Food and Water ...........................239 Sphere of Invulnerability, Lesser ............249 Quest .........................................................239 Spider Climbing .......................................249 Rain of Vitriol ..........................................240 Spirit of Healing .......................................250 Remove Curse ..........................................240 Spiritual Weapon .....................................250 Remove Fear .............................................241 Spiritwalk ..................................................250 Repair Disfigurement and Disability ....241 Strengthen the Unliving .........................250 Restore Life and Limb .............................241 Strength of Mind .....................................250 Reveal Ritual Magic .................................241 Striking......................................................250 Righteous Wrath ......................................241 Sudden Staircase ......................................250 Rouse the Fallen .......................................241 Summon Hellhounds ..............................251 Rune of Warding ......................................242 Summon Insect Plague ...........................251 Safe Travels ...............................................242 Summon Insect Swarm ...........................251 Salvific Rain ..............................................242 Summon Invisible Stalker.......................251 Salving Rest ..............................................242 Summon Manes .......................................251 Sanctuary ..................................................242 Summon Ooze .........................................251 Scouring Zephyr ......................................242 Summon Shadow .....................................252;"Поиск призрачного присутствия — 233
+Наблюдение — 243
+Поиск предмета — 233
+Запечатывание прохода — 243
+Поиск места силы — 233
+Избирательный огонь — 243
+Поиск сокровищ — 234
+Острота — 243
+Безумие толп — 234
+Разрушение клинка — 243
+Магическая стрела — 234
+Мерцание — 243
+Ковёр-самолёт — 234
+Визжащий череп — 244
+Магический замок — 235
+Скрывающий туман — 244
+Мираж — 235
+Бесшумный шаг — 244
+Некромантическая неуязвимость — 235
+Смена шкуры — 244
+Некромантическое могущество — 235
+Рассекающий удар — 245
+Нейтрализация яда — 235
+Скользкость — 245
+Бесшумность — 235
+Камень пращи — 245
+Сила огра — 236
+Дремота — 245
+Паника — 236
+Глубокая дрёма — 246
+Проход — 236
+Поражение нежити — 246
+Проход без следа — 236
+Змеи в посохи — 246
+Неугасающий образ — 236
+Пожирание души — 246
+Окаменение — 236
+Обмен душами — 246
+Фантасмагорический образ — 237
+Разговор со зверями — 247
+Фантасмагорический ужас — 237
+Разговор с мёртвыми — 247
+Аура феникса — 237
+Разговор с растениями — 247
+Физическая неуязвимость — 237
+Призрачный образ — 248
+Физическая защита — 237
+Призрачный легион — 248
+Предсказание погоды — 238
+Защита от заклинаний — 248
+Запрограммированный образ — 238
+Область защиты от заклинаний — 249
+Вещий сон — 238
+Защита другого от заклинаний — 249
+Защита от температуры — 238
+Великая сфера неуязвимости — 249
+Очищение пищи и воды — 239
+Малая сфера неуязвимости — 249
+Обет — 239
+Паучье лазание — 249
+Купоросный дождь — 240
+Дух исцеления — 250
+Снятие проклятия — 240
+Духовное оружие — 250
+Снятие страха — 241
+Путешествие духа — 250
+Исцеление увечий и инвалидности — 241
+Укрепление нежити — 250
+Восстановление жизни и конечностей — 241
+Сила разума — 250
+Выявление ритуальной магии — 241
+Мощный удар — 250
+Праведный гнев — 241
+Внезапная лестница — 250
+Пробуждение павших — 241
+Призвать адских гончих — 251
+Защитная руна — 242
+Призвать нашествие насекомых — 251
+Безопасный путь — 242
+Призвать рой насекомых — 251
+Спасительный дождь — 242
+Призвать невидимого охотника — 251
+Целительный отдых — 242
+Призыв манов — 251
+Убежище — 242
+Призвать слизь — 251
+Бичующий зефир — 242
+Призыв тени — 252";reviewed;new_translation;0;;544e0812942d661f25c8a63c808ffb99b1ba7dadfea51a7e0ebdf1c49f8d6ae8;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=548
+rr.p0548.b002;E;548;546;heading;REVERSED SPELL;обратных заклинаний;reviewed;new_translation;0;"В PDF заголовок REVERSED SPELL INDEX един. В дампе он разделён между rr.p0548.b002 и rr.p0548.b005, а продолжение обычного указателя заклинаний rr.p0548.b004 попало между частями обратного. Только в отображении восстановлены цельный заголовок и последовательность этих трёх блоков; каждый ID, русский текст пакета и исходный английский сохранены.";df22c156ab3fcc753d7e7db59299497b5520dd23b7e142321b06d6645dca1c03;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=548
+rr.p0548.b003;E;548;546;paragraph;Bestow Curse ............................................240 Discern Good ...........................................214 Cause Blindness .......................................211 Dispel Good .............................................216 Cause Critical Injury ...............................211 Extinguish Life .........................................241 Cause Disease ...........................................211 Garble ........................................................254 Cause Disfigurement& Disability ..........241 Indiscernible Bewitchment ....................213 Cause Fear ................................................241 Indiscernible Curse .................................214 Cause Light Injury ...................................211 Inspire Horror ..........................................230 Cause Moderate Injury ...........................211 Invulnerability to Good ..........................230 Cause Serious Injury ...............................211 Poison ........................................................235 Depetrification .........................................236 Putrefy Food and Water .........................239;"Наложение проклятия — 240
+Различить добро — 214
+Вызвать слепоту — 211
+Развеивание добра — 216
+Причинение критической травмы — 211
+Погашение жизни — 241
+Вызвать болезнь — 211
+Бормотание — 254
+Причинение увечий и инвалидности — 241
+Нераспознаваемое околдование — 213
+Причинение страха — 241
+Неразличимое проклятие — 214
+Причинение лёгкой травмы — 211
+Внушение ужаса — 230
+Причинение умеренной травмы — 211
+Неуязвимость к добру — 230
+Причинение серьёзной травмы — 211
+Яд — 235
+Снятие окаменения — 236
+Порча пищи и воды — 239";reviewed;new_translation;0;"Краткие названия обратных заклинаний сверены с их описаниями в главе 5 и приведены к форме имени указателя. Там, где прежний перевод даёт лишь описательную фразу, форма имени остаётся рабочей. Английское название сохранено для однозначного поиска; новых утверждённых записей словаря не добавлено.";f97f1df0f51fc49349597ed3564d1b9a50f6d15c07a7d6c9380e3f015880ee7f;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=548
+rr.p0548.b004;E;548;546;paragraph;Summon Weather ....................................252 Summon Winged Herald .......................252 Sunder Structure ......................................252 Sunflare .....................................................252 Swift Sword ...............................................253 Swift Sword, Sustained ............................253 Swimming .................................................253 Sword of Fire ............................................253 Telekinesis ................................................253 Telepathy ...................................................253 Teleportation ............................................254 Thunderbolt..............................................254 Thunderclap .............................................254 Tongues .....................................................254 Torpor .......................................................255 Transform Beast .......................................255 Transform Other ......................................255 Transform Self ..........................................256 Trollblood .................................................256 True Seeing ...............................................256 Turn to Dust .............................................256 Unliving Puppet .......................................256 Vigor ..........................................................256 Vitriolic Infusion .....................................256 Wall of Annihilation ...............................257 Wall of Corpses ........................................257 Wall of Flame ...........................................257 Wall of Force ............................................257 Wall of Frost .............................................258 Wall of Smoke ..........................................258 Wall of Stone ............................................258 Wall of Thunder .......................................258 Wall of Wood ...........................................259 Warp Wood ..............................................259 Water Breathing .......................................259 Water Walking .........................................259 Weave Fire ................................................259 Weave Smoke ...........................................259 Weave Water .............................................260 Webbing ....................................................260 Winged Flight ..........................................261 Word of Command .................................261 X-Ray Vision ............................................261;"Призвать погоду — 252
+Призвать крылатого вестника — 252
+Сокрушение строения — 252
+Солнечная вспышка — 252
+Быстрый меч — 253
+Продлённый быстрый меч — 253
+Плавание — 253
+Огненный меч — 253
+Телекинез — 253
+Телепатия — 253
+Телепортация — 254
+Удар грома — 254
+Громовой хлопок — 254
+Языки — 254
+Оцепенение — 255
+Превращение зверя — 255
+Превращение другого — 255
+Превращение себя — 256
+Кровь тролля — 256
+Истинное зрение — 256
+Обращение в прах — 256
+Неживая марионетка — 256
+Бодрость — 256
+Купоросное насыщение — 256
+Стена уничтожения — 257
+Стена трупов — 257
+Стена пламени — 257
+Силовая стена — 257
+Стена мороза — 258
+Стена дыма — 258
+Каменная стена — 258
+Стена грома — 258
+Деревянная стена — 259
+Коробление дерева — 259
+Водное дыхание — 259
+Хождение по воде — 259
+Плетение огня — 259
+Плетение дыма — 259
+Плетение воды — 260
+Паутина — 260
+Крылатый полёт — 261
+Слово приказа — 261
+Рентгеновское зрение — 261";reviewed;new_translation;0;;9a66f93cd9fd92d8f9da414d4a4d91cdbd6dda011369ac933558caf244067973;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=548
+rr.p0548.b005;E;548;546;heading;INDEX;Указатель;reviewed;new_translation;0;;ea69fe17051b2d914f8a5fcf5cb9bb722d89ce5a345224e888ec76ea85c10af2;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=548
+rr.p0548.b006;E;548;546;paragraph;Quench Flame ..........................................231 Shrinking ..................................................223 Staffs to Snakes .........................................246 Tenebrosity ...............................................227 Tenebrosity, Perpetual .............................228 Unholy Blessing .......................................225 Unholy Circle ...........................................225 Unholy Circle, Sustained ........................226 Weakness of Mind ...................................250;"Гашение пламени — 231
+Уменьшение — 223
+Посохи в змей — 246
+Мрак — 227
+Неугасающий мрак — 228
+Нечестивое благословение — 225
+Нечестивый круг — 225
+Продлённый нечестивый круг — 226
+Слабость разума — 250";reviewed;new_translation;0;;8fe62432c044f8b8c2c80933a0a07f99e5ec964215c15bf60163d1b9145420b6;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=548
+rr.p0549.b001;E;549;547;heading;TABLE INDEX;Указатель таблиц;reviewed;new_translation;0;;9fcab1408767d3eb98d060db226c55f985a75df62db12ccf62a51b5f93a8933b;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=549
+rr.p0549.b002;E;549;547;paragraph;Animal Husbandry Proficiency Progression ................................106 Animal Training Proficiency Progression .....................................106 Army Movement Speeds .................................................................448 Army Organization and Size ...........................................................437 Art/Craft Proficiency Progression ..................................................107 Artillery and Siege Equipment Battle Ratings ..............................480 Artillery Bombardment Table .........................................................475 Assassin (Fighter) Attack and Saving Throws .................................45 Assassin Level Progression .................................................................44 Assault Encounter Distance Table ..................................................481 Assessment of Supply & Demand ..................................................373 Attack Throws by Level and HD ....................................................296 Attribute Adjustments by Age ...........................................................19 Barbarian Combat Proficiencies ........................................................48 Barbarian (Fighter) Attack and Saving Throws ...............................49 Barbarian Level Progression ..............................................................48 Bard (Fighter) Attack and Saving Throws ........................................53 Bard Level Progression .......................................................................52 Beastman Troops ..............................................................................441 Beastman Units .................................................................................444 Bladedancer (Crusader) Attack and Saving Throws .......................57 Bladedancer Level Progression ..........................................................56 Breakthrough Table ..........................................................................409 Cargo Consignments and Passengers ............................................379 Cargo Handling Time and Cost .....................................................377 Carriage Shipping Rate ....................................................................380 Change in Management ...................................................................369 Character Aging...................................................................................19 Character Speed and Encumbrance ..................................................18 Character Starting Age .......................................................................19 Common and Precious Merchandise ............................................374 Consonant Transit Frame Costs .....................................................399 Construction Creation Mishaps .....................................................413 Construction Design Mishaps ........................................................412 Consume Power Effects ...................................................................401 Contract of Carriage ........................................................................379 Control Weather Effects ..................................................................209 Cost of Bribes ....................................................................................287 Crime and Punishment ...................................................................367 Crossbreeding Mishaps ...................................................................414 Crusader Attack and Saving Throws .................................................37 Crusader Level Progression ...............................................................36 Crusader Rebuking Undead...............................................................37 Crusader Saving Throws ..................................................................304 Custom Materials .............................................................................176 Demi-Human Troops ......................................................................439 Demi-Human Units .........................................................................442 Destination, Route, and Departure Date .......................................379 Disabling Traps Method Table ........................................................267 Domain Morale .................................................................................348 Domain Morale Modifiers ...............................................................349 Domain Pillaging Requirements ....................................................458 Domain Revenue, Costs and Income ............................................342 Domain Worship ..............................................................................421 Door and Portal Armor Class and Structural Hit Points Table ..266 Duration of Siege ..............................................................................484 Dwarven Craftpriest Attack and Saving Throws .............................81 Dwarven Craftpriest Level Progression ............................................80 Dwarven Vaultguard Attack and Saving Throws ............................85 Dwarven Vaultguard Level Progression ...........................................84 Earshot by Sound and Environment ..............................................266 Effects of Current Morale ................................................................350;"Развитие навыка «Уход за животными» — 106
+Развитие навыка «Дрессировка» — 106
+Скорости перемещения армии — 448
+Организация и размер армии — 437
+Развитие навыка «Искусство/Ремесло» — 107
+Боевые рейтинги артиллерии и осадного снаряжения — 480
+Таблица артиллерийского обстрела — 475
+Броски атаки и спасброски ассасина (воина) — 45
+Прогрессия ассасина по уровням — 44
+Таблица дистанций встречи при штурме — 481
+Оценка спроса и предложения — 373
+Броски атаки по уровню и КЗ — 296
+Изменение атрибутов с возрастом — 19
+Боевые владения варвара — 48
+Броски атаки и спасброски варвара (воина) — 49
+Прогрессия варвара по уровням — 48
+Броски атаки и спасброски барда (воина) — 53
+Прогрессия барда по уровням — 52
+Войска зверолюдей — 441
+Подразделения зверолюдей — 444
+Броски атаки и спасброски девы клинков (крестоносца) — 57
+Прогрессия девы клинков по уровням — 56
+Таблица прорывов — 409
+Грузовые отправления и пассажиры — 379
+Время и стоимость обработки груза — 377
+Тариф перевозки — 380
+Смена руководства — 369
+Старение персонажа — 19
+Скорость персонажа и нагрузка — 18
+Начальный возраст персонажа — 19
+Обычные и драгоценные товары — 374
+Стоимость рам Созвучного перехода — 399
+Неудачные происшествия при создании конструктов — 413
+Неудачные происшествия при проектировании конструктов — 412
+Эффекты Поглощения силы — 401
+Договор перевозки — 379
+Эффекты управления погодой — 209
+Размер взятки — 287
+Преступление и наказание — 367
+Неудачные происшествия при скрещивании — 414
+Броски атаки и спасброски крестоносца — 37
+Прогрессия крестоносца по уровням — 36
+Изгнание нежити крестоносцем — 37
+Спасброски крестоносца — 304
+Нестандартные материалы — 176
+Войска полулюдей — 439
+Подразделения полулюдей — 442
+Пункт назначения, маршрут и дата отправления — 379
+Способы обезвреживания ловушек — 267
+Мораль Домена — 348
+Модификаторы морали Домена — 349
+Требования для разграбления Домена — 458
+Поступления, расходы и доход Домена — 342
+Поклонение в Домене — 421
+Класс брони и конструкционные ОЗ дверей и проёмов — 266
+Длительность осады — 484
+Броски атаки и спасброски дварфийского мастера-жреца — 81
+Прогрессия дварфийского мастера-жреца по уровням — 80
+Броски атаки и спасброски дварфийского стража убежищ — 85
+Прогрессия дварфийского стража убежищ по уровням — 84
+Слышимость в зависимости от звука и обстановки — 266
+Влияние текущей морали — 350";reviewed;new_translation;0;Названия таблиц согласованы с заголовками уже переведённых глав, с обычным регистром и грамматическим склонением. В английских подписях сохранены исходные сокращения и опечатки указателя, в том числе слитное (Mage)Attack. Указатель не меняет содержания таблиц и авторских номеров страниц.;a9303fc379dacfd9e9f75f2785419f9f8a460e55d6ac14a368dcc9d9f9dc80ce;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=549
+rr.p0549.b003;E;549;547;paragraph;Effects of Severe Weather ................................................................449 Elven Nightblade Attack and Saving Throws ...................................87 Elven Nightblade Level Progression .................................................86 Elven Nightblade Skill Progression ...................................................87 Elven Spellsword Attack and Saving Throws ...................................91 Elven Spellsword Level Progression ..................................................90 Emissary Table ..................................................................................402 Encounter Reaction Table ...............................................................286 Engagement by Smaller or Larger Creatures ................................292 Equipment Availability by Market Class .......................................124 Evasion Throw by Terrain Table .....................................................284 Explorer (Fighter) Attack and Saving Throws .................................27 Explorer Level Progression ................................................................26 Families Arriving with Followers ...................................................339 Fate Spell Answers ............................................................................219 Favor/Duty Table ..............................................................................346 Fighter Attack and Saving Throws ....................................................25 Fighter Level Progression ...................................................................24 Fighter Saving Throws .....................................................................304 Fighting Style Specializations .........................................................111 Followers by Class Table ..................................................................334 Followers Type and Equipment by Class .......................................336 Gods and Goddesses ........................................................................494 Healing Proficiency Progression ....................................................112 Hideout Size, Cost, and Level .........................................................360 Hijink Outcomes ..............................................................................361 Hireling (Henchmen) Availability by Market Class Table ..........164 Hireling (Mercenary) Availability by Market Class Table ...........164 Hireling (Specialist) Availability by Market Class Table .............165 Human Troops (Regular) ................................................................439 Human Troops (Veteran) ................................................................440 Human Units .....................................................................................443 Knowledge Proficiency Progression ..............................................112 Laying Low ........................................................................................362 Mage Attack and Saving Throws .......................................................35 Mage Level Progression ......................................................................34 Mage Saving Throws ........................................................................304 Magical Mutations Sub-Table .........................................................418 Magic Item Creation and Ritual Spell Casting Mishaps ..............415 Magic Item Creation Cost Requirements ......................................391 Market Characteristics .....................................................................370 Mercenary Officer Characteristics .................................................171 Minimum Stronghold Value ...........................................................338 Missile Weapon Ranges ...................................................................297 Monster Experience Points Table ...................................................310 Monster Morale Table ......................................................................307 Monthly Member Tribute ................................................................361 Monthly XP Threshold ....................................................................423 Morale Modifiers ..............................................................................468 Mortal Wounds – Acid / Electrical / Fire / Luminous .................518 Mortal Wounds – Arcane / Bludgeoning / Seismic .....................519 Mortal Wounds – Cold ....................................................................520 Mortal Wounds – Necrotic..............................................................521 Mortal Wounds – Piercing ..............................................................522 Mortal Wounds – Poisonous ...........................................................523 Mortal Wounds – Savage .................................................................524 Mortal Wounds – Slashing ..............................................................525 Mounted Attack Table ......................................................................308 Movement of Large Armies ............................................................448 Movement Speeds ................................................................................17 Mutual Awareness ............................................................................461 Mutual Unawareness ........................................................................461;"Влияние суровой погоды — 449
+Броски атаки и спасброски эльфийского ночного клинка — 87
+Прогрессия эльфийского ночного клинка по уровням — 86
+Развитие умений эльфийского ночного клинка — 87
+Броски атаки и спасброски эльфийского мечника-чародея — 91
+Прогрессия эльфийского мечника-чародея по уровням — 90
+Таблица посланников — 402
+Реакция при столкновении — 286
+Бой Вплотную с существами меньшего или большего размера — 292
+Доступность снаряжения по классу рынка — 124
+Бросок Избегания в зависимости от местности — 284
+Броски атаки и спасброски исследователя (воина) — 27
+Прогрессия исследователя по уровням — 26
+Семьи, прибывающие с последователями — 339
+Ответы заклинания «Судьба» — 219
+Таблица Милостей и Обязанностей — 346
+Броски атаки и спасброски воина — 25
+Прогрессия воина по уровням — 24
+Спасброски воина — 304
+Специализации на боевом стиле — 111
+Таблица последователей по классам — 334
+Тип и снаряжение последователей по классам — 336
+Боги и богини — 494
+Развитие навыка «Целительство» — 112
+Размер, стоимость и уровень укрытия — 360
+Результаты происков — 361
+Таблица доступности спутников (приспешников) по классу рынка — 164
+Таблица доступности спутников (наёмников) по классу рынка — 164
+Таблица доступности спутников (специалистов) по классу рынка — 165
+Человеческие войска (обычные) — 439
+Человеческие войска (ветераны) — 440
+Человеческие подразделения — 443
+Развитие навыка «Знания» — 112
+Залечь на дно — 362
+Броски атаки и спасброски мага — 35
+Прогрессия мага по уровням — 34
+Спасброски мага — 304
+Подтаблица магических мутаций — 418
+Неудачные происшествия при создании магических предметов и сотворении ритуальных заклинаний — 415
+Затраты на создание магических предметов — 391
+Характеристики рынка — 370
+Характеристики офицеров наёмников — 171
+Минимальная стоимость крепости — 338
+Дистанции дальнобойного оружия — 297
+Очки Опыта за монстров — 310
+Боевой дух монстров — 307
+Ежемесячная дань членов синдиката — 361
+Месячный порог Опыта — 423
+Модификаторы боевого духа — 468
+Смертельные раны — кислота / электричество / огонь / излучения — 518
+Смертельные раны — мистический / дробящий / сейсмический урон — 519
+Смертельные раны — холод — 520
+Смертельные раны — некротический урон — 521
+Смертельные раны — колющий урон — 522
+Смертельные раны — яд — 523
+Смертельные раны — зверские — 524
+Смертельные раны — рубящий урон — 525
+Атаки верхом — 308
+Перемещение больших армий — 448
+Скорости передвижения — 17
+Взаимная осведомлённость — 461
+Взаимная неосведомлённость — 461";reviewed;new_translation;0;;ba222f6eaffcd820119a80c8dfe594f93e4442ae7190b9c7317399a6d37f89b4;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=549
+rr.p0550.b001;E;550;548;paragraph;Necromancy Mishaps ......................................................................416 Nobiran Wonderworker Attack and Saving Throws .......................93 Nobiran Wonderworker Level Progression .....................................92 Opening Door Method Table .........................................................266 Paladin (Fighter) Attack and Saving Throws ...................................61 Paladin Level Progression ..................................................................60 Performance Proficiency Progression ............................................116 Personal Authority Table .................................................................348 Policy Objectives ..............................................................................357 Priestess (Crusader) Saving Throws ..................................................65 Priestess Level Progression.................................................................64 Priestess (Mage) Attack Throws ........................................................65 Prisoner Information .......................................................................456 Profession Proficiency Progression ................................................117 Proficiencies Gained per Level .......................................................102 Proficiency Bonuses To Jumping And Leaping ............................271 Random Merchandise ......................................................................380 Reaction to Negotiation ...................................................................376 Reconnaissance Modifiers ...............................................................453 Reconnaissance Range .....................................................................452 Reconnaissance Roll .........................................................................453 Requirements of Office ....................................................................357 Results of Breakthroughs .................................................................409 Results of Interrogation ...................................................................457 Results of Pillaging ...........................................................................458 Results of Reconnaissance Rolls .....................................................455 Retribution by Crime Table ............................................................368 Sacrifice Victim Multipliers ............................................................422 Sea Pursuit Time ...............................................................................323 Senate Voting ....................................................................................358 Senate Voting Roll Modifiers ..........................................................358 Shaman (Crusader) Attack and Saving Throws...............................69 Shaman Level Progression .................................................................68 Siege Duration Modifier ..................................................................484 Siege Tower Characteristics.............................................................158 Size & Weight .......................................................................................20 Spell Availability by Market ............................................................172 Spell Research and Ritual Spell Research Mishaps ......................417 Spell Signatures Sub-Table ..............................................................419;"Неудачные происшествия при некромантии — 416
+Броски атаки и спасброски нобирийского чудотворца — 93
+Прогрессия нобирийского чудотворца по уровням — 92
+Способы открывания дверей — 266
+Броски атаки и спасброски паладина (воина) — 61
+Прогрессия паладина по уровням — 60
+Развитие навыка «Выступление» — 116
+Таблица личного авторитета — 348
+Политические цели — 357
+Спасброски жрицы (крестоносца) — 65
+Прогрессия жрицы по уровням — 64
+Броски атаки жрицы (мага) — 65
+Сведения пленных — 456
+Развитие навыка «Профессия» — 117
+Навыки, получаемые по уровням — 102
+Бонусы навыков к прыжкам в длину и высоту — 271
+Случайные товары — 380
+Реакция на переговоры — 376
+Модификаторы разведки — 453
+Дальность разведки — 452
+Бросок разведки — 453
+Требования к должности — 357
+Результаты прорывов — 409
+Результаты допроса — 457
+Результаты разграбления — 458
+Результаты бросков разведки — 455
+Таблица возмездия по преступлениям — 368
+Множители жертвы — 422
+Время морского преследования — 323
+Голосование сената — 358
+Модификаторы броска голосования сената — 358
+Броски атаки и спасброски шамана (крестоносца) — 69
+Прогрессия шамана по уровням — 68
+Модификатор длительности осады — 484
+Характеристики осадной башни — 158
+Размер и вес — 20
+Доступность заклинаний по рынкам — 172
+Неудачные происшествия при исследовании заклинаний и ритуальных заклинаний — 417
+Подтаблица магического почерка — 419";reviewed;new_translation;0;;97e0fa6fde7a447ff3801b363b11fb173f22be64b01dd1ac3c45c1d6430168ad;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=550
+rr.p0550.b002;E;550;548;paragraph;Spells Versus Structures Table .........................................................476 Standard of Living ............................................................................123 Structure Complexity .......................................................................176 Supply Cost........................................................................................450 Surprise Matrix .................................................................................282 Surprise Table ....................................................................................282 Tampering with Mortality - Chaotic ..............................................528 Tampering with Mortality - Lawful ...............................................526 Tampering with Mortality - Neutral ..............................................527 Thief Attack and Saving Throws ........................................................31 Thief Level Progression .......................................................................30 Thief Saving Throws .........................................................................304 Thief Skills ............................................................................................31 Titles of Nobility ...............................................................................343 Totem Animals ....................................................................................69 Tribute by Realm Families ...............................................................344 Tribute by Title..................................................................................343 Unexpected Abilities ........................................................................420 Unilateral Awareness ........................................................................461 Unit Loyalty .......................................................................................430 Unit Morale .......................................................................................468 Vagaries of Investment .....................................................................384 Vehicle Attack Table .........................................................................309 Venturer Level Progression ................................................................40 Venturer (Thief) Attack and Saving Throws ....................................41 Vessel Sizes ........................................................................................323 Vessel Speeds .....................................................................................324 Villages, Towns, and Cities ..............................................................352 Wage and Construction Rates ........................................................174 Warlock Dark Paths ............................................................................72 Warlock Level Progression .................................................................72 Warlock (Mage) Attack and Saving Throws .....................................73 Wilderness Encounter Distance Table ...........................................281 Witch (Crusader) Saving Throws ......................................................77 Witch Level Progression .....................................................................76 Witch (Mage)Attack Throws ..............................................................77 Witch Traditions ..................................................................................77 Zaharan Ruinguard Attack and Saving Throws ..............................97 Zaharan Ruinguard Level Progression .............................................96;"Таблица заклинаний против сооружений — 476
+Уровень жизни — 123
+Сложность сооружений — 176
+Стоимость снабжения — 450
+Матрица внезапности — 282
+Таблица внезапности — 282
+Игра со смертью — хаотичное мировоззрение — 528
+Игра со смертью — порядочное мировоззрение — 526
+Игра со смертью — нейтральное мировоззрение — 527
+Броски атаки и спасброски вора — 31
+Прогрессия вора по уровням — 30
+Спасброски вора — 304
+Воровские умения — 31
+Дворянские титулы — 343
+Тотемные животные — 69
+Дань по числу семей во Владении — 344
+Дань по титулу — 343
+Неожиданные способности — 420
+Односторонняя осведомлённость — 461
+Верность подразделения — 430
+Боевой дух подразделения — 468
+Превратности инвестиций — 384
+Атаки на транспорте — 309
+Прогрессия торговца по уровням — 40
+Броски атаки и спасброски торговца (вора) — 41
+Размеры судов — 323
+Скорости судов — 324
+Деревни, городки и города — 352
+Ставки жалованья и темпы строительства — 174
+Тёмные пути колдуна — 72
+Прогрессия колдуна по уровням — 72
+Броски атаки и спасброски колдуна (мага) — 73
+Дистанция столкновения в диких землях — 281
+Спасброски ведьмы (крестоносца) — 77
+Прогрессия ведьмы по уровням — 76
+Броски атаки ведьмы (мага) — 77
+Традиции ведьм — 77
+Броски атаки и спасброски захарийского стража руин — 97
+Прогрессия захарийского стража руин по уровням — 96";reviewed;new_translation;0;;9a9d7fc2c3f52a293aeb176cf4105291e17f98c3b4ded245fd7bc25da8eb65d1;ACKSII/Source/ACKSII Revised Rulebook.pdf#page=550

@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-17",
+  "source_pages_inspected": [
+    545,
+    546,
+    547,
+    548,
+    549,
+    550
+  ],
+  "source_detail": "PDF 546: три перенесённых списка Magical Research; PDF 548: заголовок и порядок обычного/обратного указателей",
+  "rendered_images_inspected": [
+    "visual-top-539.png",
+    "visual-top-545.png",
+    "visual-research-546.png",
+    "visual-reversed-548.png",
+    "visual-end-550.png"
+  ],
+  "metrics": "visual_metrics.json",
+  "all_13_pages_measured": true,
+  "viewport_width": 1500,
+  "content_width": 1080,
+  "index_entries": 862,
+  "index_links": 975,
+  "result": "Ссылки, русские и английские имена читаются, строки переносятся; переполнения измеренных блоков нет. Проверены восстановленные списки и составной заголовок.",
+  "limitations": "Визуально прочитаны перечисленные фрагменты, а не все 862 записи на изображениях. Имена спонсоров защищены точным сравнением с дампом; побуквенная сверка всех имён с PDF не выполнялась. Печатная PDF-вёрстка перевода не создавалась.",
+  "reader_metrics": "reader_visual_metrics.json",
+  "reader_text_width": 1080,
+  "reader_images_inspected": [
+    "visual-reader-target-44.png",
+    "visual-reader-research.png",
+    "visual-reader-end.png"
+  ],
+  "all_reader_index_links_target_existing_anchors": true
+}

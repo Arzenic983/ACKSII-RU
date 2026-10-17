@@ -192,9 +192,9 @@
     "title_ru": "Предметный указатель",
     "first_pdf_page": 538,
     "last_pdf_page": 550,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 83,
-    "translated_units": 0,
-    "pending_units": 83
+    "translated_units": 83,
+    "pending_units": 0
   }
 ]

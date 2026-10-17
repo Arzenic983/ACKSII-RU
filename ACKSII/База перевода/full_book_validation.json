@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-18",
+  "book": "ACKS II Revised Rulebook",
+  "source_pdf_pages": [
+    1,
+    550
+  ],
+  "translated_units": 30624,
+  "source_units": 30624,
+  "pending_units": 0,
+  "chapters": 12,
+  "appendices": 5,
+  "complete_documents": 18,
+  "reader": "ACKSII\\Перевод Markdown\\ACKS II — Начало, главы 1–12 и приложения A–E.md",
+  "reader_pdf_pages": [
+    5,
+    550
+  ],
+  "reader_page_markers": 546,
+  "tables": 370,
+  "editorial_notes": 741,
+  "index_entries": 862,
+  "index_links": 975,
+  "checks": {
+    "all_database_units_translated": true,
+    "all_18_sections_reviewed_by_Codex": true,
+    "full_export_matches_database": true,
+    "all_source_ids_present_in_full_chapter_documents": true,
+    "all_chapters_and_appendices_in_book_order": true,
+    "all_index_targets_exist_in_reader": true,
+    "reader_previous_pages_5_537_unchanged": true,
+    "source_chapter_manifest_recorded": true
+  },
+  "source_chapter_manifest": {
+    "ACKSII\\Перевод Markdown\\00 Начало.md": {
+      "source_units_present": 1331,
+      "sha256": "0bbb591e5cf5ce708c9921c55ceb92d419a6c7afbd18b054f41ba39f4de84acb"
+    },
+    "ACKSII\\Перевод Markdown\\01 Персонажи.md": {
+      "source_units_present": 358,
+      "sha256": "4a73a75f7f9e2dc8264f4594ea921b8ccd8afe1d17cfaba5900bfbb98409f5af"
+    },
+    "ACKSII\\Перевод Markdown\\02 Классы.md": {
+      "source_units_present": 5963,
+      "sha256": "fafd8326ab6c197ac72d0a3d31cf402e68ad3777c772b2d0081e891912424832"
+    },
+    "ACKSII\\Перевод Markdown\\03 Навыки.md": {
+      "source_units_present": 704,
+      "sha256": "7a2753ebf9bab810396adeba2680b6bf549d8d15a92b04df505e24b6fcfd8bcd"
+    },
+    "ACKSII\\Перевод Markdown\\04 Снаряжение.md": {
+      "source_units_present": 4566,
+      "sha256": "ac5e64c0958ebd095a4eae54d185f55d204521baa53fbe5e950482df189c570d"
+    },
+    "ACKSII\\Перевод Markdown\\05 Заклинания.md": {
+      "source_units_present": 2861,
+      "sha256": "177d68a2aad7c6113f80f28af8804df923af8256844a52fd74772693a1747ebc"
+    },
+    "ACKSII\\Перевод Markdown\\06 Приключения.md": {
+      "source_units_present": 2144,
+      "sha256": "750715aad5cc94f2cf86680a98cb319c6fa5d16b7cf064b6d82e8c62638de828"
+    },
+    "ACKSII\\Перевод Markdown\\07 Плавания.md": {
+      "source_units_present": 964,
+      "sha256": "c49b92981ed75ace4689e4793c51aa07c60b35d58a7030f5f62f469557f732a4"
+    },
+    "ACKSII\\Перевод Markdown\\08 Кампании.md": {
+      "source_units_present": 4906,
+      "sha256": "18512431c8a44713931ca5f31301d53c91d7562c39a3b7e91af20ce09b162cd2"
+    },
+    "ACKSII\\Перевод Markdown\\09 Армии.md": {
+      "source_units_present": 3179,
+      "sha256": "ae16ade1ac221061206156b20cad52e6bfae1edef934afe598b9d358ddf5147e"
+    },
+    "ACKSII\\Перевод Markdown\\10 Манёвры.md": {
+      "source_units_present": 521,
+      "sha256": "30d1b2c4c4d906256c6e2ac290333300d0d2249f42b66a0b3489a9a220ec6c52"
+    },
+    "ACKSII\\Перевод Markdown\\11 Сражения.md": {
+      "source_units_present": 618,
+      "sha256": "4d1c6e6e789549009939da2ec025565ea599e4af9caffcecf7f98e1d8f853bd5"
+    },
+    "ACKSII\\Перевод Markdown\\12 Осады.md": {
+      "source_units_present": 809,
+      "sha256": "79790b0740b24cc79b83cd6217708571e00ea4e0f9b0e1844c474c2b84b64e5b"
+    },
+    "ACKSII\\Перевод Markdown\\A Сеттинг.md": {
+      "source_units_present": 344,
+      "sha256": "fe7345b8ecc4032748a45fb8b3ddda685e5220ea7fb36988c0f118446f9abf6a"
+    },
+    "ACKSII\\Перевод Markdown\\B Состояния.md": {
+      "source_units_present": 283,
+      "sha256": "65bc838a523a68f0d615bd4ce94f45b3ed16abbb495afbf97fd1435303f2d221"
+    },
+    "ACKSII\\Перевод Markdown\\C Раны и страдания.md": {
+      "source_units_present": 827,
+      "sha256": "7fccfedd4b4420e83b4d4e60033960c2e15ed4722a687d8d1cf8ebef9369fa1a"
+    },
+    "ACKSII\\Перевод Markdown\\D Материалы.md": {
+      "source_units_present": 163,
+      "sha256": "82022c779de3a94fb0a9c0e62c6e04dccba76abe61bf4cb170f822d2efbba8b5"
+    },
+    "ACKSII\\Перевод Markdown\\E Предметный указатель.md": {
+      "source_units_present": 83,
+      "sha256": "12ee6624d3d338e4d43896eb1ed70d39b2d0ce94ecac05306e534692b921ea54"
+    }
+  },
+  "reader_sha256": "410fb36b25231290dd7dbee5ec414f163deb3084d820f477408545a908b40043",
+  "limits": "Читательская копия по прежней схеме исключает обложки и издательские PDF 1–4; они сохранены в полном начале. Это проверка полноты и сборки, не новая смысловая вычитка прежних глав и не утверждение человеком."
+}
