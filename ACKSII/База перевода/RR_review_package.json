@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-18",
+  "archive": "ACKSII\\Для ревью\\ACKS II RR — перевод для ревью.zip",
+  "bytes": 7805015,
+  "sha256": "695de8614c46ff74d3e716489acfe79d4b6792cf45a469be9ef2701ec9ae697c",
+  "reader_sha256": "61bc5abce373ed119f9d2f3444fd72cab3412068fd91411e67a941a2e452d824",
+  "images": [
+    "assets/appendix-a-map.png",
+    "assets/appendix-a-siege.png",
+    "assets/ch07-p0320-points-of-sail.png"
+  ],
+  "archive_contents_checked": true
+}

@@ -5,32 +5,44 @@
     1,
     550
   ],
-  "translated_units": 30624,
   "source_units": 30624,
+  "translated_units": 30624,
   "pending_units": 0,
   "chapters": 12,
   "appendices": 5,
   "complete_documents": 18,
-  "reader": "ACKSII\\Перевод Markdown\\ACKS II — Начало, главы 1–12 и приложения A–E.md",
-  "reader_pdf_pages": [
+  "reader": "ACKSII\\Перевод Markdown\\ACKS II Revised Rulebook — версия для переводчиков.md",
+  "reader_pdf_ranges": [
+    [
+      5,
+      538
+    ],
+    [
+      545,
+      550
+    ]
+  ],
+  "reader_page_markers": 540,
+  "reader_source_units": 30547,
+  "excluded_publishing_source_units": 77,
+  "canonical_reader": "ACKSII\\Перевод Markdown\\ACKS II — Начало, главы 1–12 и приложения A–E.md",
+  "canonical_reader_pdf_pages": [
     5,
     550
   ],
-  "reader_page_markers": 546,
   "tables": 370,
-  "editorial_notes": 741,
+  "notes_total": 751,
+  "editorial_notes": 750,
+  "author_footnotes": 1,
   "index_entries": 862,
   "index_links": 975,
-  "checks": {
-    "all_database_units_translated": true,
-    "all_18_sections_reviewed_by_Codex": true,
-    "full_export_matches_database": true,
-    "all_source_ids_present_in_full_chapter_documents": true,
-    "all_chapters_and_appendices_in_book_order": true,
-    "all_index_targets_exist_in_reader": true,
-    "reader_previous_pages_5_537_unchanged": true,
-    "source_chapter_manifest_recorded": true
+  "legacy_comments": 112,
+  "legacy_comment_groups": 61,
+  "legacy_comment_states": {
+    "учтено": 101,
+    "вопрос сохранён": 11
   },
+  "tracked_change_elements": 26,
   "source_chapter_manifest": {
     "ACKSII\\Перевод Markdown\\00 Начало.md": {
       "source_units_present": 1331,
@@ -42,23 +54,23 @@
     },
     "ACKSII\\Перевод Markdown\\02 Классы.md": {
       "source_units_present": 5963,
-      "sha256": "fafd8326ab6c197ac72d0a3d31cf402e68ad3777c772b2d0081e891912424832"
+      "sha256": "614b641687cbde758dc7fe68d6c619b01592ca65e08931d77163687eca94556b"
     },
     "ACKSII\\Перевод Markdown\\03 Навыки.md": {
       "source_units_present": 704,
-      "sha256": "7a2753ebf9bab810396adeba2680b6bf549d8d15a92b04df505e24b6fcfd8bcd"
+      "sha256": "60dbd21653b872ea9272a10ec0353cb3ff8b06361484d29b56335007b062b072"
     },
     "ACKSII\\Перевод Markdown\\04 Снаряжение.md": {
       "source_units_present": 4566,
-      "sha256": "ac5e64c0958ebd095a4eae54d185f55d204521baa53fbe5e950482df189c570d"
+      "sha256": "98643e15e693c5f7c30afab22b1ea4696580920d744ea258412f3e50529c6ca9"
     },
     "ACKSII\\Перевод Markdown\\05 Заклинания.md": {
       "source_units_present": 2861,
-      "sha256": "177d68a2aad7c6113f80f28af8804df923af8256844a52fd74772693a1747ebc"
+      "sha256": "30a64df75dfca3a4018cf8c065aa8675c15fe174b09566cca750e643c35e0828"
     },
     "ACKSII\\Перевод Markdown\\06 Приключения.md": {
       "source_units_present": 2144,
-      "sha256": "750715aad5cc94f2cf86680a98cb319c6fa5d16b7cf064b6d82e8c62638de828"
+      "sha256": "8e6913eda2a88c2c2f7aa2e6bceb4a4a86e3f99959cbf2c0b84fc9704bdbc041"
     },
     "ACKSII\\Перевод Markdown\\07 Плавания.md": {
       "source_units_present": 964,
@@ -66,7 +78,7 @@
     },
     "ACKSII\\Перевод Markdown\\08 Кампании.md": {
       "source_units_present": 4906,
-      "sha256": "18512431c8a44713931ca5f31301d53c91d7562c39a3b7e91af20ce09b162cd2"
+      "sha256": "0303f4a5f83bc36f04922a123555f9d6fa0004705daeed76d591e2cafbc0571e"
     },
     "ACKSII\\Перевод Markdown\\09 Армии.md": {
       "source_units_present": 3179,
@@ -105,6 +117,205 @@
       "sha256": "12ee6624d3d338e4d43896eb1ed70d39b2d0ce94ecac05306e534692b921ea54"
     }
   },
-  "reader_sha256": "410fb36b25231290dd7dbee5ec414f163deb3084d820f477408545a908b40043",
-  "limits": "Читательская копия по прежней схеме исключает обложки и издательские PDF 1–4; они сохранены в полном начале. Это проверка полноты и сборки, не новая смысловая вычитка прежних глав и не утверждение человеком."
+  "reader_sha256": "61bc5abce373ed119f9d2f3444fd72cab3412068fd91411e67a941a2e452d824",
+  "canonical_reader_sha256": "18ddac14c8f5b49f392b05ee677bda1baf49ad3eb0806610725e3c71fc18d3c9",
+  "checks": {
+    "all_database_units_translated": true,
+    "database_verify": {
+      "integrity": "ok",
+      "foreign_key_errors": 0,
+      "history_errors": 0,
+      "search_errors": 0,
+      "english_hash_errors": 0,
+      "units": 30624,
+      "translations": 30624
+    },
+    "all_550_EN_checked_page_bodies_equal_database": true,
+    "all_source_ids_rendered_in_full_chapters": true,
+    "normalized_rendered_russian_equals_database": true,
+    "documented_sail_legend_addition": [
+      {
+        "id": "rr.p0320.b013",
+        "source_sha256": "c2e548eb371d54d5c91f71f15fc0e6e360a6f069165b8de962729238f0227da7",
+        "extra_visible_text": "Подписи схемы: ветер [Wind]; крутой бейдевинд [Close Hauled] ×1/3; галфвинд [Beam Reach] ×1/2; бакштаг [Broad Reach] ×2/3; фордевинд [Run] ×1; лавировка [Tacking] ×2/9. Угол между направлением против ветра и каждым курсом крутого бейдевинда [Close Hauled] — 30°.",
+        "reason": "Русская легенда исходного изображения схемы; все 5 множителей и угол сверены с изображением PDF 320. Текст базовой единицы сохранён полностью."
+      }
+    ],
+    "all_370_table_grids_preserved": true,
+    "all_current_csv_and_jsonl_exports_match_database": true,
+    "all_notes_preserved": true,
+    "visible_machine_markers": 0,
+    "reader_note_projections": {
+      "count": 34,
+      "mapping": "tools/rr_reader_notes.json",
+      "all_source_notes_matched_once": true,
+      "original_technical_notes_retained_in_full_chapters": true
+    },
+    "all_112_legacy_comments_accounted_for": true,
+    "all_26_tracked_elements_accounted_for": true,
+    "all_index_and_navigation_targets_exist": true,
+    "all_protected_sources_and_glossaries_unchanged": true,
+    "protected_files_checked": 63,
+    "only_ten_database_records_changed": true,
+    "unaffected_database_records": 30614,
+    "official_import_used": true,
+    "human_approval_assigned": false
+  },
+  "integration": {
+    "date": "2026-10-18",
+    "changed_units": [
+      "rr.p0058.b001",
+      "rr.p0108.b015",
+      "rr.p0109.b003",
+      "rr.p0112.b002",
+      "rr.p0171.b001",
+      "rr.p0182.b009",
+      "rr.p0336.t01.r017.c02",
+      "rr.p0205.b019",
+      "rr.p0296.b034",
+      "rr.p0107.b023"
+    ],
+    "text_corrections": [
+      "rr.p0205.b019",
+      "rr.p0296.b034"
+    ],
+    "unchanged_other_units": 30614,
+    "source_tables_unchanged": true,
+    "official_import_used": true,
+    "human_approval_assigned": false,
+    "followup_note": "rr.p0107.b023"
+  },
+  "omissions": [
+    {
+      "pdf_pages": [
+        1,
+        4
+      ],
+      "reason": "обложки, реклама, цена, выходные данные"
+    },
+    {
+      "pdf_pages": [
+        539,
+        544
+      ],
+      "reason": "памятный список спонсоров; примечания перенесены перед указателями"
+    }
+  ],
+  "visual_review": {
+    "date": "2026-10-18",
+    "source_pdf_pages_inspected": [
+      205,
+      296,
+      320,
+      480
+    ],
+    "reader_sample_pages": [
+      5,
+      205,
+      296,
+      320,
+      480,
+      520,
+      545,
+      550
+    ],
+    "details_inspected": [
+      "исправленные абзацы rr.p0205.b019 и rr.p0296.b034",
+      "легенда ветра PDF 320",
+      "четыре вложенные зоны схемы PDF 480",
+      "вся таблица PDF 520",
+      "начало оглавления и фрагменты указателей"
+    ],
+    "viewport": [
+      1500,
+      1800
+    ],
+    "text_width": 1080,
+    "metrics": [
+      {
+        "pdf_page": 5,
+        "scroll_width": 1500,
+        "viewport": 1500,
+        "unavailable_images": [],
+        "tables": [
+          {
+            "width": 1080,
+            "scroll_width": 1080
+          }
+        ],
+        "clipped_cells": 0
+      },
+      {
+        "pdf_page": 205,
+        "scroll_width": 1500,
+        "viewport": 1500,
+        "unavailable_images": [],
+        "tables": [],
+        "clipped_cells": 0
+      },
+      {
+        "pdf_page": 296,
+        "scroll_width": 1500,
+        "viewport": 1500,
+        "unavailable_images": [],
+        "tables": [],
+        "clipped_cells": 0
+      },
+      {
+        "pdf_page": 320,
+        "scroll_width": 1500,
+        "viewport": 1500,
+        "unavailable_images": [],
+        "tables": [
+          {
+            "width": 1080,
+            "scroll_width": 1080
+          }
+        ],
+        "clipped_cells": 0
+      },
+      {
+        "pdf_page": 480,
+        "scroll_width": 1500,
+        "viewport": 1500,
+        "unavailable_images": [],
+        "tables": [],
+        "clipped_cells": 0
+      },
+      {
+        "pdf_page": 520,
+        "scroll_width": 1500,
+        "viewport": 1500,
+        "unavailable_images": [],
+        "tables": [
+          {
+            "width": 1080,
+            "scroll_width": 1080
+          }
+        ],
+        "clipped_cells": 0
+      },
+      {
+        "pdf_page": 545,
+        "scroll_width": 1500,
+        "viewport": 1500,
+        "unavailable_images": [],
+        "tables": [],
+        "clipped_cells": 0
+      },
+      {
+        "pdf_page": 550,
+        "scroll_width": 1500,
+        "viewport": 1500,
+        "unavailable_images": [],
+        "tables": [],
+        "clipped_cells": 0
+      }
+    ],
+    "observations": "В просмотренных образцах не обнаружены обрезанные ячейки, горизонтальное переполнение или недоступные изображения. Английские подписи видны, исправленные абзацы читаются; схема сохраняет вложенность и подписи.",
+    "full_visual_review": false,
+    "full_new_semantic_review": false,
+    "limits": "Просмотр выборочный; снимки и измерения не означают чтения каждой строки всей книги. Таблица 520 просмотрена целиком для оценки размещения, без новой смысловой вычитки каждой ячейки."
+  },
+  "limits": "Полнота и сшивка проверены по всему подготовленному источнику. Это не новая сплошная смысловая или визуальная вычитка 550 страниц. Вопросы к оригиналу и рабочим названиям сохранены; они не объявлены решёнными человеком. Старые поэтапные отчёты описывают свои исторические состояния."
 }

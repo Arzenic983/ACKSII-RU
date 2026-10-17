@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-18",
+  "changed_units": [
+    "rr.p0058.b001",
+    "rr.p0108.b015",
+    "rr.p0109.b003",
+    "rr.p0112.b002",
+    "rr.p0171.b001",
+    "rr.p0182.b009",
+    "rr.p0336.t01.r017.c02",
+    "rr.p0205.b019",
+    "rr.p0296.b034",
+    "rr.p0107.b023"
+  ],
+  "text_corrections": [
+    "rr.p0205.b019",
+    "rr.p0296.b034"
+  ],
+  "unchanged_other_units": 30614,
+  "source_tables_unchanged": true,
+  "official_import_used": true,
+  "human_approval_assigned": false,
+  "followup_note": "rr.p0107.b023"
+}

@@ -15,6 +15,14 @@ desktop.ini
 *.sqlite-shm
 *.sqlite-journal
 
+# RR whole-book audit: regenerable local previews and inspection images
+.work/rr-completeness/*.png
+.work/rr-completeness/*.html
+.work/rr-completeness/*.log
+.work/rr-completeness/notes_differences.json
+.work/rr-completeness/render_differences.json
+.work/rr-completeness/visible_machine_text.json
+
 # Credentials and machine-specific settings
 .env
 .env.*
