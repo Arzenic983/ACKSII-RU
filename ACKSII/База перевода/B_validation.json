@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-17",
+  "chapter": "B",
+  "pdf_pages": [
+    508,
+    517
+  ],
+  "units": 283,
+  "table_count": 0,
+  "editor_notes": 20,
+  "checks": {
+    "all_rendered_russian_units_match_package": true,
+    "all_table_grids_and_spans_match_database": true,
+    "csv_jsonl_roundtrip": true,
+    "ids_source_hashes_and_original_revision_preserved": true,
+    "other_chapters_and_immutable_database_tables_unchanged": true,
+    "previous_chapters_and_reader_files_unchanged": true,
+    "editor_notes_previous_prefix_preserved": true,
+    "all_10_checked_dump_page_bodies_equal_database_source": true,
+    "numeric_dice_percent_signed_modifier_math_emphasis_and_break_invariants": true,
+    "no_user_approval_assigned": true,
+    "cowering_and_shaken_labels_distinguished": true,
+    "sneaking_skill_and_condition_distinguished": true,
+    "ordinary_damage_distinguished_from_mundane_damage": true,
+    "no_nested_square_bracket_labels": true
+  },
+  "checked_source_page_sha256": {
+    "508": "956f8c8da953367507c54b2d9f2f3b09a981d52560d7d5d48fcfe5b0273e0646",
+    "509": "fb17da67e1ab1c746e328e3a9146db15b564afe5b6a80fbc2976e106bc5a3808",
+    "510": "26e078b4b52cd9cf2b1d0c5b025adb30a8310c7915b630060d82299a27763ce9",
+    "511": "958f6f0218d82ccbddf47d00510c6d2b3b2c95c6d02c1319dc4cff95701b6368",
+    "512": "1b2daa12531dfe01589742b8561b8741545ba6198a04287474cc2b3a1bb1dbd8",
+    "513": "121f64b4c295bd08909b90c655f4553a93f17b582c55f11e1933ab3eb6b1f1bb",
+    "514": "abc3ea8101d0d3f6c81edc79614a4f494e29c898b199131d66d9dac7c68c2d4d",
+    "515": "fb9e94742103c82a8de0a8bc2bfff56bd5207fdae80caf8d7de6c590c7130de8",
+    "516": "156f89dc00e91801e902bae9c6bf73a45209f0285efb2c8b6b75be54c1c14f1d",
+    "517": "9a5faabeb11219b39ae7ee457d2a0bc6019cb36295679bf9dbb4078c3f7e261c"
+  },
+  "integrated": true,
+  "documented_source_display_fixes": {},
+  "visual_review": {
+    "date": "2026-10-17",
+    "source_pdf_pages_inspected": [
+      511,
+      516
+    ],
+    "russian_paragraph_images_inspected": [
+      "rr.p0510.b028",
+      "rr.p0510.b033",
+      "rr.p0511.b023",
+      "rr.p0515.b010",
+      "rr.p0515.b014",
+      "rr.p0515.b018",
+      "rr.p0516.b028",
+      "rr.p0516.b033",
+      "rr.p0516.b042",
+      "rr.p0516.b043",
+      "rr.p0517.b008"
+    ],
+    "all_10_samples_without_horizontal_overflow": true,
+    "full_russian_visual_review": false,
+    "limits": "Визуально просмотрены перечисленные 11 ключевых русских абзацев и две страницы оригинала. Вся проза 10 страниц визуально не проверялась; смысловая и техническая сверка охватывает все 283 единицы."
+  }
+}

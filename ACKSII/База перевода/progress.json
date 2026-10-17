@@ -159,10 +159,10 @@
     "title_ru": "Состояния",
     "first_pdf_page": 508,
     "last_pdf_page": 517,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 283,
-    "translated_units": 0,
-    "pending_units": 283
+    "translated_units": 283,
+    "pending_units": 0
   },
   {
     "id": "C",
