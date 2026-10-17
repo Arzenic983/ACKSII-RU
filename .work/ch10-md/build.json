@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-17",
+  "chapter": "10",
+  "scope": [
+    448,
+    461
+  ],
+  "first_id": "rr.p0448.b001",
+  "last_id": "rr.p0461.b018",
+  "units": 521,
+  "tables": {
+    "rr.p0450.t01": {
+      "rows": 14,
+      "columns": 3,
+      "source_cells": 42,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0450.t02": {
+      "rows": 5,
+      "columns": 3,
+      "source_cells": 15,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0451.t01": {
+      "rows": 12,
+      "columns": 2,
+      "source_cells": 21,
+      "empty_unrepresented_positions": 3
+    },
+    "rr.p0452.t01": {
+      "rows": 5,
+      "columns": 3,
+      "source_cells": 15,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0453.t01": {
+      "rows": 7,
+      "columns": 2,
+      "source_cells": 14,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0454.t01": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 12,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0454.t02": {
+      "rows": 5,
+      "columns": 2,
+      "source_cells": 10,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0455.t01": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 12,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0455.t02": {
+      "rows": 38,
+      "columns": 2,
+      "source_cells": 70,
+      "empty_unrepresented_positions": 6
+    },
+    "rr.p0457.t01": {
+      "rows": 6,
+      "columns": 4,
+      "source_cells": 21,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0458.t01": {
+      "rows": 9,
+      "columns": 4,
+      "source_cells": 36,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0459.t01": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 12,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0460.t01": {
+      "rows": 6,
+      "columns": 3,
+      "source_cells": 18,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0460.t02": {
+      "rows": 5,
+      "columns": 2,
+      "source_cells": 10,
+      "empty_unrepresented_positions": 0
+    }
+  },
+  "notes": 21,
+  "headings": 43,
+  "status": "reviewed_by_Codex",
+  "integrated": true
+}

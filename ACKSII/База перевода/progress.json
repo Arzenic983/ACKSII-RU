@@ -115,10 +115,10 @@
     "title_ru": "Манёвры",
     "first_pdf_page": 448,
     "last_pdf_page": 461,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 521,
-    "translated_units": 0,
-    "pending_units": 521
+    "translated_units": 521,
+    "pending_units": 0
   },
   {
     "id": "11",

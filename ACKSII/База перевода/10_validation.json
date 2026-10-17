@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-17",
+  "chapter": "10",
+  "pdf_pages": [
+    448,
+    461
+  ],
+  "units": 521,
+  "table_count": 14,
+  "editor_notes": 21,
+  "checks": {
+    "all_rendered_russian_units_match_package": true,
+    "all_table_grids_and_spans_match_database": true,
+    "csv_jsonl_roundtrip": true,
+    "ids_source_hashes_and_original_revision_preserved": true,
+    "other_chapters_and_immutable_database_tables_unchanged": true,
+    "previous_chapters_and_reader_files_unchanged": true,
+    "editor_notes_previous_prefix_preserved": true,
+    "all_14_checked_dump_page_bodies_equal_database_source": true,
+    "numeric_dice_percent_signed_modifier_math_emphasis_and_break_invariants": true,
+    "no_user_approval_assigned": true
+  },
+  "checked_source_page_sha256": {
+    "448": "53081137522043c41a39df6373af4306be3f46f32e2d9cb3e697fa9fc38e5b4e",
+    "449": "573996aab09269a706f26a113434ab61a8a725436e77492ae3c1c50fa705ee49",
+    "450": "17bffe5a3f3fd08d8025e5f85812ae8c09d214fd5582757af436f2d6ed190c3a",
+    "451": "95e1ebb2618f85f5e90cbe9fabe4a62619c5d0f03b87a2616d714f55062434b3",
+    "452": "e8216025a324f91fd159b34e9e9ce1155965e32cbea3012f43263e6cbf68af2e",
+    "453": "72b5134890b94725f1076ec1344f2f9323e1f0ae0c28e22a330c19b00c2b8351",
+    "454": "9ee1dcb50536255dd64e25aca9aa6b148af557db99574b6e612ce159a488825e",
+    "455": "2eab5c46595123ca9303680794a1cfcbe329103123f9fda109b1fb1a523bd0d8",
+    "456": "548360dc6a2cb7d19f9e480c0a153f2d01094b821d1d92cca643c45d5c9aa995",
+    "457": "7b5cd6ba18832e8ef56978696a9344702c3613eec727402f694b9e1b6486cbce",
+    "458": "18b15d5e1379b58c5d93b5c10982e6f74f4c9bcd980a35fb30aeb9d6997ca203",
+    "459": "1f7322285e600f68344029ba6279849be51f7a5dcb9d851b349c1445023d3689",
+    "460": "d866262e82a9f4396c41e4b6f5df0b4601a38c833c8ef3b9f0cde789bf3d79ab",
+    "461": "cc25c8f2ec6dfb506bb726d10094a1d3332a72a88f395ad2e8dba6a9c26a1194"
+  },
+  "integrated": true,
+  "visual_review": {
+    "date": "2026-10-17",
+    "source_pdf_pages_inspected": [
+      371,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461
+    ],
+    "primary_text_source": "ACKSII/Source/ACKSII Revised Rulebook (EN checked).md; every chapter page body matched against SQLite",
+    "russian_markdown_samples": [
+      450,
+      455,
+      457,
+      458,
+      461
+    ],
+    "full_table_images_inspected": [
+      "rr.p0455.t02",
+      "rr.p0457.t01",
+      "rr.p0458.t01"
+    ],
+    "browser": "Headless Microsoft Edge via Playwright",
+    "viewport": [
+      1500,
+      1800
+    ],
+    "scope": "Просмотрены исходные страницы таблиц/разночтений и выбранные русские области. Полностью просмотрены три наиболее плотные русские таблицы. Снимки областей страниц не покрывают всю длину каждого текста. Полная визуальная вычитка главы не заявляется.",
+    "observations": "Читаемая кириллица, английские строки заголовков ниже русских, переносы без наложений. В выбранных HTML-страницах и таблицах нет горизонтального переполнения. Заголовки групп в таблице модификаторов оформлены с меньшей английской строкой. Источник не изменялся.",
+    "full_russian_visual_review": false
+  }
+}

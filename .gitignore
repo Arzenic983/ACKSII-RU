@@ -119,3 +119,15 @@ contributions/05/Черновик главы 5.md
 !.work/ch09-md/parts/*/notes.json
 !.work/ch09-md/parts/*/term_map.json
 !.work/ch09-md/parts/*/review*.json
+
+# Chapter 10: disposable inspection and rendering artifacts
+.work/ch10-md/pdf*.png
+.work/ch10-md/contributor_draft.txt
+.work/ch10-md/metadata.json
+.work/ch10-md/pure.json
+.work/ch10-md/glossary_candidates.json
+.work/ch10-md/mechanics_differences.json
+.work/ch10-md/render_differences.json
+.work/ch10-md/preview*.html
+.work/ch10-md/visual-*.png
+.work/ch10-md/edge-preview/
