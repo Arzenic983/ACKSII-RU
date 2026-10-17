@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-17",
+  "source_pdf_pages_inspected": [
+    476,
+    477,
+    478,
+    480,
+    482,
+    486
+  ],
+  "russian_full_table_images_inspected": [
+    "rr.p0475.t01",
+    "rr.p0477.t01",
+    "rr.p0478.t01",
+    "rr.p0481.t01",
+    "rr.p0482.t01",
+    "rr.p0483.t01",
+    "rr.p0486.t01",
+    "rr.p0486.t02",
+    "rr.p0487.t01"
+  ],
+  "russian_page480_regions_inspected": [
+    "diagram",
+    "setup paragraph",
+    "apply casualties paragraph"
+  ],
+  "viewport": [
+    1500,
+    1800
+  ],
+  "browser": "Headless Microsoft Edge via Playwright",
+  "all_11_html_samples_without_horizontal_overflow": true,
+  "full_russian_visual_review": false,
+  "observations": "Таблицы читаемы, объединённые заголовки и все 15 столбцов длительности сохранены. Схема имеет четыре вложенных зоны и двуязычные подписи. Восстановленные абзацы подготовки и применения потерь читаются последовательно. Вложенных квадратных скобок в тегах урона нет.",
+  "limits": "Технический разбор охватывает все единицы и таблицы; визуальный просмотр охватывает перечисленные изображения и фрагменты, а не всю прозу 14 страниц."
+}

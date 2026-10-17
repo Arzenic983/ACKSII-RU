@@ -1,0 +1,121 @@
+[
+  {
+    "pdf_page": 475,
+    "scroll_width": 1500,
+    "viewport": 1500,
+    "tables": [
+      {
+        "id": "rr.p0475.t01",
+        "width": 1080,
+        "scroll_width": 1080
+      }
+    ]
+  },
+  {
+    "pdf_page": 476,
+    "scroll_width": 1500,
+    "viewport": 1500,
+    "tables": []
+  },
+  {
+    "pdf_page": 477,
+    "scroll_width": 1500,
+    "viewport": 1500,
+    "tables": [
+      {
+        "id": "rr.p0477.t01",
+        "width": 1080,
+        "scroll_width": 1080
+      }
+    ]
+  },
+  {
+    "pdf_page": 478,
+    "scroll_width": 1500,
+    "viewport": 1500,
+    "tables": [
+      {
+        "id": "rr.p0478.t01",
+        "width": 1080,
+        "scroll_width": 1080
+      }
+    ]
+  },
+  {
+    "pdf_page": 479,
+    "scroll_width": 1500,
+    "viewport": 1500,
+    "tables": []
+  },
+  {
+    "pdf_page": 480,
+    "scroll_width": 1500,
+    "viewport": 1500,
+    "tables": []
+  },
+  {
+    "pdf_page": 481,
+    "scroll_width": 1500,
+    "viewport": 1500,
+    "tables": [
+      {
+        "id": "rr.p0481.t01",
+        "width": 1080,
+        "scroll_width": 1080
+      }
+    ]
+  },
+  {
+    "pdf_page": 482,
+    "scroll_width": 1500,
+    "viewport": 1500,
+    "tables": [
+      {
+        "id": "rr.p0482.t01",
+        "width": 1080,
+        "scroll_width": 1080
+      }
+    ]
+  },
+  {
+    "pdf_page": 483,
+    "scroll_width": 1500,
+    "viewport": 1500,
+    "tables": [
+      {
+        "id": "rr.p0483.t01",
+        "width": 1080,
+        "scroll_width": 1080
+      }
+    ]
+  },
+  {
+    "pdf_page": 486,
+    "scroll_width": 1500,
+    "viewport": 1500,
+    "tables": [
+      {
+        "id": "rr.p0486.t01",
+        "width": 1080,
+        "scroll_width": 1080
+      },
+      {
+        "id": "rr.p0486.t02",
+        "width": 1080,
+        "scroll_width": 1080
+      }
+    ]
+  },
+  {
+    "pdf_page": 487,
+    "scroll_width": 1500,
+    "viewport": 1500,
+    "tables": [
+      {
+        "id": "rr.p0487.t01",
+        "width": 1080,
+        "scroll_width": 1080
+      }
+    ]
+  }
+]

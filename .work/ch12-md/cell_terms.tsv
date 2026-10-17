@@ -1,0 +1,136 @@
+ATTACK THROW MODIFIERS	МОДИФИКАТОРЫ БРОСКОВ АТАКИ
+MODIFIER	МОДИФИКАТОР
+TERRAIN TYPE	ТИП МЕСТНОСТИ
+Barrens (any)	Степь (любая)
+Desert (rocky)	Пустыня (каменистая)
+Desert (sandy)	Пустыня (песчаная)
+Grassland (steppe)	Поля (степные)
+Hills (forested)	Холмы (лесистые)
+Jungle (any)	Джунгли (любые)
+Mountains (forested)	Горы (лесистые)
+Scrubland (low, sparse)	Саванна (низкая редкая растительность)
+Scrubland (high, dense)	Саванна (высокая густая растительность)
+Swamp (marshy)	Болота (топкие)
+Swamp (scrubby)	Болота (с кустарником)
+EFFECT OF UNIT CAPACITY AND STRUCTURAL HIT POINTS	ВЛИЯНИЕ ВМЕСТИМОСТИ В ПОДРАЗДЕЛЕНИЯХ И КОНСТРУКЦИОННЫХ ОЧКОВ ЗДОРОВЬЯ
+Unit Capacity	Вместимость в подразделениях
+For each point, a stronghold can be assaulted and defended by 1 unit	На каждую единицу крепость может штурмовать и оборонять 1 подразделение
+Structural Hit Points	Конструкционные очки здоровья
+For each breach (1,000 shp of damage) 1 additional unit can assault the stronghold	На каждую брешь (1 000 КОЗ урона) крепость может штурмовать 1 дополнительное подразделение
+ARTILLERY TYPE	ТИП АРТИЛЛЕРИИ
+DAILY DAMAGE<br>V. WOOD	ЕЖЕДНЕВНЫЙ УРОН<br>ДЕРЕВУ
+DAILY DAMAGE<br>V. STONE	ЕЖЕДНЕВНЫЙ УРОН<br>КАМНЮ
+SHOTS FIRED<br>PER DAY	ВЫСТРЕЛОВ<br>В ДЕНЬ
+DAILY AMMO<br>COST	ЕЖЕДНЕВНАЯ СТОИМОСТЬ<br>БОЕПРИПАСОВ
+MAXIMUM<br>RANGE	МАКСИМАЛЬНАЯ<br>ДАЛЬНОСТЬ
+Light Ballista	Лёгкая баллиста
+Medium Ballista	Средняя баллиста
+Heavy Ballista	Тяжёлая баллиста
+Light Catapult	Лёгкая катапульта
+Medium Catapult	Средняя катапульта
+Heavy Catapult	Тяжёлая катапульта
+Light Trebuchet	Лёгкий требушет
+Medium Trebuchet	Средний требушет
+Heavy Trebuchet	Тяжёлый требушет
+SPELL (DAMAGE AND AOE)	ЗАКЛИНАНИЕ (УРОН И ОБЛАСТЬ ВОЗДЕЙСТВИЯ)
+SHP DAMAGE VS. STONE	УРОН КАМНЮ В КОЗ
+SHP DAMAGE VS. WOOD	УРОН ДЕРЕВУ В КОЗ
+*Battering Ram* (structural damage)	*Таран* (конструкционный урон)
+1d4 [extraordinary seismic] structural damage	1d4 [особого сейсмического] конструкционного урона
+1d4 × 5 [extraordinary seismic] structural damage	1d4 × 5 [особого сейсмического] конструкционного урона
+*Cone of Frost* (1d4/level in 60’ × 30’ cone)	*Конус мороза* (1d4/уровень в конусе 60 футов × 30 футов)
+[extraordinary cold] damage × 1/5	[особого урона холодом] × 1/5
+[extraordinary cold] damage × 1	[особого урона холодом] × 1
+*Conflagration* (2d6+2 in 60’ diameter)	*Великое пламя* (2d6+2 в диаметре 60 футов)
+[extraordinary fire] damage × 2	[особого огненного] урона × 2
+[extraordinary fire] damage × 10	[особого огненного] урона × 10
+*Disintegration* (annihilation in 10’ cube)	*Дезинтеграция* (уничтожение в кубе со стороной 10 футов)
+170 [extraordinary necrotic] structural damage	170 [особого некротического] конструкционного урона
+*Earth’s Excrescence* (3d6 in 15’ diameter)	*Нарост земли* (3d6 в диаметре 15 футов)
+[extraordinary seismic] damage × 1/10	[особого сейсмического] урона × 1/10
+[extraordinary seismic] damage × 1	[особого сейсмического] урона × 1
+*Earth’s Mire* (30,000 cubic feet)	*Земляная трясина* (30 000 кубических футов)
+400 [extraordinary seismic] structural damage	400 [особого сейсмического] конструкционного урона
+*Earth’s Movement* (30,000 cubic feet)	*Движение земли* (30 000 кубических футов)
+300 [extraordinary seismic] structural per round	300 [особого сейсмического] конструкционного урона за раунд
+*Earth’s Tremor* (1d6 in 100’ diameter)	*Дрожь земли* (1d6 в диаметре 100 футов)
+10 [extraordinary seismic] structural / round / 100sf	10 [особого сейсмического] конструкционного урона / раунд / 100 кв. футов
+1 [extraordinary seismic] structural / round / 100sf	1 [особого сейсмического] конструкционного урона / раунд / 100 кв. футов
+*Fan of Flames* (1d8 in 40’ × 20’ cone)	*Веер пламени* (1d8 в конусе 40 футов × 20 футов)
+[extraordinary fire] damage × 1/10	[особого огненного] урона × 1/10
+[extraordinary fire] damage × 1/3	[особого огненного] урона × 1/3
+*Fiery Pillar* (6d8 in 40’ × 20’ cylinder)	*Огненный столп* (6d8 в цилиндре 40 футов × 20 футов)
+[extraordinary luminous] [extraordinary fire] damage × 1/10	[особого излучения] [особого огненного] урона × 1/10
+[extraordinary luminous] [extraordinary fire] damage × 1/3	[особого излучения] [особого огненного] урона × 1/3
+*Fireball* (1d6/level in 20’ diameter)	*Огненный шар* (1d6/уровень в диаметре 20 футов)
+[extraordinary fire] damage × 1	[особого огненного] урона × 1
+*Firestorm* (1d6/level + 1d8/round in 20’ diameter)	*Огненная буря* (1d6/уровень + 1d8/раунд в диаметре 20 футов)
+*Ice Storm* (1d4/level in 20’ diameter)	*Ледяная буря* (1d4/уровень в диаметре 20 футов)
+[extraordinary cold] damage × 1/3	[особого урона холодом] × 1/3
+*Inferno* (1d10/round in 30’ diameter)	*Адское пламя* (1d10/раунд в диаметре 30 футов)
+[extraordinary fire] damage × 1 / round	[особого огненного] урона × 1 / раунд
+[extraordinary fire] damage × 3 / round	[особого огненного] урона × 3 / раунд
+*Lightning Strike* (1d6/level, max 8d6, in 20’ diameter)	*Удар молнии* (1d6/уровень, максимум 8d6, в диаметре 20 футов)
+[extraordinary electric] damage × 1/3	[особого урона электричеством] × 1/3
+[extraordinary electric] damage × 1	[особого урона электричеством] × 1
+*Scouring Zephyr* (7d4 in 60’ × 10’ cone)	*Бичующий зефир* (7d4 в конусе 60 футов × 10 футов)
+[extraordinary slashing] damage × 1/5	[особого рубящего] урона × 1/5
+[extraordinary slashing] damage × 1	[особого рубящего] урона × 1
+*Selective Fire* (3d6 in 60’ × 30’ cone)	*Избирательный огонь* (3d6 в конусе 60 футов × 30 футов)
+[extraordinary fire] damage × 1/5	[особого огненного] урона × 1/5
+*Sunder Structure* (structural damage)	*Сокрушение строения* (конструкционный урон)
+1,000 [extraordinary seismic] structural damage	1 000 [особого сейсмического] конструкционного урона
+5,000 [extraordinary seismic] structural damage	5 000 [особого сейсмического] конструкционного урона
+*Sunflare* (3d6 in 40’ × 20’ diameter column)	*Солнечная вспышка* (3d6 в столбе 40 футов × 20 футов в диаметре)
+[extraordinary luminous] [extraordinary fire] damage × 1	[особого излучения] [особого огненного] урона × 1
+*Thunderbolt* (1d6/level in 120’ line)	*Удар грома* (1d6/уровень на линии 120 футов)
+[extraordinary electric] damage × 1/5	[особого урона электричеством] × 1/5
+Attack by assaulting unit other than artillery, flyer,<br>missile unit, or unit assaulting through a breach	Атака штурмующего подразделения, кроме артиллерийского, летающего,<br>дальнобойного или штурмующего через брешь
+Attack by a defending unit	Атака обороняющегося подразделения
+TYPE OF EQUIPMENT	ТИП СНАРЯЖЕНИЯ
+UNIT<br>SIZE	ЧИСЛЕННОСТЬ<br>ПОДРАЗДЕЛЕНИЯ
+BR	БР
+NOTES	ПРИМЕЧАНИЯ
+ARTILLERY	АРТИЛЛЕРИЯ
+Light Repeating Ballista	Лёгкая многозарядная баллиста
+SIEGE EQUIPMENT	ОСАДНОЕ СНАРЯЖЕНИЕ
+Battering Ram (20’)	Таран (20 футов)
+Cauldron	Котёл
+Hoist	Подъёмник
+Movable Gallery	Передвижная галерея
+Movable Mantlet	Передвижной мантелет
+Ram Catcher	Ловец тарана
+Screw (20’)	Бур (20 футов)
+Siege Hook	Осадный крюк
+Siege Tower, Standard	Осадная башня, стандартная
+Siege Tower, Large	Осадная башня, большая
+Siege Tower, Huge	Осадная башня, огромная
+ARTILLERY ENCOUNTER DISTANCE	АРТИЛЛЕРИЙСКАЯ ДИСТАНЦИЯ ВСТРЕЧИ
+MISSILE ENCOUNTER DISTANCE	ДАЛЬНОБОЙНАЯ ДИСТАНЦИЯ ВСТРЕЧИ
+MELEE ENCOUNTER DISTANCE	РУКОПАШНАЯ ДИСТАНЦИЯ ВСТРЕЧИ
+Forest (open)	Лес (редкий)
+Forest (closed)	Лес (густой)
+Grassland (prairie)	Поля (прерии)
+Hills (rocky)	Холмы (скалистые)
+Mountains (rocky)	Горы (скалистые)
+STRONGHOLD’S<br/>STRUCTURAL HP	КОНСТРУКЦИОННЫЕ ОЧКИ ЗДОРОВЬЯ<br/>КРЕПОСТИ
+BESIEGING ARMY’S UNIT ADVANTAGE	ПРЕИМУЩЕСТВО ОСАЖДАЮЩЕЙ АРМИИ В ПОДРАЗДЕЛЕНИЯХ
+STRONGHOLD SITE	РАСПОЛОЖЕНИЕ КРЕПОСТИ
+DURATION<br>MODIFIER	МОДИФИКАТОР<br>ДЛИТЕЛЬНОСТИ
+Mountain (Sogdian Rock, the Acropolis)	Гора (Согдийская скала, Акрополь)
+Island (Tyre, Mont. St. Michel)	Остров (Тир, Мон-Сен-Мишель)
+Peninsula (Constantinople)	Полуостров (Константинополь)
+Riverbank (Rhine river castles)	Берег реки (прирейнские замки)
+ARTILLERY / SIEGE EQUIPMENT	АРТИЛЛЕРИЯ / ОСАДНОЕ СНАРЯЖЕНИЕ
+BONUS UNITS	ДОПОЛНИТЕЛЬНЫЕ ПОДРАЗДЕЛЕНИЯ
+Ballista, Light (10)	Баллиста, лёгкая (10)
+Ballista, Medium (5)	Баллиста, средняя (5)
+Ballista, Heavy	Баллиста, тяжёлая
+Battering Rams / Screws (6)	Тараны / буры (6)
+Catapult, Light	Катапульта, лёгкая
+Catapult, Medium	Катапульта, средняя
+Catapult, Heavy	Катапульта, тяжёлая
+Hoists (10)	Подъёмники (10)
+Trebuchet, Light	Требушет, лёгкий
+Trebuchet, Medium	Требушет, средний
+Trebuchet, Heavy	Требушет, тяжёлый

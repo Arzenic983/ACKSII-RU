@@ -141,3 +141,13 @@ contributions/05/Черновик главы 5.md
 .work/ch11-md/preview*.html
 .work/ch11-md/visual-*.png
 .work/ch11-md/RESUME.md
+
+# Chapter 12: local inspection data and regenerable samples
+.work/ch12-md/metadata.json
+.work/ch12-md/pure.json
+.work/ch12-md/english-*.txt
+.work/ch12-md/mechanics_differences.json
+.work/ch12-md/render_differences.json
+.work/ch12-md/pdf*.png
+.work/ch12-md/preview*.html
+.work/ch12-md/visual-*.png

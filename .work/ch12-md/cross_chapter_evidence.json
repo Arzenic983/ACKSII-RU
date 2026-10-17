@@ -1,0 +1,51 @@
+[
+  {
+    "id": "rr.p0151.b006",
+    "chapter_id": "04",
+    "kind": "paragraph",
+    "english": "Stone structures are even harder to damage. Man-sized creatures, large creatures, and light and medium ballistae cannot damage stone structures. Huge creatures, heavy ballista, and light and medium catapults deal 1/10 damage to stone structures. Gigantic creatures, heavy catapults, and light trebuchets deal 1/3 damage to stone structures. Colossal creatures and medium and heavy trebuchets deal full damage to stone structures. Spells deal 1/30 damage to stone structures, increased if the spell has an area of effect by a factor of (AOE square footage / 25). Spells that specifically deal structural damage deal full damage to stone structures.",
+    "russian": "Каменные сооружения повредить ещё труднее. Существа размером с человека и большие, а также лёгкие и средние баллисты не могут наносить им урон. Огромные существа, тяжёлая баллиста, лёгкие и средние катапульты наносят каменным сооружениям 1/10 урона. Гигантские существа, тяжёлые катапульты и лёгкие требушеты наносят им 1/3 урона. Колоссальные существа, средние и тяжёлые требушеты наносят каменным сооружениям полный урон. Заклинания наносят каменным сооружениям 1/30 урона; если у заклинания есть область действия, урон увеличивается на множитель (площадь области действия в квадратных футах / 25). Заклинания, специально наносящие конструкционный урон, наносят каменным сооружениям полный урон."
+  },
+  {
+    "id": "rr.p0151.b008",
+    "chapter_id": "04",
+    "kind": "paragraph",
+    "english": "**Unit Capacity:** The number of companies (120 troops each) that can defend a structure during a siege. Unit capacity does not reflect a structure’s available living space for long-term habitation.",
+    "russian": "**Вместимость в подразделениях:** число рот (по 120 воинов), способных оборонять сооружение при осаде. Не отражает доступной жилой площади для длительного проживания."
+  },
+  {
+    "id": "rr.p0151.b011",
+    "chapter_id": "04",
+    "kind": "paragraph",
+    "english": "**Keep:** A fortified tower within a stronghold that serves as the lord’s residence and final redoubt during siege. The standard keep is 80’ high and 60’ square, with 10’ thick stone walls. The interior features wooden doors and stairs between its 8 floors. For square keeps with variant dimensions, adjust price and shp proportionately. A round keep costs 50% more but has +2 AC. A standard keep can hold 6 units in a siege. During peacetime, it can house one company of 120 infantry. The Auran Empire rarely builds keeps but they are in wide use in Celdorea, Jutland, and Rorn.",
+    "russian": "**Донжон:** укреплённая башня внутри крепости, служащая резиденцией сеньора и последним оплотом при осаде. Стандартный донжон имеет высоту 80’, квадратное основание 60’ и каменные стены толщиной 10’. Внутри — деревянные двери и лестницы между 8 этажами. Для квадратных донжонов иных размеров изменяйте цену и КОЗ пропорционально. Круглый донжон стоит на 50% больше, но имеет +2 КБ. Стандартный донжон вмещает при осаде 6 подразделений. В мирное время в нём можно разместить одну роту из 120 пехотинцев. Ауранская империя редко строит донжоны, но они широко используются в Келдории, Ютланде и Рорне."
+  },
+  {
+    "id": "rr.p0178.b018",
+    "chapter_id": "04",
+    "kind": "paragraph",
+    "english": "A spellcaster can use *earth’s mire* to make the stone at a construction site easier to sculpt and mold until the mud hardens. For the duration of the spell (3d6 days), the workers can work stone as if it were earth, increasing their construction rate by 50%. (A stronghold constructed in this manner will look like it was built of mud or concrete rather than stone blocks.) This does not affect the worker’s wages.",
+    "russian": "*Земляная топь* позволяет заклинателю сделать камень на строительной площадке податливым для обработки и формования, пока грязь не затвердеет. На время заклинания (3d6 дней) работники обрабатывают камень как землю, увеличивая темп строительства на 50%. (Такая крепость выглядит слепленной из грязи или бетона, а не сложенной из каменных блоков.) Жалованье работников не меняется."
+  },
+  {
+    "id": "rr.p0179.t01.r003.c01",
+    "chapter_id": "04",
+    "kind": "table_cell",
+    "english": "*Earth’s mire*",
+    "russian": "*Земляная топь*"
+  },
+  {
+    "id": "rr.p0189.t01.r014.c03",
+    "chapter_id": "05",
+    "kind": "table_cell",
+    "english": "Earth’s Mire\\* elm(earth), trn",
+    "russian": "Земляная трясина\\* elm(earth), trn"
+  },
+  {
+    "id": "rr.p0220.b001",
+    "chapter_id": "05",
+    "kind": "paragraph",
+    "english": "***Earth’s Mire***",
+    "russian": "***Земляная трясина***"
+  }
+]
