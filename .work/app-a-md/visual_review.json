@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-17",
+  "source_pdf_pages_inspected": [
+    491,
+    506,
+    507
+  ],
+  "russian_tables_inspected": [
+    "rr.p0492.t01",
+    "rr.p0496.t01"
+  ],
+  "russian_language_trees_inspected": 2,
+  "nodes_per_tree": 58,
+  "russian_poem_pdf_page_inspected": 505,
+  "map_crop_orientation_and_labels_inspected": true,
+  "seven_samples_without_horizontal_overflow_or_broken_images": true,
+  "full_russian_visual_review": false,
+  "limits": "Визуально просмотрены карта, обе полные таблицы, оба языковых дерева и страница стихотворения; вся проза 20 страниц визуально не проверялась. Семантическая и техническая сверка охватывает все единицы."
+}

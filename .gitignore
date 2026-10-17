@@ -151,3 +151,15 @@ contributions/05/Черновик главы 5.md
 .work/ch12-md/pdf*.png
 .work/ch12-md/preview*.html
 .work/ch12-md/visual-*.png
+
+# Appendix A: local inspection data and regenerable samples
+.work/app-a-md/metadata.json
+.work/app-a-md/english.txt
+.work/app-a-md/pure.json
+.work/app-a-md/styled.json
+.work/app-a-md/language_nodes.json
+.work/app-a-md/mechanics_differences.json
+.work/app-a-md/render_differences.json
+.work/app-a-md/pdf*.png
+.work/app-a-md/preview*.html
+.work/app-a-md/visual-*.png

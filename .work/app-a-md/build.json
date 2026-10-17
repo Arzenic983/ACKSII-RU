@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-17",
+  "chapter": "A",
+  "scope": [
+    488,
+    507
+  ],
+  "first_id": "rr.p0488.b001",
+  "last_id": "rr.p0507.b005",
+  "units": 344,
+  "tables": {
+    "rr.p0492.t01": {
+      "rows": 19,
+      "columns": 2,
+      "source_cells": 38
+    },
+    "rr.p0496.t01": {
+      "rows": 19,
+      "columns": 5,
+      "source_cells": 95
+    }
+  },
+  "notes": 20,
+  "status": "reviewed_by_Codex",
+  "integrated": true
+}

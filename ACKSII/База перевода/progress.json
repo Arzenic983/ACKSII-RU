@@ -148,10 +148,10 @@
     "title_ru": "Сеттинг",
     "first_pdf_page": 488,
     "last_pdf_page": 507,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 344,
-    "translated_units": 0,
-    "pending_units": 344
+    "translated_units": 344,
+    "pending_units": 0
   },
   {
     "id": "B",
