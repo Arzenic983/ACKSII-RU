@@ -1,0 +1,56 @@
+[
+  {
+    "pdf_page": 532,
+    "width": 1500,
+    "viewport": 1500,
+    "tables": 0,
+    "cells": 0,
+    "empty_cells": 0,
+    "overflowing_cells": 0
+  },
+  {
+    "pdf_page": 533,
+    "width": 1500,
+    "viewport": 1500,
+    "tables": 4,
+    "cells": 58,
+    "empty_cells": 5,
+    "overflowing_cells": 0
+  },
+  {
+    "pdf_page": 534,
+    "width": 1500,
+    "viewport": 1500,
+    "tables": 1,
+    "cells": 42,
+    "empty_cells": 8,
+    "overflowing_cells": 0
+  },
+  {
+    "pdf_page": 535,
+    "width": 1500,
+    "viewport": 1500,
+    "tables": 0,
+    "cells": 0,
+    "empty_cells": 0,
+    "overflowing_cells": 0
+  },
+  {
+    "pdf_page": 536,
+    "width": 1500,
+    "viewport": 1500,
+    "tables": 0,
+    "cells": 0,
+    "empty_cells": 0,
+    "overflowing_cells": 0
+  },
+  {
+    "pdf_page": 537,
+    "width": 1500,
+    "viewport": 1500,
+    "tables": 1,
+    "cells": 9,
+    "empty_cells": 4,
+    "overflowing_cells": 0
+  }
+]

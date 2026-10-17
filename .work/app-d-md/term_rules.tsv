@@ -1,0 +1,111 @@
+Кост[а-яё]* Здоровья	Hit Die
+Очк[а-яё]* Здоровья	Hit Points
+классов[а-яё]+ навык[а-яё]*	Class Proficiencies
+общ[а-яё]+ навык[а-яё]*	General Proficiencies
+особенност[а-яё]* класса	Class Features
+Смертельн[а-яё]+ ран[а-яё]*	Mortal Wounds
+темп[а-яё]* исцеления	Healing Rate
+брос[а-яё]* атаки	Attack Throw
+бонус[а-яё]* инициативы	Init. Bonus
+бонус[а-яё]* ЛОВ	Dex Bonus
+стил[а-яё]* боя	Fighting Style
+магическ[а-яё]+ исследовани[а-яё]*	Magic Research
+магическ[а-яё]+ формул[а-яё]*	Magic Formulae
+стоимост[а-яё]* библиотеки	Library Value
+стоимост[а-яё]* мастерской	Workshop Value
+минимальн[а-яё]+ стоимост[а-яё]* крепости	Minimum Stronghold Value
+сооружени[а-яё]* крепости	Stronghold Structures
+дарованн[а-яё]+ милост[а-яё]*	Favors Granted
+требуем[а-яё]+ обязанност[а-яё]*	Duties Demanded
+окраинн[а-яё]+ земл[а-яё]*	Outlands
+пограничн[а-яё]+ земл[а-яё]*	Borderlands
+цивилизованн[а-яё]+ земл[а-яё]*	Civilized
+городск[а-яё]+ сем[а-яё]*	Urban Families
+крестьянск[а-яё]+ сем[а-яё]*	Peasant Families
+прирост[а-яё]* населения	Population Growth
+убыл[а-яё]* населения	Population Loss
+текущ[а-яё]+ морал[а-яё]*	Current Morale
+базов[а-яё]+ морал[а-яё]*	Base Morale
+личн[а-яё]+ авторитет[а-яё]*	Personal Authority
+эффект[а-яё]* морали	Morale Effects
+общ[а-яё]+ поступлени[а-яё]*	Total Revenue
+общ[а-яё]+ доход[а-яё]*	Total Income
+ценност[а-яё]* земли	Land Value
+уплаченн[а-яё]+ налог[а-яё]*	Tax Paid
+боев[а-яё]+ дух[а-яё]*	Morale
+от паралича	Paralysis
+от смерти	Death
+от разрушений	Blast
+от артефактов	Implements
+от заклинаний	Spells
+СИЛ	STR
+ИНТ	INT
+ЛОВ	DEX
+ВОЛ	WIL
+ТЕЛ	CON
+ХАР	CHA
+КБ	AC
+КОЗ	SHP
+ОЗ	HP
+ПМ	PP
+ЭМ	EP
+ЗМ	GP
+СМ	SP
+ММ	CP
+СТ	ST
+СКР	SPD
+НАГ	ENC
+атрибут[а-яё]*	Attribute
+мод\.	Mod.
+Опыт[а-яё]*	XP
+уров[а-яё]*	Level
+мировоззрени[а-яё]*	Alignment
+внезапност[а-яё]*	Surprise
+застать других врасплох	Surprise Others
+избежать внезапности	Avoid Surprise
+инициатив[а-яё]*	Initiative
+передвижени[а-яё]*	Movement
+доспех[а-яё]*	Armor
+щит[а-яё]*	Shield
+стоун[а-яё]*	Stone
+ход[а-яё]*	Turn
+раунд[а-яё]*	Round
+рассечени[а-яё]*	Cleave
+навык[а-яё]*	Proficiency
+лазани[а-яё]*	Climbing
+проламывани[а-яё]*	Dungeonbashing
+подслушивани[а-яё]*	Listening
+обезвреживани[а-яё]* ловушек	Trapbreaking
+заклинани[а-яё]*	Spells
+прихожан[а-яё]*	Congregants
+ритуал[а-яё]*	Rituals
+Домен[а-яё]*	Domain
+гекс[а-яё]*	Hex
+вложени[а-яё]*	Investments
+сеньор[а-яё]*	Lord
+поступлени[а-яё]*	Revenue
+расход[а-яё]*	Expenses
+гарнизон[а-яё]*	Garrison
+литурги[а-яё]*	Liturgies
+десятин[а-яё]*	Tithes
+содержани[а-яё]*	Upkeep
+дан[ьи][а-яё]*	Tribute
+морал[а-яё]*	Morale
+вассал[а-яё]*	Vassals
+спутник[а-яё]*	Hirelings
+приспешник[а-яё]*	Henchman
+последовател[а-яё]*	Follower
+верност[а-яё]*	Loyalty
+способност[а-яё]*	Powers
+снаряжени[а-яё]*	Equipment
+класс[а-яё]*	Class
+язык[а-яё]*	Languages
+урон[а-яё]*	Damage
+дальност[а-яё]*	Range
+вместимост[а-яё]*	Capacity
+стоимост[а-яё]*	Cost
+семь[а-яё]*|семей|семью|семьи	Family
+земл[а-яё]*	Land
+услуг[а-яё]*	Service
+налог[а-яё]*	Tax
+торговл[а-яё]*	Trade

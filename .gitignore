@@ -189,3 +189,15 @@ contributions/05/Черновик главы 5.md
 .work/app-c-md/source*.png
 .work/app-c-md/preview*.html
 .work/app-c-md/visual-*.png
+
+# Appendix D: disposable text inspection and rendered previews
+.work/app-d-md/metadata.json
+.work/app-d-md/english.txt
+.work/app-d-md/pure.json
+.work/app-d-md/styled.json
+.work/app-d-md/styled_notes.json
+.work/app-d-md/mechanics_differences.json
+.work/app-d-md/render_differences.json
+.work/app-d-md/source*.png
+.work/app-d-md/preview*.html
+.work/app-d-md/visual-*.png

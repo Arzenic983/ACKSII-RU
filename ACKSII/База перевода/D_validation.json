@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-17",
+  "chapter": "D",
+  "pdf_pages": [
+    532,
+    537
+  ],
+  "units": 163,
+  "table_count": 6,
+  "editor_notes": 12,
+  "checks": {
+    "all_rendered_russian_units_match_package": true,
+    "all_table_grids_and_spans_match_database": true,
+    "csv_jsonl_roundtrip": true,
+    "ids_source_hashes_and_original_revision_preserved": true,
+    "other_chapters_and_immutable_database_tables_unchanged": true,
+    "previous_chapters_and_reader_files_unchanged": true,
+    "editor_notes_previous_prefix_preserved": true,
+    "all_6_checked_dump_page_bodies_equal_database_source": true,
+    "numeric_dice_percent_signed_modifier_math_emphasis_and_break_invariants": true,
+    "no_user_approval_assigned": true,
+    "russian_placeholders_and_english_labels_not_nested": true,
+    "hit_points_distinguished_from_structural_hit_points": true,
+    "all_17_empty_table_positions_preserved": true,
+    "unit_labels_and_formulas_preserved": true
+  },
+  "checked_source_page_sha256": {
+    "532": "5993119efafeb8aa3d3cd71337c5be509b931a88bac57bb552521112349688d0",
+    "533": "db9b93d0b9436de0dfd2b9a8064a141ad00f564d5ff712aac033e8adf16e9e12",
+    "534": "097c3acbf7256e6dc9e397e39501fa16008d533ca08bced6da15c194e2efed8f",
+    "535": "4d71ae497b1cd21f0ebd1d22c88e1a7bb89e4f6c8d4590820601e3187d19a302",
+    "536": "b4ad5ad45b75d141f1ee2f85fb6844e02656bdae4f2409e11c4fa36d158a003c",
+    "537": "8c40ad75c7b6448e12d3f5dd7ebd91dfc00f0024ef59c0b7ca04ada5a49d3310"
+  },
+  "integrated": true,
+  "documented_source_display_fixes": {
+    "rr.p0533.b026": {
+      "original": "Version Date: 18th July 2024",
+      "numeric_source": "Version Date: 19th July 2024",
+      "reason": "Изображение PDF 533, нижний колонтитул: Version Date: 19th July 2024. Дамп и база содержат 18th; исправлен только русский текст."
+    }
+  },
+  "visual_review": {
+    "date": "2026-10-17",
+    "source_pages_inspected": [
+      533,
+      534,
+      535,
+      536,
+      537
+    ],
+    "source_detail_inspected": "PDF 533: увеличенный нижний колонтитул с датой 19th July 2024",
+    "rendered_pages_inspected": [
+      533,
+      534,
+      535,
+      536,
+      537
+    ],
+    "rendered_tables_inspected": [
+      "rr.p0533.t01",
+      "rr.p0533.t02",
+      "rr.p0533.t03",
+      "rr.p0533.t04",
+      "rr.p0534.t01",
+      "rr.p0537.t01"
+    ],
+    "metrics": "visual_metrics.json",
+    "viewport_width": 1500,
+    "content_width": 1080,
+    "result": "Все шесть таблиц прочитаны в рендеринге: 109 позиций, включая 17 пустых без ID, без горизонтального переполнения и обрезания. Подписи русских полей и отдельные английские подписи видны; формулы и единицы читаются.",
+    "limitations": "Это проверка текстового Markdown и его HTML-рендеринга. Графическая PDF-вёрстка листов, повторяющиеся пустые карточки и заполняемые PDF-поля не создавались.",
+    "reader_metrics": "reader_visual_metrics.json",
+    "reader_viewport_width": 1500,
+    "reader_text_width": 1080,
+    "reader_tables_checked": 6,
+    "reader_images_inspected": [
+      "visual-reader-table-3.png",
+      "visual-reader-table-5.png",
+      "visual-reader-table-6.png"
+    ],
+    "reader_tables_all_fit": true
+  }
+}

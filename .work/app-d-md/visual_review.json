@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-17",
+  "source_pages_inspected": [
+    533,
+    534,
+    535,
+    536,
+    537
+  ],
+  "source_detail_inspected": "PDF 533: увеличенный нижний колонтитул с датой 19th July 2024",
+  "rendered_pages_inspected": [
+    533,
+    534,
+    535,
+    536,
+    537
+  ],
+  "rendered_tables_inspected": [
+    "rr.p0533.t01",
+    "rr.p0533.t02",
+    "rr.p0533.t03",
+    "rr.p0533.t04",
+    "rr.p0534.t01",
+    "rr.p0537.t01"
+  ],
+  "metrics": "visual_metrics.json",
+  "viewport_width": 1500,
+  "content_width": 1080,
+  "result": "Все шесть таблиц прочитаны в рендеринге: 109 позиций, включая 17 пустых без ID, без горизонтального переполнения и обрезания. Подписи русских полей и отдельные английские подписи видны; формулы и единицы читаются.",
+  "limitations": "Это проверка текстового Markdown и его HTML-рендеринга. Графическая PDF-вёрстка листов, повторяющиеся пустые карточки и заполняемые PDF-поля не создавались.",
+  "reader_metrics": "reader_visual_metrics.json",
+  "reader_viewport_width": 1500,
+  "reader_text_width": 1080,
+  "reader_tables_checked": 6,
+  "reader_images_inspected": [
+    "visual-reader-table-3.png",
+    "visual-reader-table-5.png",
+    "visual-reader-table-6.png"
+  ],
+  "reader_tables_all_fit": true
+}

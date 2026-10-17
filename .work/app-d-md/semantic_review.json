@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-17",
+  "chapter": "D",
+  "pdf_pages": [
+    532,
+    537
+  ],
+  "units": 163,
+  "complete_semantic_review_by_Codex": true,
+  "human_approval": false,
+  "reviewer": "Codex",
+  "method": "Все 163 единицы сопоставлены с EN checked; вручную прочитаны 134 различных английских текста с русскими парами. Дополнительно просмотрены изображения исходных листов PDF 533–537. Проверены назначение полей, суммы и знаки формул, порядок атрибутов, категории спасбросков, скорость, нагрузка, единицы и пустые поля. Один Codex, без второго независимого редактора.",
+  "distinct_english_texts": 134,
+  "russian_units_sha256": "f4180f4bc3caa94f2ae6929f1cf564ba27dc2ae47ba7f79ec9f75c0cd22ab4ea",
+  "source_package_sha256": "bcc47d3548718c70edeba49da4ff7e54c20024d301beb5db964bd2e00fcc66c6",
+  "primary_source": "ACKSII/Source/ACKSII Revised Rulebook (EN checked).md",
+  "all_checked_pages_equal_database": true,
+  "crosschecks": [
+    "rr.p0125: PP/EP/GP/SP/CP — платиновые, электрумовые, золотые, серебряные и медные монеты",
+    "rr.p0344.b016: доход Домена и расчёт на семью независимого Владения",
+    "rr.p0347.b004–rr.p0347.b007: Lord — сеньор; duties — обязанности",
+    "glossary.json: Hireling — Спутник, Henchman — Приспешник; словарные категории спасбросков",
+    "PDF 533, нижний колонтитул: 19th July 2024 вместо 18th July 2024 в дампе"
+  ],
+  "source_display_exceptions": "source_display_fixes.json",
+  "editorial_notes": 12,
+  "limitations": [
+    "Переведена структурированная текстовая версия бланков, а не их графическая геометрия или заполняемый PDF.",
+    "Неоднозначная подпись Revenue per Family minus Expenses сохранена с примечанием.",
+    "Новые рабочие термины и сокращения человеком не утверждены."
+  ]
+}

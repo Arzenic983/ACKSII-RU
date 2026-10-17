@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-17",
+  "chapter": "D",
+  "scope": [
+    532,
+    537
+  ],
+  "first_id": "rr.p0532.b001",
+  "last_id": "rr.p0537.b011",
+  "units": 163,
+  "headings": 19,
+  "tables": {
+    "rr.p0533.t01": {
+      "rows": 7,
+      "columns": 2,
+      "source_cells": 14,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0533.t02": {
+      "rows": 4,
+      "columns": 2,
+      "source_cells": 8,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0533.t03": {
+      "rows": 4,
+      "columns": 6,
+      "source_cells": 24,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0533.t04": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 7,
+      "empty_unrepresented_positions": 5
+    },
+    "rr.p0534.t01": {
+      "rows": 14,
+      "columns": 3,
+      "source_cells": 34,
+      "empty_unrepresented_positions": 8
+    },
+    "rr.p0537.t01": {
+      "rows": 3,
+      "columns": 3,
+      "source_cells": 5,
+      "empty_unrepresented_positions": 4
+    }
+  },
+  "notes": 12,
+  "status": "reviewed_by_Codex",
+  "integrated": true
+}
