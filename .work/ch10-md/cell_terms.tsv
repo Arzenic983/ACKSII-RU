@@ -1,0 +1,178 @@
+EXPLORATION<br>SPEED	ИССЛЕДОВАТЕЛЬСКАЯ<br>СКОРОСТЬ
+DAILY EXPEDITION<br>SPEED	ДНЕВНАЯ ЭКСПЕДИЦИОННАЯ<br>СКОРОСТЬ
+WEEKLY EXPEDITION<br>SPEED	НЕДЕЛЬНАЯ ЭКСПЕДИЦИОННАЯ<br>СКОРОСТЬ
+*FEET PER TURN*	*ФУТЫ ЗА ХОД*
+*MILES / 6-MILE*<br>*HEXES*	*МИЛИ / 6-МИЛЬНЫЕ*<br>*ГЕКСЫ*
+*MILES / 24-MILE HEXES*	*МИЛИ / 24-МИЛЬНЫЕ ГЕКСЫ*
+ARMY SIZE	РАЗМЕР АРМИИ
+COLUMN LENGTH	ДЛИНА КОЛОННЫ
+SPEED<br>MULTIPLIER	МНОЖИТЕЛЬ<br>СКОРОСТИ
+Less than 16 brigades	Менее 16 бригад
+3 miles (1 hex)	3 мили (1 гекс)
+16 – 26 brigades	16–26 бригад
+6 miles (1 hexes)	6 миль (1 гекс)
+27 – 32 brigades	27–32 бригад
+9 miles (1.5 hexes)	9 миль (1,5 гекса)
+33 brigades or more	33 бригады или более
+12 miles (2 hexes)	12 миль (2 гекса)
+TEMPERATURE	ТЕМПЕРАТУРА
+Frigid	Мороз
+The army’s expedition speed is halved. Mounts cannot graze to avoid supply cost. The army suffers a 10% chance of a<br>disease vagary each week due to exposure. Troops without protective clothing suffer a morale calamity each week that<br>frigid temperatures endure.	Экспедиционная скорость армии уменьшается вдвое. Выпас ездовых животных не отменяет стоимость их снабжения. Вероятность превратности<br>болезни из-за воздействия погоды составляет 10% каждую неделю. Войска без защитной одежды переживают бедствие боевого духа каждую неделю,<br>пока держится мороз.
+Cold	Холод
+The army suffers a 5% chance of a disease vagary each week due to exposure.	Вероятность превратности болезни для армии из-за воздействия погоды составляет 5% каждую неделю.
+Moderate	Умеренная
+No effects	Нет эффектов
+Sweltering	Зной
+The army’s expedition speed is halved. Troops in heavy armor must strip down to medium or lighter armor. Supply<br>cost increased 25% due to more water consumption. Out of supply penalties are doubled due to heat exhaustion<br>and dehydration.	Экспедиционная скорость армии уменьшается вдвое. Войска в тяжёлых доспехах должны снять их до средних или более лёгких. Стоимость<br>снабжения возрастает на 25% из-за повышенного расхода воды. Штрафы за отсутствие снабжения удваиваются из-за теплового истощения<br>и обезвоживания.
+PRECIPITATION	ОСАДКИ
+Sunbaked	Солнцепёк
+Drizzly/Flurry	Морось / слабый снег
+Rainy/Snowy	Дождь / снегопад
+The army’s expedition speed is halved. Reconnaissance rolls suffer -2 penalty due to limited visibility. Missile units suffer<br>a -2 penalty to attack throws. The army suffers a 10% chance of a disease vagary each week due to wetness.	Экспедиционная скорость армии уменьшается вдвое. Броски разведки получают штраф -2 из-за ограниченной видимости. Дальнобойные подразделения получают<br>штраф -2 к броскам атаки. Вероятность превратности болезни для армии из-за сырости составляет 10% каждую неделю.
+WIND	ВЕТЕР
+Windy	Ветрено
+The army’s expedition speed is halved. In barren or desert terrain, reconnaissance rolls suffer -4 penalty due to<br>sandstorms. Missile units suffer a -2 penalty to attack throws.	Экспедиционная скорость армии уменьшается вдвое. В степи или пустыне броски разведки получают штраф -4 из-за<br>песчаных бурь. Дальнобойные подразделения получают штраф -2 к броскам атаки.
+Stormy	Шторм
+The army’s expedition speed is quartered. In barren or desert terrain, reconnaissance rolls suffer -4 penalty due to<br>sandstorms. Missile units suffer a -4 penalty to attack throws.	Экспедиционная скорость армии уменьшается до четверти. В степи или пустыне броски разведки получают штраф -4 из-за<br>песчаных бурь. Дальнобойные подразделения получают штраф -4 к броскам атаки.
+UNIT SCALE	МАСШТАБ ПОДРАЗДЕЛЕНИЯ
+COST PER INFANTRY<br>UNIT	СТОИМОСТЬ НА ПОДРАЗДЕЛЕНИЕ<br>ПЕХОТЫ
+COST PER CAVALRY<br>UNIT	СТОИМОСТЬ НА ПОДРАЗДЕЛЕНИЕ<br>КОННИЦЫ
+Platoon	Взвод
+Company	Рота
+Battalion	Батальон
+Brigade	Бригада
+EACH HEX OF TERRAIN	КАЖДЫЙ ГЕКС МЕСТНОСТИ
+COUNTS AS	СЧИТАЕТСЯ ЗА
+Barrens, Desert	Степь, пустыня
+4 hexes	4 гекса
+Jungle, Mountain, Swamp	Джунгли, горы, болота
+2 hexes	2 гекса
+Hills, Forest	Холмы, лес
+3/2 hexes	3/2 гекса
+Grassland, Shrubland	Поля, саванна
+1 hex	1 гекс
+Road	Дорога
+1/2 hex	1/2 гекса
+Navigable Waterway	Судоходный водный путь
+No hexes	Не учитываются
+MARKET CLASS	КЛАСС РЫНКА
+72,000 troops or more	72 000 воинов или более
+36,001 – 72,000 troops	36 001–72 000 воинов
+12,001 – 36,000 troops	12 001–36 000 воинов
+3,001 - 12,000 troops	3 001–12 000 воинов
+1,200 - 3,000 troops	1 200–3 000 воинов
+OPPOSING ARMY SIZE	РАЗМЕР ВРАЖЕСКОЙ АРМИИ
+OBSERVING ARMY MUST BE WITHIN	НАБЛЮДАЮЩАЯ АРМИЯ ДОЛЖНА БЫТЬ В ПРЕДЕЛАХ
+120 troops or less	120 воинов или менее
+One 24-mile hex	Одного 24-мильного гекса
+121 – 600 troops	121–600 воинов
+Two 24-mile hexes	Двух 24-мильных гексов
+601 – 3000 troops	601–3000 воинов
+Three 24-mile hexes	Трёх 24-мильных гексов
+3,001 troops or more	3 001 воин или более
+Four 24-mile hexes	Четырёх 24-мильных гексов
+MODIFIED DIE ROLL	ИЗМЕНЁННЫЙ БРОСОК КОСТЕЙ
+RESULT	РЕЗУЛЬТАТ
+Catastrophe	Катастрофа
+Failure	Провал
+Marginal Success	Частичный успех
+Success	Успех
+Major Success	Крупный успех
+RECONNAISSANCE MODIFIERS	МОДИФИКАТОРЫ РАЗВЕДКИ
+MODIFIER	МОДИФИКАТОР
+Opposing army has 600 or fewer troops total	Во вражеской армии всего 600 воинов или менее
+Opposing army has only 601 to 3,000 troops	Во вражеской армии лишь от 601 до 3 000 воинов
+Opposing army has 3,001 to 12,000 troops total	Во вражеской армии всего от 3 001 до 12 000 воинов
+Opposing army has 12,001 to 36,000 troops total	Во вражеской армии всего от 12 001 до 36 000 воинов
+Opposing army has 36,001 to 72,000 troops total	Во вражеской армии всего от 36 001 до 72 000 воинов
+Opposing army has 72,001 or more troops	Во вражеской армии 72 001 воин или более
+PROXIMITY OF ARMIES	БЛИЗОСТЬ АРМИЙ
+Armies are in same 6-mile hex	Армии в одном 6-мильном гексе
+Armies are in adjacent 6-mile hexes	Армии в соседних 6-мильных гексах
+Armies are in same 24-mile hex	Армии в одном 24-мильном гексе
+Armies are 1 or more 24-mile hexes away from each other	Армии на расстоянии 1 или более 24-мильных гексов друг от друга
+-1/hex	-1/гекс
+LEADERSHIP	РУКОВОДСТВО
+Observing army’s leader has higher strategic ability than opposing army’s leader	У предводителя наблюдающей армии стратегическая способность выше, чем у предводителя вражеской
+Opposing army’s leader has higher strategic ability than observing army’s leader	У предводителя вражеской армии стратегическая способность выше, чем у предводителя наблюдающей
+MAGIC, SPIES, AND STRATAGEMS	МАГИЯ, ШПИОНЫ И ВОЕННЫЕ ХИТРОСТИ
+Observing army can observe opposing army with magic *(greater clairvoyancy, scry,* etc.)	Наблюдающая армия может наблюдать за вражеской с помощью магии: *Великое ясновидение, Наблюдение* и т. п.
+Varies	По обстоятельствам
+Opposing army can camouflage location with magic (hidden host, illusory terrain, etc.)	Вражеская армия может маскировать местоположение магией: Скрытое воинство, Иллюзорная местность и т. п.
+Observing army has spy infiltrated within opposing army	У наблюдающей армии есть шпион, внедрённый во вражескую армию
++1/spy	+1/шпион
+Observing army can observe opposing army from the air	Наблюдающая армия может наблюдать за вражеской с воздуха
+Observing army has stratagem to reconnoiter or scout enemy position (Judge’s discretion)	Наблюдающая армия применяет военную хитрость для разведки вражеских позиций по решению Арбитра
+Opposing army has stratagem to deceive or trick scouts (Judge’s discretion)	Вражеская армия применяет военную хитрость для обмана разведчиков по решению Арбитра
+SCOUTING AND SCREENING TROOPS	РАЗВЕДЫВАТЕЛЬНЫЕ И ПРИКРЫВАЮЩИЕ ВОЙСКА
+Observing army scouting with 6 to 20 units	Наблюдающая армия ведёт разведку силами от 6 до 20 подразделений
+Observing army scouting with 21 to 100 units	Наблюдающая армия ведёт разведку силами от 21 до 100 подразделений
+Observing army scouting 101 or more units	Наблюдающая армия ведёт разведку силами 101 подразделения или более
+Opposing army screened by 6 to 20 units	Вражескую армию прикрывают от 6 до 20 подразделений
+Opposing army screened by 21 to 100 units	Вражескую армию прикрывают от 21 до 100 подразделений
+Opposing army screened by 101 or more units	Вражескую армию прикрывает 101 подразделение или более
+Observing army has more cavalry units in total than opposing army	У наблюдающей армии в целом больше подразделений конницы, чем у вражеской
+Opposing army has more cavalry units in total than observing army	У вражеской армии в целом больше подразделений конницы, чем у наблюдающей
+TERRAIN	МЕСТНОСТЬ
+Opposing army is in barrens (any), desert (any), grasslands (any), scrubland (low, sparse)	Вражеская армия в степи любого типа, пустыне любого типа, полях любого типа или саванне с низкой редкой растительностью
+Opposing army is in forest (taiga), hills (rocky),scrubland (high, dense), swamp (marshy)	Вражеская армия в лесу-тайге, каменистых холмах, саванне с высокой густой растительностью или топких болотах
+Opposing army is in forest (deciduous), hills (forested), jungle, mountains (any), swamp (scrubby, forested)	Вражеская армия в лиственном лесу, лесистых холмах, джунглях, горах любого типа или болотах с кустарником либо лесом
+Observing army is more familiar with region than opposing army	Наблюдающая армия лучше знакома с регионом, чем вражеская
+Opposing army is more familiar with region than observing army	Вражеская армия лучше знакома с регионом, чем наблюдающая
+DEGREE OF SUCCESS	СТЕПЕНЬ УСПЕХА
+MARGINAL SUCCESS	ЧАСТИЧНЫЙ УСПЕХ
+SUCCESS	УСПЕХ
+MAJOR SUCCESS	КРУПНЫЙ УСПЕХ
+Same 6-mile Hex	Тот же 6-мильный гекс
+Same 24-mile Hex	Тот же 24-мильный гекс
+1 – 2 24-mile Hexes	1–2 24-мильных гекса
+3 – 4 24-mile Hexes	3–4 24-мильных гекса
+Location (6-mile hex)	Местоположение (6-мильный гекс)
+Location (24-mile hex)	Местоположение (24-мильный гекс)
+Location (within 2 24-mile hexes)	Местоположение в пределах 2 24-мильных гексов
+Location (within 4 24-mile hexes)	Местоположение в пределах 4 24-мильных гексов
+Approximate size	Примерный размер
+Direction of march	Направление марша
+Number of divisions	Число соединений
+Number of units per division	Число подразделений в соединении
+Common prisoner	Обычный пленный
+Type of each unit	Тип каждого подразделения
+Valuable prisoner	Ценный пленный
+Strength of each unit	Численность каждого подразделения
+Very valuable prisoner	Очень ценный пленный
+COMMON PRISONER	ОБЫЧНЫЙ ПЛЕННЫЙ
+VALUABLE PRISONER	ЦЕННЫЙ ПЛЕННЫЙ
+VERY VALUABLE PRISONER	ОЧЕНЬ ЦЕННЫЙ ПЛЕННЫЙ
+ADJUSTED<br>DIE ROLL	СКОРРЕКТИРОВАННЫЙ<br>БРОСОК КОСТЕЙ
+False Information	Ложные сведения
+Nothing	Ничего
+One piece of information	Одна порция сведений
+Two pieces of information	Две порции сведений
+All known information	Все известные сведения
+DOMAIN SIZE	РАЗМЕР ДОМЕНА
+ARMY REQUIRED	НЕОБХОДИМАЯ АРМИЯ
+TIME REQUIRED	НЕОБХОДИМОЕ ВРЕМЯ
+1 – 500 families	1–500 семей
+600 troops	600 воинов
+1 day	1 день
+501 – 2,500 families	501–2 500 семей
+2,400 troops	2 400 воинов
+1d3 days	1d3 дня
+2,501 – 7,500 families	2 501–7 500 семей
+7,200 troops	7 200 воинов
+1d4 days	1d4 дня
+7,500 – 12,500 families	7 500–12 500 семей
+12,000 troops	12 000 воинов
+1d6 days	1d6 дней
+12,501+ families	12 501+ семей
+24,000 troops	24 000 воинов
+1d8 days	1d8 дней
+Gold Plundered	Награбленное золото
+3d6gp per peasant family<br>10d6gp per urban family	3d6 зм с крестьянской семьи<br>10d6 зм с городской семьи
+Supplies Looted	Захваченные припасы
+1d10 × 5gp per peasant family	1d10 × 5 зм с крестьянской семьи
+Prisoners Taken	Взято пленных
+1d10 per 10 families	1d10 на 10 семей
+Families Lost	Потеряно семей
+Stronghold Reduction	Уменьшение стоимости крепости
+1gp per 1gp plundered	1 зм за 1 зм награбленного

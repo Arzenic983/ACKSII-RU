@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-16",
+  "book": "Revised Rulebook",
+  "pdf_pages": [
+    264,
+    315
+  ],
+  "id_range": [
+    "rr.p0264.b001",
+    "rr.p0315.b013"
+  ],
+  "source_units": 2144,
+  "source_headings": 175,
+  "tables": 33,
+  "table_cells": 1298,
+  "empty_cells_without_id": 2,
+  "editorial_notes": 50,
+  "reviewed_prose_units": 671,
+  "numeric_differences": 0,
+  "source_hashes_unchanged": true,
+  "table_geometry_and_cell_positions_checked": true,
+  "csv_jsonl_match": true,
+  "previous_translations_unchanged": true,
+  "complete_semantic_review_by_Codex": true,
+  "user_approved": false,
+  "pdf_images_inspected": [
+    270,
+    278,
+    303
+  ],
+  "complete_visual_review": false,
+  "database_imported": true,
+  "chapter_sha256_normalized_newlines": "1f32a7da2a183658dcad69e0b3e894f9375697a87da6acb130afcbc2686885fa"
+}

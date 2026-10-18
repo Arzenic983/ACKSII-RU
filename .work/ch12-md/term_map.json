@@ -1,0 +1,1892 @@
+[
+  {
+    "russian_pattern": "конструкционн[а-яё]+ очк[а-яё]+ здоровь[а-яё]*",
+    "english": "structural hit points",
+    "working_russian": "Конструкционные очки здоровья"
+  },
+  {
+    "russian_pattern": "вместимост[а-яё]*(?: в подразделениях)?",
+    "english": "unit capacity",
+    "working_russian": "Вместимость в подразделениях"
+  },
+  {
+    "russian_pattern": "осаждающ[а-яё]+ арми[а-яё]*",
+    "english": "besieging army",
+    "working_russian": "Осаждающая армия"
+  },
+  {
+    "russian_pattern": "обороняющ[а-яё]+ арми[а-яё]*",
+    "english": "defending army",
+    "working_russian": "Обороняющаяся армия"
+  },
+  {
+    "russian_pattern": "осадн[а-яё]+ подкоп[а-яё]*",
+    "english": "siege-mine",
+    "working_russian": "Осадный подкоп"
+  },
+  {
+    "russian_pattern": "контрподкоп[а-яё]*",
+    "english": "countermine",
+    "working_russian": "Контрподкоп"
+  },
+  {
+    "russian_pattern": "циркумвалационн[а-яё]+ лини[а-яё]*",
+    "english": "circumvallation",
+    "working_russian": "Циркумвалационная линия"
+  },
+  {
+    "russian_pattern": "строительн[а-яё]+ проект[а-яё]*",
+    "english": "construction project",
+    "working_russian": "Строительный проект"
+  },
+  {
+    "russian_pattern": "строительн[а-яё]+ площадк[а-яё]*",
+    "english": "construction site",
+    "working_russian": "Строительная площадка"
+  },
+  {
+    "russian_pattern": "темп[а-яё]* строительств[а-яё]*",
+    "english": "construction rate",
+    "working_russian": "Темп строительства"
+  },
+  {
+    "russian_pattern": "стоимост[а-яё]* строительств[а-яё]*",
+    "english": "construction cost",
+    "working_russian": "Стоимость строительства"
+  },
+  {
+    "russian_pattern": "расход[а-яё]* на снабжени[а-яё]*",
+    "english": "supply cost",
+    "working_russian": "Расходы на снабжение"
+  },
+  {
+    "russian_pattern": "лини(?:я|и|ю|ей|й|ям|ями|ях) снабжения",
+    "english": "line of supply",
+    "working_russian": "Линия снабжения"
+  },
+  {
+    "russian_pattern": "обоз[а-яё]* снабжения",
+    "english": "supply train",
+    "working_russian": "Обоз снабжения"
+  },
+  {
+    "russian_pattern": "артиллерийск[а-яё]+ дуэл[а-яё]*",
+    "english": "artillery duel",
+    "working_russian": "Артиллерийская дуэль"
+  },
+  {
+    "russian_pattern": "артиллерийск[а-яё]+ подразделени[а-яё]*",
+    "english": "artillery unit",
+    "working_russian": "Артиллерийское подразделение"
+  },
+  {
+    "russian_pattern": "артиллерийск[а-яё]+ фаз[а-яё]*",
+    "english": "Artillery Phase",
+    "working_russian": "Артиллерийская фаза"
+  },
+  {
+    "russian_pattern": "дальнобойн[а-яё]+ фаз[а-яё]*",
+    "english": "Missile Phase",
+    "working_russian": "Дальнобойная фаза"
+  },
+  {
+    "russian_pattern": "рукопашн[а-яё]+ фаз[а-яё]*",
+    "english": "Melee Phase",
+    "working_russian": "Рукопашная фаза"
+  },
+  {
+    "russian_pattern": "подразделени[а-яё]+ военных машин",
+    "english": "war machine unit",
+    "working_russian": "Подразделение военных машин"
+  },
+  {
+    "russian_pattern": "штурмующ[а-яё]+ подразделени[а-яё]*",
+    "english": "assaulting unit",
+    "working_russian": "Штурмующее подразделение"
+  },
+  {
+    "russian_pattern": "обороняющ[а-яё]+ подразделени[а-яё]*",
+    "english": "defending unit",
+    "working_russian": "Обороняющееся подразделение"
+  },
+  {
+    "russian_pattern": "ход(?:а|у|ом|е|ы|ов|ам|ами|ах)? штурма",
+    "english": "assault turn",
+    "working_russian": "Ход штурма"
+  },
+  {
+    "russian_pattern": "осадн[а-яё]+ снаряжени[а-яё]*",
+    "english": "siege equipment",
+    "working_russian": "Осадное снаряжение"
+  },
+  {
+    "russian_pattern": "осадн[а-яё]+ машин[а-яё]*",
+    "english": "siege engine",
+    "working_russian": "Осадная машина"
+  },
+  {
+    "russian_pattern": "осадн[а-яё]+ баш(?:н[а-яё]*|ен)",
+    "english": "siege tower",
+    "working_russian": "Осадная башня"
+  },
+  {
+    "russian_pattern": "осадн[а-яё]+ крюк[а-яё]*",
+    "english": "siege hook",
+    "working_russian": "Осадный крюк"
+  },
+  {
+    "russian_pattern": "лов(?:ец|ц[а-яё]+) таран[а-яё]*",
+    "english": "ram catcher",
+    "working_russian": "Ловец тарана"
+  },
+  {
+    "russian_pattern": "передвижн[а-яё]+ галере[а-яё]*",
+    "english": "movable gallery",
+    "working_russian": "Передвижная галерея"
+  },
+  {
+    "russian_pattern": "передвижн[а-яё]+ мантелет[а-яё]*",
+    "english": "movable mantlet",
+    "working_russian": "Передвижной мантелет"
+  },
+  {
+    "russian_pattern": "лёгк[а-яё]+ многозарядн[а-яё]+ баллист[а-яё]*",
+    "english": "light repeating ballista",
+    "working_russian": "Лёгкая многозарядная баллиста"
+  },
+  {
+    "russian_pattern": "лёгк[а-яё]+ баллист[а-яё]*",
+    "english": "light ballista",
+    "working_russian": "Лёгкая баллиста"
+  },
+  {
+    "russian_pattern": "средн[а-яё]+ баллист[а-яё]*",
+    "english": "medium ballista",
+    "working_russian": "Средняя баллиста"
+  },
+  {
+    "russian_pattern": "тяжёл[а-яё]+ баллист[а-яё]*",
+    "english": "heavy ballista",
+    "working_russian": "Тяжёлая баллиста"
+  },
+  {
+    "russian_pattern": "лёгк[а-яё]+ катапульт[а-яё]*",
+    "english": "light catapult",
+    "working_russian": "Лёгкая катапульта"
+  },
+  {
+    "russian_pattern": "средн[а-яё]+ катапульт[а-яё]*",
+    "english": "medium catapult",
+    "working_russian": "Средняя катапульта"
+  },
+  {
+    "russian_pattern": "тяжёл[а-яё]+ катапульт[а-яё]*",
+    "english": "heavy catapult",
+    "working_russian": "Тяжёлая катапульта"
+  },
+  {
+    "russian_pattern": "лёгк[а-яё]+ требушет[а-яё]*",
+    "english": "light trebuchet",
+    "working_russian": "Лёгкий требушет"
+  },
+  {
+    "russian_pattern": "средн[а-яё]+ требушет[а-яё]*",
+    "english": "medium trebuchet",
+    "working_russian": "Средний требушет"
+  },
+  {
+    "russian_pattern": "тяжёл[а-яё]+ требушет[а-яё]*",
+    "english": "heavy trebuchet",
+    "working_russian": "Тяжёлый требушет"
+  },
+  {
+    "russian_pattern": "Сокрушени[а-яё]+ строени[а-яё]*",
+    "english": "sunder structure",
+    "working_russian": "Сокрушение строения"
+  },
+  {
+    "russian_pattern": "Движени[а-яё]+ земли",
+    "english": "earth’s movement",
+    "working_russian": "Движение земли"
+  },
+  {
+    "russian_pattern": "Землян[а-яё]+ трясин[а-яё]*",
+    "english": "earth’s mire",
+    "working_russian": "Земляная трясина"
+  },
+  {
+    "russian_pattern": "Нарост[а-яё]* земли",
+    "english": "earth’s excrescence",
+    "working_russian": "Нарост земли"
+  },
+  {
+    "russian_pattern": "Дрож[а-яё]* земли",
+    "english": "earth’s tremor",
+    "working_russian": "Дрожь земли"
+  },
+  {
+    "russian_pattern": "Конус[а-яё]* мороз[а-яё]*",
+    "english": "cone of frost",
+    "working_russian": "Конус мороза"
+  },
+  {
+    "russian_pattern": "Велик[а-яё]+ плам[а-яё]*",
+    "english": "conflagration",
+    "working_russian": "Великое пламя"
+  },
+  {
+    "russian_pattern": "Дезинтеграци[а-яё]*",
+    "english": "disintegration",
+    "working_russian": "Дезинтеграция"
+  },
+  {
+    "russian_pattern": "Веер[а-яё]* пламени",
+    "english": "fan of flames",
+    "working_russian": "Веер пламени"
+  },
+  {
+    "russian_pattern": "Огненн[а-яё]+ столп[а-яё]*",
+    "english": "fiery pillar",
+    "working_russian": "Огненный столп"
+  },
+  {
+    "russian_pattern": "Огненн[а-яё]+ шар[а-яё]*",
+    "english": "fireball",
+    "working_russian": "Огненный шар"
+  },
+  {
+    "russian_pattern": "Огненн[а-яё]+ бур[а-яё]*",
+    "english": "firestorm",
+    "working_russian": "Огненная буря"
+  },
+  {
+    "russian_pattern": "Ледян[а-яё]+ бур[а-яё]*",
+    "english": "ice storm",
+    "working_russian": "Ледяная буря"
+  },
+  {
+    "russian_pattern": "Адск[а-яё]+ плам[а-яё]*",
+    "english": "inferno",
+    "working_russian": "Адское пламя"
+  },
+  {
+    "russian_pattern": "Удар[а-яё]* молнии",
+    "english": "lightning strike",
+    "working_russian": "Удар молнии"
+  },
+  {
+    "russian_pattern": "Бичующ[а-яё]+ зефир[а-яё]*",
+    "english": "scouring zephyr",
+    "working_russian": "Бичующий зефир"
+  },
+  {
+    "russian_pattern": "Избирательн[а-яё]+ огн[а-яё]*",
+    "english": "selective fire",
+    "working_russian": "Избирательный огонь"
+  },
+  {
+    "russian_pattern": "Солнечн[а-яё]+ вспышк[а-яё]*",
+    "english": "sunflare",
+    "working_russian": "Солнечная вспышка"
+  },
+  {
+    "russian_pattern": "Удар[а-яё]* грома",
+    "english": "thunderbolt",
+    "working_russian": "Удар грома"
+  },
+  {
+    "russian_pattern": "особого сейсмического",
+    "english": "extraordinary seismic",
+    "working_russian": "Особый сейсмический"
+  },
+  {
+    "russian_pattern": "особого огненного",
+    "english": "extraordinary fire",
+    "working_russian": "Особый огненный"
+  },
+  {
+    "russian_pattern": "особого излучения",
+    "english": "extraordinary luminous",
+    "working_russian": "Особый излучения"
+  },
+  {
+    "russian_pattern": "особого некротического",
+    "english": "extraordinary necrotic",
+    "working_russian": "Особый некротический"
+  },
+  {
+    "russian_pattern": "особого урона холодом",
+    "english": "extraordinary cold",
+    "working_russian": "Особый урон холодом"
+  },
+  {
+    "russian_pattern": "особого урона электричеством",
+    "english": "extraordinary electric",
+    "working_russian": "Особый урон электричеством"
+  },
+  {
+    "russian_pattern": "особого рубящего",
+    "english": "extraordinary slashing",
+    "working_russian": "Особый рубящий"
+  },
+  {
+    "russian_pattern": "обычного сейсмического",
+    "english": "mundane seismic",
+    "working_russian": "Обычный сейсмический"
+  },
+  {
+    "russian_pattern": "обычного огненного",
+    "english": "mundane fire",
+    "working_russian": "Обычный огненный"
+  },
+  {
+    "russian_pattern": "преимуществ[а-яё]* в подразделениях",
+    "english": "unit advantage",
+    "working_russian": "Преимущество в подразделениях"
+  },
+  {
+    "russian_pattern": "подрыв[а-яё]* обороны",
+    "english": "subversion",
+    "working_russian": "Подрыв обороны"
+  },
+  {
+    "russian_pattern": "осад(?:а|ы|е|у|ой|ою|ам|ами|ах)?",
+    "english": "siege",
+    "working_russian": "Осада"
+  },
+  {
+    "russian_pattern": "блокад[а-яё]*",
+    "english": "blockade",
+    "working_russian": "Блокада"
+  },
+  {
+    "russian_pattern": "бреш(?:ь|и|ью|ей|ам|ами|ах)?",
+    "english": "breach",
+    "working_russian": "Брешь"
+  },
+  {
+    "russian_pattern": "штурм(?:а|у|ом|е|ы|ов|ам|ами|ах)?",
+    "english": "assault",
+    "working_russian": "Штурм"
+  },
+  {
+    "russian_pattern": "обстрел[а-яё]*",
+    "english": "bombardment",
+    "working_russian": "Обстрел"
+  },
+  {
+    "russian_pattern": "петард[а-яё]*",
+    "english": "petard",
+    "working_russian": "Петарда"
+  },
+  {
+    "russian_pattern": "мантелет[а-яё]*",
+    "english": "mantlet",
+    "working_russian": "Мантелет"
+  },
+  {
+    "russian_pattern": "галере[а-яё]*",
+    "english": "gallery",
+    "working_russian": "Галерея"
+  },
+  {
+    "russian_pattern": "кот(?:ёл|л[а-яё]+)",
+    "english": "cauldron",
+    "working_russian": "Котёл"
+  },
+  {
+    "russian_pattern": "таран(?:а|у|ом|е|ы|ов|ам|ами|ах)?",
+    "english": "battering ram",
+    "working_russian": "Таран"
+  },
+  {
+    "russian_pattern": "бур(?:а|у|ом|е|ы|ов|ам|ами|ах)?",
+    "english": "screw",
+    "working_russian": "Бур"
+  },
+  {
+    "russian_pattern": "артиллери[а-яё]*",
+    "english": "artillery",
+    "working_russian": "Артиллерия"
+  },
+  {
+    "russian_pattern": "боеприпас[а-яё]*",
+    "english": "ammunition",
+    "working_russian": "Боеприпасы"
+  },
+  {
+    "russian_pattern": "конструкционн[а-яё]+ урон[а-яё]*",
+    "english": "structural damage",
+    "working_russian": "Конструкционный урон"
+  },
+  {
+    "russian_pattern": "подземел[а-яё]*",
+    "english": "dungeon",
+    "working_russian": "Подземелье"
+  },
+  {
+    "russian_pattern": "спасброс[а-яё]* от разрушений",
+    "english": "saving throw versus Blast",
+    "working_russian": "Спасбросок от разрушений"
+  },
+  {
+    "russian_pattern": "разрушени[а-яё]*",
+    "english": "reduction",
+    "working_russian": "Разрушение"
+  },
+  {
+    "russian_pattern": "огромн[а-яё]+ существ[а-яё]*",
+    "english": "Huge creatures",
+    "working_russian": "Огромные существа"
+  },
+  {
+    "russian_pattern": "гигантск[а-яё]+ существ[а-яё]*",
+    "english": "Gigantic creatures",
+    "working_russian": "Гигантские существа"
+  },
+  {
+    "russian_pattern": "колоссальн[а-яё]+ существ[а-яё]*",
+    "english": "Colossal creatures",
+    "working_russian": "Колоссальные существа"
+  },
+  {
+    "russian_pattern": "добровольн[а-яё]+ сдач[а-яё]*",
+    "english": "voluntary surrender",
+    "working_russian": "Добровольная сдача"
+  },
+  {
+    "russian_pattern": "вынужденн[а-яё]+ сдач[а-яё]*",
+    "english": "involuntary surrender",
+    "working_russian": "Вынужденная сдача"
+  },
+  {
+    "russian_pattern": "сдач(?:а|и|е|у|ей)",
+    "english": "surrender",
+    "working_russian": "Сдача"
+  },
+  {
+    "russian_pattern": "поджог[а-яё]*",
+    "english": "arson",
+    "working_russian": "Поджог"
+  },
+  {
+    "russian_pattern": "КОЗ",
+    "english": "shp",
+    "working_russian": "КОЗ"
+  },
+  {
+    "russian_pattern": "крепостн[а-яё]+ стен[а-яё]*",
+    "english": "stronghold walls",
+    "working_russian": "Крепостные стены"
+  },
+  {
+    "russian_pattern": "внутренн[а-яё]+ част[а-яё]* крепости",
+    "english": "stronghold interior",
+    "working_russian": "Внутренняя часть крепости"
+  },
+  {
+    "russian_pattern": "резерв(?:а|у|ом|е|ы|ов)?",
+    "english": "reserve",
+    "working_russian": "Резерв"
+  },
+  {
+    "russian_pattern": "летающ[а-яё]+",
+    "english": "flyer",
+    "working_russian": "Летающий"
+  },
+  {
+    "russian_pattern": "подкоп(?:а|у|ом|е|ы|ов|ам|ами|ах)?",
+    "english": "siege-mine",
+    "working_russian": "Осадный подкоп"
+  },
+  {
+    "russian_pattern": "инженер(?:а|у|ом|е|ы|ов|ам|ами|ах)?",
+    "english": "engineer",
+    "working_russian": "Инженер"
+  },
+  {
+    "russian_pattern": "взаимн[а-яё]+ неосведомлённост[а-яё]*",
+    "english": "mutual unawareness",
+    "working_russian": "Взаимная неосведомлённость"
+  },
+  {
+    "russian_pattern": "взаимн[а-яё]+ осведомлённост[а-яё]*",
+    "english": "mutual awareness",
+    "working_russian": "Взаимная осведомлённость"
+  },
+  {
+    "russian_pattern": "односторонн[а-яё]+ осведомлённост[а-яё]*",
+    "english": "unilateral awareness",
+    "working_russian": "Односторонняя осведомлённость"
+  },
+  {
+    "russian_pattern": "состояни[а-яё]+ осведомлённости",
+    "english": "state of awareness",
+    "working_russian": "Состояние осведомлённости"
+  },
+  {
+    "russian_pattern": "стратегическ[а-яё]+ ситуаци[а-яё]+",
+    "english": "strategic situation",
+    "working_russian": "Стратегическая ситуация"
+  },
+  {
+    "russian_pattern": "развёрнут[а-яё]+ сражени[а-яё]+",
+    "english": "pitched battle",
+    "working_russian": "Развёрнутое сражение"
+  },
+  {
+    "russian_pattern": "встречн[а-яё]+ бо[йяюеём]+",
+    "english": "meeting engagement",
+    "working_russian": "Встречный бой"
+  },
+  {
+    "russian_pattern": "арьергардн[а-яё]+ бо[йяюеём]+",
+    "english": "rear guard action",
+    "working_russian": "Арьергардный бой"
+  },
+  {
+    "russian_pattern": "глубок[а-яё]+ охват[а-яё]*",
+    "english": "deep envelopment",
+    "working_russian": "Глубокий охват"
+  },
+  {
+    "russian_pattern": "охват[а-яё]* арьергарда",
+    "english": "rear guard envelopment",
+    "working_russian": "Охват арьергарда"
+  },
+  {
+    "russian_pattern": "без сражения",
+    "english": "no battle",
+    "working_russian": "Без сражения"
+  },
+  {
+    "russian_pattern": "стычк[а-яё]+",
+    "english": "skirmish",
+    "working_russian": "Стычка"
+  },
+  {
+    "russian_pattern": "засад[а-яё]+",
+    "english": "ambush",
+    "working_russian": "Засада"
+  },
+  {
+    "russian_pattern": "охват[а-яё]*",
+    "english": "envelopment",
+    "working_russian": "Охват"
+  },
+  {
+    "russian_pattern": "боев[а-яё]+ рейтинг[а-яё]*",
+    "english": "battle rating",
+    "working_russian": "Боевой рейтинг"
+  },
+  {
+    "russian_pattern": "героическ[а-яё]+ подразделени[а-яё]+",
+    "english": "heroic unit",
+    "working_russian": "Героическое подразделение"
+  },
+  {
+    "russian_pattern": "героическ[а-яё]+ вылаз[а-яё]*",
+    "english": "heroic foray",
+    "working_russian": "Героическая вылазка"
+  },
+  {
+    "russian_pattern": "ход(?:а|у|ом|е|ы|ов|ам|ами|ах)? сражения",
+    "english": "battle turn",
+    "working_russian": "Ход сражения"
+  },
+  {
+    "russian_pattern": "дальнобойн[а-яё]+ фаз[а-яё]+",
+    "english": "missile phase",
+    "working_russian": "Дальнобойная фаза"
+  },
+  {
+    "russian_pattern": "рукопашн[а-яё]+ фаз[а-яё]+",
+    "english": "melee phase",
+    "working_russian": "Рукопашная фаза"
+  },
+  {
+    "russian_pattern": "фаз[а-яё]+ боевого духа",
+    "english": "morale phase",
+    "working_russian": "Фаза боевого духа"
+  },
+  {
+    "russian_pattern": "фаз[а-яё]+ переразвёртывания",
+    "english": "redeployment phase",
+    "working_russian": "Фаза переразвёртывания"
+  },
+  {
+    "russian_pattern": "фаз[а-яё]+ подкреплений",
+    "english": "reinforcement phase",
+    "working_russian": "Фаза подкреплений"
+  },
+  {
+    "russian_pattern": "фаз[а-яё]+ отхода",
+    "english": "withdrawal phase",
+    "working_russian": "Фаза отхода"
+  },
+  {
+    "russian_pattern": "брос(?:ок|ка|ку|ком|ке|ки|ков|кам|ками|ках) боевого духа",
+    "english": "morale roll",
+    "working_russian": "Бросок боевого духа"
+  },
+  {
+    "russian_pattern": "брос(?:ок|ка|ку|ком|ке|ки|ков|кам|ками|ках) преследования",
+    "english": "pursuit throw",
+    "working_russian": "Бросок преследования"
+  },
+  {
+    "russian_pattern": "показател[а-яё]* боевого духа",
+    "english": "morale score",
+    "working_russian": "Показатель боевого духа"
+  },
+  {
+    "russian_pattern": "боев[а-яё]+ дух[а-яё]* подразделени[а-яё]+",
+    "english": "unit morale",
+    "working_russian": "Боевой дух подразделения"
+  },
+  {
+    "russian_pattern": "прорыв[а-яё]* зон[а-яё]+",
+    "english": "breaking a zone",
+    "working_russian": "Прорыв зоны"
+  },
+  {
+    "russian_pattern": "прорванн[а-яё]+ зон[а-яё]+",
+    "english": "broken zone",
+    "working_russian": "Прорванная зона"
+  },
+  {
+    "russian_pattern": "дальнобойн[а-яё]+ подразделени[а-яё]+",
+    "english": "missile unit",
+    "working_russian": "Дальнобойное подразделение"
+  },
+  {
+    "russian_pattern": "недальнобойн[а-яё]+ подразделени[а-яё]+",
+    "english": "non-missile unit",
+    "working_russian": "Недальнобойное подразделение"
+  },
+  {
+    "russian_pattern": "рассыпн[а-яё]+ подразделени[а-яё]+",
+    "english": "loose unit",
+    "working_russian": "Рассыпное подразделение"
+  },
+  {
+    "russian_pattern": "рассыпн[а-яё]+",
+    "english": "loose",
+    "working_russian": "Рассыпной"
+  },
+  {
+    "russian_pattern": "дальнобойн[а-яё]+ дистанци[а-яё]+",
+    "english": "missile range",
+    "working_russian": "Дальнобойная дистанция"
+  },
+  {
+    "russian_pattern": "рукопашн[а-яё]+ дистанци[а-яё]+",
+    "english": "melee range",
+    "working_russian": "Рукопашная дистанция"
+  },
+  {
+    "russian_pattern": "дистанци[а-яё]+ столкновения",
+    "english": "encounter distance",
+    "working_russian": "Дистанция столкновения"
+  },
+  {
+    "russian_pattern": "правая зон[а-яё]+|правой зон[а-яё]+|правую зон[а-яё]+",
+    "english": "right zone",
+    "working_russian": "Правая зона"
+  },
+  {
+    "russian_pattern": "левая зон[а-яё]+|левой зон[а-яё]+|левую зон[а-яё]+",
+    "english": "left zone",
+    "working_russian": "Левая зона"
+  },
+  {
+    "russian_pattern": "центральн[а-яё]+ зон[а-яё]+",
+    "english": "center zone",
+    "working_russian": "Центральная зона"
+  },
+  {
+    "russian_pattern": "паническ[а-яё]+ бегств[а-яё]+",
+    "english": "rout",
+    "working_russian": "Паническое бегство"
+  },
+  {
+    "russian_pattern": "повальн[а-яё]+ бегств[а-яё]+",
+    "english": "rout",
+    "working_russian": "Повальное бегство"
+  },
+  {
+    "russian_pattern": "бегств[а-яё]*",
+    "english": "flee",
+    "working_russian": "Бегство"
+  },
+  {
+    "russian_pattern": "бежавш[а-яё]+ в панике|бежал[а-яё]* в панике|бежали в панике",
+    "english": "routed",
+    "working_russian": "Бежавший в панике"
+  },
+  {
+    "russian_pattern": "колеблющ[а-яё]+",
+    "english": "wavering",
+    "working_russian": "Колеблющийся"
+  },
+  {
+    "russian_pattern": "колебани[а-яё]+",
+    "english": "waver",
+    "working_russian": "Колебание"
+  },
+  {
+    "russian_pattern": "колеблетс[яь]|колеблются",
+    "english": "wavering",
+    "working_russian": "Колеблется"
+  },
+  {
+    "russian_pattern": "подъём духа",
+    "english": "rally",
+    "working_russian": "Подъём духа"
+  },
+  {
+    "russian_pattern": "воспрял[а-яё]* духом",
+    "english": "rally",
+    "working_russian": "Воспрянуть духом"
+  },
+  {
+    "russian_pattern": "стоять твёрдо",
+    "english": "stand firm",
+    "working_russian": "Стоять твёрдо"
+  },
+  {
+    "russian_pattern": "восстанов[а-яё]+ строй|восстановления строя",
+    "english": "regroup",
+    "working_russian": "Восстановить строй"
+  },
+  {
+    "russian_pattern": "в беспорядке|состояни[а-яё]+ беспорядка",
+    "english": "disordered",
+    "working_russian": "В беспорядке"
+  },
+  {
+    "russian_pattern": "переразв[а-яё]*",
+    "english": "redeployment",
+    "working_russian": "Переразвёртывание"
+  },
+  {
+    "russian_pattern": "затишь[а-яё]+ в бою",
+    "english": "lull in the fighting",
+    "working_russian": "Затишье в бою"
+  },
+  {
+    "russian_pattern": "крушени[а-яё]+ боевого духа",
+    "english": "morale collapse",
+    "working_russian": "Крушение боевого духа"
+  },
+  {
+    "russian_pattern": "смертельная рана",
+    "english": "Mortally Wounded",
+    "working_russian": "Смертельная рана"
+  },
+  {
+    "russian_pattern": "смертельн[а-яё]+ ран[а-яё]*",
+    "english": "Mortal Wounds",
+    "working_russian": "Смертельные раны"
+  },
+  {
+    "russian_pattern": "необратим[а-яё]+ ран[а-яё]*",
+    "english": "permanent wound",
+    "working_russian": "Необратимая рана"
+  },
+  {
+    "russian_pattern": "мгновенн[а-яё]+ смерт[а-яё]*",
+    "english": "Instantly Killed",
+    "working_russian": "Мгновенная смерть"
+  },
+  {
+    "russian_pattern": "тяжёл[а-яё]+ ран[а-яё]*",
+    "english": "Grievously Wounded",
+    "working_russian": "Тяжёлая рана"
+  },
+  {
+    "russian_pattern": "критическ[а-яё]+ ран[а-яё]*",
+    "english": "Critically Wounded",
+    "working_russian": "Критическая рана"
+  },
+  {
+    "russian_pattern": "без сознания",
+    "english": "Knocked Out",
+    "working_russian": "Без сознания"
+  },
+  {
+    "russian_pattern": "лишь оглушён",
+    "english": "Just Dazed",
+    "working_russian": "Лишь оглушён"
+  },
+  {
+    "russian_pattern": "шок[а-яё]*",
+    "english": "Shocked",
+    "working_russian": "Шок"
+  },
+  {
+    "russian_pattern": "недееспособн[а-яё]+",
+    "english": "incapacitated",
+    "working_russian": "Недееспособный"
+  },
+  {
+    "russian_pattern": "Благословлённ[а-яё]+",
+    "english": "blessed",
+    "working_russian": "Благословлённый"
+  },
+  {
+    "russian_pattern": "Голодн[а-яё]+",
+    "english": "hungry",
+    "working_russian": "Голодный"
+  },
+  {
+    "russian_pattern": "Кост[а-яё]* Здоровья",
+    "english": "Hit Dice",
+    "working_russian": "Кости Здоровья"
+  },
+  {
+    "russian_pattern": "КБ",
+    "english": "AC",
+    "working_russian": "КБ"
+  },
+  {
+    "russian_pattern": "Телосложени[а-яё]+",
+    "english": "Constitution",
+    "working_russian": "Телосложение"
+  },
+  {
+    "russian_pattern": "сейсмическ[а-яё]+ рог[а-яё]*",
+    "english": "seismic horn",
+    "working_russian": "Сейсмический рог"
+  },
+  {
+    "russian_pattern": "рог(?:а|у|ом|е)?",
+    "english": "horn",
+    "working_russian": "Рог"
+  },
+  {
+    "russian_pattern": "радиус[а-яё]* действия",
+    "english": "range",
+    "working_russian": "Радиус действия"
+  },
+  {
+    "russian_pattern": "летающ[а-яё]+ войск[а-яё]*",
+    "english": "flyer",
+    "working_russian": "Летающие войска"
+  },
+  {
+    "russian_pattern": "Приспешни[а-яё]+",
+    "english": "Henchman",
+    "working_russian": "Приспешник"
+  },
+  {
+    "russian_pattern": "Дев[а-яё]* клинков",
+    "english": "Bladedancer",
+    "working_russian": "Дева клинков"
+  },
+  {
+    "russian_pattern": "(?-i:Воин(?:а|у|ом|е|ы|ов|ам|ами|ах)?)",
+    "english": "Fighter",
+    "working_russian": "Воин"
+  },
+  {
+    "russian_pattern": "Паладин[а-яё]*",
+    "english": "Paladin",
+    "working_russian": "Паладин"
+  },
+  {
+    "russian_pattern": "Вор(?:а|у|ом|е|ы|ов|ам|ами|ах)?",
+    "english": "Thief",
+    "working_russian": "Вор"
+  },
+  {
+    "russian_pattern": "стрел(?:ок|ка|ку|ком|ке|ки|ков|кам|ками|ках)",
+    "english": "Longbowman",
+    "working_russian": "Стрелок"
+  },
+  {
+    "russian_pattern": "арбалет[а-яё]* с воротом",
+    "english": "Arbalest",
+    "working_russian": "Арбалет с воротом"
+  },
+  {
+    "russian_pattern": "составн[а-яё]+ лук[а-яё]*|составн[а-яё]+ луками",
+    "english": "Composite Bow",
+    "working_russian": "Составной лук"
+  },
+  {
+    "russian_pattern": "длинн[а-яё]+ лук[а-яё]*|длинн[а-яё]+ луками",
+    "english": "Long Bow",
+    "working_russian": "Длинный лук"
+  },
+  {
+    "russian_pattern": "коротк[а-яё]+ лук[а-яё]*|коротк[а-яё]+ луками",
+    "english": "Short Bow",
+    "working_russian": "Короткий лук"
+  },
+  {
+    "russian_pattern": "посох[а-яё]*-пращ[а-яё]*",
+    "english": "Staff Sling",
+    "working_russian": "Посох-праща"
+  },
+  {
+    "russian_pattern": "метательн[а-яё]+ стрел[а-яё]*",
+    "english": "Dart",
+    "working_russian": "Метательная стрелка"
+  },
+  {
+    "russian_pattern": "дротик[а-яё]*",
+    "english": "Javelin",
+    "working_russian": "Дротик"
+  },
+  {
+    "russian_pattern": "полулюд[а-яё]*",
+    "english": "demi-human",
+    "working_russian": "Полулюди"
+  },
+  {
+    "russian_pattern": "арбалет(?:а|у|ом|е|ы|ов|ам|ами|ах)?",
+    "english": "Crossbow",
+    "working_russian": "Арбалет"
+  },
+  {
+    "russian_pattern": "ополчен[а-яё]*",
+    "english": "militia",
+    "working_russian": "Ополченец"
+  },
+  {
+    "russian_pattern": "Рекрут[а-яё]*",
+    "english": "conscript",
+    "working_russian": "Рекрут"
+  },
+  {
+    "russian_pattern": "Резерв[а-яё]*",
+    "english": "Reserve",
+    "working_russian": "Резерв"
+  },
+  {
+    "russian_pattern": "полковод[а-яё]*",
+    "english": "general",
+    "working_russian": "Полководец"
+  },
+  {
+    "russian_pattern": "Лейтенант[а-яё]*",
+    "english": "lieutenant",
+    "working_russian": "Лейтенант"
+  },
+  {
+    "russian_pattern": "геро(?:й|я|ю|ем|е|и|ев|ям|ями|ях)",
+    "english": "hero",
+    "working_russian": "Герой"
+  },
+  {
+    "russian_pattern": "сражени[а-яё]+",
+    "english": "battle",
+    "working_russian": "Сражение"
+  },
+  {
+    "russian_pattern": "преследовани[а-яё]+|преследова[а-яё]*",
+    "english": "pursuit",
+    "working_russian": "Преследование"
+  },
+  {
+    "russian_pattern": "отступ[а-яё]*",
+    "english": "retreat",
+    "working_russian": "Отступление"
+  },
+  {
+    "russian_pattern": "отход[а-яё]*|отойти|отош[а-яё]*",
+    "english": "withdrawal",
+    "working_russian": "Отход"
+  },
+  {
+    "russian_pattern": "потер(?:я|и|ь|ям|ями|ях)",
+    "english": "casualties",
+    "working_russian": "Потери"
+  },
+  {
+    "russian_pattern": "развёрт[а-яё]*|разверн[а-яё]*",
+    "english": "deployment",
+    "working_russian": "Развёртывание"
+  },
+  {
+    "russian_pattern": "особ[а-яё]+ способност[а-яё]*",
+    "english": "special ability",
+    "working_russian": "Особая способность"
+  },
+  {
+    "russian_pattern": "плотоядн[а-яё]+ подразделени[а-яё]+",
+    "english": "carnivorous units",
+    "working_russian": "Плотоядные подразделения"
+  },
+  {
+    "russian_pattern": "строительн[а-яё]+ работник[а-яё]*",
+    "english": "construction workers",
+    "working_russian": "Строительные работники"
+  },
+  {
+    "russian_pattern": "зон(?:а|ы|е|у|ой|ам|ами|ах)?",
+    "english": "zone",
+    "working_russian": "Зона"
+  },
+  {
+    "russian_pattern": "раунд[а-яё]*",
+    "english": "round",
+    "working_russian": "Раунд"
+  },
+  {
+    "russian_pattern": "ход(?:а|у|ом|е|ы|ов|ам|ами|ах)?",
+    "english": "turn",
+    "working_russian": "Ход"
+  },
+  {
+    "russian_pattern": "военн[а-яё]+ кампани[а-яё]+",
+    "english": "military campaign",
+    "working_russian": "Военная кампания"
+  },
+  {
+    "russian_pattern": "наблюдающ[а-яё]+ арм(?:ия|ии|ию|ией|ий|иям|иями|иях)",
+    "english": "observing army",
+    "working_russian": "Наблюдающая армия"
+  },
+  {
+    "russian_pattern": "действующ[а-яё]+ арм(?:ия|ии|ию|ией|ий|иям|иями|иях)",
+    "english": "acting army",
+    "working_russian": "Действующая армия"
+  },
+  {
+    "russian_pattern": "вражеск[а-яё]+ арм(?:ия|ии|ию|ией|ий|иям|иями|иях)",
+    "english": "opposing army",
+    "working_russian": "Вражеская армия"
+  },
+  {
+    "russian_pattern": "очень ценн[а-яё]+ пленн[а-яё]+",
+    "english": "very valuable prisoner",
+    "working_russian": "Очень ценный пленный"
+  },
+  {
+    "russian_pattern": "ценн[а-яё]+ пленн[а-яё]+",
+    "english": "valuable prisoner",
+    "working_russian": "Ценный пленный"
+  },
+  {
+    "russian_pattern": "обычн[а-яё]+ пленн[а-яё]+",
+    "english": "common prisoner",
+    "working_russian": "Обычный пленный"
+  },
+  {
+    "russian_pattern": "частичн[а-яё]+ успех[а-яё]*",
+    "english": "marginal success",
+    "working_russian": "Частичный успех"
+  },
+  {
+    "russian_pattern": "крупн[а-яё]+ успех[а-яё]*",
+    "english": "major success",
+    "working_russian": "Крупный успех"
+  },
+  {
+    "russian_pattern": "катастроф[а-яё]*",
+    "english": "catastrophe",
+    "working_russian": "Катастрофа"
+  },
+  {
+    "russian_pattern": "провал(?:а|у|ом|е|ы|ов|ам|ами|ах)?",
+    "english": "failure",
+    "working_russian": "Провал"
+  },
+  {
+    "russian_pattern": "успех(?:а|у|ом|е|и|ов|ам|ами|ах)?",
+    "english": "success",
+    "working_russian": "Успех"
+  },
+  {
+    "russian_pattern": "региональн[а-яё]+ карт[а-яё]+",
+    "english": "regional map",
+    "working_russian": "Региональная карта"
+  },
+  {
+    "russian_pattern": "брос(?:ок|ка|ку|ком|ке|ки|ков|кам|ками|ках) разведки",
+    "english": "reconnaissance roll",
+    "working_russian": "Бросок разведки"
+  },
+  {
+    "russian_pattern": "брос(?:ок|ка|ку|ком|ке|ки|ков|кам|ками|ках) верности",
+    "english": "loyalty roll",
+    "working_russian": "Бросок верности"
+  },
+  {
+    "russian_pattern": "брос(?:ок|ка|ку|ком|ке|ки|ков|кам|ками|ках) морали Домена",
+    "english": "domain morale roll",
+    "working_russian": "Бросок морали Домена"
+  },
+  {
+    "russian_pattern": "брос(?:ок|ка|ку|ком|ке|ки|ков|кам|ками|ках) атаки",
+    "english": "attack throw",
+    "working_russian": "Бросок атаки"
+  },
+  {
+    "russian_pattern": "брос(?:ок|ка|ку|ком|ке|ки|ков|кам|ками|ках) навык[а-яё]*",
+    "english": "proficiency throw",
+    "working_russian": "Бросок навыка"
+  },
+  {
+    "russian_pattern": "стратегическ[а-яё]+ способност[а-яё]*",
+    "english": "strategic ability",
+    "working_russian": "Стратегическая способность"
+  },
+  {
+    "russian_pattern": "лидерск[а-яё]+ способност[а-яё]*",
+    "english": "leadership ability",
+    "working_russian": "Лидерская способность"
+  },
+  {
+    "russian_pattern": "стратегическ[а-яё]+ установк[а-яё]+",
+    "english": "strategic stance",
+    "working_russian": "Стратегическая установка"
+  },
+  {
+    "russian_pattern": "наступательн[а-яё]+",
+    "english": "offensive",
+    "working_russian": "Наступательная"
+  },
+  {
+    "russian_pattern": "оборонительн[а-яё]+",
+    "english": "defensive",
+    "working_russian": "Оборонительная"
+  },
+  {
+    "russian_pattern": "уклоняющ[а-яё]+",
+    "english": "evasive",
+    "working_russian": "Уклоняющаяся"
+  },
+  {
+    "russian_pattern": "форсированн[а-яё]+ марш[а-яё]*",
+    "english": "forced march",
+    "working_russian": "Форсированный марш"
+  },
+  {
+    "russian_pattern": "стоимост[а-яё]* снабжения",
+    "english": "supply cost",
+    "working_russian": "Стоимость снабжения"
+  },
+  {
+    "russian_pattern": "затрат[а-яё]* на снабжение",
+    "english": "supply cost",
+    "working_russian": "Затраты на снабжение"
+  },
+  {
+    "russian_pattern": "баз(?:а|ы|е|у|ой|ами|ам|ах)? снабжения",
+    "english": "supply base",
+    "working_russian": "База снабжения"
+  },
+  {
+    "russian_pattern": "баз снабжения",
+    "english": "supply base",
+    "working_russian": "Базы снабжения"
+  },
+  {
+    "russian_pattern": "лини[а-яё]+ снабжения",
+    "english": "line of supply",
+    "working_russian": "Линия снабжения"
+  },
+  {
+    "russian_pattern": "чрезмерно растянут[а-яё]*",
+    "english": "overextended",
+    "working_russian": "Чрезмерно растянутая"
+  },
+  {
+    "russian_pattern": "перекрыт[а-яё]*",
+    "english": "blocked",
+    "working_russian": "Перекрытая"
+  },
+  {
+    "russian_pattern": "экспедиционн[а-яё]+ скорост[а-яё]*",
+    "english": "expedition speed",
+    "working_russian": "Экспедиционная скорость"
+  },
+  {
+    "russian_pattern": "исследовательск[а-яё]+ скорост[а-яё]*",
+    "english": "exploration speed",
+    "working_russian": "Исследовательская скорость"
+  },
+  {
+    "russian_pattern": "скорост[а-яё]* перемещения[^.]*?в столкновении",
+    "english": "encounter movement rate",
+    "working_russian": "Скорость перемещения в столкновении"
+  },
+  {
+    "russian_pattern": "военн[а-яё]+ машин[а-яё]*",
+    "english": "war machines",
+    "working_russian": "Военные машины"
+  },
+  {
+    "russian_pattern": "модификатор[а-яё]* боевого духа",
+    "english": "morale modifier",
+    "working_russian": "Модификатор боевого духа"
+  },
+  {
+    "russian_pattern": "боев(?:ой|ого|ому|ым|ом) дух[а-яё]*",
+    "english": "morale",
+    "working_russian": "Боевой дух"
+  },
+  {
+    "russian_pattern": "морал[а-яё]* Домена",
+    "english": "domain morale",
+    "working_russian": "Мораль Домена"
+  },
+  {
+    "russian_pattern": "личн[а-яё]+ авторитет[а-яё]*",
+    "english": "personal authority",
+    "working_russian": "Личный авторитет"
+  },
+  {
+    "russian_pattern": "городск[а-яё]+ поселени[а-яё]+",
+    "english": "urban settlement",
+    "working_russian": "Городское поселение"
+  },
+  {
+    "russian_pattern": "крестьянск[а-яё]+ семь[а-яё]*",
+    "english": "peasant family",
+    "working_russian": "Крестьянская семья"
+  },
+  {
+    "russian_pattern": "крестьянск[а-яё]+ сем(?:ья|ьи|ью|ье|ьёй|ей|ьям|ьями|ьях)",
+    "english": "peasant family",
+    "working_russian": "Крестьянская семья"
+  },
+  {
+    "russian_pattern": "городск[а-яё]+ сем(?:ья|ьи|ью|ье|ьёй|ей|ьям|ьями|ьях)",
+    "english": "urban family",
+    "working_russian": "Городская семья"
+  },
+  {
+    "russian_pattern": "городск[а-яё]+ вложени[а-яё]+",
+    "english": "urban investment",
+    "working_russian": "Городские вложения"
+  },
+  {
+    "russian_pattern": "стоимост[а-яё]* крепост[а-яё]*",
+    "english": "stronghold value",
+    "working_russian": "Стоимость крепости"
+  },
+  {
+    "russian_pattern": "стоимост[а-яё]* гарнизон[а-яё]*",
+    "english": "garrison cost",
+    "working_russian": "Стоимость гарнизона"
+  },
+  {
+    "russian_pattern": "военн[а-яё]+ добыч[а-яё]*",
+    "english": "spoils of war",
+    "working_russian": "Военная добыча"
+  },
+  {
+    "russian_pattern": "Героическ[а-яё]+ вылаз[а-яё]*",
+    "english": "Heroic Forays",
+    "working_russian": "Героические вылазки"
+  },
+  {
+    "russian_pattern": "военн[а-яё]+ хитрост[а-яё]*",
+    "english": "stratagem",
+    "working_russian": "Военная хитрость"
+  },
+  {
+    "russian_pattern": "Военн[а-яё]+ стратеги[а-яё]+",
+    "english": "Military Strategy",
+    "working_russian": "Военная стратегия"
+  },
+  {
+    "russian_pattern": "Военн[а-яё]+ подготовк[а-яё]+",
+    "english": "Manual of Arms",
+    "working_russian": "Военная подготовка"
+  },
+  {
+    "russian_pattern": "Поиск укрытий",
+    "english": "Skulking",
+    "working_russian": "Поиск укрытий"
+  },
+  {
+    "russian_pattern": "Подкуп[а-яё]*",
+    "english": "Bribery",
+    "working_russian": "Подкуп"
+  },
+  {
+    "russian_pattern": "Дипломати[а-яё]+",
+    "english": "Diplomacy",
+    "working_russian": "Дипломатия"
+  },
+  {
+    "russian_pattern": "Запугивани[а-яё]+",
+    "english": "Intimidation",
+    "working_russian": "Запугивание"
+  },
+  {
+    "russian_pattern": "Соблазнени[а-яё]+",
+    "english": "Seduction",
+    "working_russian": "Соблазнение"
+  },
+  {
+    "russian_pattern": "Прятани[а-яё]+",
+    "english": "Hiding",
+    "working_russian": "Прятание"
+  },
+  {
+    "russian_pattern": "(?-i:Маскировк[а-яё]+)",
+    "english": "Disguise",
+    "working_russian": "Маскировка"
+  },
+  {
+    "russian_pattern": "Истощённ[а-яё]+",
+    "english": "fatigued",
+    "working_russian": "Истощённый"
+  },
+  {
+    "russian_pattern": "Недокормленн[а-яё]+",
+    "english": "underfed",
+    "working_russian": "Недокормленный"
+  },
+  {
+    "russian_pattern": "Оголодавш[а-яё]+",
+    "english": "starving",
+    "working_russian": "Оголодавший"
+  },
+  {
+    "russian_pattern": "Обезвоженн[а-яё]+",
+    "english": "dehydrated",
+    "working_russian": "Обезвоженный"
+  },
+  {
+    "russian_pattern": "околдова[а-яё]+",
+    "english": "bewitched",
+    "working_russian": "Околдованный"
+  },
+  {
+    "russian_pattern": "Беспокойн[а-яё]+",
+    "english": "Turbulent",
+    "working_russian": "Беспокойный"
+  },
+  {
+    "russian_pattern": "Непокорн[а-яё]+",
+    "english": "Defiant",
+    "working_russian": "Непокорный"
+  },
+  {
+    "russian_pattern": "Мятежн[а-яё]+",
+    "english": "Rebellious",
+    "working_russian": "Мятежный"
+  },
+  {
+    "russian_pattern": "Велик[а-яё]+ яснослышани[а-яё]+",
+    "english": "greater clairaudiency",
+    "working_russian": "Великое яснослышание"
+  },
+  {
+    "russian_pattern": "Велик[а-яё]+ ясновидени[а-яё]+",
+    "english": "greater clairvoyancy",
+    "working_russian": "Великое ясновидение"
+  },
+  {
+    "russian_pattern": "Обзор[а-яё]* местности",
+    "english": "lay of the land",
+    "working_russian": "Обзор местности"
+  },
+  {
+    "russian_pattern": "Поиск[а-яё]* далёкого предмета",
+    "english": "locate distant object",
+    "working_russian": "Поиск далёкого предмета"
+  },
+  {
+    "russian_pattern": "Сокрыти[а-яё]+ от обнаружения",
+    "english": "indiscernibility",
+    "working_russian": "Сокрытие от обнаружения"
+  },
+  {
+    "russian_pattern": "Общени[а-яё]+ с божеством",
+    "english": "communion",
+    "working_russian": "Общение с божеством"
+  },
+  {
+    "russian_pattern": "Связ[а-яё]* с иной сферой",
+    "english": "contact other sphere",
+    "working_russian": "Связь с иной сферой"
+  },
+  {
+    "russian_pattern": "Иллюзорн[а-яё]+ местност[а-яё]*",
+    "english": "illusory terrain",
+    "working_russian": "Иллюзорная местность"
+  },
+  {
+    "russian_pattern": "Скрыт[а-яё]+ воинств[а-яё]+",
+    "english": "hidden host",
+    "working_russian": "Скрытое воинство"
+  },
+  {
+    "russian_pattern": "Неугасающ[а-яё]+ образ[а-яё]*",
+    "english": "perpetual figment",
+    "working_russian": "Неугасающий образ"
+  },
+  {
+    "russian_pattern": "Телепати[а-яё]+",
+    "english": "telepathy",
+    "working_russian": "Телепатия"
+  },
+  {
+    "russian_pattern": "лёгк[а-яё]+ пехот[а-яё]*",
+    "english": "light infantry",
+    "working_russian": "Лёгкая пехота"
+  },
+  {
+    "russian_pattern": "тяжёл[а-яё]+ пехот[а-яё]*",
+    "english": "heavy infantry",
+    "working_russian": "Тяжёлая пехота"
+  },
+  {
+    "russian_pattern": "лёгк[а-яё]+ конниц[а-яё]*",
+    "english": "light cavalry",
+    "working_russian": "Лёгкая конница"
+  },
+  {
+    "russian_pattern": "тяжёл[а-яё]+ конниц[а-яё]*",
+    "english": "heavy cavalry",
+    "working_russian": "Тяжёлая конница"
+  },
+  {
+    "russian_pattern": "лёгк[а-яё]+ конник[а-яё]*",
+    "english": "light cavalry",
+    "working_russian": "Лёгкая конница"
+  },
+  {
+    "russian_pattern": "тяжёл[а-яё]+ конник[а-яё]*",
+    "english": "heavy cavalry",
+    "working_russian": "Тяжёлая конница"
+  },
+  {
+    "russian_pattern": "всадник[а-яё]* на волк[а-яё]*",
+    "english": "wolf riders",
+    "working_russian": "Всадники на волках"
+  },
+  {
+    "russian_pattern": "всадник[а-яё]* на звер[а-яё]*",
+    "english": "beast riders",
+    "working_russian": "Всадники на зверях"
+  },
+  {
+    "russian_pattern": "конн[а-яё]+ лучник[а-яё]*",
+    "english": "horse archers",
+    "working_russian": "Конные лучники"
+  },
+  {
+    "russian_pattern": "боев[а-яё]+ слон[а-яё]*",
+    "english": "war elephants",
+    "working_russian": "Боевые слоны"
+  },
+  {
+    "russian_pattern": "осадн[а-яё]+ оруди[а-яё]+",
+    "english": "siege weapons",
+    "working_russian": "Осадные орудия"
+  },
+  {
+    "russian_pattern": "осадн[а-яё]+ башн[а-яё]+",
+    "english": "siege towers",
+    "working_russian": "Осадные башни"
+  },
+  {
+    "russian_pattern": "подъёмник[а-яё]*",
+    "english": "hoists",
+    "working_russian": "Подъёмники"
+  },
+  {
+    "russian_pattern": "бур(?:ы|ов|ами|а|у|ом|е)?",
+    "english": "screws",
+    "working_russian": "Буры"
+  },
+  {
+    "russian_pattern": "таран[а-яё]*",
+    "english": "battering rams",
+    "working_russian": "Тараны"
+  },
+  {
+    "russian_pattern": "ездов[а-яё]+ животн[а-яё]*",
+    "english": "mount",
+    "working_russian": "Ездовое животное"
+  },
+  {
+    "russian_pattern": "моральн[а-яё]+ бедстви[а-яё]+",
+    "english": "morale calamity",
+    "working_russian": "Бедствие морали"
+  },
+  {
+    "russian_pattern": "бедстви[а-яё]+",
+    "english": "calamity",
+    "working_russian": "Бедствие"
+  },
+  {
+    "russian_pattern": "превратност[а-яё]*",
+    "english": "vagary",
+    "working_russian": "Превратность"
+  },
+  {
+    "russian_pattern": "спасброс[а-яё]+",
+    "english": "saving throw",
+    "working_russian": "Спасбросок"
+  },
+  {
+    "russian_pattern": "Очк[а-яё]+ Здоровья",
+    "english": "hit points",
+    "working_russian": "Очки Здоровья"
+  },
+  {
+    "russian_pattern": "ОЗ",
+    "english": "hp",
+    "working_russian": "ОЗ"
+  },
+  {
+    "russian_pattern": "КЗ",
+    "english": "HD",
+    "working_russian": "КЗ"
+  },
+  {
+    "russian_pattern": "ХАР",
+    "english": "CHA",
+    "working_russian": "ХАР"
+  },
+  {
+    "russian_pattern": "Харизм[а-яё]*",
+    "english": "Charisma",
+    "working_russian": "Харизма"
+  },
+  {
+    "russian_pattern": "БР",
+    "english": "BR",
+    "working_russian": "БР"
+  },
+  {
+    "russian_pattern": "ПИ",
+    "english": "PC",
+    "working_russian": "ПИ"
+  },
+  {
+    "russian_pattern": "НИП",
+    "english": "NPC",
+    "working_russian": "НИП"
+  },
+  {
+    "russian_pattern": "Арбитр[а-яё]*",
+    "english": "Judge",
+    "working_russian": "Арбитр"
+  },
+  {
+    "russian_pattern": "предводител[а-яё]*",
+    "english": "leader",
+    "working_russian": "Предводитель"
+  },
+  {
+    "russian_pattern": "командир[а-яё]*",
+    "english": "commander",
+    "working_russian": "Командир"
+  },
+  {
+    "russian_pattern": "арм(?:ия|ии|ию|ией|ий|иям|иями|иях)",
+    "english": "army",
+    "working_russian": "Армия"
+  },
+  {
+    "russian_pattern": "соединени[а-яё]+",
+    "english": "division",
+    "working_russian": "Соединение"
+  },
+  {
+    "russian_pattern": "подразделени[а-яё]+",
+    "english": "unit",
+    "working_russian": "Подразделение"
+  },
+  {
+    "russian_pattern": "Домен[а-яё]*",
+    "english": "domain",
+    "working_russian": "Домен"
+  },
+  {
+    "russian_pattern": "Владени[а-яё]+",
+    "english": "realm",
+    "working_russian": "Владение"
+  },
+  {
+    "russian_pattern": "гарнизон[а-яё]*",
+    "english": "garrison",
+    "working_russian": "Гарнизон"
+  },
+  {
+    "russian_pattern": "крепост[а-яё]*",
+    "english": "stronghold",
+    "working_russian": "Крепость"
+  },
+  {
+    "russian_pattern": "конниц[а-яё]*",
+    "english": "cavalry",
+    "working_russian": "Конница"
+  },
+  {
+    "russian_pattern": "пехот[а-яё]*",
+    "english": "infantry",
+    "working_russian": "Пехота"
+  },
+  {
+    "russian_pattern": "авангард[а-яё]*",
+    "english": "vanguard",
+    "working_russian": "Авангард"
+  },
+  {
+    "russian_pattern": "арьергард[а-яё]*",
+    "english": "rear guard",
+    "working_russian": "Арьергард"
+  },
+  {
+    "russian_pattern": "главн[а-яё]+ сил[а-яё]*",
+    "english": "main body",
+    "working_russian": "Главные силы"
+  },
+  {
+    "russian_pattern": "инициатив[а-яё]*",
+    "english": "initiative",
+    "working_russian": "Инициатива"
+  },
+  {
+    "russian_pattern": "снабжени[а-яё]+",
+    "english": "supply",
+    "working_russian": "Снабжение"
+  },
+  {
+    "russian_pattern": "припас[а-яё]*",
+    "english": "supplies",
+    "working_russian": "Припасы"
+  },
+  {
+    "russian_pattern": "реквизиц[а-яё]*",
+    "english": "requisitioning",
+    "working_russian": "Реквизиция"
+  },
+  {
+    "russian_pattern": "реквизир[а-яё]*",
+    "english": "requisition",
+    "working_russian": "Реквизировать"
+  },
+  {
+    "russian_pattern": "захват[а-яё]* припас[а-яё]*",
+    "english": "looting supplies",
+    "working_russian": "Захват припасов"
+  },
+  {
+    "russian_pattern": "разграб[а-яё]*",
+    "english": "pillaging",
+    "working_russian": "Разграбление"
+  },
+  {
+    "russian_pattern": "оккупац[а-яё]*",
+    "english": "occupation",
+    "working_russian": "Оккупация"
+  },
+  {
+    "russian_pattern": "оккупир[а-яё]*",
+    "english": "occupied",
+    "working_russian": "Оккупированный"
+  },
+  {
+    "russian_pattern": "завоева[а-яё]*",
+    "english": "conquest",
+    "working_russian": "Завоевание"
+  },
+  {
+    "russian_pattern": "завоёва[а-яё]*",
+    "english": "conquered",
+    "working_russian": "Завоёванный"
+  },
+  {
+    "russian_pattern": "вторжени[а-яё]+",
+    "english": "invasion",
+    "working_russian": "Вторжение"
+  },
+  {
+    "russian_pattern": "вторг[а-яё]*",
+    "english": "invaded",
+    "working_russian": "Вторгшийся"
+  },
+  {
+    "russian_pattern": "Происк[а-яё]*",
+    "english": "Hijinks",
+    "working_russian": "Происки"
+  },
+  {
+    "russian_pattern": "синдикат[а-яё]*",
+    "english": "syndicate",
+    "working_russian": "Синдикат"
+  },
+  {
+    "russian_pattern": "исполнител[а-яё]*",
+    "english": "perpetrator",
+    "working_russian": "Исполнитель"
+  },
+  {
+    "russian_pattern": "заказн[а-яё]+ убийств[а-яё]*",
+    "english": "assassinating",
+    "working_russian": "Заказное убийство"
+  },
+  {
+    "russian_pattern": "кутеж[а-яё]*",
+    "english": "carousing",
+    "working_russian": "Кутежи"
+  },
+  {
+    "russian_pattern": "саботаж[а-яё]*",
+    "english": "sabotaging",
+    "working_russian": "Саботаж"
+  },
+  {
+    "russian_pattern": "клевет[а-яё]*",
+    "english": "slandering",
+    "working_russian": "Клевета"
+  },
+  {
+    "russian_pattern": "шпионаж[а-яё]*",
+    "english": "spying",
+    "working_russian": "Шпионаж"
+  },
+  {
+    "russian_pattern": "краж[а-яё]*",
+    "english": "stealing",
+    "working_russian": "Кража"
+  },
+  {
+    "russian_pattern": "подрыв[а-яё]*",
+    "english": "subverting",
+    "working_russian": "Подрыв"
+  },
+  {
+    "russian_pattern": "подстрекательств[а-яё]* к мятежу",
+    "english": "sedition",
+    "working_russian": "Подстрекательство к мятежу"
+  },
+  {
+    "russian_pattern": "заступничеств[а-яё]*",
+    "english": "interpleader",
+    "working_russian": "Заступничество"
+  },
+  {
+    "russian_pattern": "Мировоззрени[а-яё]+",
+    "english": "alignment",
+    "working_russian": "Мировоззрение"
+  },
+  {
+    "russian_pattern": "Наёмник[а-яё]*",
+    "english": "mercenary",
+    "working_russian": "Наёмник"
+  },
+  {
+    "russian_pattern": "Нейтральн[а-яё]+",
+    "english": "Neutral",
+    "working_russian": "Нейтральный"
+  },
+  {
+    "russian_pattern": "нехаотичн[а-яё]+",
+    "english": "non-Chaotic",
+    "working_russian": "Нехаотичный"
+  },
+  {
+    "russian_pattern": "страж[а-яё]* руин",
+    "english": "ruinguard",
+    "working_russian": "Страж руин"
+  },
+  {
+    "russian_pattern": "воин[а-яё]*",
+    "english": "troops",
+    "working_russian": "Воины"
+  },
+  {
+    "russian_pattern": "бригад[а-яё]*",
+    "english": "brigade",
+    "working_russian": "Бригада"
+  },
+  {
+    "russian_pattern": "батальон[а-яё]*",
+    "english": "battalion",
+    "working_russian": "Батальон"
+  },
+  {
+    "russian_pattern": "рот(?:а|ы|е|у|ой|ами|ам|ах)",
+    "english": "company",
+    "working_russian": "Рота"
+  },
+  {
+    "russian_pattern": "взвод[а-яё]*",
+    "english": "platoon",
+    "working_russian": "Взвод"
+  },
+  {
+    "russian_pattern": "гекс(?:а|у|ом|е|ы|ов|ам|ами|ах)?",
+    "english": "hex",
+    "working_russian": "Гекс"
+  },
+  {
+    "russian_pattern": "стоун[а-яё]*",
+    "english": "stone",
+    "working_russian": "Стоун"
+  },
+  {
+    "russian_pattern": "экспедиц[а-яё]*",
+    "english": "expedition",
+    "working_russian": "Экспедиция"
+  },
+  {
+    "russian_pattern": "Опыт[а-яё]*",
+    "english": "XP",
+    "working_russian": "Опыт"
+  },
+  {
+    "russian_pattern": "регион(?:а|у|ом|е|ы|ов|ам|ами|ах)?",
+    "english": "region",
+    "working_russian": "Регион"
+  },
+  {
+    "russian_pattern": "пленн[а-яё]+",
+    "english": "prisoner",
+    "working_russian": "Пленный"
+  },
+  {
+    "russian_pattern": "заклинател[а-яё]*",
+    "english": "spellcaster",
+    "working_russian": "Заклинатель"
+  },
+  {
+    "russian_pattern": "навык[а-яё]*",
+    "english": "proficiency",
+    "working_russian": "Навык"
+  },
+  {
+    "russian_pattern": "дан[ьиь][а-яё]*",
+    "english": "tribute",
+    "working_russian": "Дань"
+  },
+  {
+    "russian_pattern": "вассал[а-яё]*",
+    "english": "vassal",
+    "working_russian": "Вассал"
+  },
+  {
+    "russian_pattern": "подвассал[а-яё]*",
+    "english": "sub-vassal",
+    "working_russian": "Подвассал"
+  },
+  {
+    "russian_pattern": "мороз[а-яё]*",
+    "english": "frigid",
+    "working_russian": "Мороз"
+  },
+  {
+    "russian_pattern": "снегопад[а-яё]*",
+    "english": "snowy",
+    "working_russian": "Снегопад"
+  },
+  {
+    "russian_pattern": "зной[а-яё]*",
+    "english": "sweltering",
+    "working_russian": "Зной"
+  }
+]

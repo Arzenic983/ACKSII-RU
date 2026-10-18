@@ -1,0 +1,372 @@
+{
+  "date": "2026-10-17",
+  "sources": [
+    "ACKSII/Глоссарий.md",
+    "ACKSII/База перевода/glossary.json",
+    "ACKSII/База перевода/bilingual_terms.md"
+  ],
+  "matched_condition_headings": 60,
+  "records": [
+    {
+      "id": "rr.p0509.b014",
+      "english": "BEHOLDING",
+      "glossary_russian": "Наблюдающий",
+      "russian_heading": "Наблюдающий"
+    },
+    {
+      "id": "rr.p0509.b018",
+      "english": "BERSERK",
+      "glossary_russian": "Берсерк",
+      "russian_heading": "Берсерк"
+    },
+    {
+      "id": "rr.p0509.b024",
+      "english": "BEWITCHED",
+      "glossary_russian": "Околдованный",
+      "russian_heading": "Околдованный"
+    },
+    {
+      "id": "rr.p0510.b001",
+      "english": "BLESSED / INSPIRED",
+      "glossary_russian": "Благословленный/Воодушевленный",
+      "russian_heading": "Благословлённый / Воодушевлённый"
+    },
+    {
+      "id": "rr.p0510.b004",
+      "english": "BLINDED",
+      "glossary_russian": "Ослепленный",
+      "russian_heading": "Ослеплённый"
+    },
+    {
+      "id": "rr.p0510.b009",
+      "english": "BURNING",
+      "glossary_russian": "Горящий",
+      "russian_heading": "Горящий"
+    },
+    {
+      "id": "rr.p0510.b012",
+      "english": "CHARGING",
+      "glossary_russian": "В натиске",
+      "russian_heading": "В натиске"
+    },
+    {
+      "id": "rr.p0510.b016",
+      "english": "CHOKING / VOMITING",
+      "glossary_russian": "Удушение/Рвота",
+      "russian_heading": "Удушение / Рвота"
+    },
+    {
+      "id": "rr.p0510.b018",
+      "english": "CLAMBERING",
+      "glossary_russian": "Карабкающийся",
+      "russian_heading": "Карабкающийся"
+    },
+    {
+      "id": "rr.p0510.b021",
+      "english": "CONCENTRATING",
+      "glossary_russian": "Концентрирующийся",
+      "russian_heading": "Концентрирующийся"
+    },
+    {
+      "id": "rr.p0510.b027",
+      "english": "CONCENTRATING AND STATIONARY",
+      "glossary_russian": "Концентрирующийся и Неподвижно",
+      "russian_heading": "Неподвижно концентрирующийся"
+    },
+    {
+      "id": "rr.p0510.b032",
+      "english": "COWERING",
+      "glossary_russian": "Трясущийся",
+      "russian_heading": "Трясущийся"
+    },
+    {
+      "id": "rr.p0510.b035",
+      "english": "DEAFENED",
+      "glossary_russian": "Глухой",
+      "russian_heading": "Глухой"
+    },
+    {
+      "id": "rr.p0510.b042",
+      "english": "DEHYDRATED",
+      "glossary_russian": "Обезвоженный",
+      "russian_heading": "Обезвоженный"
+    },
+    {
+      "id": "rr.p0510.b047",
+      "english": "DISFAVORED",
+      "glossary_russian": "Неугодный",
+      "russian_heading": "Неугодный"
+    },
+    {
+      "id": "rr.p0511.b001",
+      "english": "DISORDERED",
+      "glossary_russian": "В беспорядке",
+      "russian_heading": "В беспорядке"
+    },
+    {
+      "id": "rr.p0511.b004",
+      "english": "DOMINATED",
+      "glossary_russian": "ЗАДОМИНИРОВАННЫЙ",
+      "russian_heading": "Задоминированный"
+    },
+    {
+      "id": "rr.p0511.b007",
+      "english": "DROWNING",
+      "glossary_russian": "Утопающий",
+      "russian_heading": "Утопающий"
+    },
+    {
+      "id": "rr.p0511.b014",
+      "english": "ENERVATED",
+      "glossary_russian": "Обессиленный",
+      "russian_heading": "Обессиленный"
+    },
+    {
+      "id": "rr.p0511.b017",
+      "english": "ENGAGED",
+      "glossary_russian": "Вплотную",
+      "russian_heading": "Вплотную"
+    },
+    {
+      "id": "rr.p0511.b021",
+      "english": "ENLARGED",
+      "glossary_russian": "Увеличенный",
+      "russian_heading": "Увеличенный"
+    },
+    {
+      "id": "rr.p0512.b001",
+      "english": "ENSLAVED",
+      "glossary_russian": "Порабощенный",
+      "russian_heading": "Порабощённый"
+    },
+    {
+      "id": "rr.p0512.b005",
+      "english": "ENTHRALLED",
+      "glossary_russian": "Одурманенный",
+      "russian_heading": "Одурманенный"
+    },
+    {
+      "id": "rr.p0512.b010",
+      "english": "FALTERING",
+      "glossary_russian": "Нерешительный",
+      "russian_heading": "Нерешительный"
+    },
+    {
+      "id": "rr.p0512.b012",
+      "english": "FATIGUED",
+      "glossary_russian": "Истощённый",
+      "russian_heading": "Истощённый"
+    },
+    {
+      "id": "rr.p0512.b017",
+      "english": "FLANKED",
+      "glossary_russian": "Фланкированный",
+      "russian_heading": "Фланкированный"
+    },
+    {
+      "id": "rr.p0512.b020",
+      "english": "FORGETFUL",
+      "glossary_russian": "Забывчивый",
+      "russian_heading": "Забывчивый"
+    },
+    {
+      "id": "rr.p0513.b001",
+      "english": "FRIGHTENED",
+      "glossary_russian": "Устрашенный",
+      "russian_heading": "Устрашённый"
+    },
+    {
+      "id": "rr.p0513.b006",
+      "english": "GRABBED",
+      "glossary_russian": "Схваченный",
+      "russian_heading": "Схваченный"
+    },
+    {
+      "id": "rr.p0513.b013",
+      "english": "HELPLESS",
+      "glossary_russian": "Беспомощный",
+      "russian_heading": "Беспомощный"
+    },
+    {
+      "id": "rr.p0513.b017",
+      "english": "HIDDEN",
+      "glossary_russian": "Спрятанный",
+      "russian_heading": "Спрятанный"
+    },
+    {
+      "id": "rr.p0513.b022",
+      "english": "HUNGRY",
+      "glossary_russian": "Голодный",
+      "russian_heading": "Голодный"
+    },
+    {
+      "id": "rr.p0513.b026",
+      "english": "HYPOTHERMIC",
+      "glossary_russian": "переохлажденный",
+      "russian_heading": "Переохлаждённый"
+    },
+    {
+      "id": "rr.p0513.b032",
+      "english": "IMMUNE",
+      "glossary_russian": "Неуязвимый",
+      "russian_heading": "Неуязвимый"
+    },
+    {
+      "id": "rr.p0513.b035",
+      "english": "INCAPACITATED",
+      "glossary_russian": "Недееспособный",
+      "russian_heading": "Недееспособный"
+    },
+    {
+      "id": "rr.p0513.b041",
+      "english": "INFURIATED",
+      "glossary_russian": "Разъяренный",
+      "russian_heading": "Разъярённый"
+    },
+    {
+      "id": "rr.p0514.b001",
+      "english": "MESMERIZED",
+      "glossary_russian": "Загипнотизированный",
+      "russian_heading": "Загипнотизированный"
+    },
+    {
+      "id": "rr.p0514.b005",
+      "english": "MAD",
+      "glossary_russian": "Безумный",
+      "russian_heading": "Безумный"
+    },
+    {
+      "id": "rr.p0514.b009",
+      "english": "MUTE",
+      "glossary_russian": "Немой",
+      "russian_heading": "Немой"
+    },
+    {
+      "id": "rr.p0514.b011",
+      "english": "PARALYZED",
+      "glossary_russian": "Парализованный",
+      "russian_heading": "Парализованный"
+    },
+    {
+      "id": "rr.p0514.b013",
+      "english": "PETRIFIED",
+      "glossary_russian": "Окаменевший",
+      "russian_heading": "Окаменевший"
+    },
+    {
+      "id": "rr.p0514.b018",
+      "english": "PRONE",
+      "glossary_russian": "Опрокинутый",
+      "russian_heading": "Опрокинутый"
+    },
+    {
+      "id": "rr.p0514.b024",
+      "english": "QUEASY",
+      "glossary_russian": "Недомогание",
+      "russian_heading": "Недомогание"
+    },
+    {
+      "id": "rr.p0515.b001",
+      "english": "RESISTANT",
+      "glossary_russian": "Устойчивый",
+      "russian_heading": "Устойчивый"
+    },
+    {
+      "id": "rr.p0515.b004",
+      "english": "RESTRAINED",
+      "glossary_russian": "Скованный",
+      "russian_heading": "Скованный"
+    },
+    {
+      "id": "rr.p0515.b013",
+      "english": "SHAKEN",
+      "glossary_russian": "Трясущийся",
+      "russian_heading": "Трясущийся"
+    },
+    {
+      "id": "rr.p0515.b015",
+      "english": "SHRUNK",
+      "glossary_russian": "Сжатый",
+      "russian_heading": "Сжатый"
+    },
+    {
+      "id": "rr.p0515.b019",
+      "english": "SLUMBERING",
+      "glossary_russian": "Дремлющий",
+      "russian_heading": "Дремлющий"
+    },
+    {
+      "id": "rr.p0515.b025",
+      "english": "STARVING",
+      "glossary_russian": "Оголодавший",
+      "russian_heading": "Оголодавший"
+    },
+    {
+      "id": "rr.p0515.b031",
+      "english": "SNEAKING",
+      "glossary_russian": "Крадущийся",
+      "russian_heading": "Крадущийся"
+    },
+    {
+      "id": "rr.p0516.b001",
+      "english": "STUCK",
+      "glossary_russian": "Застрявшая",
+      "russian_heading": "Застрявший"
+    },
+    {
+      "id": "rr.p0516.b008",
+      "english": "SUBJACENT",
+      "glossary_russian": "Нижестоящий",
+      "russian_heading": "Нижестоящий"
+    },
+    {
+      "id": "rr.p0516.b010",
+      "english": "SURPRISED",
+      "glossary_russian": "Ошарашен",
+      "russian_heading": "Ошарашен"
+    },
+    {
+      "id": "rr.p0516.b014",
+      "english": "UNCONSCIOUS",
+      "glossary_russian": "Бессознательный",
+      "russian_heading": "Бессознательный"
+    },
+    {
+      "id": "rr.p0516.b021",
+      "english": "UNDERFED",
+      "glossary_russian": "Недокормленный",
+      "russian_heading": "Недокормленный"
+    },
+    {
+      "id": "rr.p0516.b027",
+      "english": "VEXED",
+      "glossary_russian": "Раздраженный",
+      "russian_heading": "Раздражённый"
+    },
+    {
+      "id": "rr.p0516.b030",
+      "english": "VULNERABLE",
+      "glossary_russian": "Уязвимый",
+      "russian_heading": "Уязвимый"
+    },
+    {
+      "id": "rr.p0516.b036",
+      "english": "WEBBED",
+      "glossary_russian": "Опутанный",
+      "russian_heading": "Опутанный"
+    },
+    {
+      "id": "rr.p0517.b001",
+      "english": "WINDED",
+      "glossary_russian": "Запыхавшийся",
+      "russian_heading": "Запыхавшийся"
+    },
+    {
+      "id": "rr.p0517.b006",
+      "english": "WRESTLED",
+      "glossary_russian": "Скрученный",
+      "russian_heading": "Скрученный"
+    }
+  ],
+  "notes": "Формы сверены вручную. Ё/е, регистр и согласование рода изменяются по контексту. Совпадающие Cowering/Shaken и варианты со знаком вопроса сохранены и отмечены. Sneaking как навык и состояние различаются. Утверждённый словарь не изменён."
+}

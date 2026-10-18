@@ -1,0 +1,64 @@
+{
+  "reviewer": "Codex integrator",
+  "changes": {
+    "exact_chapter4_hiring_heading": [
+      "rr.p0430.b006"
+    ],
+    "unified_break_point": [
+      "rr.p0435.b007",
+      "rr.p0435.b013"
+    ],
+    "grammar": [
+      "rr.p0437.b004"
+    ],
+    "terminology": [
+      "rr.p0430.t01.r019.c01",
+      "rr.p0431.t01.r013.c01",
+      "rr.p0431.t02.r013.c01",
+      "rr.p0433.t01.r013.c01",
+      "rr.p0433.t02.r013.c01",
+      "rr.p0444.b006",
+      "rr.p0441.t01.r017.c01",
+      "rr.p0441.t01.r019.c01",
+      "rr.p0441.t02.r020.c01",
+      "rr.p0441.t02.r022.c01",
+      "rr.p0441.t02.r023.c01",
+      "rr.p0442.t01.r019.c01",
+      "rr.p0442.t01.r021.c01",
+      "rr.p0442.t01.r022.c01",
+      "rr.p0443.t01.r010.c01",
+      "rr.p0443.t01.r022.c01"
+    ],
+    "translation_precision": [
+      "rr.p0434.b012"
+    ]
+  },
+  "working_terms_only": true,
+  "note": "Конница, квартирмейстер и типы всадников унифицированы в русских формах; английские подписи и все числа сохранены. Независимые отчёты относятся к снимкам до этих редакционных уточнений.",
+  "final_terminology_and_precision_updates": [
+    "rr.p0434.b012",
+    "rr.p0441.t01.r017.c01",
+    "rr.p0441.t02.r003.c01",
+    "rr.p0441.t02.r008.c01",
+    "rr.p0441.t02.r020.c01",
+    "rr.p0442.t01.r002.c01",
+    "rr.p0442.t01.r007.c01",
+    "rr.p0442.t01.r019.c01",
+    "rr.p0443.t01.r003.c01",
+    "rr.p0443.t01.r005.c01",
+    "rr.p0443.t01.r030.c01"
+  ],
+  "final_grammar_and_leadership_updates": [
+    "rr.p0441.t02.r010.c01",
+    "rr.p0442.t01.r009.c01",
+    "rr.p0443.t01.r029.c01"
+  ],
+  "display_render_fix": "BW/F1/D0 оформляются данными, групповые строки TROOPS сохраняют английскую строку.",
+  "arithmetic_source_notes": [
+    "rr.p0433.t02.r006.c06",
+    "rr.p0433.t02.r018.c06",
+    "rr.p0433.t02.r019.c06",
+    "rr.p0433.t02.r021.c06"
+  ],
+  "wolf_rider_final_inflection": "rr.p0446.t01.r010.c01"
+}

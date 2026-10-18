@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-17",
+  "primary_source": "EN checked.md; all 12 page bodies equal database source",
+  "source_pdf_pages_inspected": [465, 468],
+  "russian_page_regions_inspected": [473],
+  "russian_full_table_images_inspected": ["rr.p0463.t01", "rr.p0463.t02", "rr.p0463.t03", "rr.p0465.t01", "rr.p0465.t02", "rr.p0470.t01"],
+  "russian_formula_inspected": ["rr.p0468.b003", "rr.p0468.b004"],
+  "viewport": [1500, 1800],
+  "browser": "Headless Microsoft Edge via Playwright",
+  "observations": "Сохранены матрицы, пустые ячейки схемы и зеркальность зон. Таблица БР читаема, подписи меньшим размером ниже русских заголовков. Дробная формула имеет видимую черту, знаменатель непосредственно под числителем, примечание вынесено после всей дроби. В проверенных пяти HTML-образцах нет горизонтального переполнения.",
+  "full_russian_visual_review": false,
+  "limits": "Просмотр выборочный: наличие снимка само по себе не считается визуальной вычиткой всех его областей. Полный текст и геометрия всех 11 таблиц проверены технически отдельно."
+}

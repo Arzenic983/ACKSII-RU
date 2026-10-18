@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-17",
+  "chapter": "11",
+  "scope": [
+    462,
+    473
+  ],
+  "first_id": "rr.p0462.b001",
+  "last_id": "rr.p0473.b013",
+  "units": 618,
+  "tables": {
+    "rr.p0463.t01": {
+      "rows": 5,
+      "columns": 4,
+      "source_cells": 17,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0463.t02": {
+      "rows": 5,
+      "columns": 4,
+      "source_cells": 17,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0463.t03": {
+      "rows": 5,
+      "columns": 4,
+      "source_cells": 17,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0465.t01": {
+      "rows": 19,
+      "columns": 12,
+      "source_cells": 228,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0465.t02": {
+      "rows": 4,
+      "columns": 3,
+      "source_cells": 8,
+      "empty_unrepresented_positions": 4
+    },
+    "rr.p0467.t01": {
+      "rows": 5,
+      "columns": 2,
+      "source_cells": 10,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0468.t01": {
+      "rows": 8,
+      "columns": 2,
+      "source_cells": 16,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0468.t02": {
+      "rows": 17,
+      "columns": 3,
+      "source_cells": 51,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0470.t01": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 12,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0470.t02": {
+      "rows": 13,
+      "columns": 2,
+      "source_cells": 24,
+      "empty_unrepresented_positions": 2
+    },
+    "rr.p0471.t01": {
+      "rows": 5,
+      "columns": 2,
+      "source_cells": 10,
+      "empty_unrepresented_positions": 0
+    }
+  },
+  "notes": 17,
+  "headings": 41,
+  "status": "reviewed_by_Codex",
+  "integrated": true
+}

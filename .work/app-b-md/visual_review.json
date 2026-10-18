@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-17",
+  "source_pdf_pages_inspected": [
+    511,
+    516
+  ],
+  "russian_paragraph_images_inspected": [
+    "rr.p0510.b028",
+    "rr.p0510.b033",
+    "rr.p0511.b023",
+    "rr.p0515.b010",
+    "rr.p0515.b014",
+    "rr.p0515.b018",
+    "rr.p0516.b028",
+    "rr.p0516.b033",
+    "rr.p0516.b042",
+    "rr.p0516.b043",
+    "rr.p0517.b008"
+  ],
+  "all_10_samples_without_horizontal_overflow": true,
+  "full_russian_visual_review": false,
+  "limits": "Визуально просмотрены перечисленные 11 ключевых русских абзацев и две страницы оригинала. Вся проза 10 страниц визуально не проверялась; смысловая и техническая сверка охватывает все 283 единицы."
+}

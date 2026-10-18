@@ -1,0 +1,2552 @@
+{
+  "units": 30624,
+  "status": {
+    "reviewed": 30624
+  },
+  "issues": [
+    {
+      "id": 1,
+      "unit_id": null,
+      "category": "glossary",
+      "state": "open",
+      "detail": "В ReadMe.docx указано «Nobiran wonderworker — Нобирийский чудотворцец?». Вероятная опечатка и вопросительная помета.",
+      "resolution": "В текущем переводе сохранено написание словаря. Предложение: Нобирийский чудотворец. Требует решения владельца словаря."
+    },
+    {
+      "id": 2,
+      "unit_id": null,
+      "category": "glossary",
+      "state": "open",
+      "detail": "В словаре есть предварительные пометы и варианты: Фокусничество?, Реликварианизм, Ведьма / Ворожей и другие.",
+      "resolution": "Сохранены выбранные словарные формы и все исходные пометы; спорные варианты не выданы за утверждённые пользователем."
+    },
+    {
+      "id": 3,
+      "unit_id": "rr.p0002.b006",
+      "category": "source",
+      "state": "open",
+      "detail": "На обложке оригинала указано 18 классов; в оглавлении и главе 2 перечислен 21 класс.",
+      "resolution": "Переведено исходное число 18; это расхождение оригинала, а не ошибка извлечения."
+    },
+    {
+      "id": 4,
+      "unit_id": "rr.p0020.b011",
+      "category": "source",
+      "state": "open",
+      "detail": "Ссылка на Appendix A (p. 487) ведёт к началу текста сеттинга; заставка приложения на печатной стр. 486.",
+      "resolution": "Сохранена ссылка оригинала. В базе физическая и печатная нумерация хранятся отдельно."
+    },
+    {
+      "id": 5,
+      "unit_id": "rr.p0019.t01.r002.c02",
+      "category": "draft",
+      "state": "resolved",
+      "detail": "В старом черновике скорость в бою для ненагруженного персонажа: 30 вместо 40 футов за раунд.",
+      "resolution": "Исправлено: 40 футов за раунд, как в PDF."
+    },
+    {
+      "id": 6,
+      "unit_id": "rr.p0016.b010",
+      "category": "draft",
+      "state": "resolved",
+      "detail": "Черновик связывал лимит Харизмы с наёмниками.",
+      "resolution": "Исправлено: лимит относится к приспешникам (henchmen)."
+    },
+    {
+      "id": 7,
+      "unit_id": "rr.p0017.b023",
+      "category": "draft",
+      "state": "resolved",
+      "detail": "Черновик неверно описывал потерю бонусов при использовании оружия или доспехов без владения ими.",
+      "resolution": "Исправлено: не применяются бонусы атрибутов к атаке и КБ; сохранены все прочие ограничения."
+    },
+    {
+      "id": 8,
+      "unit_id": "rr.p0021.b004",
+      "category": "draft",
+      "state": "resolved",
+      "detail": "Черновик утверждал, что эльфы и нобирийцы не достигают взрослого возраста.",
+      "resolution": "Исправлено: они не стареют дальше взрослого возраста."
+    },
+    {
+      "id": 9,
+      "unit_id": "rr.p0016.b013",
+      "category": "draft",
+      "state": "resolved",
+      "detail": "В исходном переводе отсутствовал отдельный абзац о минимальном значении каждого ключевого атрибута.",
+      "resolution": "Восстановлено: не менее 9 в каждом ключевом атрибуте плюс дополнительные требования класса."
+    },
+    {
+      "id": 10,
+      "unit_id": "rr.p0018.b004",
+      "category": "draft",
+      "state": "resolved",
+      "detail": "Черновик путал перебрасывание костей здоровья и переписывание ОЗ.",
+      "resolution": "Уточнены повторный бросок всех КЗ, минимум прироста +1 ОЗ и правила 10-го и последующих уровней."
+    },
+    {
+      "id": 11,
+      "unit_id": "rr.p0020.b004",
+      "category": "draft",
+      "state": "resolved",
+      "detail": "Черновик подменял примеры комплектов предметов и ошибался в пересчёте фунтов.",
+      "resolution": "Восстановлены исходные единицы и примеры: 6 железных шипов, 20 стрел. Добавленные метрические пересчёты удалены."
+    },
+    {
+      "id": 12,
+      "unit_id": "rr.p0020.b015",
+      "category": "draft",
+      "state": "resolved",
+      "detail": "Черновик терял правило грамотности во всех известных языках.",
+      "resolution": "Восстановлено: при Интеллекте не ниже среднего персонаж грамотен во всех языках, на которых говорит."
+    },
+    {
+      "id": 13,
+      "unit_id": "rr.p0023.b007",
+      "category": "draft",
+      "state": "resolved",
+      "detail": "В черновике отсутствовало правило прерывания продолжительных занятий.",
+      "resolution": "Восстановлено: обычно занятие можно прервать без штрафа или нарушения хода работы."
+    },
+    {
+      "id": 14,
+      "unit_id": "rr.p0007.t01.r158.c01",
+      "category": "glossary",
+      "state": "resolved",
+      "detail": "Skysos в оглавлении обозначает народ, а не страну.",
+      "resolution": "Использована словарная форма Скизийцы; Скизия сохраняется как название страны."
+    },
+    {
+      "id": 15,
+      "unit_id": null,
+      "category": "review_scope",
+      "state": "documented",
+      "detail": "Проверка английского извлечения всей книги: кодировки, специальные значки, таблицы, порядок и полнота текста.",
+      "resolution": "Построчная смысловая вычитка английского оригинала вне PDF 1–23 не выполнялась. Дальнейшие главы имеют статус pending."
+    },
+    {
+      "id": 16,
+      "unit_id": "rr.p0019.b016",
+      "category": "glossary",
+      "state": "open",
+      "detail": "Traversing — прорывание в ReadMe. В оригинале это переправа через опасные участки, в том числе по верёвке над пропастью (PDF 271–272).",
+      "resolution": "Словарная форма сохранена. Предлагается Переправа; менять вместе со словарём после выбора владельца."
+    },
+    {
+      "id": 17,
+      "unit_id": "rr.p0006.t01.r066.c01",
+      "category": "glossary_context",
+      "state": "resolved",
+      "detail": "Запись Spells — от заклинаний относится к категории спасбросков.",
+      "resolution": "В названии главы и обычном тексте используется Заклинания; автоматическое применение записи другой категории исключено."
+    }
+  ],
+  "no_cyrillic": [
+    {
+      "id": "rr.p0001.b004",
+      "chapter_id": "front_matter",
+      "pdf_page": 1,
+      "printed_page": null,
+      "block_order": 4,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "AUTARCH",
+      "russian": "AUTARCH",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "c126b5c3fc3e549818f9d744613c3b29f3bdb4fa17d02cfff9aef291b2f3e53d",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0002.b008",
+      "chapter_id": "front_matter",
+      "pdf_page": 2,
+      "printed_page": null,
+      "block_order": 8,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "SKU: AUT2001",
+      "russian": "SKU: AUT2001",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "8ba511c2baf9257413a7803dd0d3509b92d74ccaf173d9b7a64c95c7292693f9",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0002.b009",
+      "chapter_id": "front_matter",
+      "pdf_page": 2,
+      "printed_page": null,
+      "block_order": 9,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "ISBN: 978-1-941956-70-0",
+      "russian": "ISBN: 978-1-941956-70-0",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "b5d25cba62c9dc6e0772ebae4cef3457ce349a58bf59983adf735068f1f1e489",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0002.b011",
+      "chapter_id": "front_matter",
+      "pdf_page": 2,
+      "printed_page": null,
+      "block_order": 11,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "AUTARCH",
+      "russian": "AUTARCH",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "c126b5c3fc3e549818f9d744613c3b29f3bdb4fa17d02cfff9aef291b2f3e53d",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0002.b012",
+      "chapter_id": "front_matter",
+      "pdf_page": 2,
+      "printed_page": null,
+      "block_order": 12,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "www.autarch.co",
+      "russian": "www.autarch.co",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "9b09b51b3d61b07dbd6d6503b541b023a91847470a9b9c1f6782de6bb6d2a62e",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0044.t01.r004.c01",
+      "chapter_id": "02",
+      "pdf_page": 44,
+      "printed_page": 42,
+      "block_order": 4,
+      "kind": "table_cell",
+      "table_id": "rr.p0044.t01",
+      "row_index": 3,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "III",
+      "russian": "III",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "Перевод главы 2 в Markdown; сверены исходник, глоссарий, числовые значения и структура таблиц. Редакторские сноски находятся рядом с текстом в Markdown.",
+      "source_sha256": "399dbc8659309a249da966067c99d646aca9aa7868a5962559b64f15f5e99005",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0164.t01.r004.c01",
+      "chapter_id": "04",
+      "pdf_page": 164,
+      "printed_page": 162,
+      "block_order": 6,
+      "kind": "table_cell",
+      "table_id": "rr.p0164.t01",
+      "row_index": 3,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "III",
+      "russian": "III",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "399dbc8659309a249da966067c99d646aca9aa7868a5962559b64f15f5e99005",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0186.t01.r001.c01",
+      "chapter_id": "05",
+      "pdf_page": 186,
+      "printed_page": 184,
+      "block_order": 23,
+      "kind": "table_cell",
+      "table_id": "rr.p0186.t01",
+      "row_index": 0,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "bst",
+      "russian": "bst",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "346cd2b49312f2f785fe6277e366cf4f30e529a7329473dd7a9f884a2f149e0d",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0186.t01.r002.c01",
+      "chapter_id": "05",
+      "pdf_page": 186,
+      "printed_page": 184,
+      "block_order": 23,
+      "kind": "table_cell",
+      "table_id": "rr.p0186.t01",
+      "row_index": 1,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "dth",
+      "russian": "dth",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "acf17eafa3c785e264a5883404114d9e0575d0640e6e6dfbe2d6a08297ade462",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0186.t01.r003.c01",
+      "chapter_id": "05",
+      "pdf_page": 186,
+      "printed_page": 184,
+      "block_order": 23,
+      "kind": "table_cell",
+      "table_id": "rr.p0186.t01",
+      "row_index": 2,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "det",
+      "russian": "det",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "3c2d493a01a75bfecc82d86ceb180a1318d50f3ec9ae1a8ca9eca8d26e527906",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0186.t01.r004.c01",
+      "chapter_id": "05",
+      "pdf_page": 186,
+      "printed_page": 184,
+      "block_order": 23,
+      "kind": "table_cell",
+      "table_id": "rr.p0186.t01",
+      "row_index": 3,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "elm(type)",
+      "russian": "elm(type)",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "b1be32af1b90865f67205b449e723a4fbd57be9db890e7508ca02eb671d16328",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0186.t01.r005.c01",
+      "chapter_id": "05",
+      "pdf_page": 186,
+      "printed_page": 184,
+      "block_order": 23,
+      "kind": "table_cell",
+      "table_id": "rr.p0186.t01",
+      "row_index": 4,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "enc",
+      "russian": "enc",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "5fb2ab76ed9bda034b192c48c7069359252fccda168d925acc0ae7d316c0b53e",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0186.t01.r006.c01",
+      "chapter_id": "05",
+      "pdf_page": 186,
+      "printed_page": 184,
+      "block_order": 23,
+      "kind": "table_cell",
+      "table_id": "rr.p0186.t01",
+      "row_index": 5,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "eso",
+      "russian": "eso",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "f45140f001d5fb767ec485571d50816400ad5be7c77e5942bad4a616ea1e0df3",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0186.t01.r007.c01",
+      "chapter_id": "05",
+      "pdf_page": 186,
+      "printed_page": 184,
+      "block_order": 23,
+      "kind": "table_cell",
+      "table_id": "rr.p0186.t01",
+      "row_index": 6,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "hea",
+      "russian": "hea",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "5a1e0d45e121352809c311d43593ad4b988165058eac3fba4892b41230cb8104",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0186.t01.r008.c01",
+      "chapter_id": "05",
+      "pdf_page": 186,
+      "printed_page": 184,
+      "block_order": 23,
+      "kind": "table_cell",
+      "table_id": "rr.p0186.t01",
+      "row_index": 7,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "ill",
+      "russian": "ill",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "c426a5fe614fcd11a22eeb458c5cdf6115b992c1724b529161ef6a4143bcee47",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0186.t01.r009.c01",
+      "chapter_id": "05",
+      "pdf_page": 186,
+      "printed_page": 184,
+      "block_order": 23,
+      "kind": "table_cell",
+      "table_id": "rr.p0186.t01",
+      "row_index": 8,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "mov",
+      "russian": "mov",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "30597b45d9f61353da91978a36f4760793833e482885e9fd0de8badfa601a049",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0186.t01.r010.c01",
+      "chapter_id": "05",
+      "pdf_page": 186,
+      "printed_page": 184,
+      "block_order": 23,
+      "kind": "table_cell",
+      "table_id": "rr.p0186.t01",
+      "row_index": 9,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "nec",
+      "russian": "nec",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "9d9b90817fc39231aedf8f19d5e19acde3e9421afff1018d942ecf9f2676176a",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0186.t01.r011.c01",
+      "chapter_id": "05",
+      "pdf_page": 186,
+      "printed_page": 184,
+      "block_order": 23,
+      "kind": "table_cell",
+      "table_id": "rr.p0186.t01",
+      "row_index": 10,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "pro",
+      "russian": "pro",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "07ed400759a0f606a8b5bfa84712aabe7d1b1c45cb6536c8a5727446b6647b84",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0186.t01.r012.c01",
+      "chapter_id": "05",
+      "pdf_page": 186,
+      "printed_page": 184,
+      "block_order": 23,
+      "kind": "table_cell",
+      "table_id": "rr.p0186.t01",
+      "row_index": 11,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "sum",
+      "russian": "sum",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "09f5ffef28309853265c4a98d0e56e1be522b6b402d8193594fd05103064fc6a",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0186.t01.r013.c01",
+      "chapter_id": "05",
+      "pdf_page": 186,
+      "printed_page": 184,
+      "block_order": 23,
+      "kind": "table_cell",
+      "table_id": "rr.p0186.t01",
+      "row_index": 12,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "trn",
+      "russian": "trn",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "1d22f9d56b97bde70e1b6a50b6a94372899a74f0194a0b232d66758e639b4049",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0186.t01.r014.c01",
+      "chapter_id": "05",
+      "pdf_page": 186,
+      "printed_page": 184,
+      "block_order": 23,
+      "kind": "table_cell",
+      "table_id": "rr.p0186.t01",
+      "row_index": 13,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "wal",
+      "russian": "wal",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "27a75a1c9d8f31b0bc4ca4889e25fe6413f00d78d8578a36e4cce1c38c452e45",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0196.b015",
+      "chapter_id": "05",
+      "pdf_page": 196,
+      "printed_page": 194,
+      "block_order": 15,
+      "kind": "verse",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "*O Calefa, elenor turl, ess danäs nëmäs imperen!*",
+      "russian": "*O Calefa, elenor turl, ess danäs nëmäs imperen!*",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "9f7cd57033295d108ec4c34c130d3c9eaf9b841d7dd48c7d57e46edf619a1d9a",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0372.t01.r004.c01",
+      "chapter_id": "08",
+      "pdf_page": 372,
+      "printed_page": 370,
+      "block_order": 24,
+      "kind": "table_cell",
+      "table_id": "rr.p0372.t01",
+      "row_index": 3,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "III",
+      "russian": "III",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "399dbc8659309a249da966067c99d646aca9aa7868a5962559b64f15f5e99005",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0381.t02.r004.c01",
+      "chapter_id": "08",
+      "pdf_page": 381,
+      "printed_page": 379,
+      "block_order": 8,
+      "kind": "table_cell",
+      "table_id": "rr.p0381.t02",
+      "row_index": 3,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "III",
+      "russian": "III",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "399dbc8659309a249da966067c99d646aca9aa7868a5962559b64f15f5e99005",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0385.t01.r004.c01",
+      "chapter_id": "08",
+      "pdf_page": 385,
+      "printed_page": 383,
+      "block_order": 6,
+      "kind": "table_cell",
+      "table_id": "rr.p0385.t01",
+      "row_index": 3,
+      "column_index": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "III",
+      "russian": "III",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "399dbc8659309a249da966067c99d646aca9aa7868a5962559b64f15f5e99005",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0438.b014",
+      "chapter_id": "09",
+      "pdf_page": 438,
+      "printed_page": 436,
+      "block_order": 14,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "***Domains at War: Battles.***",
+      "russian": "***Domains at War: Battles***.",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "cd876d3ea8cb239153e26c7153c6cbfacd5d877086822e1d93c5d48f5673aea2",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0454.t01.r003.c02",
+      "chapter_id": "10",
+      "pdf_page": 454,
+      "printed_page": 452,
+      "block_order": 13,
+      "kind": "table_cell",
+      "table_id": "rr.p0454.t01",
+      "row_index": 2,
+      "column_index": 1,
+      "rowspan": 1,
+      "colspan": 1,
+      "heading_level": null,
+      "english": "III",
+      "russian": "III",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "399dbc8659309a249da966067c99d646aca9aa7868a5962559b64f15f5e99005",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0533.b002",
+      "chapter_id": "D",
+      "pdf_page": 533,
+      "printed_page": null,
+      "block_order": 2,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "www.autarch.co",
+      "russian": "www.autarch.co",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "9b09b51b3d61b07dbd6d6503b541b023a91847470a9b9c1f6782de6bb6d2a62e",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0534.b002",
+      "chapter_id": "D",
+      "pdf_page": 534,
+      "printed_page": null,
+      "block_order": 2,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "www.autarch.co",
+      "russian": "www.autarch.co",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "9b09b51b3d61b07dbd6d6503b541b023a91847470a9b9c1f6782de6bb6d2a62e",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0535.b002",
+      "chapter_id": "D",
+      "pdf_page": 535,
+      "printed_page": null,
+      "block_order": 2,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "www.autarch.co",
+      "russian": "www.autarch.co",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "9b09b51b3d61b07dbd6d6503b541b023a91847470a9b9c1f6782de6bb6d2a62e",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0536.b002",
+      "chapter_id": "D",
+      "pdf_page": 536,
+      "printed_page": null,
+      "block_order": 2,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "www.autarch.co",
+      "russian": "www.autarch.co",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "9b09b51b3d61b07dbd6d6503b541b023a91847470a9b9c1f6782de6bb6d2a62e",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0537.b002",
+      "chapter_id": "D",
+      "pdf_page": 537,
+      "printed_page": null,
+      "block_order": 2,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "www.autarch.co",
+      "russian": "www.autarch.co",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "9b09b51b3d61b07dbd6d6503b541b023a91847470a9b9c1f6782de6bb6d2a62e",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0539.b004",
+      "chapter_id": "E",
+      "pdf_page": 539,
+      "printed_page": 537,
+      "block_order": 4,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Birch Boyer Delian Teak Charles Myers Emil Westenius",
+      "russian": "Birch Boyer Delian Teak Charles Myers Emil Westenius",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "ad6826a13068620659692a1f358d20db5b99b5766de9641711ee5d3fc01d596d",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0539.b005",
+      "chapter_id": "E",
+      "pdf_page": 539,
+      "printed_page": 537,
+      "block_order": 5,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "John Roberts Warduke Sherian",
+      "russian": "John Roberts Warduke Sherian",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "f6ca190ff0adcf73c60fad97f840a8ada01a1bb7b2ead3bca4c2af4a1571ed03",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0539.b007",
+      "chapter_id": "E",
+      "pdf_page": 539,
+      "printed_page": 537,
+      "block_order": 7,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Andrew Morris Bryant Szutka Anthony Trevino David Johnston Bobloblah Harrison Snodgrass",
+      "russian": "Andrew Morris Bryant Szutka Anthony Trevino David Johnston Bobloblah Harrison Snodgrass",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "4c0dd092859aff7a835f2361bf27b5dba38a8e2136059e0550690b899d3049aa",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0539.b008",
+      "chapter_id": "E",
+      "pdf_page": 539,
+      "printed_page": 537,
+      "block_order": 8,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Jeffrey Binder Jordan McCray Robert Whitcomb",
+      "russian": "Jeffrey Binder Jordan McCray Robert Whitcomb",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "980c75cde05afd062122c4ea9195dc366eafa136df6f23ac729af4cba830c86d",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0539.b010",
+      "chapter_id": "E",
+      "pdf_page": 539,
+      "printed_page": 537,
+      "block_order": 10,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Alex Mooney D. McGrane Brad \"KI6HDB\" Mitchell, XDM Kevin Mattes Casey Ludwig Kiyosakibear Chris Wakulik Mark R James",
+      "russian": "Alex Mooney D. McGrane Brad \"KI6HDB\" Mitchell, XDM Kevin Mattes Casey Ludwig Kiyosakibear Chris Wakulik Mark R James",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "63b0b0c0c1c8a01221233ca7c46cb4905a5727f99f9ab75ae5c0458aa159138a",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0539.b011",
+      "chapter_id": "E",
+      "pdf_page": 539,
+      "printed_page": 537,
+      "block_order": 11,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Matthew M. Teofilo Hurtado Milliardo Beercraft The Watchers at the Brink NorthScorpion R.D.",
+      "russian": "Matthew M. Teofilo Hurtado Milliardo Beercraft The Watchers at the Brink NorthScorpion R.D.",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "91e6052067ba38b8d2290c9bae39dd2ef42602e4f3f402590938129fab92c192",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0539.b013",
+      "chapter_id": "E",
+      "pdf_page": 539,
+      "printed_page": 537,
+      "block_order": 13,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Bryan V Porter GLUCK WUZ HEER! So was Glibb. Corey Brown Joseph Harvey Fred Liner MBK",
+      "russian": "Bryan V Porter GLUCK WUZ HEER! So was Glibb. Corey Brown Joseph Harvey Fred Liner MBK",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "72a0251b05d0565423c87bae0f6ff2b16815e5f5aa8c88592f44f994e15ddcdf",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0539.b014",
+      "chapter_id": "E",
+      "pdf_page": 539,
+      "printed_page": 537,
+      "block_order": 14,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Rob Heck Sage McLaughlin Shane Walden",
+      "russian": "Rob Heck Sage McLaughlin Shane Walden",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "5837242d8fe57f4a2d22a659f8c185426eaab621f0480fc8ffe85bc9ebcf6e88",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0539.b016",
+      "chapter_id": "E",
+      "pdf_page": 539,
+      "printed_page": 537,
+      "block_order": 16,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Andreas Andersen Eric Kraaier Contentronix, Inc. George Davidson Dan Vince Heather Szutka David Hazzard Jared Burrell DeadlyReed John Prisendorf",
+      "russian": "Andreas Andersen Eric Kraaier Contentronix, Inc. George Davidson Dan Vince Heather Szutka David Hazzard Jared Burrell DeadlyReed John Prisendorf",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "81d6f9fb5a0b687f5172aad7b08af43fad383894a24cc8b445b2bf0b65c59079",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0539.b017",
+      "chapter_id": "E",
+      "pdf_page": 539,
+      "printed_page": 537,
+      "block_order": 17,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Jonathan Oldenburg Newton E. Grant Kevin Conyers - ShockTohp Pierre Brun Mark Barnes Varcel Matt C.Ho WCSP Michael Strauss",
+      "russian": "Jonathan Oldenburg Newton E. Grant Kevin Conyers - ShockTohp Pierre Brun Mark Barnes Varcel Matt C.Ho WCSP Michael Strauss",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "3e609dba32f782c2d38b8cc876ebf0fe43f72586ca8fc8bca9ead4da8aab2ffe",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0539.b019",
+      "chapter_id": "E",
+      "pdf_page": 539,
+      "printed_page": 537,
+      "block_order": 19,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "“Krafty” Matt Kraft the Princeps of Al Derby the Imperial Imprint Alex Gates-Shannon “Pandino” Isaac Leinen Alex J. Taylor @ARRGETSTUFFED Alex Necakov @DoomstoneCrom Alex Parker @Oghma\\_em Alexander af Granskär ~X Purple Druid X~ Alexander Bachik 0ldSch00l13 Alexander Tan 40P Ali\\_J\\_101 A Wolk Allan MacKenzie-Graham A.A Rabbit Allan Rodda Aaaaaaanonymous AllanBz Aaron Barclay Alter Schwede Aaron Davies Ancient Dungeons & Dragons Aaron Denney Players Aaron J. Schrader Andrew Chow Aaron Mitchell Andrew Edwards Aaron N Martin Andrew Gale Aaron Peachman Andrew J Garbade Abysmal Horror Andrew Glidden AC Severin Andrew Johnson Adam “GoBears!” Sena Andrew Hamblin Adam Baulderstone Andrew M. Adam Hartley Andrew Mills Adam J Cody Andrew Stark Adam Maloy Andrew Wright Adam Meyers Andrzej “Ulran” Gronowski Adam Morton Andy Bigham Adam Simpson Andy Buccaro AdamC Andy E. adarienh Anon Adrian “Nantel” Gojdz Anonymous Aether Tallyman Anonymous Aidan S. Mendler Anonymous Aidan Whittle Anonymous Alan Bohnert Anonymous",
+      "russian": "“Krafty” Matt Kraft the Princeps of Al Derby the Imperial Imprint Alex Gates-Shannon “Pandino” Isaac Leinen Alex J. Taylor @ARRGETSTUFFED Alex Necakov @DoomstoneCrom Alex Parker @Oghma\\_em Alexander af Granskär ~X Purple Druid X~ Alexander Bachik 0ldSch00l13 Alexander Tan 40P Ali\\_J\\_101 A Wolk Allan MacKenzie-Graham A.A Rabbit Allan Rodda Aaaaaaanonymous AllanBz Aaron Barclay Alter Schwede Aaron Davies Ancient Dungeons & Dragons Aaron Denney Players Aaron J. Schrader Andrew Chow Aaron Mitchell Andrew Edwards Aaron N Martin Andrew Gale Aaron Peachman Andrew J Garbade Abysmal Horror Andrew Glidden AC Severin Andrew Johnson Adam “GoBears!” Sena Andrew Hamblin Adam Baulderstone Andrew M. Adam Hartley Andrew Mills Adam J Cody Andrew Stark Adam Maloy Andrew Wright Adam Meyers Andrzej “Ulran” Gronowski Adam Morton Andy Bigham Adam Simpson Andy Buccaro AdamC Andy E. adarienh Anon Adrian “Nantel” Gojdz Anonymous Aether Tallyman Anonymous Aidan S. Mendler Anonymous Aidan Whittle Anonymous Alan Bohnert Anonymous",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "Личные имена, псевдонимы, компании, диакритики и пользовательские подписи сохранены в исходном латинском написании. Это имена в памятном списке, а не непереведённые правила. Сохранён порядок проверенного дампа; слитые потоком текста колонки не разрезаны догадкой на новые имена.",
+      "source_sha256": "cef889f93b5ffa4f558e7fb8180222c7b977748ab1cb2a88ff4abc1fa86c75b1",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0539.b020",
+      "chapter_id": "E",
+      "pdf_page": 539,
+      "printed_page": 537,
+      "block_order": 20,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Anonymous Ben Mabry Anonymous Ben P. Balestra Anonymous Ben Warner Anonymous Benjamin Foster Anonymous Benjamin Hahn Anonymous TTRPG Fan Benjamin Howard Anthony Foderaro Benjamin I. Espen Anthony Hansen Benoist Poire Anthony Pirrotta Benton ‘Gadigan’ Wilson Anthony Valterra Bernard E. Howell Anton Charles Laszlo Manak Bernard Guerrero Aphron Bevan Anderson Apostol Apostolov Bill Leonard Aras Vitkus Bill Vee ArcanistWill Billy Luckey Argamae Bíró Ádám Armando DiCianno Blacksteel Arthur Braune Blain Crighton Aryxymaraki Blake Cefoldo As Lars Hoffmann Bob Friedman Ashton Dyck Bob Seifert ASP Bobby Jackson AST Brandin Stoy Atsumori Kofuhara Brandon Augustus D. Rime Brandon Boon AWZ Brandon Kaleo Aguinaldo B.Novakowski Brendan Lyle Bad Syntax Brent Evans Bakacs Márton Brent May bara Brent Richmond Barbara Christine McDonald Brett Griffiths Barry Ross Brian Babyok Bastien Pilon Brian Buckley Beau Rancourt Brian Goslinga Ben K Brian Sniffen Ben Krauskopf Brian Sprick",
+      "russian": "Anonymous Ben Mabry Anonymous Ben P. Balestra Anonymous Ben Warner Anonymous Benjamin Foster Anonymous Benjamin Hahn Anonymous TTRPG Fan Benjamin Howard Anthony Foderaro Benjamin I. Espen Anthony Hansen Benoist Poire Anthony Pirrotta Benton ‘Gadigan’ Wilson Anthony Valterra Bernard E. Howell Anton Charles Laszlo Manak Bernard Guerrero Aphron Bevan Anderson Apostol Apostolov Bill Leonard Aras Vitkus Bill Vee ArcanistWill Billy Luckey Argamae Bíró Ádám Armando DiCianno Blacksteel Arthur Braune Blain Crighton Aryxymaraki Blake Cefoldo As Lars Hoffmann Bob Friedman Ashton Dyck Bob Seifert ASP Bobby Jackson AST Brandin Stoy Atsumori Kofuhara Brandon Augustus D. Rime Brandon Boon AWZ Brandon Kaleo Aguinaldo B.Novakowski Brendan Lyle Bad Syntax Brent Evans Bakacs Márton Brent May bara Brent Richmond Barbara Christine McDonald Brett Griffiths Barry Ross Brian Babyok Bastien Pilon Brian Buckley Beau Rancourt Brian Goslinga Ben K Brian Sniffen Ben Krauskopf Brian Sprick",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "a7f674b59796fcc795172ddd90ac4e90389009beaafa5c016fdd3363e4dedd2a",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0540.b001",
+      "chapter_id": "E",
+      "pdf_page": 540,
+      "printed_page": 538,
+      "block_order": 1,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Brian Sullivan Curtis C. Hooper Brooks Dailey Cyr Rakarth Brother Tom D. Lyons Bruno Pešec D.C. Fischer Brutorz Bill D.J. Schreffler Bryan Burns Dale Burnett Bryan E Rye Dale Lamb Bryan Green Damian J. Henderson Bryan Lee Briggs DamndestBastard Bryan Racette Dan Fehr Bryanna Dan Lammay Brynsta Dan Past Buck Whitman Daniel Andersen Byron Hudgins Daniel Bates C and J Sutherland Daniel Enoch Tobin C. Hageman Daniel Herink C. Southwick Daniel K. Bendele C.D. Cerda Daniel Koolbeck Cain Gillespie Daniel Peek Cal Vanoni Daniel Pfleging Caleb Hines Daniel Rodrigues Callan J Hassall Darius Garsys Callum Clegg Darrell Vaughan CAPRAE Darren Wheeler Captain Waffles Darryl Sukkau Carl Folke Henschen Edman Darth Mckay Carlos Eugenio Nicot II Dave Bunge Cayden Skipper Dave Cunningham Chad Mercer Dave Ellingwood Chance H Dale Dave Mann Chaotic Gord Dave Younce Chapman Jones DaveD Charles A. Williams David “Krugus” Lewis Charles Kandalaft David Bettsack Charles Plante David D Charles Town David DeRocha Charles Voyce David E. Durrett Jr. CharlieAmra David Fortin Che Webster David Harrison Chen-Hsun Chiu David Hebert Chip Fursdon David Jimenez Chris Currie David Keyser Chris Heath David L. Tripp Chris J David Martin Chris Kenney David Orwig Chris Knight David Priver Chris McNeil David Sánchez Chris Sanderson David Shlafer Chris Wall Davis Walker Christian Deja Vous Christian Wanamaker Demorgan Christopher “csmithere” Smith Denis Ricard Christopher A Huddleston Dennis Bretton Christopher AC Esposito Derek Jones Christopher Boc Deron Dorna Christopher D Brant Dhomhnall Christopher Da Pra Diana Thomas Christopher Feola Diego Martin Christopher Hill Diversity & Dragons Christopher J. De La Rosa DLB Christopher Käck Dmitrii Tretiakov Christopher Kearney DobbysWorld Christopher Long DocMcJansen Christopher Roy Doesn’t really matter. Christopher Spindola Dominic Johnson Chuck Frizzell Don Kalinich Cilosid Don Pierce CJ Lovrien Don Scherig Clay Castle Don’t include my name Clayton “Wise Kobold” Rennie Douglas Ghizzoni Clutterbane Douglas H. Cole Cody J Downing Dr Eric Silverman Colin Boxall Dr Walter Campbell Colin Summers Dr. ERIC WALCHAK Connor Burnett Dr. John Marr Corey Schaff DS Corey Spencer Duane M. Cory White Duane Moore CPE Gaebler Dunder Moose Craig Hindle Dustan McArthur Craig N. Dustin Headen Cristo Leon Dustin Sprick CriticalDom Dylan Quintal",
+      "russian": "Brian Sullivan Curtis C. Hooper Brooks Dailey Cyr Rakarth Brother Tom D. Lyons Bruno Pešec D.C. Fischer Brutorz Bill D.J. Schreffler Bryan Burns Dale Burnett Bryan E Rye Dale Lamb Bryan Green Damian J. Henderson Bryan Lee Briggs DamndestBastard Bryan Racette Dan Fehr Bryanna Dan Lammay Brynsta Dan Past Buck Whitman Daniel Andersen Byron Hudgins Daniel Bates C and J Sutherland Daniel Enoch Tobin C. Hageman Daniel Herink C. Southwick Daniel K. Bendele C.D. Cerda Daniel Koolbeck Cain Gillespie Daniel Peek Cal Vanoni Daniel Pfleging Caleb Hines Daniel Rodrigues Callan J Hassall Darius Garsys Callum Clegg Darrell Vaughan CAPRAE Darren Wheeler Captain Waffles Darryl Sukkau Carl Folke Henschen Edman Darth Mckay Carlos Eugenio Nicot II Dave Bunge Cayden Skipper Dave Cunningham Chad Mercer Dave Ellingwood Chance H Dale Dave Mann Chaotic Gord Dave Younce Chapman Jones DaveD Charles A. Williams David “Krugus” Lewis Charles Kandalaft David Bettsack Charles Plante David D Charles Town David DeRocha Charles Voyce David E. Durrett Jr. CharlieAmra David Fortin Che Webster David Harrison Chen-Hsun Chiu David Hebert Chip Fursdon David Jimenez Chris Currie David Keyser Chris Heath David L. Tripp Chris J David Martin Chris Kenney David Orwig Chris Knight David Priver Chris McNeil David Sánchez Chris Sanderson David Shlafer Chris Wall Davis Walker Christian Deja Vous Christian Wanamaker Demorgan Christopher “csmithere” Smith Denis Ricard Christopher A Huddleston Dennis Bretton Christopher AC Esposito Derek Jones Christopher Boc Deron Dorna Christopher D Brant Dhomhnall Christopher Da Pra Diana Thomas Christopher Feola Diego Martin Christopher Hill Diversity & Dragons Christopher J. De La Rosa DLB Christopher Käck Dmitrii Tretiakov Christopher Kearney DobbysWorld Christopher Long DocMcJansen Christopher Roy Doesn’t really matter. Christopher Spindola Dominic Johnson Chuck Frizzell Don Kalinich Cilosid Don Pierce CJ Lovrien Don Scherig Clay Castle Don’t include my name Clayton “Wise Kobold” Rennie Douglas Ghizzoni Clutterbane Douglas H. Cole Cody J Downing Dr Eric Silverman Colin Boxall Dr Walter Campbell Colin Summers Dr. ERIC WALCHAK Connor Burnett Dr. John Marr Corey Schaff DS Corey Spencer Duane M. Cory White Duane Moore CPE Gaebler Dunder Moose Craig Hindle Dustan McArthur Craig N. Dustin Headen Cristo Leon Dustin Sprick CriticalDom Dylan Quintal",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "6f4db448b56583d4f16c0c8368822823605a9ef93a2e0e7ab290778092d07535",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0540.b002",
+      "chapter_id": "E",
+      "pdf_page": 540,
+      "printed_page": 538,
+      "block_order": 2,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "E. Brooks grimschneider Ed Mac Grindel Ed Mikkelsen Guillaume F Edward Hughes Gully Feuerhammar Edward Pierson GusB EJ van Dijk Hal Skelley Eli Ryan Hamish Meiklejohn Elias Kokkinis Hamish Thomson Elijah Dixon Hannah Craig Eloy “Umbramancer” Cintron HÄNSEL HÖLLENSTRUM EmanantVolition Harald Coin Emiliano M. Harokin Emily Z Harrowed Emmanuel Kanter Hawksmoor Emmanuel Papst Hayde Rice Emsworth Heath Medlin Eric Campion Helmut Fritz Eric Gesell Herb S. Eric Kitchen Herbert “PulpHerb” Nowell Eric Maloof HjeuphosAcre Eric Michael LeVine Horkus Eric Zylstra Howard Stroupe Erik Jensen Hoystein Erik Luken Humphrey Erik Talvola Huw Smith-Jones Etienne Swartz Hyper Borean Evan C Johnson Iain Barr Evan Hurd Ian Blackmer Evan Lowry Ian Bryans Evil Eli the Vile Ian C. Nodurft Fabio Mascarenhas Ian Gray Fabio Milito Pagliara Ian Melcher Fabrice Gatille Ian Oushani Falka Stegemann InterphasicAlien Falnazor Ironcaster Federebus Ironsheep Federico Bevilacqua Isaac Lee Felix Falkenberg Isaac Priestley Fernando Torres Isac Björnström, aspiring author Férumil Itamar Parann Flade Ituralde Florian Hübner Ivan A. Finzen IV Fluid the Druid Ivan Šokić Formerly Monty Yuanti J. Davis Forrest Maready J. Evans Payne Forrestt Derry J. LeTourneau Fox Y. Whitworth J. Preston Holmes Foximus J. Rojas Frank C. Manning J.S.Young Frank Romsvig J.T. Dimino Frankie Wakefield Jack Morrison FrDave Jacob F. Grant Fred Daniel Jacob Herrera Fritcher Jacob P. Morris G.Leiper Jacob Rosenberg Gabe Mamola Jacob Runde Gábor Csomós (Chomy) Jacopo Gabor Lux Jake Cook Gabriel Julian Dahlen Jake Evans Gabriel MacBride Jake Parker Gabriel N. Jakob McFarland Gabriel Rossman James A. Helm Sr. Galen Helfter James Brooker Gary McBride James C. Bennett Gavin Ralston James D the Destroyer George A. Wakulik III James Edward Lowery Gerald Vanover James Greidanus Gerard Cagayat James Jeffers Ghiliard Starmax James Jensen Ginger Fraiser (Black Lodge Games) James Koncz Giovanni James Mansson Glen Adams James McDaniel Glowing Finger Films James McGookin GoBa James Miller Goblin King Games - Ocala, FL James O’Hara Grady James R. Goodlink Grady Booth James Robert Williams Graham Hawkins James Rumph Graham Sandison James T. Hughes Grandy Peace James Thiel-Delgado Greg D James Thrasher-Sneathen Greg Drysdale James Unick Greg Spatuzzi Jamie “Demiurge” Lancashire",
+      "russian": "E. Brooks grimschneider Ed Mac Grindel Ed Mikkelsen Guillaume F Edward Hughes Gully Feuerhammar Edward Pierson GusB EJ van Dijk Hal Skelley Eli Ryan Hamish Meiklejohn Elias Kokkinis Hamish Thomson Elijah Dixon Hannah Craig Eloy “Umbramancer” Cintron HÄNSEL HÖLLENSTRUM EmanantVolition Harald Coin Emiliano M. Harokin Emily Z Harrowed Emmanuel Kanter Hawksmoor Emmanuel Papst Hayde Rice Emsworth Heath Medlin Eric Campion Helmut Fritz Eric Gesell Herb S. Eric Kitchen Herbert “PulpHerb” Nowell Eric Maloof HjeuphosAcre Eric Michael LeVine Horkus Eric Zylstra Howard Stroupe Erik Jensen Hoystein Erik Luken Humphrey Erik Talvola Huw Smith-Jones Etienne Swartz Hyper Borean Evan C Johnson Iain Barr Evan Hurd Ian Blackmer Evan Lowry Ian Bryans Evil Eli the Vile Ian C. Nodurft Fabio Mascarenhas Ian Gray Fabio Milito Pagliara Ian Melcher Fabrice Gatille Ian Oushani Falka Stegemann InterphasicAlien Falnazor Ironcaster Federebus Ironsheep Federico Bevilacqua Isaac Lee Felix Falkenberg Isaac Priestley Fernando Torres Isac Björnström, aspiring author Férumil Itamar Parann Flade Ituralde Florian Hübner Ivan A. Finzen IV Fluid the Druid Ivan Šokić Formerly Monty Yuanti J. Davis Forrest Maready J. Evans Payne Forrestt Derry J. LeTourneau Fox Y. Whitworth J. Preston Holmes Foximus J. Rojas Frank C. Manning J.S.Young Frank Romsvig J.T. Dimino Frankie Wakefield Jack Morrison FrDave Jacob F. Grant Fred Daniel Jacob Herrera Fritcher Jacob P. Morris G.Leiper Jacob Rosenberg Gabe Mamola Jacob Runde Gábor Csomós (Chomy) Jacopo Gabor Lux Jake Cook Gabriel Julian Dahlen Jake Evans Gabriel MacBride Jake Parker Gabriel N. Jakob McFarland Gabriel Rossman James A. Helm Sr. Galen Helfter James Brooker Gary McBride James C. Bennett Gavin Ralston James D the Destroyer George A. Wakulik III James Edward Lowery Gerald Vanover James Greidanus Gerard Cagayat James Jeffers Ghiliard Starmax James Jensen Ginger Fraiser (Black Lodge Games) James Koncz Giovanni James Mansson Glen Adams James McDaniel Glowing Finger Films James McGookin GoBa James Miller Goblin King Games - Ocala, FL James O’Hara Grady James R. Goodlink Grady Booth James Robert Williams Graham Hawkins James Rumph Graham Sandison James T. Hughes Grandy Peace James Thiel-Delgado Greg D James Thrasher-Sneathen Greg Drysdale James Unick Greg Spatuzzi Jamie “Demiurge” Lancashire",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "47efc39183f20f12c88480c322def9a1a4e5c0be16ed8d7aca8aba63fbf3afaa",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0541.b001",
+      "chapter_id": "E",
+      "pdf_page": 541,
+      "printed_page": 539,
+      "block_order": 1,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Jan Schumacher Jon Griffin Jan Sjögren Jon Hastings Janis Sprukts Jon Utoft Nielsen Janusz Matkowski Jonás Pérez Jared Daigle Jonathan Craton Jarrett Rhoades Jonathan Hoffmann JASAL Jonathan Miller Jason - Vortex Jonathan Miller Jason “Hierax” Verbitsky Jonathan Tate Jason “Ludanto” Smith Jonathas Jason Barker Jose Perez Bromos Jason Jacobson Joseph Ashley Jason Jensen Joseph B. Lauriti Jason Smith Joseph Balderrama Jason Spurgeon Joseph Delaney Jason Taylor Joseph Pirc Jason William Staiert Josh Sharp Jason Wright Josh Williams Javed Mirza Joshua Bailey Jay White Joshua Bennett JC Smith Joshua Cairns JD Kelley Joshua Lee Goodlink Jeff and Tanya Jeffcoat Joshua Liner Jeff Chenier Joshua Saguil-Schweitzer Jeff H Joshua Ward Jeff Heising Jouni Kittela Jeff Painter, II JS Roy Jeff Phinney Juan Casanova (Ragnarol) Jeff Quigley Jude Purrington Jeff Robinson Julian C. Steen Jeff Russell Justin A. McCright Jeff Vincent Justin Cain Jeff Whitman Justin Rastin Jeff Workman K. Drew Saxton Jeffrey Moynagh K. Kennedy Jens “Gemmenzwerg” Racher- K. Nelson bäumer K.C. L’Roy Jeremy Coffey Kahleel Hassan Jeremy Grodzicki Kaltkäse Jeremy Holley Karl Benson Jeremy King Keith Antony Wheaton Jeremy Livingston Keith Edwards Jeremy McKean Keith Malinowski Jerome Chenu Keith R Hershey Jr Jesper Keith W. Mullen Jesse Grimes Kelly M. Ramsey Jesse Prevey Ken Allen Jesse The Great Kenneth Proven JF Christenson Kenny McGuffee Jim “Wilmanric” Pacek Kenny Parker Jim Auer Kevala Keller Jim Carter Kevin A Swartz, MD PhD Jim Ebert Kevin Alfred Mastron Jim Fetzner Kevin Crawford Jim Nealon Kevin Flühs Joe Bartlett Kevin Serafini Joe Blackwood Kobra Joe Blancato Kristian “Rompcat” Jaech Joe C KS Joe Davis Kyle and Shelby Murray Joe Slag Kyle Bevan Joel T. Clark Kyle Cook Joethelawyer Kyle Greene John “MaxLiao” Schloe Kyle J Donovan John Arendt Kyle Mussmann John Canales Kyle Oppy John Culley Kyle Westjohn John D. Hart Kyrinn S. Eis John Fletcher Ladybug John Guthrie Lakshman Godbole John Hutton lamashtu John Irving Lance Teasdale John Kane Larry Sawh John McGlynn Lars, Man of Letters John Schwartz Laup John Sorma Laurence Walls Johnathan Desrosiers Le Chat Johnathon Neuenschwander Lee Gray John-Matthew DeFoggi Leon Atkinson Johnny F. Normal Leptopus Johnny King aka Cerulean Rex LeRoy Davis Jojodogboy Liam Leas Jon Finn Liam Ord",
+      "russian": "Jan Schumacher Jon Griffin Jan Sjögren Jon Hastings Janis Sprukts Jon Utoft Nielsen Janusz Matkowski Jonás Pérez Jared Daigle Jonathan Craton Jarrett Rhoades Jonathan Hoffmann JASAL Jonathan Miller Jason - Vortex Jonathan Miller Jason “Hierax” Verbitsky Jonathan Tate Jason “Ludanto” Smith Jonathas Jason Barker Jose Perez Bromos Jason Jacobson Joseph Ashley Jason Jensen Joseph B. Lauriti Jason Smith Joseph Balderrama Jason Spurgeon Joseph Delaney Jason Taylor Joseph Pirc Jason William Staiert Josh Sharp Jason Wright Josh Williams Javed Mirza Joshua Bailey Jay White Joshua Bennett JC Smith Joshua Cairns JD Kelley Joshua Lee Goodlink Jeff and Tanya Jeffcoat Joshua Liner Jeff Chenier Joshua Saguil-Schweitzer Jeff H Joshua Ward Jeff Heising Jouni Kittela Jeff Painter, II JS Roy Jeff Phinney Juan Casanova (Ragnarol) Jeff Quigley Jude Purrington Jeff Robinson Julian C. Steen Jeff Russell Justin A. McCright Jeff Vincent Justin Cain Jeff Whitman Justin Rastin Jeff Workman K. Drew Saxton Jeffrey Moynagh K. Kennedy Jens “Gemmenzwerg” Racher- K. Nelson bäumer K.C. L’Roy Jeremy Coffey Kahleel Hassan Jeremy Grodzicki Kaltkäse Jeremy Holley Karl Benson Jeremy King Keith Antony Wheaton Jeremy Livingston Keith Edwards Jeremy McKean Keith Malinowski Jerome Chenu Keith R Hershey Jr Jesper Keith W. Mullen Jesse Grimes Kelly M. Ramsey Jesse Prevey Ken Allen Jesse The Great Kenneth Proven JF Christenson Kenny McGuffee Jim “Wilmanric” Pacek Kenny Parker Jim Auer Kevala Keller Jim Carter Kevin A Swartz, MD PhD Jim Ebert Kevin Alfred Mastron Jim Fetzner Kevin Crawford Jim Nealon Kevin Flühs Joe Bartlett Kevin Serafini Joe Blackwood Kobra Joe Blancato Kristian “Rompcat” Jaech Joe C KS Joe Davis Kyle and Shelby Murray Joe Slag Kyle Bevan Joel T. Clark Kyle Cook Joethelawyer Kyle Greene John “MaxLiao” Schloe Kyle J Donovan John Arendt Kyle Mussmann John Canales Kyle Oppy John Culley Kyle Westjohn John D. Hart Kyrinn S. Eis John Fletcher Ladybug John Guthrie Lakshman Godbole John Hutton lamashtu John Irving Lance Teasdale John Kane Larry Sawh John McGlynn Lars, Man of Letters John Schwartz Laup John Sorma Laurence Walls Johnathan Desrosiers Le Chat Johnathon Neuenschwander Lee Gray John-Matthew DeFoggi Leon Atkinson Johnny F. Normal Leptopus Johnny King aka Cerulean Rex LeRoy Davis Jojodogboy Liam Leas Jon Finn Liam Ord",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "33301ad8b77dc320949b19e74edad547e2a89c9a9769d858dabc34d17713201e",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0541.b002",
+      "chapter_id": "E",
+      "pdf_page": 541,
+      "printed_page": 539,
+      "block_order": 2,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Logan and Shawn Bouck Michael G Palmer Logan Dorn Michael G Westenhouser Logan Kent Michael G. Potter Logan Smith Michael Greenly Loki63 Michael H Lorenzo B Michael H Davis Lorgalis Michael Hamann Louie Stewart Michael Hohenstein Louis Branch Michael J. Ramps Luca Lettieri Michael John Werbiskis IV Lucamarchi Michael Kirk Lucas Michael Mudgett Luke Stibbs Michael Palkendo M Allen Powell Michael Stevens M Eskridge Michael Tapia M J Logan MichalS M Pierce Mike Capps Macallan Lehane Mike Dobiesz Macho Mandalf Mike Fletcher Mad Italian Mike Gowdy Magus7a Mike Holt Major Greg Estvander USMC Mike Lowery Man of the Atom Mitch Goldstein Mann McManahan Monky Marc Senneret Moomin “Rannos” James Marc Young Moralai Marcelo Lira Morgan Hazel Marcelo Sepúlveda Mortan Jacobsen Marcus Valone Mortbury Press Mark Beussink Mpromptu Media Mark Brooks Mr.Muesli Mark Campbell MrMaxBoivin Mark Charters mudcore.substack.com Mark D. Sebastian Myke Diemart Mark Fisher Nate M. Mark Francis Nate Miller Mark Harvey Nathan Birch Mark Madachik Nathan Fox Mark Magagna Nathan Hayden Mark Martin Nathan Hicks Mark Mealman Nathan M.P. Franklin Mark Miller Nathan Swift Mark R Nathanael Mathews Mark Roylance Nathaniel Bennett Markus Sillanpää Nathaniel Boggs Martin Lecointe necrobious Martin M Nectarios Andrews Martin Mandler Neil R Lindgren Martin Nichol Nicholas Geraghty Masaki Yamazaki Nicholas Guidotti (Black Lodge Mathew Hintz Games) Matt Davis Nicholas Matzen Matt Houseman Nicholas Phariss Matt Price Nicholas Toman Matt Walsh Nicholas Zakus Matthew “CatatonicMan” Grieco Nick James Matthew Blackwell Nick McGouran Matthew Carlson Nicklaus R. Martinez Matthew Escher Nickolaus Lemley Matthew Gregg Franklin Nico Freda Matthew Hammer Nike Matthew Hunter Nikki Bloom Matthew Jones Niklas Kern Matthew Luethje Nikolai Harrison Matthew Sigfried Muller Nikolaj Thorup Jensen Matthew Sprick Nikolaos Katevas Matthew Springer Nikolaos Stamatopoulos Matthew T. Austin Nikolas “Taffer” Cuje Maurice M. Nina Blain Mauricio Leal Montemayor Nolan Lewis Mauro Perez-Gaona Olle Skogren Max Jankowski Omer Cohen Max Schneider Omer Golan-Joel Max Scruby omonubi Maxin Carroll Osha McFulton Ozborn Megarith Paco Falomir Micah Sweet Padrach Michael “solomani” Mifsud Padre Brendon Michael Alkema Palladionhearts Michael Beeson Panos Gotsis Michael Champagne Part Time Michael De Rosa Pat Kilbane",
+      "russian": "Logan and Shawn Bouck Michael G Palmer Logan Dorn Michael G Westenhouser Logan Kent Michael G. Potter Logan Smith Michael Greenly Loki63 Michael H Lorenzo B Michael H Davis Lorgalis Michael Hamann Louie Stewart Michael Hohenstein Louis Branch Michael J. Ramps Luca Lettieri Michael John Werbiskis IV Lucamarchi Michael Kirk Lucas Michael Mudgett Luke Stibbs Michael Palkendo M Allen Powell Michael Stevens M Eskridge Michael Tapia M J Logan MichalS M Pierce Mike Capps Macallan Lehane Mike Dobiesz Macho Mandalf Mike Fletcher Mad Italian Mike Gowdy Magus7a Mike Holt Major Greg Estvander USMC Mike Lowery Man of the Atom Mitch Goldstein Mann McManahan Monky Marc Senneret Moomin “Rannos” James Marc Young Moralai Marcelo Lira Morgan Hazel Marcelo Sepúlveda Mortan Jacobsen Marcus Valone Mortbury Press Mark Beussink Mpromptu Media Mark Brooks Mr.Muesli Mark Campbell MrMaxBoivin Mark Charters mudcore.substack.com Mark D. Sebastian Myke Diemart Mark Fisher Nate M. Mark Francis Nate Miller Mark Harvey Nathan Birch Mark Madachik Nathan Fox Mark Magagna Nathan Hayden Mark Martin Nathan Hicks Mark Mealman Nathan M.P. Franklin Mark Miller Nathan Swift Mark R Nathanael Mathews Mark Roylance Nathaniel Bennett Markus Sillanpää Nathaniel Boggs Martin Lecointe necrobious Martin M Nectarios Andrews Martin Mandler Neil R Lindgren Martin Nichol Nicholas Geraghty Masaki Yamazaki Nicholas Guidotti (Black Lodge Mathew Hintz Games) Matt Davis Nicholas Matzen Matt Houseman Nicholas Phariss Matt Price Nicholas Toman Matt Walsh Nicholas Zakus Matthew “CatatonicMan” Grieco Nick James Matthew Blackwell Nick McGouran Matthew Carlson Nicklaus R. Martinez Matthew Escher Nickolaus Lemley Matthew Gregg Franklin Nico Freda Matthew Hammer Nike Matthew Hunter Nikki Bloom Matthew Jones Niklas Kern Matthew Luethje Nikolai Harrison Matthew Sigfried Muller Nikolaj Thorup Jensen Matthew Sprick Nikolaos Katevas Matthew Springer Nikolaos Stamatopoulos Matthew T. Austin Nikolas “Taffer” Cuje Maurice M. Nina Blain Mauricio Leal Montemayor Nolan Lewis Mauro Perez-Gaona Olle Skogren Max Jankowski Omer Cohen Max Schneider Omer Golan-Joel Max Scruby omonubi Maxin Carroll Osha McFulton Ozborn Megarith Paco Falomir Micah Sweet Padrach Michael “solomani” Mifsud Padre Brendon Michael Alkema Palladionhearts Michael Beeson Panos Gotsis Michael Champagne Part Time Michael De Rosa Pat Kilbane",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "2fc4e6abd7b0fd4f8caae7084be6d9fecb3fc0f744094f534acc5985591ab29c",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0542.b001",
+      "chapter_id": "E",
+      "pdf_page": 542,
+      "printed_page": 540,
+      "block_order": 1,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Patrick B Rob Dunning Patrick Brown Rob Kalbach Patrick Dugan Rob Meerscheidt Patrick M. Cox II Robert Alderman - Pulp Hummock Patrick P. Press Patrick Pelletier Robert Burr Paul & Tracy Will Robert Cousland Paul Bachleda Robert D. Malmstrom Paul Bigbee Robert DeMercurio Paul Braun Robert Farrar Paul G. Quarles Robert Karstenson Paul Heinze Jr Robert Mania Paul Lints Robert Mastrud Paul Nemeth Robert Ohanian Paul Ryan Kuykendall Robert Pena Paul Stanley (An RPG Abstrac- Robert Quimbey tionist) Rod Spellman Paul Van Dyke Roger C. Jones Pedro Filipe Monteiro Rocha Roger Harvell Jr Pete C Roger Rebisz Pete Frederick Rokbitz Peter “Petromir” Proniewicz-Brooks Ronald Gardner Peter O’Meara Ronald H. Miller Peyton McCauley Ross (Mythic Mountains) Phil Hartwich Ross Spiller Phil Stepp Ross Taylor Philip Champigny Roth Philip Hoff Ruben Perez Philip W Rogers Jr Ruler of the Doughnuts Phillip Weiss Ryan Pippa Brooks Ryan Ambrose please do not include me Ryan Butler Pobaxi Ryan Caveney PoshTiara Ryan G PraetorH Ryan Heffelfinger ProfAllister Ryan Hollems pulseunit Ryan Howard Puț Iulian-Ioan Ryan Peck Qi Gao S.F. Rattan QuantumWings Sam Hart Quinn Kimball Samuel Gaines Quinn S Samuel John Wilson R Percy Samuel Panther R.A. Mc Reynolds Samuel Patterson R.J.J. Ward Samuel Sterling Potter Ragnar Kempf Sante’ Jonker Rahgedfu Sardan the Seer Rahshaad Benjamin Sawyer S Cantrell Randall Wagner Scott B Randy Buttram Scott Boston Randy S. Scott Craig Randy Smith Scott Isensee Rasmus Behr Dagsson Skjelborg Scott Langston RazorMP3 Scott Llewelyn Redfuji6 Scott Maynard Rene Dupre Scott Strattner Rens Scott Templeman RG Scott Tooker Rhea Shelley Seamus Norton Rich Canino Sean Falconi Rich Ireland Seán McMahon Rich Spainhour Sean O’Riordan Richard “Bluddworth” Sellati Sean Poynter Richard Acker Sean Rivera Richard Butler Sean Sheedy Richard C. Smith, Esq. sebi94504 Richard Hildreth Selemas Richard Mundy SG & AG Richard W Byers Shahar Halevy Richard White Shamus Nicholson Riley Lum Shan Palmatier R-Kurbis Shane Cockle Rob 2.0 Shane Dunlap Rob Banks! Shaun",
+      "russian": "Patrick B Rob Dunning Patrick Brown Rob Kalbach Patrick Dugan Rob Meerscheidt Patrick M. Cox II Robert Alderman - Pulp Hummock Patrick P. Press Patrick Pelletier Robert Burr Paul & Tracy Will Robert Cousland Paul Bachleda Robert D. Malmstrom Paul Bigbee Robert DeMercurio Paul Braun Robert Farrar Paul G. Quarles Robert Karstenson Paul Heinze Jr Robert Mania Paul Lints Robert Mastrud Paul Nemeth Robert Ohanian Paul Ryan Kuykendall Robert Pena Paul Stanley (An RPG Abstrac- Robert Quimbey tionist) Rod Spellman Paul Van Dyke Roger C. Jones Pedro Filipe Monteiro Rocha Roger Harvell Jr Pete C Roger Rebisz Pete Frederick Rokbitz Peter “Petromir” Proniewicz-Brooks Ronald Gardner Peter O’Meara Ronald H. Miller Peyton McCauley Ross (Mythic Mountains) Phil Hartwich Ross Spiller Phil Stepp Ross Taylor Philip Champigny Roth Philip Hoff Ruben Perez Philip W Rogers Jr Ruler of the Doughnuts Phillip Weiss Ryan Pippa Brooks Ryan Ambrose please do not include me Ryan Butler Pobaxi Ryan Caveney PoshTiara Ryan G PraetorH Ryan Heffelfinger ProfAllister Ryan Hollems pulseunit Ryan Howard Puț Iulian-Ioan Ryan Peck Qi Gao S.F. Rattan QuantumWings Sam Hart Quinn Kimball Samuel Gaines Quinn S Samuel John Wilson R Percy Samuel Panther R.A. Mc Reynolds Samuel Patterson R.J.J. Ward Samuel Sterling Potter Ragnar Kempf Sante’ Jonker Rahgedfu Sardan the Seer Rahshaad Benjamin Sawyer S Cantrell Randall Wagner Scott B Randy Buttram Scott Boston Randy S. Scott Craig Randy Smith Scott Isensee Rasmus Behr Dagsson Skjelborg Scott Langston RazorMP3 Scott Llewelyn Redfuji6 Scott Maynard Rene Dupre Scott Strattner Rens Scott Templeman RG Scott Tooker Rhea Shelley Seamus Norton Rich Canino Sean Falconi Rich Ireland Seán McMahon Rich Spainhour Sean O’Riordan Richard “Bluddworth” Sellati Sean Poynter Richard Acker Sean Rivera Richard Butler Sean Sheedy Richard C. Smith, Esq. sebi94504 Richard Hildreth Selemas Richard Mundy SG & AG Richard W Byers Shahar Halevy Richard White Shamus Nicholson Riley Lum Shan Palmatier R-Kurbis Shane Cockle Rob 2.0 Shane Dunlap Rob Banks! Shaun",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "adcda80c1eb8907d5cb8a6f1a22ac62a2af99004e9b2dde4ecceae7ad20b7a88",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0542.b002",
+      "chapter_id": "E",
+      "pdf_page": 542,
+      "printed_page": 540,
+      "block_order": 2,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Shaun D. Burton Tom McKendree Shaun Low Tomas J. McIntee Shawn Brown Tomas K. Fontanari Shawn F Sullivan TomKench Shawn Ray Tony Digaetano Shawn Rose Tony Fucina Shawn Shipp Tony Patterson Shawn Wood Tony Stocker Simon Brooke Tookieman Simon Wild Tora Sir Eric Fabiaschi Torben van Hees Sir Guinhill Torches and Rations Sir Scropi totalpigeon Sirius Faerie Toxicpixie Slackarius Travis Kalama sol Travis Vance Spam Viking Trentin C Bergeron Spencer Paustian Trevor Bradley Spj187 Trevor W Johnson Spysix troyamonga Starglyte Tsar Bombadil Stephen Anderson Tuomas J. Salo Stephen Teixeira Tupla-J Steve Ty Hilliard Steve Chovanec Tyler Van Dykhuizen Steve Flores Vaultdweller604 Steve Juranich Vic Melenbrink Steven “Finlos” Jones Vince Kindfuller Steven Butterworth Vince McMaximus Steven Carrillo Vincent FURSTENBERGER Steven Danielson Vincente B Steven Fader Vintoks Steven Kummins Vortak Games Steven Lawley Wayne LaBelle Steven Thivierge Wayne Petersen Stijn Van Hove Wes Pryor Stoltverd Wesley E Marshall Stuart A. Friedberg Wesley Nott Student of Serbia Wibstozbin Sullivan Brophy Will Culbertson SuperSijy Will L. Supreme Overlord Will Maranto Sure William Ames Sylvain Lafleche William D. Dement II T. Kurt Bond William Humphreys Tadd McCauley William Schuchman Talethnet William Sova tamer & belly rubber Tallawampus of the most tepidly ferocious Pug Tatianna Minor of Luxembourg Taubuster William T. Hoover Taylor Harrell Wim Hoek Tenkar WoolyBeard Terren Wyatt West Terry Morton Xanerma Thaddeus G. Moore Xavier “Globo” de Canteloube The Amazing Rando Xeweros The Ensanguinated Fangs of Volup- Xychotic tuous Drelzna Y||B TheBasicExpert yardstickninja TheBigBadBear Yue Bond Chui TheMunkis Z Benz Thomas Darlington Z. Yatso Thomas Milazzo Zach H. Thomas Woodall Zach Pierce thubar2000 Zach Trimble Tim W Rudolph Zachary Corbin Tim Wolfe Zachary Sandlin Timothy A Torres Zachery Delafosse Timothy Havens Zain Jarrar TLPS Zak Knippel Todd Zeraska Todd Bergez Zinzer Tom “Vraven” Morales Tom Hudson",
+      "russian": "Shaun D. Burton Tom McKendree Shaun Low Tomas J. McIntee Shawn Brown Tomas K. Fontanari Shawn F Sullivan TomKench Shawn Ray Tony Digaetano Shawn Rose Tony Fucina Shawn Shipp Tony Patterson Shawn Wood Tony Stocker Simon Brooke Tookieman Simon Wild Tora Sir Eric Fabiaschi Torben van Hees Sir Guinhill Torches and Rations Sir Scropi totalpigeon Sirius Faerie Toxicpixie Slackarius Travis Kalama sol Travis Vance Spam Viking Trentin C Bergeron Spencer Paustian Trevor Bradley Spj187 Trevor W Johnson Spysix troyamonga Starglyte Tsar Bombadil Stephen Anderson Tuomas J. Salo Stephen Teixeira Tupla-J Steve Ty Hilliard Steve Chovanec Tyler Van Dykhuizen Steve Flores Vaultdweller604 Steve Juranich Vic Melenbrink Steven “Finlos” Jones Vince Kindfuller Steven Butterworth Vince McMaximus Steven Carrillo Vincent FURSTENBERGER Steven Danielson Vincente B Steven Fader Vintoks Steven Kummins Vortak Games Steven Lawley Wayne LaBelle Steven Thivierge Wayne Petersen Stijn Van Hove Wes Pryor Stoltverd Wesley E Marshall Stuart A. Friedberg Wesley Nott Student of Serbia Wibstozbin Sullivan Brophy Will Culbertson SuperSijy Will L. Supreme Overlord Will Maranto Sure William Ames Sylvain Lafleche William D. Dement II T. Kurt Bond William Humphreys Tadd McCauley William Schuchman Talethnet William Sova tamer & belly rubber Tallawampus of the most tepidly ferocious Pug Tatianna Minor of Luxembourg Taubuster William T. Hoover Taylor Harrell Wim Hoek Tenkar WoolyBeard Terren Wyatt West Terry Morton Xanerma Thaddeus G. Moore Xavier “Globo” de Canteloube The Amazing Rando Xeweros The Ensanguinated Fangs of Volup- Xychotic tuous Drelzna Y||B TheBasicExpert yardstickninja TheBigBadBear Yue Bond Chui TheMunkis Z Benz Thomas Darlington Z. Yatso Thomas Milazzo Zach H. Thomas Woodall Zach Pierce thubar2000 Zach Trimble Tim W Rudolph Zachary Corbin Tim Wolfe Zachary Sandlin Timothy A Torres Zachery Delafosse Timothy Havens Zain Jarrar TLPS Zak Knippel Todd Zeraska Todd Bergez Zinzer Tom “Vraven” Morales Tom Hudson",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "7e7504d4dd16006fa283266716ccf131b9ab70e22817d315fe59a182a0d1dd11",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0542.b004",
+      "chapter_id": "E",
+      "pdf_page": 542,
+      "printed_page": 540,
+      "block_order": 4,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Arcane Rhino Grimmric Bruce Kroeze K. Bounds Dan Wentzel Kestutis Kalvaitis Doug Rutledge Luca Simon Stefan Eric C Brown Lurch (DM)",
+      "russian": "Arcane Rhino Grimmric Bruce Kroeze K. Bounds Dan Wentzel Kestutis Kalvaitis Doug Rutledge Luca Simon Stefan Eric C Brown Lurch (DM)",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "d55f587d916430edd7532bb3807911a33d5c16b01320536b5955151de4cb1488",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0542.b005",
+      "chapter_id": "E",
+      "pdf_page": 542,
+      "printed_page": 540,
+      "block_order": 5,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Michael Fagan Two Cents Red Rooster Redarcs Rudy Randolph Sedge Lewis",
+      "russian": "Michael Fagan Two Cents Red Rooster Redarcs Rudy Randolph Sedge Lewis",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "48476621ac880ecfb27d996b20d58d4c22bc3c7bf98439721f58b1d5e08b769f",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0543.b002",
+      "chapter_id": "E",
+      "pdf_page": 543,
+      "printed_page": 541,
+      "block_order": 2,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Aaron the Raccoon Greg Ladd Anthony Fontanetta Hawthorne (V.D.) AussieHelaman Hunter Feenstra Brandon Binggeli Igor “Murphy700018” Guerra Brooks Gordon Jack Wyatt Dan St. Cyr Jacob Pi Danger Casey James David Rache Jason S. El Nota Jedidiah Taubel Evan L Jeffrey May fgreg Jitterbelly",
+      "russian": "Aaron the Raccoon Greg Ladd Anthony Fontanetta Hawthorne (V.D.) AussieHelaman Hunter Feenstra Brandon Binggeli Igor “Murphy700018” Guerra Brooks Gordon Jack Wyatt Dan St. Cyr Jacob Pi Danger Casey James David Rache Jason S. El Nota Jedidiah Taubel Evan L Jeffrey May fgreg Jitterbelly",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "097a0e1d0c38bfc625a5737960dd640534d3eb3a3c1c8da916d51c1cf61cdfb9",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0543.b003",
+      "chapter_id": "E",
+      "pdf_page": 543,
+      "printed_page": 541,
+      "block_order": 3,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "John “evernevermore” Schrib Skean Julian Waller Tim Young Lee Boone Trey Garrison Leriel Uinum Lewis Jubb Wilfried Meybohm Luna Will Pehush Octavius Will Whiteside Ron Parker William Douglas Burns Ross A. Metcalf Zach Thomas Sarah Santy Zachary Betzen Servercat",
+      "russian": "John “evernevermore” Schrib Skean Julian Waller Tim Young Lee Boone Trey Garrison Leriel Uinum Lewis Jubb Wilfried Meybohm Luna Will Pehush Octavius Will Whiteside Ron Parker William Douglas Burns Ross A. Metcalf Zach Thomas Sarah Santy Zachary Betzen Servercat",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "c5a541ce0adb658aedd6ceecf022e122ec3b31d42c33418bd658378f81e2700d",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0543.b005",
+      "chapter_id": "E",
+      "pdf_page": 543,
+      "printed_page": 541,
+      "block_order": 5,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Brined\\_Porkchop JR Thompson Chris Miller (Mad Scribe Games) Jakob Man Of Action Arndal Garrett Copeland John Casisa Grey Lee Fuller IKS Michael Brewer",
+      "russian": "Brined\\_Porkchop JR Thompson Chris Miller (Mad Scribe Games) Jakob Man Of Action Arndal Garrett Copeland John Casisa Grey Lee Fuller IKS Michael Brewer",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "a3b7e1a309be268f067f6a1f143891f5d13d9f6015f97fb26802e70fec684257",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0543.b006",
+      "chapter_id": "E",
+      "pdf_page": 543,
+      "printed_page": 541,
+      "block_order": 6,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Michael DiBaggio R Podolski Michael Gai Scott Caslow Mingolo Mingolonio Peter Eliot Zeender pkbyron",
+      "russian": "Michael DiBaggio R Podolski Michael Gai Scott Caslow Mingolo Mingolonio Peter Eliot Zeender pkbyron",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "eae2093f1822e59e248eee5f70645cb6a619439fd368c0a35ab28ed7d71e320d",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0543.b008",
+      "chapter_id": "E",
+      "pdf_page": 543,
+      "printed_page": 541,
+      "block_order": 8,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "[Vicious]Easy Brynduraz Aaron Fleischer bynw Aaron Johnston C. Muhl Adam Carlos Adam Crossingham Carlos de la Cruz Adam Gulledge Casper Ståhl Aharon Almog Chad Berger Aidan O’Hara Chad Stevens Alessandro Del Gobbo Chadwick Alexei McDonald Charles A Williams Jr Alexpacio Charles Barchuk Alicia Wright Charles E Miller Alisa Chan Charles Saeger allagash Charles Shirk Andrea Maurizio Medici Charles William Alexander Lawrie Andreas Goettinger Chris Chaney II Andreas Habicher Chris Mitchell Andrew “Volund” Bastien Christopher Rivett Andrew Friedman Christopher W. Dentel Andrew Gil Chuck Dee Andrew McLaren Chuck Mock Andrew Sturman Clark Savage, Jr Andy Davis Cory Hargreaves Anonymous Cory Hirano Anonymous Craig Janssen anonymous Craig Maczkowicz Anonymous Creaperbox Anonymous CthulhusDream Anonymous D. Ng Anonymous Damon Griffin Anonymous Damon T. Wilson Anonymous Daniel Maxson Ariwch Daniel Rose Armin Mobasseri Daniele Papsy ArtemisWyrm Danny BellSilver Arturito, o sulista selvagem Darknecros Ashan Parmar Darren Hsiung Austin Chyenne Yontz Dave “Wintergreen” Harrison Aveio D Acosta Dave Przybyla Ben Erickson David A. Nixon Benjamin Steenbock David Blethen Bill Keller David D West Billy the King David K Blaine Pack David Kalnins Bob David L Majors Brad Elledge David Lachut Bradly “Oak” Cozby David Morgan Brandon Crane David Parlin Brandon Goehringer David Phillip Wray Brant Waterson David Stephenson Brett R Saunders David Whittaker Brian Dorion Dennis Kaur Brown Wizard Winston Dhaerow Bruce Gulke Dicemad Bryan Brown Dillon Russell Bryan D. Fran Dizzy Bryce DJ Ulrich",
+      "russian": "[Vicious]Easy Brynduraz Aaron Fleischer bynw Aaron Johnston C. Muhl Adam Carlos Adam Crossingham Carlos de la Cruz Adam Gulledge Casper Ståhl Aharon Almog Chad Berger Aidan O’Hara Chad Stevens Alessandro Del Gobbo Chadwick Alexei McDonald Charles A Williams Jr Alexpacio Charles Barchuk Alicia Wright Charles E Miller Alisa Chan Charles Saeger allagash Charles Shirk Andrea Maurizio Medici Charles William Alexander Lawrie Andreas Goettinger Chris Chaney II Andreas Habicher Chris Mitchell Andrew “Volund” Bastien Christopher Rivett Andrew Friedman Christopher W. Dentel Andrew Gil Chuck Dee Andrew McLaren Chuck Mock Andrew Sturman Clark Savage, Jr Andy Davis Cory Hargreaves Anonymous Cory Hirano Anonymous Craig Janssen anonymous Craig Maczkowicz Anonymous Creaperbox Anonymous CthulhusDream Anonymous D. Ng Anonymous Damon Griffin Anonymous Damon T. Wilson Anonymous Daniel Maxson Ariwch Daniel Rose Armin Mobasseri Daniele Papsy ArtemisWyrm Danny BellSilver Arturito, o sulista selvagem Darknecros Ashan Parmar Darren Hsiung Austin Chyenne Yontz Dave “Wintergreen” Harrison Aveio D Acosta Dave Przybyla Ben Erickson David A. Nixon Benjamin Steenbock David Blethen Bill Keller David D West Billy the King David K Blaine Pack David Kalnins Bob David L Majors Brad Elledge David Lachut Bradly “Oak” Cozby David Morgan Brandon Crane David Parlin Brandon Goehringer David Phillip Wray Brant Waterson David Stephenson Brett R Saunders David Whittaker Brian Dorion Dennis Kaur Brown Wizard Winston Dhaerow Bruce Gulke Dicemad Bryan Brown Dillon Russell Bryan D. Fran Dizzy Bryce DJ Ulrich",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "7bdac7965346180d87cf0381c4cbf5aa93cdb9fcdb4e6e1caaa13ad012723eb4",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0543.b009",
+      "chapter_id": "E",
+      "pdf_page": 543,
+      "printed_page": 541,
+      "block_order": 9,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Djemil Daniel James Bondage Donald Wheeler James C Washington III Dono James Dyer Douglas Sims James Huddleston Douglas Thompson` James Samuel Dr. Mirabilis Jarad Taylor EH Jason (DiceAddict) Blalock Ekapob Ukritnukun Jason Emlyn Domenico Italiano Elliott L Ward Jason Lee Emil Jason Peter Steyn Emil Feng Jason Sunday Emirikol Jason Vines Eric S Jason Ward Eric Sutton JD Beers Eric Swiersz Jeff Burton Erik Lee Jeffrey Jones ERYFKRAD Jens-Olaf Hultgreen Ethan Merica Jeremy Carney Evan Bright Jeremy W. Sherman Evan Halverson Jerry Taylor F Bob Mosdal JHILLOS farralon Jim Montgomery Ferd Metzger Jimmy C. Wu FreeIceCream Jiri “Markus” Petru Fyzikar123 jlampar Gabriel João Pires Gareth Grinnall Joe “Ofletar the Old” Hepler Garret Walton Joe Katzman garth John Haines GARTH OF THE GODS John Hickey Gnaskar John Howell Greg Jones John J Schneider Greg Kelsey John Jacobs Grzegorz Krzywicki John R. Trapasso GungaFH John Schuhr Gustavo La fontaine Jon Petit Hagakure Jonathan Agens Hal Hamilton Jr. JONATHAN BEELER, MD Hans G. Schantz Jonathan Dunwell Harry C. Jordan Trais Harry Stamford Jordi “Dimuscul” Franch He-Who-Meows Jose Hoss Jose Lozada Hugo Marrero Josh Pix Hunter Jones Joshua Crosby Ian Joshua Fahey Ian Magee Joshua R. idprism Joshua Steadmon Imredave Joshua Tipton Irifan JTM J. Kristian Ahonen Judd M. Goswick J. Sadosky Justin Clark Jacob Vardy Justin Kietzman Jacob Zumbrennen K Stein Jacques Nel Kaden Leavitt JAHutchinson Karl Miller Jaime Bertuchi Keith",
+      "russian": "Djemil Daniel James Bondage Donald Wheeler James C Washington III Dono James Dyer Douglas Sims James Huddleston Douglas Thompson` James Samuel Dr. Mirabilis Jarad Taylor EH Jason (DiceAddict) Blalock Ekapob Ukritnukun Jason Emlyn Domenico Italiano Elliott L Ward Jason Lee Emil Jason Peter Steyn Emil Feng Jason Sunday Emirikol Jason Vines Eric S Jason Ward Eric Sutton JD Beers Eric Swiersz Jeff Burton Erik Lee Jeffrey Jones ERYFKRAD Jens-Olaf Hultgreen Ethan Merica Jeremy Carney Evan Bright Jeremy W. Sherman Evan Halverson Jerry Taylor F Bob Mosdal JHILLOS farralon Jim Montgomery Ferd Metzger Jimmy C. Wu FreeIceCream Jiri “Markus” Petru Fyzikar123 jlampar Gabriel João Pires Gareth Grinnall Joe “Ofletar the Old” Hepler Garret Walton Joe Katzman garth John Haines GARTH OF THE GODS John Hickey Gnaskar John Howell Greg Jones John J Schneider Greg Kelsey John Jacobs Grzegorz Krzywicki John R. Trapasso GungaFH John Schuhr Gustavo La fontaine Jon Petit Hagakure Jonathan Agens Hal Hamilton Jr. JONATHAN BEELER, MD Hans G. Schantz Jonathan Dunwell Harry C. Jordan Trais Harry Stamford Jordi “Dimuscul” Franch He-Who-Meows Jose Hoss Jose Lozada Hugo Marrero Josh Pix Hunter Jones Joshua Crosby Ian Joshua Fahey Ian Magee Joshua R. idprism Joshua Steadmon Imredave Joshua Tipton Irifan JTM J. Kristian Ahonen Judd M. Goswick J. Sadosky Justin Clark Jacob Vardy Justin Kietzman Jacob Zumbrennen K Stein Jacques Nel Kaden Leavitt JAHutchinson Karl Miller Jaime Bertuchi Keith",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "576730652fac00ef3bc2c65362610aada5f45ca8de84f9a67f813fbb5fd93a22",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0544.b001",
+      "chapter_id": "E",
+      "pdf_page": 544,
+      "printed_page": 542,
+      "block_order": 1,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "Keith Rosenberg Michał Z. Keith Simmons Miguel Zapico Keith Strickland Mikailos Kepler Mike Hensley KevinR Mike Schmidt Kieran Jimenez Mikkel Høgh Kristopher Volter Mildra The Monk Kurt Piersol Minh Nguyen Kyle Griffin Monte “Cyphur” Young Kyle Hilliard NanbanJim Kyle Payne Nathan D. Kyle W Nathan Du L. A. Parker Nathan Karnes Lactamaeon Neil Coles Larry Nessalantha Lee Carter Nguyen Thi Bich Tuyet Leonardo Prunk Niccolson Levy Keen Nicola LJV Niels Adair Logan Godfrey NIS Logan Hovermale nl3ss Louis Cunanan no Lucid Noah Birch Lumla O\\_N M. Davidson Olek Kubik Maeyanie Oona the Noble Malcolm O’win the Mage Malcolm Coull Pants Mamoru Kusanagi Patrick Brannigan ManateeMan Paul J. Mocarski mangrr73 Paul Linn Manuelinho Paul St. John Marc Gillham Pavel “Snarls-at-Fleas” Berlin Marco Stricker Paweł Borawski Mark J Modugno Pedro Gómez-Esteban Mark K Peter Fagan Mark Leymaster of Grammarye Peter Giannacopoulos Mark R Peter Lindstrom Mark Solino Peter S. Fam Markus Raab Petr Vilimek Martin Nunez Phillip Bush Martin of Scandinavia Phillip Pontious Mateusz Wiśniewski Phroggelator Mathew Folwarski Pierrot Matt Gregory Pontus Rudholm Matthew Carberry Preston Buck Matthew Kane R Radford Matthew V R. Poindexter McClellan Rafael Nicoletti Meaty Ralk Melnuur Raphael metamage Ray Weidner Michael Allen ‘Reg Michael Cox Reverance Pavane Michael Feldhusen Rex Gator Michael Young RG",
+      "russian": "Keith Rosenberg Michał Z. Keith Simmons Miguel Zapico Keith Strickland Mikailos Kepler Mike Hensley KevinR Mike Schmidt Kieran Jimenez Mikkel Høgh Kristopher Volter Mildra The Monk Kurt Piersol Minh Nguyen Kyle Griffin Monte “Cyphur” Young Kyle Hilliard NanbanJim Kyle Payne Nathan D. Kyle W Nathan Du L. A. Parker Nathan Karnes Lactamaeon Neil Coles Larry Nessalantha Lee Carter Nguyen Thi Bich Tuyet Leonardo Prunk Niccolson Levy Keen Nicola LJV Niels Adair Logan Godfrey NIS Logan Hovermale nl3ss Louis Cunanan no Lucid Noah Birch Lumla O\\_N M. Davidson Olek Kubik Maeyanie Oona the Noble Malcolm O’win the Mage Malcolm Coull Pants Mamoru Kusanagi Patrick Brannigan ManateeMan Paul J. Mocarski mangrr73 Paul Linn Manuelinho Paul St. John Marc Gillham Pavel “Snarls-at-Fleas” Berlin Marco Stricker Paweł Borawski Mark J Modugno Pedro Gómez-Esteban Mark K Peter Fagan Mark Leymaster of Grammarye Peter Giannacopoulos Mark R Peter Lindstrom Mark Solino Peter S. Fam Markus Raab Petr Vilimek Martin Nunez Phillip Bush Martin of Scandinavia Phillip Pontious Mateusz Wiśniewski Phroggelator Mathew Folwarski Pierrot Matt Gregory Pontus Rudholm Matthew Carberry Preston Buck Matthew Kane R Radford Matthew V R. Poindexter McClellan Rafael Nicoletti Meaty Ralk Melnuur Raphael metamage Ray Weidner Michael Allen ‘Reg Michael Cox Reverance Pavane Michael Feldhusen Rex Gator Michael Young RG",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "a360b9ed60c3e481424e409c4733e210fb01025bf44965d0ccd16db095aa65b8",
+      "damage_icons_json": "[]"
+    },
+    {
+      "id": "rr.p0544.b002",
+      "chapter_id": "E",
+      "pdf_page": 544,
+      "printed_page": 542,
+      "block_order": 2,
+      "kind": "paragraph",
+      "table_id": null,
+      "row_index": null,
+      "column_index": null,
+      "rowspan": null,
+      "colspan": null,
+      "heading_level": null,
+      "english": "RGS Hartley Terry R. Barnette Ribbz THE Donnie Ricardo Dorda Laforet The Pink Phantom Rich Harkrader The Skulk Rich Riddle Theaitetos Richard Gill TheJRKgm Rms Theodore Meyer Roads Of Shadow Thierry De Gagne Rob Muadib Thomas P. Kurilla Rob Necronomicon Tim Baker Robert S. Conley Timbo Roger Altman Timolution Roger VanLandingham Timothy Griffin Roman Kuzyk Timothy Westwind Ron Frazier Toby Toogood Ronald Morris Williams Tod Casasent Rook Bramblefoot Tony Burns Ross Hellwig Tony McCormick RuleOfThule Totti Ryan Heck Travis M. Erickson sailorgrenoble Tre F Sam Kiner Trenton Anderson Samir El Aouar Trenton Vartabedian Schuyler Smith Troy Ellis Scot Boyd Tuomas Lempiäinen Scribal OSR Twen Sean Wiley Williams Uldeim Harthrow Sebastien Maurice Unlucky Olaf Sensei Walker Vasiliy S. Shai Victarion Shawn Applegate Victor Serrano Shawn Ho Vidya and Johnny’s das Shinya Hanataka Viktor Gorchev Shuffling Wombat Vincent “Blackpaladin” Arebalo Simon J. Hogwood Vlarnok Simon Plain Volker Lahme Simon Stroud vonpenguin Sir Hieronymus Vorth Tarvastus Solidwaste Waddigity Stacie Winters Weniaciel Stephan Szabo Wesley R. Steve Arensberg William Armes Steve Dodge William Stearns Steve, the Great and Powerful William T Batten Steven Johnson Wolfgang Rittmeister Steven Locke Wyatt Kinkade Steven Setzer X Steven Wales Xentari Steven Warble Yehonatan Shabash Stewart Watson Yehor Blokhin Surfal of KoSH Yuri “Dies at the end” Lukach Szymon Góra Zach B Talon Slead Zak A. Tanner Yea TDK Ted Ludemann",
+      "russian": "RGS Hartley Terry R. Barnette Ribbz THE Donnie Ricardo Dorda Laforet The Pink Phantom Rich Harkrader The Skulk Rich Riddle Theaitetos Richard Gill TheJRKgm Rms Theodore Meyer Roads Of Shadow Thierry De Gagne Rob Muadib Thomas P. Kurilla Rob Necronomicon Tim Baker Robert S. Conley Timbo Roger Altman Timolution Roger VanLandingham Timothy Griffin Roman Kuzyk Timothy Westwind Ron Frazier Toby Toogood Ronald Morris Williams Tod Casasent Rook Bramblefoot Tony Burns Ross Hellwig Tony McCormick RuleOfThule Totti Ryan Heck Travis M. Erickson sailorgrenoble Tre F Sam Kiner Trenton Anderson Samir El Aouar Trenton Vartabedian Schuyler Smith Troy Ellis Scot Boyd Tuomas Lempiäinen Scribal OSR Twen Sean Wiley Williams Uldeim Harthrow Sebastien Maurice Unlucky Olaf Sensei Walker Vasiliy S. Shai Victarion Shawn Applegate Victor Serrano Shawn Ho Vidya and Johnny’s das Shinya Hanataka Viktor Gorchev Shuffling Wombat Vincent “Blackpaladin” Arebalo Simon J. Hogwood Vlarnok Simon Plain Volker Lahme Simon Stroud vonpenguin Sir Hieronymus Vorth Tarvastus Solidwaste Waddigity Stacie Winters Weniaciel Stephan Szabo Wesley R. Steve Arensberg William Armes Steve Dodge William Stearns Steve, the Great and Powerful William T Batten Steven Johnson Wolfgang Rittmeister Steven Locke Wyatt Kinkade Steven Setzer X Steven Wales Xentari Steven Warble Yehonatan Shabash Stewart Watson Yehor Blokhin Surfal of KoSH Yuri “Dies at the end” Lukach Szymon Góra Zach B Talon Slead Zak A. Tanner Yea TDK Ted Ludemann",
+      "status": "reviewed",
+      "origin": "new_translation",
+      "reviewer": "Codex",
+      "revision": 1,
+      "note": "",
+      "source_sha256": "44ca02ef74f45f25ea32365a7d4d73dcbf95de62064e7905b4b4b2742354929f",
+      "damage_icons_json": "[]"
+    }
+  ],
+  "docx": [
+    {
+      "path": "ACKSII\\ACKSII Judges Journal\\Part 1 - Praxis\\Chapter 1 - FOUNDATIONS (eng).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Judges Journal\\Part 1 - Praxis\\Chapter 1 - FOUNDATIONS (ru).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Judges Journal\\Part 1 - Praxis\\Chapter 2 - Adventures (eng).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Judges Journal\\Part 1 - Praxis\\Chapter 2 - Adventures (ru).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Judges Journal\\Part 1 - Praxis\\chapter 3 - Campaigns (Faylow).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Judges Journal\\Part 2 - Construction\\Chapter 5 - Setting (ENG).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Judges Journal\\Part 2 - Construction\\Chapter 5 - Setting (RU).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Judges Journal\\Part 2 - Construction\\Chapter 6 - Realms (ENG).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Judges Journal\\Part 2 - Construction\\Chapter 6 - Realms (RU).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Judges Journal\\Part 2 - Construction\\Chapter 7 - Settelment (ENG).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Judges Journal\\Part 2 - Construction\\Chapter 7 - Settelment (RU).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Judges Journal\\Part 2 - Construction\\Chapter 8 - Dungeons (Faylow).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Judges Journal\\Part 2 - Construction\\Chapter 9 - Non-Player Character (Faylow).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Monstrous Manual\\ГЛАВА 2 - Список монстров (Faylow, Wiah)\\Зверолюд, Гоблин (Faylow).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Monstrous Manual\\ГЛАВА 2 - Список монстров (Faylow, Wiah)\\Зверолюд, Кобольд.docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Monstrous Manual\\ГЛАВА 2 - Список монстров (Faylow, Wiah)\\Зверолюди.docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Monstrous Manual\\ГЛАВА 2 - Список монстров (Faylow, Wiah)\\КАКОДЕМОНЫ.docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Monstrous Manual\\ГЛАВА 2 - Список монстров (Faylow, Wiah)\\Новый документ.docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\APPENDIX C.docx",
+      "comments": [
+        {
+          "id": "0",
+          "author": "Ян Виах",
+          "text": "Непонимаю-1 for each side effect already suffered"
+        }
+      ],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 10_ Maneuvers (Елизавета).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 11_ Battles (Елизавета).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 1_ CHARACTERS - Персонажи.docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 2_ CLASSES - Классы.docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 3_ PROFICIENCIES (Wiah).docx",
+      "comments": [
+        {
+          "id": "11",
+          "author": "hitaciry",
+          "text": "судя по таблице рабоочим"
+        },
+        {
+          "id": "12",
+          "author": "Ян Виах",
+          "text": "Какой?"
+        },
+        {
+          "id": "13",
+          "author": "Covi dus",
+          "text": "сражающейся вплотную"
+        },
+        {
+          "id": "16",
+          "author": "Ян Виах",
+          "text": "чо?"
+        },
+        {
+          "id": "6",
+          "author": "Ян Виах",
+          "text": "Подумать над названием"
+        },
+        {
+          "id": "9",
+          "author": "Ян Виах",
+          "text": "активность"
+        },
+        {
+          "id": "8",
+          "author": "Ян Виах",
+          "text": "Сравнить со словарем"
+        },
+        {
+          "id": "10",
+          "author": "Ян Виах",
+          "text": "Чо это?"
+        },
+        {
+          "id": "14",
+          "author": "Covi dus",
+          "text": "посвящаемой?"
+        },
+        {
+          "id": "15",
+          "author": "hitaciry",
+          "text": "целенаправленной"
+        },
+        {
+          "id": "2",
+          "author": "Ян Виах",
+          "text": "Чо за древолазы?"
+        },
+        {
+          "id": "3",
+          "author": "hitaciry",
+          "text": ": A drove of animals is a group that may need to be herded or driven somewhere. It is generally reserved for several species, including cattle, oxen, sheep, goats, donkeys, asses, and bullocks."
+        },
+        {
+          "id": "4",
+          "author": "Ян Виах",
+          "text": "Чо за древолазы?"
+        },
+        {
+          "id": "5",
+          "author": "hitaciry",
+          "text": ": A drove of animals is a group that may need to be herded or driven somewhere. It is generally reserved for several species, including cattle, oxen, sheep, goats, donkeys, asses, and bullocks."
+        },
+        {
+          "id": "1",
+          "author": "Ян Виах",
+          "text": "какое заклинание"
+        },
+        {
+          "id": "0",
+          "author": "Ян Виах",
+          "text": "Сопоставить со словарем"
+        },
+        {
+          "id": "7",
+          "author": "Ян Виах",
+          "text": "Подумать над названием"
+        }
+      ],
+      "tracked": {
+        "ins": 1,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\Chapter 4_ Equipment (Justluck, Faylow).docx",
+      "comments": [
+        {
+          "id": "3",
+          "author": "Moonwind",
+          "text": ")"
+        },
+        {
+          "id": "4",
+          "author": "faylow kaiko",
+          "text": "подобрать подходящий термин"
+        },
+        {
+          "id": "0",
+          "author": "Moonwind",
+          "text": "слово не то"
+        },
+        {
+          "id": "1",
+          "author": "Pavlo Chychylnitskiy",
+          "text": "почему не то? бард это броня лошадей"
+        },
+        {
+          "id": "2",
+          "author": "Moonwind",
+          "text": "Потому что бард это класс и будет конфликт слов"
+        }
+      ],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 5_ SPELLS (Moonwind, faulkner, Faylow).docx",
+      "comments": [
+        {
+          "id": "14",
+          "author": "Mr Nicolas",
+          "text": "wands"
+        },
+        {
+          "id": "6",
+          "author": "Mr Nicolas",
+          "text": "dispelling"
+        },
+        {
+          "id": "11",
+          "author": "Mr Nicolas",
+          "text": "on their most recent initiative"
+        },
+        {
+          "id": "12",
+          "author": "Mr Nicolas",
+          "text": "noiseleness"
+        },
+        {
+          "id": "15",
+          "author": "Ян Виах",
+          "text": "Странный дублю правил для крошечных и объеков"
+        },
+        {
+          "id": "7",
+          "author": "Moonwind",
+          "text": "предсказание"
+        },
+        {
+          "id": "8",
+          "author": "Mr Nicolas",
+          "text": "излучения?"
+        },
+        {
+          "id": "5",
+          "author": "Mr Nicolas",
+          "text": "lightless vision"
+        },
+        {
+          "id": "2",
+          "author": "Mr Nicolas",
+          "text": "willing"
+        },
+        {
+          "id": "1",
+          "author": "Mr Nicolas",
+          "text": "spell-like effect"
+        },
+        {
+          "id": "9",
+          "author": "Mr Nicolas",
+          "text": "extraordinary"
+        },
+        {
+          "id": "10",
+          "author": "Mr Nicolas",
+          "text": "extraordinary"
+        },
+        {
+          "id": "4",
+          "author": "Mr Nicolas",
+          "text": "pinncale of good"
+        },
+        {
+          "id": "3",
+          "author": "Mr Nicolas",
+          "text": "unwilling"
+        },
+        {
+          "id": "13",
+          "author": "Mr Nicolas",
+          "text": "blast"
+        },
+        {
+          "id": "0",
+          "author": "faylow kaiko",
+          "text": "Подобрать другой, более подходящий вариант или заменить термин \"Учёный\" на другой"
+        }
+      ],
+      "tracked": {
+        "ins": 0,
+        "del": 3,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 5_ SPELLS LIST ALL.docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 6_ Adventures (MOCHET)\\1) DUNGEON DELVES.docx",
+      "comments": [
+        {
+          "id": "0",
+          "author": "Ян Виах",
+          "text": "на замок или заклинание"
+        },
+        {
+          "id": "1",
+          "author": "Covi dus",
+          "text": "какое заклинание?"
+        }
+      ],
+      "tracked": {
+        "ins": 5,
+        "del": 10,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 6_ Adventures (MOCHET)\\2) WILDERNESS EXPEDITIONS.docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 6_ Adventures (MOCHET)\\3) ENCOUNTERS.docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 6_ Adventures (MOCHET)\\4) COMBAT.docx",
+      "comments": [
+        {
+          "id": "5",
+          "author": "Covi dus",
+          "text": "хуярное"
+        },
+        {
+          "id": "6",
+          "author": "Covi dus",
+          "text": "Impact weapons"
+        },
+        {
+          "id": "3",
+          "author": "Ян Виах",
+          "text": "переписать"
+        },
+        {
+          "id": "4",
+          "author": "Covi dus",
+          "text": "перепиши"
+        },
+        {
+          "id": "7",
+          "author": "Ян Виах",
+          "text": "Это как?"
+        },
+        {
+          "id": "8",
+          "author": "Covi dus",
+          "text": "based on attack sequence"
+        },
+        {
+          "id": "9",
+          "author": "Covi dus",
+          "text": "справедливости ради я тами был в трудном состоянии сознания, но сейчас чета идей нет как это по другому описать"
+        },
+        {
+          "id": "14",
+          "author": "Covi dus",
+          "text": "хуярный"
+        },
+        {
+          "id": "10",
+          "author": "Covi dus",
+          "text": "опять же: хуярный"
+        },
+        {
+          "id": "11",
+          "author": "Ян Виах",
+          "text": "_Помечено как решенное_"
+        },
+        {
+          "id": "12",
+          "author": "Covi dus",
+          "text": "_Открыто повторно_Ты нашел как обозначить этот ударный урон нормально?"
+        },
+        {
+          "id": "13",
+          "author": "Covi dus",
+          "text": "снова хуярный"
+        },
+        {
+          "id": "0",
+          "author": "Ян Виах",
+          "text": "чо?"
+        },
+        {
+          "id": "1",
+          "author": "Covi dus",
+          "text": "то, что написано"
+        },
+        {
+          "id": "2",
+          "author": "Covi dus",
+          "text": "буквально смысл такой, что если противник не вплотнит тебя, то ты относишься к нему по правилам союзника, для целей передвижения. Я хз че тут можно по другому написать"
+        }
+      ],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 6_ Adventures (MOCHET)\\5) EARNING EXPERIENCE FROM ADVENTURES.docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 6_ ADVENTURES (MOCHET, Wiah, Faylow).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 8_ CAMPAIGNS\\Chapter 8_ CAMPAIGNS (MrNicolas, Faylow) Готово 10,5_.docx",
+      "comments": [
+        {
+          "id": "7",
+          "author": "Mr Nicolas",
+          "text": "troops"
+        },
+        {
+          "id": "9",
+          "author": "Mr Nicolas",
+          "text": "troops"
+        },
+        {
+          "id": "10",
+          "author": "Mr Nicolas",
+          "text": "troops"
+        },
+        {
+          "id": "12",
+          "author": "Mr Nicolas",
+          "text": "troops"
+        },
+        {
+          "id": "17",
+          "author": "Mr Nicolas",
+          "text": "troops"
+        },
+        {
+          "id": "18",
+          "author": "Mr Nicolas",
+          "text": "troops"
+        },
+        {
+          "id": "20",
+          "author": "Mr Nicolas",
+          "text": "troops"
+        },
+        {
+          "id": "26",
+          "author": "Mr Nicolas",
+          "text": "troops"
+        },
+        {
+          "id": "29",
+          "author": "Mr Nicolas",
+          "text": "troops"
+        },
+        {
+          "id": "38",
+          "author": "Mr Nicolas",
+          "text": "troops"
+        },
+        {
+          "id": "0",
+          "author": "Mr Nicolas",
+          "text": "company of troops"
+        },
+        {
+          "id": "44",
+          "author": "Mr Nicolas",
+          "text": "NPC"
+        },
+        {
+          "id": "45",
+          "author": "Mr Nicolas",
+          "text": "NPC"
+        },
+        {
+          "id": "40",
+          "author": "Mr Nicolas",
+          "text": "Fraction, вероятно, их (взвода) часть."
+        },
+        {
+          "id": "22",
+          "author": "Mr Nicolas",
+          "text": "See Sanctums and Dungeons section (p. xx)"
+        },
+        {
+          "id": "24",
+          "author": "Mr Nicolas",
+          "text": "See Sanctums and Dungeons section (p. xx)"
+        },
+        {
+          "id": "35",
+          "author": "Mr Nicolas",
+          "text": "See Sanctums and Dungeons section (p. xx)"
+        },
+        {
+          "id": "4",
+          "author": "Mr Nicolas",
+          "text": "congregation"
+        },
+        {
+          "id": "5",
+          "author": "Mr Nicolas",
+          "text": "Это община прихожан типа"
+        },
+        {
+          "id": "32",
+          "author": "Mr Nicolas",
+          "text": "Guildhouse"
+        },
+        {
+          "id": "1",
+          "author": "Mr Nicolas",
+          "text": "типа наёмников?"
+        },
+        {
+          "id": "43",
+          "author": "Mr Nicolas",
+          "text": "(See p. XX for details on training andequipping militia and p. XX for vaults and fastnesses.)"
+        },
+        {
+          "id": "41",
+          "author": "Mr Nicolas",
+          "text": "Longbowman"
+        },
+        {
+          "id": "16",
+          "author": "Mr Nicolas",
+          "text": "Fastness"
+        },
+        {
+          "id": "21",
+          "author": "Mr Nicolas",
+          "text": "apprentice"
+        },
+        {
+          "id": "23",
+          "author": "Mr Nicolas",
+          "text": "apprentice"
+        },
+        {
+          "id": "27",
+          "author": "Mr Nicolas",
+          "text": "apprentice"
+        },
+        {
+          "id": "34",
+          "author": "Mr Nicolas",
+          "text": "apprentice"
+        },
+        {
+          "id": "36",
+          "author": "Mr Nicolas",
+          "text": "apprentice"
+        },
+        {
+          "id": "19",
+          "author": "Mr Nicolas",
+          "text": "evade"
+        },
+        {
+          "id": "8",
+          "author": "Mr Nicolas",
+          "text": "clanholds"
+        },
+        {
+          "id": "3",
+          "author": "Mr Nicolas",
+          "text": "Contemplation"
+        },
+        {
+          "id": "11",
+          "author": "Mr Nicolas",
+          "text": "See Congregants and Divine Power (p. xx)"
+        },
+        {
+          "id": "13",
+          "author": "Mr Nicolas",
+          "text": "See Congregants and Divine Power (p. xx)"
+        },
+        {
+          "id": "14",
+          "author": "Mr Nicolas",
+          "text": "See Congregants and Divine Power (p. xx)"
+        },
+        {
+          "id": "25",
+          "author": "Mr Nicolas",
+          "text": "See Congregants and Divine Power (p. xx)"
+        },
+        {
+          "id": "28",
+          "author": "Mr Nicolas",
+          "text": "See Congregants and Divine Power (p. xx)"
+        },
+        {
+          "id": "30",
+          "author": "Mr Nicolas",
+          "text": "See Congregants and Divine Power (p. xx)"
+        },
+        {
+          "id": "37",
+          "author": "Mr Nicolas",
+          "text": "See Congregants and Divine Power (p. xx)"
+        },
+        {
+          "id": "6",
+          "author": "Mr Nicolas",
+          "text": "See Hideouts and Hijinks section (p. xx)"
+        },
+        {
+          "id": "15",
+          "author": "Mr Nicolas",
+          "text": "See Hideouts and Hijinks section (p. xx)"
+        },
+        {
+          "id": "31",
+          "author": "Mr Nicolas",
+          "text": "See Hideouts and Hijinks section (p. xx)"
+        },
+        {
+          "id": "33",
+          "author": "Mr Nicolas",
+          "text": "See Hideouts and Hijinks section (p. xx)"
+        },
+        {
+          "id": "39",
+          "author": "Mr Nicolas",
+          "text": "See Clanholds and Transitional Domains (p. XX)"
+        },
+        {
+          "id": "42",
+          "author": "Mr Nicolas",
+          "text": "civilized"
+        },
+        {
+          "id": "2",
+          "author": "Mr Nicolas",
+          "text": "Animal Husbandry"
+        }
+      ],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 8_ CAMPAIGNS - Кампании (MrNicolas, Faylow).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 9_ Armies (Елизавета).docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\ReadMe.docx",
+      "comments": [
+        {
+          "id": "2",
+          "author": "Ян Виах",
+          "text": "Госпиталь"
+        },
+        {
+          "id": "3",
+          "author": "Covi dus",
+          "text": "Хуёспиталь"
+        },
+        {
+          "id": "4",
+          "author": "Covi dus",
+          "text": "Это домик где Шаман молица"
+        },
+        {
+          "id": "1",
+          "author": "faylow kaiko",
+          "text": "лучше подойдет \"Танцор с клинками\". Гендерно-нейтрально и лучше отражает"
+        },
+        {
+          "id": "5",
+          "author": "Covi dus",
+          "text": "Возможно это как-то стоит совместить к классовыми способностями (как будто бы это они и есть и мы головой поехали"
+        },
+        {
+          "id": "7",
+          "author": "faylow kaiko",
+          "text": "Надо заменить. Будет путаница с Mercenary."
+        },
+        {
+          "id": "9",
+          "author": "Moonwind",
+          "text": "отравительство мы больше не исспользуем"
+        },
+        {
+          "id": "6",
+          "author": "Covi dus",
+          "text": "Это точно тут должно быть?"
+        },
+        {
+          "id": "8",
+          "author": "faylow kaiko",
+          "text": "На русском вроде как принято переводить \"Этельстан\". см. https://ru.wikipedia.org/wiki/%D0%AD%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B0%D0%BD"
+        },
+        {
+          "id": "0",
+          "author": "Covi dus",
+          "text": "лучше не придумал"
+        }
+      ],
+      "tracked": {
+        "ins": 5,
+        "del": 2,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\Source\\ACKSII Revised Rulebook.docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    },
+    {
+      "path": "ACKSII\\Source\\Лишние\\ACKS II Revised Rulebook.docx",
+      "comments": [],
+      "tracked": {
+        "ins": 0,
+        "del": 0,
+        "moveFrom": 0,
+        "moveTo": 0
+      }
+    }
+  ],
+  "protected": {
+    "ACKSII\\ReadMe.docx": "e084936de6fa5890c2dedf7a1d3ab1aa15bbbc493d1aeb67ab2ca09d19e10e5d",
+    "ACKSII\\Глоссарий.md": "2065d5a3fdc063d30e0c50d316d34456b72268f3ba98ff310e9eff4a60f38ddc",
+    "ACKSII\\ACKSII Judges Journal\\CUSTOM SPELLS.docx": "84ef9cd50abc6cc782ac1bd947d95951cc2d5c8de05c703bd0f62f3417f793da",
+    "ACKSII\\ACKSII Monstrous Manual\\ГЛАВА 0 - Введение (Faylow).docx": "6772038e22e17ef50c2fe421c1e1147aa91c5423211fd6748884ced39d5f25d2",
+    "ACKSII\\ACKSII Monstrous Manual\\ГЛАВА 1 - Обзор монстров (Faylow).docx": "3fd485bb703a45ac0b67a1bd3a89d8b7a91ed408da09a4db9af1e6fc7178dc70",
+    "ACKSII\\ACKSII Monstrous Manual\\ГЛАВА 2 - Список монстров (Faylow, Wiah).docx": "5b351a78131046b91f99e988980beec4ab1515495c61184352ea6dfde1062328",
+    "ACKSII\\ACKSII Revised Rulebook\\APPENDIX C.docx": "d4e0b2b96846e1c64078978ac4980d6520ac2a301d92fbccac03af785e787fc9",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 10_ Maneuvers (Елизавета).docx": "1559c1a799ce128e383c1f030ba59a73667ace4b9c92a1ff9fa2311c4ca8750a",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 11_ Battles (Елизавета).docx": "1559c1a799ce128e383c1f030ba59a73667ace4b9c92a1ff9fa2311c4ca8750a",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 1_ CHARACTERS - Персонажи.docx": "bfab5a098d2a12d2e11f7af12fe52241e8fa23b2aedd64f608a06c17b4559c57",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 2_ CLASSES - Классы.docx": "15c865ec22ae1bcf5c368b55f6dcfe00402708407eef7f89d4947e108a298448",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 3_ PROFICIENCIES (Wiah).docx": "0051c48d29d3837c7f7a4e97a4359bc0ea2fc6bd00e82b0a4408c77a205eb64c",
+    "ACKSII\\ACKSII Revised Rulebook\\Chapter 4_ Equipment (Justluck, Faylow).docx": "c872ee40f8a9d76f7f7f6614999fb4cdf6ad8fa2d798fa2abfaaa34927574485",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 5_ SPELLS (Moonwind, faulkner, Faylow).docx": "2c7dcfe24bf16077ed345c1d861ad170a190f62a0a707e9289a7ec829186fea5",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 5_ SPELLS LIST ALL.docx": "684a136da62e2429389b8296ca5d3c81544f710706b78c6b22f4f6dc4538d8db",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 6_ ADVENTURES (MOCHET, Wiah, Faylow).docx": "9db1e1a9ca1456a2263617031fec157bc8c49f46f2ec7ad6d0c414122cd32f18",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 8_ CAMPAIGNS - Кампании (MrNicolas, Faylow).docx": "b98784bf74c95d7c96a0ef5aee68954455e78214ce1ec06d75878473a3b8aab9",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 9_ Armies (Елизавета).docx": "97f862b97719ecbab6c81edefbd4f97c544709dee11cd71f93f83cbad8b9baf6",
+    "ACKSII\\ACKSII Treasure Tome\\Глава 2_ Описания предметов.docx": "d306691f98764a9657a70cf606284b1ee08a9020d6c2046f680955f61bbbe682",
+    "ACKSII\\Source\\ACKSII Judges Journal (RAW TEXT DUMP).md": "cb6bd72debb99b9b90ba925e075206c097cf319affda552faee395958b5e42c7",
+    "ACKSII\\Source\\ACKSII Judges Journal.pdf": "99a3059112bcad8cd2bd558af44c018ce9a45b2941d3446e269b4a790020c939",
+    "ACKSII\\Source\\ACKSII Monstrous Manual.pdf": "d5814a5a226212b833e7ed065841b34b79c8875dfb59881ea07abf5232bf5b8c",
+    "ACKSII\\Source\\ACKSII Revised Rulebook  (RAW TEXT DUMP).md": "6e942735636a63a74116f50fcda57b3c35e8fc5a7f8ef75961244501869ff6c3",
+    "ACKSII\\Source\\ACKSII Revised Rulebook (EN checked).md": "e29d85526048214c6f32003e04180d2681937cf48ed6e58b123babf7045e4d15",
+    "ACKSII\\Source\\ACKSII Revised Rulebook — проверка извлечения.md": "aa1ca2724a281d84e41aa9730a15a6b205bb550d4181e563e04b8819e11cab9a",
+    "ACKSII\\Source\\ACKSII Revised Rulebook.docx": "4e5f650618238b4bd37b9b7c878f72c95bba8b9f719f3607ea84c01fc3fddc41",
+    "ACKSII\\Source\\ACKSII Revised Rulebook.pdf": "e9d8adb05281090e0455a0ea0e07f1d2e18eee8902a3cb6a34b23753056059da",
+    "ACKSII\\Source\\ACKSII Treasure Tome (AUT2006).pdf": "8252ff437068a4bc4e6cb82dda64146f041f94093aff9f30ab6523e72edda51f",
+    "ACKSII\\Source\\Mortal Wounds.pdf": "be166fb1ca9dfb00aba2bc8eea41aeb32ae68a0b88c434e1c7829e4425f40d02",
+    "ACKSII\\База перевода\\acksii_translation.sqlite": "e909187e9e9281a0064d1d8d8c876bf68086336fbd92d7cc63f6533b868b41a0",
+    "ACKSII\\База перевода\\bilingual_terms.md": "f725782ee90b33535d00dd40161cd0ffa657623b1b1aab8ed3d00ed4f147359e",
+    "ACKSII\\База перевода\\glossary.json": "1e6b128e349be9073c93387286363aea92c4dee614a877962d33b1c520027c8c",
+    "ACKSII\\Образцы для типографии\\ACKSII Глава 1 — образец вёрстки.pdf": "99c054f5c7ca50c594248ec76b22217589d2e3bf5386871550772f78bf1264ca",
+    "ACKSII\\ACKSII Judges Journal\\Part 1 - Praxis\\Chapter 1 - FOUNDATIONS (eng).docx": "aca0fd50b3e0441a24f1551121256574668a5a6340dc22d29717ecd23e61e747",
+    "ACKSII\\ACKSII Judges Journal\\Part 1 - Praxis\\Chapter 1 - FOUNDATIONS (ru).docx": "0d25f18f9e98bd495e302d0ccd19d2f15af0e2a7283c659283619e87ec56df29",
+    "ACKSII\\ACKSII Judges Journal\\Part 1 - Praxis\\Chapter 2 - Adventures (eng).docx": "c7a41355baa4df013d83bb4adfc8a92c8e6944d4bdbd9ae8ecd9b5f4c768f835",
+    "ACKSII\\ACKSII Judges Journal\\Part 1 - Praxis\\Chapter 2 - Adventures (ru).docx": "252ba62bb19a23a01524d7e551296c34add3bef3280665ab4f12cf5220e71281",
+    "ACKSII\\ACKSII Judges Journal\\Part 1 - Praxis\\chapter 3 - Campaigns (Faylow).docx": "bfb6904269f8e474678f8324043d419940e67094f4320a43691fe8b45f08ef87",
+    "ACKSII\\ACKSII Judges Journal\\Part 2 - Construction\\Chapter 5 - Setting (ENG).docx": "0bb9bbfd52f87657ef4cdd31de33558de884b5ff4fae3529de167987688760c6",
+    "ACKSII\\ACKSII Judges Journal\\Part 2 - Construction\\Chapter 5 - Setting (RU).docx": "b09edb15528516255e4abd4a2c1baeecfe7292ceaf990f070f2ea987605d7804",
+    "ACKSII\\ACKSII Judges Journal\\Part 2 - Construction\\Chapter 6 - Realms (ENG).docx": "92f2f83f1ceffe31899c9cd313f9893d241623202c042ec3703a92a35a82d7df",
+    "ACKSII\\ACKSII Judges Journal\\Part 2 - Construction\\Chapter 6 - Realms (RU).docx": "7616ef7b7ffd7125c204907fd641375220ca745ae9c30b3246003d8f6942bd06",
+    "ACKSII\\ACKSII Judges Journal\\Part 2 - Construction\\Chapter 7 - Settelment (ENG).docx": "692254234084bb79b5027e735ee8b563455cceae8277f542348c502ef7b3d5eb",
+    "ACKSII\\ACKSII Judges Journal\\Part 2 - Construction\\Chapter 7 - Settelment (RU).docx": "ce380e0f42c681ea5d6cb93a5e9a49dc9328158d21f93f108d52ddbdfe9ee396",
+    "ACKSII\\ACKSII Judges Journal\\Part 2 - Construction\\Chapter 8 - Dungeons (Faylow).docx": "58ef351fb1f0dd85b5bc852e39cf1aec27af029d4571b4f4d0757b403c9e9c91",
+    "ACKSII\\ACKSII Judges Journal\\Part 2 - Construction\\Chapter 9 - Non-Player Character (Faylow).docx": "561ef0a720ebe0d3b722c68e18802999a75bd24f1ab6da2f4e54ccd1981e47f8",
+    "ACKSII\\ACKSII Monstrous Manual\\ГЛАВА 2 - Список монстров (Faylow, Wiah)\\Зверолюд, Гоблин (Faylow).docx": "5d3be9dace994c7622669cdad004a8539a57f831a8bf32bb732d1a16b9e08a97",
+    "ACKSII\\ACKSII Monstrous Manual\\ГЛАВА 2 - Список монстров (Faylow, Wiah)\\Зверолюд, Кобольд.docx": "9a2fe130c1b01b980ae5ec50fd4865b548c154aebfa41b54d0819c9150b49082",
+    "ACKSII\\ACKSII Monstrous Manual\\ГЛАВА 2 - Список монстров (Faylow, Wiah)\\Зверолюди.docx": "f48925ccdc03f49e29164748f6679273b3715cc10b1f05d3115f5d0b5fc02b73",
+    "ACKSII\\ACKSII Monstrous Manual\\ГЛАВА 2 - Список монстров (Faylow, Wiah)\\КАКОДЕМОНЫ.docx": "859b2fb25d1f1a97b2a6a1cfd4525fa2c2e64d494bc6b6c1c14c5b32e55f10c6",
+    "ACKSII\\ACKSII Monstrous Manual\\ГЛАВА 2 - Список монстров (Faylow, Wiah)\\Новый документ.docx": "8a106f2ca89d1e2664b2840f0433f9b826b821c16d5c0b3f5e82fbde70ca7312",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 6_ Adventures (MOCHET)\\1) DUNGEON DELVES.docx": "94f851c9b5ca6d95754d7d8c96acfdbc89d9dff41de05bfe34ee5a4e80d18132",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 6_ Adventures (MOCHET)\\2) WILDERNESS EXPEDITIONS.docx": "9ebee46c5df7e06a577da761694dd08533534a634cffa5b85025525c754aa39b",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 6_ Adventures (MOCHET)\\3) ENCOUNTERS.docx": "7d8d05fb8074378dddae58b979cd6f6101555f7b582283aeb45fe8a08d9d4241",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 6_ Adventures (MOCHET)\\4) COMBAT.docx": "5f143915352b2532276eaf359e181658783c492d24e0412883eadc94396c6af4",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 6_ Adventures (MOCHET)\\5) EARNING EXPERIENCE FROM ADVENTURES.docx": "d48f08db69c676ae39dcd23416ea30717315fe2fee71daff94950bc759d0308c",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 6_ Adventures (MOCHET)\\Actions Действия.pdf": "ad227d5beb1c1eaee0d6eb93fd45cdd3d13923108a151273d84dffdb4a1d9910",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 6_ Adventures (MOCHET)\\Terrain Encounters - Точки интереса.pdf": "359dd32be7dd793e9e957061ac86af70abac836baa70c179f9784f6893a472ba",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 8_ CAMPAIGNS\\Chapter 8_ CAMPAIGNS (MrNicolas, Faylow) Готово 10,5_.docx": "4069ca865b66e348a1e3a08cda70cd52114f70f31d9dfc5fe945109645085b7a",
+    "ACKSII\\ACKSII Revised Rulebook\\CHAPTER 8_ CAMPAIGNS\\HIDEOUTS AND HIJINKS.pdf": "08df2c14aae8bf84f195ab5f3f6b60f22d2b64dbcde1425504db5675e79f0e1d",
+    "ACKSII\\Source\\Лишние\\ACKS II Judges Journal.pdf": "ff794e637a3ee89af4f1a1710e2cf0433dd92004b01b48c9b1e95d2b53cfca1c",
+    "ACKSII\\Source\\Лишние\\ACKS II Monstrous Manual.pdf": "38c3b85f37a99ba739ef584573b8d68167fb57d1ffc2646898393d4edaf25868",
+    "ACKSII\\Source\\Лишние\\ACKS II Revised Rulebook.docx": "ec775b044176a1e3839159bd7a1c677d9696a3e75473b90ebc9f0067ab58ea7f",
+    "ACKSII\\Source\\Лишние\\ACKS II ИНВЕНТАРЬ.pdf": "6458773122f18f88d53a75142a14bf8a66416316563d9e1e3086f97d582cdfc0"
+  }
+}

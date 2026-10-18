@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-18",
+  "source_pdf_pages_inspected": [
+    205,
+    296,
+    320,
+    480
+  ],
+  "reader_sample_pages": [
+    5,
+    205,
+    296,
+    320,
+    480,
+    520,
+    545,
+    550
+  ],
+  "details_inspected": [
+    "исправленные абзацы rr.p0205.b019 и rr.p0296.b034",
+    "легенда ветра PDF 320",
+    "четыре вложенные зоны схемы PDF 480",
+    "вся таблица PDF 520",
+    "начало оглавления и фрагменты указателей"
+  ],
+  "viewport": [
+    1500,
+    1800
+  ],
+  "text_width": 1080,
+  "metrics": [
+    {
+      "pdf_page": 5,
+      "scroll_width": 1500,
+      "viewport": 1500,
+      "unavailable_images": [],
+      "tables": [
+        {
+          "width": 1080,
+          "scroll_width": 1080
+        }
+      ],
+      "clipped_cells": 0
+    },
+    {
+      "pdf_page": 205,
+      "scroll_width": 1500,
+      "viewport": 1500,
+      "unavailable_images": [],
+      "tables": [],
+      "clipped_cells": 0
+    },
+    {
+      "pdf_page": 296,
+      "scroll_width": 1500,
+      "viewport": 1500,
+      "unavailable_images": [],
+      "tables": [],
+      "clipped_cells": 0
+    },
+    {
+      "pdf_page": 320,
+      "scroll_width": 1500,
+      "viewport": 1500,
+      "unavailable_images": [],
+      "tables": [
+        {
+          "width": 1080,
+          "scroll_width": 1080
+        }
+      ],
+      "clipped_cells": 0
+    },
+    {
+      "pdf_page": 480,
+      "scroll_width": 1500,
+      "viewport": 1500,
+      "unavailable_images": [],
+      "tables": [],
+      "clipped_cells": 0
+    },
+    {
+      "pdf_page": 520,
+      "scroll_width": 1500,
+      "viewport": 1500,
+      "unavailable_images": [],
+      "tables": [
+        {
+          "width": 1080,
+          "scroll_width": 1080
+        }
+      ],
+      "clipped_cells": 0
+    },
+    {
+      "pdf_page": 545,
+      "scroll_width": 1500,
+      "viewport": 1500,
+      "unavailable_images": [],
+      "tables": [],
+      "clipped_cells": 0
+    },
+    {
+      "pdf_page": 550,
+      "scroll_width": 1500,
+      "viewport": 1500,
+      "unavailable_images": [],
+      "tables": [],
+      "clipped_cells": 0
+    }
+  ],
+  "observations": "В просмотренных образцах не обнаружены обрезанные ячейки, горизонтальное переполнение или недоступные изображения. Английские подписи видны, исправленные абзацы читаются; схема сохраняет вложенность и подписи.",
+  "full_visual_review": false,
+  "full_new_semantic_review": false,
+  "limits": "Просмотр выборочный; снимки и измерения не означают чтения каждой строки всей книги. Таблица 520 просмотрена целиком для оценки размещения, без новой смысловой вычитки каждой ячейки."
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-17",
+  "reviewer": "Codex",
+  "complete_semantic_review_by_Codex": true,
+  "independent_second_agent_review": false,
+  "human_approval": false,
+  "scope": {
+    "book": "Revised Rulebook",
+    "chapter": "B",
+    "physical_pdf_pages": [
+      508,
+      517
+    ],
+    "units": 283,
+    "headings": 65,
+    "paragraphs": 6,
+    "list_items": 212,
+    "tables": 0
+  },
+  "method": "Ручной перевод и повторная смысловая сверка одним Codex по EN checked.md и английским единицам SQLite. Проверены общие запреты, варианты освобождения, каждое из 60 определений/разделов состояний, действия и исключения, момент прекращения, наложение эффектов, проценты, размеры, типы урона, численность бросков и формула груза конечностей. Все 10 тел английских страниц точно совпадают с pages.source_markup.",
+  "russian_units_sha256": "60df101efd143ddba1baa90b07e8bccea5597a832946a37bf67db217fbcd86a6",
+  "glossary_review": "glossary_review.json: 60 заголовков сопоставлены со словарём; сохранены омонимия Cowering/Shaken, варианты с вопросительными знаками, различие навыка и состояния Sneaking. Словарь не изменён.",
+  "cross_chapter_sources_checked": [
+    "rr.p0225.b010",
+    "rr.p0308.b018",
+    "rr.p0309.b011"
+  ],
+  "review_corrections": [
+    "Названия действий согласованы с главой 6: Кулачный бой, Отталкивание, Разоружение",
+    "Скорость Спринта на вёслах согласована с главой 7",
+    "Уточнена retaliates без добавленного ограничения одной атакой",
+    "Различены Immune/invulnerable, ordinary damage/mundane damage и концентрация/состояние концентрирующегося"
+  ],
+  "editor_notes": 20
+}

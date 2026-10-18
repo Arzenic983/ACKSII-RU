@@ -1,0 +1,110 @@
+неподвижн[а-яё]+ концентрир[а-яё]*	concentrating and stationary
+неподвижн[а-яё]+ концентраци[а-яё]*	stationary concentration
+распознавани[а-яё]* околдования	discern bewitchment
+наведени[а-яё]* безумия	incite madness
+сняти[а-яё]* окаменения	depetrification
+дезинтеграци[а-яё]*	disintegration
+смертельн[а-яё]+ ран[а-яё]*	Mortal Wounds
+Вершин[а-яё]* добра	pinnacle of good
+озар[её]нн[а-яё]+ вершин[а-яё]*	illuminated pinnacle
+освящ[её]нн[а-яё]+ вершин[а-яё]*	hallowed pinnacle
+священнейш[а-яё]*	sacrosanct pinnacle
+Спринт[а-яё]* на в[её]слах	oar sprint
+классов[а-яё]+ способност[а-яё]*	class power
+подобн[а-яё]+ заклинаниям способност[а-яё]*	spell-like ability
+действи[а-яё]* вместо передвижения	action in lieu of moving
+действи[а-яё]* вместо атак[а-яё]*	action in lieu of attacking
+полн[а-яё]+ действи[а-яё]*	full-round action
+боев[а-яё]+ действи[а-яё]*	combat action
+действи[а-яё]* передвижения	movement action
+целев[а-яё]+ заняти[а-яё]*	dedicated activity
+линии? видимости	line of sight
+дальност[а-яё]* видимости	visibility distance
+предел[а-яё]* слышимости	earshot
+защитн[а-яё]+ передвижени[а-яё]*	defensive movement
+боев[а-яё]+ скорост[а-яё]*	combat speed
+скорост[а-яё]* исследования	exploration speed
+экспедиционн[а-яё]+ скорост[а-яё]*	expedition speed
+скорост[а-яё]* бега	running speed
+форсированн[а-яё]+ марш[а-яё]*	force march
+Т[её]мн[а-яё]+ зрени[а-яё]*	lightless vision
+Тенев[а-яё]+ чуть[а-яё]*	shadowy senses
+эхолокаци[а-яё]*	echolocation
+механорецепци[а-яё]*	mechanoreception
+конструкционн[а-яё]+ очк[а-яё]* здоровь[а-яё]*	structural hit points
+КОЗ	shp
+Кост[а-яё]* Здоровья	Hit Dice
+очк[а-яё]* здоровь[а-яё]*	hit points
+ОЗ	hp
+ТЕЛ	CON
+модификатор[а-яё]*	modifier
+класс[а-яё]* брони|КБ	AC
+боев[а-яё]+ дух[а-яё]*	morale
+броск[а-яё]* внезапности	surprise roll
+брос(?:ок|к[а-яё]*) атак[а-яё]*	attack throw
+брос(?:ок|к[а-яё]*) урона	damage roll
+от паралича	Paralysis
+от смерти	Death
+тайн[а-яё]+ спасброс[а-яё]*	secret saving throw
+спасброс[а-яё]*	saving throw
+брос(?:ок|к[а-яё]*) навык[а-яё]*	proficiency throw
+навык[а-яё]*	proficiency
+Проламывани[а-яё]*	Dungeonbashing
+Гибкост[а-яё]*	Contortionism
+Подслушивани[а-яё]*	Listening
+Прятани[а-яё]*	Hiding
+Подкрадывани[а-яё]*	Sneaking
+Магическ[а-яё]+ музык[а-яё]*	Magical Music
+рассечени[а-яё]*	cleave
+добивани[а-яё]*	coup de grace
+натиск[а-яё]*	charging
+отступлени[а-яё]*|отступа[а-яё]*|отступить	retreat
+отход[а-яё]*|отходить	withdraw
+ударн[а-яё]+ оружи[а-яё]*	impact weapon
+ударн[а-яё]+ урон[а-яё]*	impact damage
+Особ[а-яё]+ рубящ[а-яё]+ урон[а-яё]*	extraordinary slashing damage
+Особ[а-яё]+ урон[а-яё]*	extraordinary damage
+Особ[а-яё]+(?= урону)	extraordinary
+физическ[а-яё]+ урон[а-яё]*	physical damage
+обычн[а-яё]+ огненн[а-яё]*	mundane fire
+обычн[а-яё]+ колющ[а-яё]*	mundane piercing
+категори[а-яё]* размера	size category
+больш[а-яё]*(?= (?:или внушительным )?существ)	large
+огромн[а-яё]*	huge
+гигантск[а-яё]*	gigantic
+колоссальн[а-яё]*	colossal
+крошечн[а-яё]*	tiny
+естественн[а-яё]+ оружи[а-яё]*	natural weapon
+нормальн[а-яё]+ груз[а-яё]*	normal load
+максимальн[а-яё]+ груз[а-яё]*	maximum load
+грузопод[ъь][её]мност[а-яё]*	carrying capacity
+нагруз[а-яё]*	encumbrance
+стоун[а-яё]*	stone
+фунт[а-яё]*	lbs
+фут(?:а|ов)?	feet
+бестелесн[а-яё]*	incorporeal
+слиз[а-яё]*	ooze
+Засад[а-яё]*	ambush
+Удар[а-яё]* в спину	backstab
+отталкивани[а-яё]*	force back
+разоружени[а-яё]*	disarm
+сбивани[а-яё]* с ног	knock down
+кулачн[а-яё]+ бо[а-яё]*	brawl
+поглощ[её]н[а-яё]*	engulfed
+ритуальн[а-яё]+ маги[а-яё]*	ritual magic
+зачаровани[а-яё]*	enchantment
+заклинани[а-яё]* смерти	death spell
+Арбитр[а-яё]*	Judge
+инициатив[а-яё]*	initiative
+раунд[а-яё]*	round
+ход(?:а|у|ом|е|ы|ов|ам|ами|ах)?	turn
+
+божественн[а-яё]+ заклинани[а-яё]*	divine spell
+мистическ[а-яё]+ заклинани[а-яё]*	arcane spell
+бард[а-яё]*	Bard
+рукопашн[а-яё]+ атак[а-яё]*	melee attack
+дальнобойн[а-яё]+ атак[а-яё]*	missile attack
+метательн[а-яё]+ атак[а-яё]*	thrown attack
+концентраци[а-яё]*	concentration
+рукопашн[а-яё]+(?= и метательн)	melee
+полн[а-яё]+(?= или боев[а-яё]+ действи)	full-round action

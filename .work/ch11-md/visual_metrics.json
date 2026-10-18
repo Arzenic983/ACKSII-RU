@@ -1,0 +1,81 @@
+[
+  {
+    "pdf_page": 463,
+    "scroll_width": 1500,
+    "viewport": 1500,
+    "tables": [
+      {
+        "id": "rr.p0463.t01",
+        "width": 1080,
+        "scroll_width": 1080
+      },
+      {
+        "id": "rr.p0463.t02",
+        "width": 1080,
+        "scroll_width": 1080
+      },
+      {
+        "id": "rr.p0463.t03",
+        "width": 1080,
+        "scroll_width": 1080
+      }
+    ]
+  },
+  {
+    "pdf_page": 465,
+    "scroll_width": 1500,
+    "viewport": 1500,
+    "tables": [
+      {
+        "id": "rr.p0465.t01",
+        "width": 1080,
+        "scroll_width": 1080
+      },
+      {
+        "id": "rr.p0465.t02",
+        "width": 1080,
+        "scroll_width": 1080
+      }
+    ]
+  },
+  {
+    "pdf_page": 468,
+    "scroll_width": 1500,
+    "viewport": 1500,
+    "tables": [
+      {
+        "id": "rr.p0468.t01",
+        "width": 1080,
+        "scroll_width": 1080
+      },
+      {
+        "id": "rr.p0468.t02",
+        "width": 1080,
+        "scroll_width": 1080
+      }
+    ]
+  },
+  {
+    "pdf_page": 470,
+    "scroll_width": 1500,
+    "viewport": 1500,
+    "tables": [
+      {
+        "id": "rr.p0470.t01",
+        "width": 1080,
+        "scroll_width": 1080
+      },
+      {
+        "id": "rr.p0470.t02",
+        "width": 1080,
+        "scroll_width": 1080
+      }
+    ]
+  },
+  {
+    "pdf_page": 473,
+    "scroll_width": 1500,
+    "viewport": 1500,
+    "tables": []
+  }
+]

@@ -1,0 +1,121 @@
+{
+  "book": "ACKS II Revised Rulebook",
+  "chapter": "09",
+  "pdf_pages": [
+    439,
+    446
+  ],
+  "id_first": "rr.p0439.b001",
+  "id_last": "rr.p0446.t01.r037.c08",
+  "expected": 1802,
+  "translated": 1802,
+  "complete": true,
+  "unit_kinds": {
+    "heading": 13,
+    "paragraph": 28,
+    "table_cell": 1758,
+    "list_item": 3
+  },
+  "source_revision": 0,
+  "user_approved": false,
+  "semantic_review": "Каждый словесный блок и каждая словесная ячейка сверены с источником: масштабы подразделений и пороги армии, квалификация офицеров, остаток войск, оба примера организации, виды войск/варианты A–H, все наборы оружия/доспехов/ездовых животных, различия обычных и ветеранских войск и финансовые пояснения. Составные названия переведены через явно заданные карты видов войск и снаряжения; непокрытая строка вызывает ошибку. Числовые ячейки не переводились содержательно.",
+  "technical_checks": {
+    "all_ids_present": true,
+    "source_sha256_and_markup_match_read_only_sqlite": true,
+    "revisions_zero_preserved": true,
+    "numeric_token_multisets_equal": true,
+    "asterisk_counts_equal": true,
+    "cell_br_counts_equal": true,
+    "pure_numeric_cells_verbatim": 1190,
+    "field_cost_formula_rows_checked": 75
+  },
+  "tables": [
+    {
+      "id": "rr.p0439.t01",
+      "rows": 5,
+      "columns": 5,
+      "units": 25,
+      "covered_positions": 25,
+      "source_coordinates_and_spans_preserved": true
+    },
+    {
+      "id": "rr.p0441.t01",
+      "rows": 19,
+      "columns": 11,
+      "units": 189,
+      "covered_positions": 189,
+      "source_coordinates_and_spans_preserved": true
+    },
+    {
+      "id": "rr.p0441.t02",
+      "rows": 27,
+      "columns": 11,
+      "units": 297,
+      "covered_positions": 297,
+      "source_coordinates_and_spans_preserved": true
+    },
+    {
+      "id": "rr.p0442.t01",
+      "rows": 26,
+      "columns": 11,
+      "units": 286,
+      "covered_positions": 286,
+      "source_coordinates_and_spans_preserved": true
+    },
+    {
+      "id": "rr.p0443.t01",
+      "rows": 37,
+      "columns": 11,
+      "units": 327,
+      "covered_positions": 327,
+      "source_coordinates_and_spans_preserved": true
+    },
+    {
+      "id": "rr.p0444.t01",
+      "rows": 17,
+      "columns": 8,
+      "units": 122,
+      "covered_positions": 122,
+      "source_coordinates_and_spans_preserved": true
+    },
+    {
+      "id": "rr.p0445.t01",
+      "rows": 34,
+      "columns": 8,
+      "units": 272,
+      "covered_positions": 272,
+      "source_coordinates_and_spans_preserved": true
+    },
+    {
+      "id": "rr.p0446.t01",
+      "rows": 37,
+      "columns": 8,
+      "units": 240,
+      "covered_positions": 240,
+      "source_coordinates_and_spans_preserved": true
+    }
+  ],
+  "pdf_images_viewed": [
+    441,
+    447
+  ],
+  "visual_scope": "PDF 441: просмотрены заголовки, расположение и состав таблиц полулюдей и обычных людей. PDF 447: проверено отсутствие правил и таблиц; это полностраничная иллюстрация. Другие исходные страницы и русский Markdown визуально полностью не проверялись.",
+  "pdf447": {
+    "has_translation_units": false,
+    "printed_page": 445,
+    "content": "Полностраничная цветная иллюстрация: всадник в античном шлеме с пурпурным плащом на белом коне проезжает между рядами пехотинцев с копьями; на заднем плане античные здания и горы. Есть колонтитул Armies и печатная страница 445, текста правил и таблиц нет. ID не создавались; границу PDF 447 следует сохранить."
+  },
+  "notes_count": 4,
+  "notes_ids": [
+    "rr.p0439.b005",
+    "rr.p0441.t01.r001.c01",
+    "rr.p0444.t01.r001.c01",
+    "rr.p0445.b003"
+  ],
+  "terminology": "Названия снаряжения сверены с главой 4 и глоссарием; рабочие leader/commander/division/unit и Longbowmen сохранены по поручению. GP локализовано зм [gp]; BW — По оружию [BW], SV-коды подписаны русскими буквенными эквивалентами. Новые варианты не утверждены.",
+  "limitations": [
+    "Интеграцию, общий Markdown и коммит выполняет root. SQLite и чужие файлы не менялись.",
+    "В исходнике сохранены повреждённые английские заголовки таблиц и вопрос 360 зм для слонов; замечания в notes.json.",
+    "Независимая человеческая вычитка и user_approved отсутствуют."
+  ]
+}

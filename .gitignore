@@ -15,6 +15,14 @@ desktop.ini
 *.sqlite-shm
 *.sqlite-journal
 
+# RR whole-book audit: regenerable local previews and inspection images
+.work/rr-completeness/*.png
+.work/rr-completeness/*.html
+.work/rr-completeness/*.log
+.work/rr-completeness/notes_differences.json
+.work/rr-completeness/render_differences.json
+.work/rr-completeness/visible_machine_text.json
+
 # Credentials and machine-specific settings
 .env
 .env.*
@@ -58,3 +66,162 @@ contributions/_export/
 .work/ch05-md/needs_translation.md
 .work/ch05-md/CHAPTER*.txt
 contributions/05/Черновик главы 5.md
+
+# Chapter 6: extracted contributor drafts, review views and generated previews
+.work/ch06-md/source_*.md
+.work/ch06-md/candidate_*.md
+.work/ch06-md/pdf*.png
+.work/ch06-md/chapter_preview.html
+.work/ch06-md/CHAPTER*.txt
+.work/ch06-md/CHAPTER*.json
+.work/ch06-md/[1-5]) *.txt
+.work/ch06-md/[1-5]) *.json
+.work/ch06-md/candidates.json
+.work/ch06-md/alignment.json
+.work/ch06-md/automatic_labels.json
+.work/ch06-md/labels.json
+.work/ch06-md/label_map.json
+.work/ch06-md/labels_needed.txt
+.work/ch06-md/labels_remaining.txt
+.work/ch06-md/pure_translations.json
+.work/ch06-md/bilingual_translations.json
+.work/ch06-md/bilingual_notes.json
+.work/ch06-md/numeric_differences.json
+
+# Chapters 7–8: local PDF renders, extracted drafts and disposable review views
+.work/ch07-md/pdf*.png
+.work/ch07-md/rendered_chapter.html
+.work/ch07-md/format_reading_before.py
+.work/ch08-md/*.png
+.work/ch08-md/candidate_*.md
+.work/ch08-md/contributor_draft.*
+.work/ch08-md/root_candidates.json
+.work/ch08-md/source_units.json
+.work/ch08-md/source_tables.json
+.work/ch08-md/rendered_chapter.html
+.work/ch08-md/render_differences.json
+.work/ch08-md/mechanics_differences.json
+.work/ch08-md/parts_audit.json
+.work/ch08-md/*.updated.md
+.work/ch08-md/parts/*/*
+!.work/ch08-md/parts/*/translations.json
+!.work/ch08-md/parts/*/notes.json
+!.work/ch08-md/parts/*/term_map.json
+!.work/ch08-md/parts/*/review.json
+!.work/ch08-md/parts/*/root_review_*.json
+!.work/ch08-md/parts/*/independent_review_*.json
+
+# Chapter 9: local source inspection and disposable render
+.work/ch09-md/*.png
+.work/ch09-md/rendered_fragment.html
+.work/ch09-md/render_differences.json
+.work/ch09-md/parts/*/*.png
+.work/ch09-md/parts/*/source.txt
+.work/ch09-md/parts/*/build*.py
+.work/ch09-md/edge-preview/
+.work/ch09-md/preview.html
+.work/ch09-md/visual-*.html
+.work/ch09-md/parts_audit.json
+.work/ch09-md/parts/*/*
+!.work/ch09-md/parts/*/translations.json
+!.work/ch09-md/parts/*/notes.json
+!.work/ch09-md/parts/*/term_map.json
+!.work/ch09-md/parts/*/review*.json
+
+# Chapter 10: disposable inspection and rendering artifacts
+.work/ch10-md/pdf*.png
+.work/ch10-md/contributor_draft.txt
+.work/ch10-md/metadata.json
+.work/ch10-md/pure.json
+.work/ch10-md/glossary_candidates.json
+.work/ch10-md/mechanics_differences.json
+.work/ch10-md/render_differences.json
+.work/ch10-md/preview*.html
+.work/ch10-md/visual-*.png
+.work/ch10-md/edge-preview/
+
+# Chapter 11: local inspection data and regenerable views
+.work/ch11-md/metadata.json
+.work/ch11-md/pure.json
+.work/ch11-md/mechanics_differences.json
+.work/ch11-md/render_differences.json
+.work/ch11-md/pdf*.png
+.work/ch11-md/preview*.html
+.work/ch11-md/visual-*.png
+.work/ch11-md/RESUME.md
+
+# Chapter 12: local inspection data and regenerable samples
+.work/ch12-md/metadata.json
+.work/ch12-md/pure.json
+.work/ch12-md/english-*.txt
+.work/ch12-md/mechanics_differences.json
+.work/ch12-md/render_differences.json
+.work/ch12-md/pdf*.png
+.work/ch12-md/preview*.html
+.work/ch12-md/visual-*.png
+
+# Appendix A: local inspection data and regenerable samples
+.work/app-a-md/metadata.json
+.work/app-a-md/english.txt
+.work/app-a-md/pure.json
+.work/app-a-md/styled.json
+.work/app-a-md/language_nodes.json
+.work/app-a-md/mechanics_differences.json
+.work/app-a-md/render_differences.json
+.work/app-a-md/pdf*.png
+.work/app-a-md/preview*.html
+.work/app-a-md/visual-*.png
+
+# Appendix B: regenerable translation checks and local inspection samples
+.work/app-b-md/metadata.json
+.work/app-b-md/english.txt
+.work/app-b-md/pure.json
+.work/app-b-md/styled.json
+.work/app-b-md/styled_notes.json
+.work/app-b-md/mechanics_differences.json
+.work/app-b-md/render_differences.json
+.work/app-b-md/pdf*.png
+.work/app-b-md/preview*.html
+.work/app-b-md/visual-*.png
+
+# Appendix C: regenerable translation checks and local inspection samples
+.work/app-c-md/metadata.json
+.work/app-c-md/english.txt
+.work/app-c-md/partial.json
+.work/app-c-md/pure.json
+.work/app-c-md/styled.json
+.work/app-c-md/styled_notes.json
+.work/app-c-md/mechanics_differences.json
+.work/app-c-md/render_differences.json
+.work/app-c-md/pdf*.png
+.work/app-c-md/source*.png
+.work/app-c-md/preview*.html
+.work/app-c-md/visual-*.png
+
+# Appendix D: disposable text inspection and rendered previews
+.work/app-d-md/metadata.json
+.work/app-d-md/english.txt
+.work/app-d-md/pure.json
+.work/app-d-md/styled.json
+.work/app-d-md/styled_notes.json
+.work/app-d-md/mechanics_differences.json
+.work/app-d-md/render_differences.json
+.work/app-d-md/source*.png
+.work/app-d-md/preview*.html
+.work/app-d-md/visual-*.png
+
+# Appendix E: regenerable source/matching data and local render inspection
+.work/app-e-md/metadata.json
+.work/app-e-md/english.txt
+.work/app-e-md/index_entries.json
+.work/app-e-md/index_english.tsv
+.work/app-e-md/candidate_labels.json
+.work/app-e-md/candidate_review.tsv
+.work/app-e-md/pure.json
+.work/app-e-md/styled_entries.json
+.work/app-e-md/styled_notes.json
+.work/app-e-md/mechanics_differences.json
+.work/app-e-md/render_differences.json
+.work/app-e-md/source*.png
+.work/app-e-md/preview*.html
+.work/app-e-md/visual-*.png

@@ -1,0 +1,15 @@
+import {chromium} from 'file:///C:/Users/Arsik/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright/index.mjs';
+import {fileURLToPath,pathToFileURL} from 'node:url';
+import path from 'node:path';
+import fs from 'node:fs';
+const here=path.dirname(fileURLToPath(import.meta.url));
+const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe'});
+const page=await browser.newPage({viewport:{width:1500,height:1100},deviceScaleFactor:1});
+await page.goto(pathToFileURL(path.join(here,'../reading-md/preview.html')).href);
+const metrics=await page.evaluate(()=>({body_width:document.body.clientWidth,content_width:document.body.clientWidth-parseFloat(getComputedStyle(document.body).paddingLeft)-parseFloat(getComputedStyle(document.body).paddingRight),tables:[...document.querySelectorAll('table')].slice(-11).map((e,i)=>({pdf_page:520+i,width:e.getBoundingClientRect().width,overflowing_cells:[...e.querySelectorAll('td,th')].filter(c=>c.scrollWidth>c.clientWidth+1).length}))}));
+fs.writeFileSync(path.join(here,'reader_visual_metrics.json'),JSON.stringify(metrics,null,2)+'\n');
+await page.locator('table').nth(353).screenshot({path:path.join(here,'visual-reader-520.png')});
+await page.locator('table').nth(363).locator('tr').nth(3).screenshot({path:path.join(here,'visual-reader-530-row4.png')});
+await browser.close();
+if(metrics.tables.some(t=>t.width>metrics.content_width+1||t.overflowing_cells))throw new Error(JSON.stringify(metrics));
+console.log(JSON.stringify(metrics));

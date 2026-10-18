@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-17",
+  "chapter": "A",
+  "pdf_pages": [
+    488,
+    507
+  ],
+  "units": 344,
+  "table_count": 2,
+  "editor_notes": 20,
+  "checks": {
+    "all_rendered_russian_units_match_package": true,
+    "all_table_grids_and_spans_match_database": true,
+    "csv_jsonl_roundtrip": true,
+    "ids_source_hashes_and_original_revision_preserved": true,
+    "other_chapters_and_immutable_database_tables_unchanged": true,
+    "previous_chapters_and_reader_files_unchanged": true,
+    "editor_notes_previous_prefix_preserved": true,
+    "all_20_checked_dump_page_bodies_equal_database_source": true,
+    "numeric_dice_percent_signed_modifier_math_emphasis_and_break_invariants": true,
+    "no_user_approval_assigned": true,
+    "language_tree_depths_preserved_for_all_116_nodes": true,
+    "poem_four_stanzas_of_twelve_lines": true
+  },
+  "checked_source_page_sha256": {
+    "488": "fb507e3438b0e0b90523da8727d19aada33c98a1166861d6d9c9dd5052d1b9b2",
+    "489": "c54185c223d2e4b01f4cf58524f7f7d0b31f4ce00ab71f307909457e24165b21",
+    "490": "5689b6924729abd7f33d8141c0b736dd0c22c8d7a06b265bf87a7e2de913ce72",
+    "491": "20071088469f7388b6ec29e12314786f5fd1b2abe1eba15e9e837b37f04cf7a2",
+    "492": "399a18432945adcb81b8ae3ab331f40129524b7465054297e8b2da7692c5a3e0",
+    "493": "c4ba266f359ae915ec759226e1f23ca9f96b46bdefa9b83374b202d211f3dd93",
+    "494": "3506b0be55691888374b1782cd70861355c0d6bc0e6bd21c0910bff14d1cd00b",
+    "495": "45de50b3384f81ef7cf601a4a00787a73248e8cc3d848220336e2b802bb17af5",
+    "496": "c201653c86ec10708139b2bac1641883087f97b73a943a2b3c0820b3de549634",
+    "497": "cc3fcde3115ae8c7d8c25d007e729f0ac5d42c52e42aea01371be1bddd78e1a1",
+    "498": "c879e58bae3be50ccdd907df69b878e44ab7a47e893a9dc6f5dc135b4e96529b",
+    "499": "92bbb7366f9adb0220f1e368acf0ec402f52c8bb626b0f1a9e39238f217c0e61",
+    "500": "fccc9ac07348831e9a55e6b37948bb894a130f8c73e2319f20e170f9e0df8cd5",
+    "501": "b014b48e08f15147bc412d94ba751a25aa0eb4e612983ab99e9950a907dd376b",
+    "502": "4e2e5ea703a7dce391822c987592cb0c0ed19ad6315ffad87c04f76b3c18d0f5",
+    "503": "6d2d79e677e9b581eab435410f45b832491b9356a96560e6776c1204308780e7",
+    "504": "406baa800f9119726a27e156c16312d746b48ed0a1fede3a3c33a2b19842f5f4",
+    "505": "b832b0639fde42b108d2cf680495cd410b7af11af2ed0b33a5247c98b766eaca",
+    "506": "48491b79a7aee305d9fa7ba7761f5cd3c911035f9958649418322a0ba0031a5c",
+    "507": "0bf8fd985da17ee2b2fd80ad1010c81c3dad26a14f7a55d69f540c2647ea166d"
+  },
+  "integrated": true,
+  "documented_source_display_fixes": {},
+  "visual_review": {
+    "date": "2026-10-17",
+    "source_pdf_pages_inspected": [
+      491,
+      506,
+      507
+    ],
+    "russian_tables_inspected": [
+      "rr.p0492.t01",
+      "rr.p0496.t01"
+    ],
+    "russian_language_trees_inspected": 2,
+    "nodes_per_tree": 58,
+    "russian_poem_pdf_page_inspected": 505,
+    "map_crop_orientation_and_labels_inspected": true,
+    "seven_samples_without_horizontal_overflow_or_broken_images": true,
+    "full_russian_visual_review": false,
+    "limits": "Визуально просмотрены карта, обе полные таблицы, оба языковых дерева и страница стихотворения; вся проза 20 страниц визуально не проверялась. Семантическая и техническая сверка охватывает все единицы."
+  }
+}

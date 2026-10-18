@@ -1,0 +1,102 @@
+[
+  {
+    "en": "Judge",
+    "ru": "Арбитр",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Proficiencies",
+    "ru": "Навыки",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Stone",
+    "ru": "Стоун",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Hit Dice",
+    "ru": "Кости Здоровья",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Hit Points",
+    "ru": "Очки Здоровья",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Longbowman",
+    "ru": "стрелок",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Mortal Wounds",
+    "ru": "смертельные раны",
+    "status": "project_glossary"
+  },
+  {
+    "en": "permanent wound",
+    "ru": "необратимые раны",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Bladedancer",
+    "ru": "Дева клинков",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Fighter",
+    "ru": "Воин",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Paladin",
+    "ru": "Паладин",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Thief",
+    "ru": "Вор",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Realm",
+    "ru": "Владение",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Domain",
+    "ru": "Домен",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Henchmen",
+    "ru": "Приспешник",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Military Strategy",
+    "ru": "Военная стратегия",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Blessed/Inspired",
+    "ru": "Благословленный/Воодушевленный",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Disordered",
+    "ru": "В беспорядке",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Hungry",
+    "ru": "Голодный",
+    "status": "project_glossary"
+  },
+  {
+    "en": "Incapacitated",
+    "ru": "Недееспособный",
+    "status": "project_glossary"
+  }
+]

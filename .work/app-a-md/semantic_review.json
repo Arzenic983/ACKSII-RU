@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-17",
+  "reviewer": "Codex",
+  "complete_semantic_review_by_Codex": true,
+  "independent_second_agent_review": false,
+  "human_approval": false,
+  "scope": {
+    "book": "Revised Rulebook",
+    "chapter": "A",
+    "physical_pdf_pages": [
+      488,
+      507
+    ],
+    "units": 344,
+    "headings": 39,
+    "paragraphs": 164,
+    "table_cells": 133,
+    "list_items": 7,
+    "verse": 1,
+    "tables": 2
+  },
+  "method": "Ручной перевод и повторная смысловая сверка одним Codex по подготовленному EN checked.md и неизменным английским единицам базы. Сверены география, даты и события, устройство империи, денежные отношения, законы, военное дело, религия, все строки богов, описания народов, имена и словообразование, четыре строфы и оба языковых дерева. Все 20 тел страниц точно совпали с исходником базы.",
+  "russian_units_sha256": "07fff963a29740ffeb7d2bec0d3c3486333b51cbd0655b007e9e7182864bdde9",
+  "glossary_review": {
+    "sources": [
+      "ACKSII/Глоссарий.md",
+      "ACKSII/База перевода/glossary.json",
+      "ACKSII/База перевода/bilingual_terms.md"
+    ],
+    "approved_forms_preserved": [
+      "Крестоносец",
+      "Дева клинков",
+      "Жрица",
+      "Маг",
+      "Шаман",
+      "Дварф",
+      "Эльф",
+      "Убежище",
+      "Оплот",
+      "Домен",
+      "Владение",
+      "Скизийцы"
+    ],
+    "approved_glossary_unchanged": true,
+    "new_names_working_only": true
+  },
+  "corrections_during_review": [
+    "Неточность оттенка кожи никейцев",
+    "unslain передано как «оставались в живых», без добавленного отсутствия ран",
+    "Уточнено heavily-armored",
+    "Исправлены смешанные латинские и кириллические буквы",
+    "Уточнены разночтения извлечённой легенды карты и изображения",
+    "Удалены ложные подписи имён у обычных слов; сохранены точные имена в списках"
+  ],
+  "editor_notes": 20
+}

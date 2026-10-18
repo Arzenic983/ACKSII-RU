@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-17",
+  "chapter": "B",
+  "scope": [
+    508,
+    517
+  ],
+  "first_id": "rr.p0508.b001",
+  "last_id": "rr.p0517.b012",
+  "units": 283,
+  "headings": 65,
+  "tables": {},
+  "notes": 20,
+  "status": "reviewed_by_Codex",
+  "integrated": true
+}

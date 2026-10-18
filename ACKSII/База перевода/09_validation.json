@@ -1,0 +1,204 @@
+{
+  "date": "2026-10-17",
+  "chapter": "09",
+  "scope": "PDF 428–447; rr.p0428.b001–rr.p0446.t01.r037.c08",
+  "translated_units": 3179,
+  "chapter_units": 3179,
+  "next_unit": null,
+  "status": "reviewed_by_Codex",
+  "checks": {
+    "source_fields_and_revision_match_readonly_database": true,
+    "source_sha256": true,
+    "numeric_tokens_normalizing_thousands_separators": true,
+    "emphasis_markers_match_source": true,
+    "author_note_markers_match_source": true,
+    "previous_translations_preserved": true,
+    "csv_jsonl_roundtrip": true,
+    "markdown_unit_order": true,
+    "unique_anchors": true,
+    "english_heading_lines": 53,
+    "markdown_and_package_text_match_without_english_labels": true,
+    "table_coordinates_and_spans_after_html_parse": true,
+    "rendered_text_matches_package": true,
+    "dice_percentages_signed_modifiers": true,
+    "entire_database_unchanged": false,
+    "other_chapters_unchanged": true,
+    "immutable_sources_and_tables_unchanged": true,
+    "previous_full_chapters_and_readers_unchanged": true,
+    "integrated_text_and_status_match": true,
+    "previous_editorial_notes_bytes_preserved": true
+  },
+  "database_changed": true,
+  "tables_in_fragment": 17,
+  "table_geometry": {
+    "rr.p0429.t01": {
+      "rows": 9,
+      "columns": 2,
+      "source_cells": 18,
+      "missing_empty_positions": 0
+    },
+    "rr.p0430.t01": {
+      "rows": 19,
+      "columns": 9,
+      "source_cells": 171,
+      "missing_empty_positions": 0
+    },
+    "rr.p0430.t02": {
+      "rows": 19,
+      "columns": 9,
+      "source_cells": 171,
+      "missing_empty_positions": 0
+    },
+    "rr.p0431.t01": {
+      "rows": 18,
+      "columns": 12,
+      "source_cells": 216,
+      "missing_empty_positions": 0
+    },
+    "rr.p0431.t02": {
+      "rows": 18,
+      "columns": 12,
+      "source_cells": 216,
+      "missing_empty_positions": 0
+    },
+    "rr.p0432.t01": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 12,
+      "missing_empty_positions": 0
+    },
+    "rr.p0433.t01": {
+      "rows": 18,
+      "columns": 12,
+      "source_cells": 216,
+      "missing_empty_positions": 0
+    },
+    "rr.p0433.t02": {
+      "rows": 21,
+      "columns": 7,
+      "source_cells": 147,
+      "missing_empty_positions": 0
+    },
+    "rr.p0436.t01": {
+      "rows": 8,
+      "columns": 7,
+      "source_cells": 56,
+      "missing_empty_positions": 0
+    },
+    "rr.p0439.t01": {
+      "rows": 5,
+      "columns": 5,
+      "source_cells": 25,
+      "missing_empty_positions": 0
+    },
+    "rr.p0441.t01": {
+      "rows": 19,
+      "columns": 11,
+      "source_cells": 189,
+      "missing_empty_positions": 20
+    },
+    "rr.p0441.t02": {
+      "rows": 27,
+      "columns": 11,
+      "source_cells": 297,
+      "missing_empty_positions": 0
+    },
+    "rr.p0442.t01": {
+      "rows": 26,
+      "columns": 11,
+      "source_cells": 286,
+      "missing_empty_positions": 0
+    },
+    "rr.p0443.t01": {
+      "rows": 37,
+      "columns": 11,
+      "source_cells": 327,
+      "missing_empty_positions": 80
+    },
+    "rr.p0444.t01": {
+      "rows": 17,
+      "columns": 8,
+      "source_cells": 122,
+      "missing_empty_positions": 14
+    },
+    "rr.p0445.t01": {
+      "rows": 34,
+      "columns": 8,
+      "source_cells": 272,
+      "missing_empty_positions": 0
+    },
+    "rr.p0446.t01": {
+      "rows": 37,
+      "columns": 8,
+      "source_cells": 240,
+      "missing_empty_positions": 56
+    }
+  },
+  "editor_notes": 17,
+  "chapter_complete": true,
+  "pdf_visual_review": {
+    "source_pdf_pages_inspected": [
+      429,
+      430,
+      433,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447
+    ],
+    "scope": "Проверены изображения перечисленных исходных PDF. Английские подписи Troop Type/Unit Type восстановлены в отображении; оригинальные единицы сохранены. PDF447 содержит только иллюстрацию, её граница сохранена. Полная визуальная вычитка всей главы не заявляется.",
+    "russian_markdown_samples": [
+      430,
+      442,
+      444,
+      446
+    ],
+    "russian_full_visual_review": false,
+    "russian_view": "Headless Edge,1700x1800: проверены видимые части страниц;444 целиком, прочие верхние части. Нет перекрытий, обрезанных столбцов или потери английских подписей."
+  },
+  "markdown_visual_review": false,
+  "english_display_overrides": {
+    "rr.p0433.t01.r001.c01": "TROOP TYPE",
+    "rr.p0433.t02.r001.c01": "TROOP TYPE",
+    "rr.p0441.t01.r001.c01": "TROOP TYPE",
+    "rr.p0441.t02.r001.c01": "TROOP TYPE",
+    "rr.p0442.t01.r001.c01": "TROOP TYPE",
+    "rr.p0443.t01.r001.c01": "TROOP TYPE",
+    "rr.p0444.t01.r001.c01": "UNIT TYPE",
+    "rr.p0445.t01.r001.c01": "UNIT TYPE",
+    "rr.p0446.t01.r001.c01": "UNIT TYPE"
+  },
+  "markdown_visual_samples": [
+    430,
+    442,
+    444,
+    446
+  ],
+  "database_translations": 26976,
+  "field_cost_formula_rows_checked": 75,
+  "source_training_cost_discrepancies_preserved": [
+    {
+      "id": "rr.p0433.t02.r006.c06",
+      "sum_gp": "143",
+      "listed_gp": "140"
+    },
+    {
+      "id": "rr.p0433.t02.r018.c06",
+      "sum_gp": "1499",
+      "listed_gp": "1487"
+    },
+    {
+      "id": "rr.p0433.t02.r019.c06",
+      "sum_gp": "1872",
+      "listed_gp": "1767"
+    },
+    {
+      "id": "rr.p0433.t02.r021.c06",
+      "sum_gp": "5184",
+      "listed_gp": "5172"
+    }
+  ]
+}

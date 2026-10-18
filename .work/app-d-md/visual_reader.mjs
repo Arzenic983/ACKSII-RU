@@ -1,0 +1,15 @@
+import {chromium} from 'file:///C:/Users/Arsik/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright/index.mjs';
+import {fileURLToPath,pathToFileURL} from 'node:url';
+import path from 'node:path';
+import fs from 'node:fs';
+const here=path.dirname(fileURLToPath(import.meta.url));
+const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe'});
+const page=await browser.newPage({viewport:{width:1500,height:1600},deviceScaleFactor:1});
+await page.goto(pathToFileURL(path.join(here,'../reading-md/preview.html')).href);
+const sourcePages=[533,533,533,533,534,537];
+const metrics=await page.evaluate((sourcePages)=>({body_width:document.body.clientWidth,content_width:document.body.clientWidth-parseFloat(getComputedStyle(document.body).paddingLeft)-parseFloat(getComputedStyle(document.body).paddingRight),tables:[...document.querySelectorAll('table')].slice(-6).map((e,i)=>({pdf_page:sourcePages[i],width:e.getBoundingClientRect().width,rows:e.rows.length,cells:e.querySelectorAll('td,th').length,empty_cells:[...e.querySelectorAll('td')].filter(c=>!c.textContent.trim()).length,overflowing_cells:[...e.querySelectorAll('td,th')].filter(c=>c.scrollWidth>c.clientWidth+1).length}))}),sourcePages);
+for(let i=0;i<6;i++)await page.locator('table').nth(364+i).screenshot({path:path.join(here,`visual-reader-table-${i+1}.png`)});
+await browser.close();
+if(metrics.tables.length!==6||metrics.tables.reduce((n,t)=>n+t.empty_cells,0)!==17||metrics.tables.some(t=>t.width>metrics.content_width+1||t.overflowing_cells))throw new Error(JSON.stringify(metrics));
+fs.writeFileSync(path.join(here,'reader_visual_metrics.json'),JSON.stringify(metrics,null,2)+'\n');
+console.log(JSON.stringify(metrics));

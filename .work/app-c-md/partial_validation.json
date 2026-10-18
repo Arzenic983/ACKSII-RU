@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-17",
+  "translated_draft": 827,
+  "pending": 0,
+  "translation_sha256": "16791a29e2e6dac98d80dd6b8391e0f13257a706ee9bfb4dfd96884de24ac50d",
+  "source_packet_sha256": "c223f56437b33f51e371d7f44c2cc8c3d25f5e1b880aed36d3d801a29b7987fc",
+  "pages": {
+    "518": {
+      "translated": 1,
+      "total": 1
+    },
+    "519": {
+      "translated": 23,
+      "total": 23
+    },
+    "520": {
+      "translated": 73,
+      "total": 73
+    },
+    "521": {
+      "translated": 73,
+      "total": 73
+    },
+    "522": {
+      "translated": 73,
+      "total": 73
+    },
+    "523": {
+      "translated": 73,
+      "total": 73
+    },
+    "524": {
+      "translated": 73,
+      "total": 73
+    },
+    "525": {
+      "translated": 73,
+      "total": 73
+    },
+    "526": {
+      "translated": 73,
+      "total": 73
+    },
+    "527": {
+      "translated": 73,
+      "total": 73
+    },
+    "528": {
+      "translated": 73,
+      "total": 73
+    },
+    "529": {
+      "translated": 73,
+      "total": 73
+    },
+    "530": {
+      "translated": 73,
+      "total": 73
+    },
+    "531": {
+      "translated": 0,
+      "total": 0
+    }
+  },
+  "issues": [],
+  "checks": [
+    "dice",
+    "feet",
+    "Listening and NPC glossary",
+    "all original English and source hashes",
+    "revision 0 and no C import",
+    "other chapters",
+    "immutable database tables",
+    "11 table geometries",
+    "protected Markdown hashes"
+  ],
+  "semantic_review": false,
+  "visual_review": false,
+  "integrated": false
+}

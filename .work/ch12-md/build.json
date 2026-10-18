@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-17",
+  "chapter": "12",
+  "scope": [
+    474,
+    487
+  ],
+  "first_id": "rr.p0474.b001",
+  "last_id": "rr.p0487.t01.r015.c02",
+  "units": 809,
+  "tables": {
+    "rr.p0475.t01": {
+      "rows": 3,
+      "columns": 2,
+      "source_cells": 5,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0477.t01": {
+      "rows": 10,
+      "columns": 6,
+      "source_cells": 60,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0478.t01": {
+      "rows": 21,
+      "columns": 3,
+      "source_cells": 63,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0481.t01": {
+      "rows": 3,
+      "columns": 2,
+      "source_cells": 6,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0482.t01": {
+      "rows": 24,
+      "columns": 4,
+      "source_cells": 90,
+      "empty_unrepresented_positions": 6
+    },
+    "rr.p0483.t01": {
+      "rows": 17,
+      "columns": 4,
+      "source_cells": 68,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0486.t01": {
+      "rows": 18,
+      "columns": 15,
+      "source_cells": 256,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0486.t02": {
+      "rows": 5,
+      "columns": 2,
+      "source_cells": 10,
+      "empty_unrepresented_positions": 0
+    },
+    "rr.p0487.t01": {
+      "rows": 15,
+      "columns": 2,
+      "source_cells": 30,
+      "empty_unrepresented_positions": 0
+    }
+  },
+  "notes": 21,
+  "headings": 43,
+  "status": "reviewed_by_Codex",
+  "integrated": true
+}

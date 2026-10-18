@@ -1,0 +1,7 @@
+{
+  "rr.p0533.b026": {
+    "original": "Version Date: 18th July 2024",
+    "numeric_source": "Version Date: 19th July 2024",
+    "reason": "Изображение PDF 533, нижний колонтитул: Version Date: 19th July 2024. Дамп и база содержат 18th; исправлен только русский текст."
+  }
+}

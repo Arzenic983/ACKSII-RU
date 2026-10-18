@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-17",
+  "chapter": "11",
+  "pdf_pages": [
+    462,
+    473
+  ],
+  "units": 618,
+  "table_count": 11,
+  "editor_notes": 17,
+  "checks": {
+    "all_rendered_russian_units_match_package": true,
+    "all_table_grids_and_spans_match_database": true,
+    "csv_jsonl_roundtrip": true,
+    "ids_source_hashes_and_original_revision_preserved": true,
+    "other_chapters_and_immutable_database_tables_unchanged": true,
+    "previous_chapters_and_reader_files_unchanged": true,
+    "editor_notes_previous_prefix_preserved": true,
+    "all_12_checked_dump_page_bodies_equal_database_source": true,
+    "numeric_dice_percent_signed_modifier_math_emphasis_and_break_invariants": true,
+    "no_user_approval_assigned": true
+  },
+  "checked_source_page_sha256": {
+    "462": "a6fdd48fbcaa357e5d3251acd0f8a0839e5124aa8c797c7c5903de13f1754156",
+    "463": "64036d0173c7bf432c1ac0a3e17a4a02a9dac0239a3d65fbd18e386ef60f2f91",
+    "464": "82dc2a230173a7fefb61e762b14bba9fd1664208d1ed4150c51819cadd760ae2",
+    "465": "e3263b6bf3c54b6e0c150b1a860560fab9995952e02ec58d90a85a4b58a00191",
+    "466": "10ca6dcd0ad9bc7ccd2d8ac46d7bdad122105b44952475f0c4f542a49419d1f3",
+    "467": "3662849cf67184ee4113a4e284baec32d848dfd629ae48d6d6bfd5bfc62c8428",
+    "468": "d5676412ee58cfa765acdb481d87d23e857401ee0788dfcba8b9c71cc09736ee",
+    "469": "7722eac5e67eb38ed32daf19cefa70faf64bda182605f6ce22730c62dbd303eb",
+    "470": "9d2417ffb2943d7f5a0100ec08a81efc9abc35e17333fc7582eca3cb98810437",
+    "471": "4117667c49e81f47082848273b8b441be48e2bc1d427f8b0ff9971ccfd8a2e7c",
+    "472": "f3fceaf772c3481ac88ded7d28c360870ff4f312097a44fa024d1bdc9531814b",
+    "473": "45f9b67203c40de579bde731f6fc4abcbde65de6fc8be2067c854bc59a04384d"
+  },
+  "integrated": true,
+  "documented_source_display_fixes": {
+    "rr.p0465.t01.r001.c01": {
+      "english_display": "Troop Type",
+      "original": "TROOP TTYPE",
+      "evidence": "PDF 465 image inspected; source English untouched"
+    },
+    "rr.p0465.t01.r003.c05": {
+      "numeric_source": "0.5",
+      "original": "0. 5",
+      "evidence": "PDF 465 image inspected; actual value 0.5, spurious extraction space removed in Russian"
+    }
+  },
+  "visual_review": {
+    "date": "2026-10-17",
+    "primary_source": "EN checked.md; all 12 page bodies equal database source",
+    "source_pdf_pages_inspected": [
+      465,
+      468
+    ],
+    "russian_page_regions_inspected": [
+      473
+    ],
+    "russian_full_table_images_inspected": [
+      "rr.p0463.t01",
+      "rr.p0463.t02",
+      "rr.p0463.t03",
+      "rr.p0465.t01",
+      "rr.p0465.t02",
+      "rr.p0470.t01"
+    ],
+    "russian_formula_inspected": [
+      "rr.p0468.b003",
+      "rr.p0468.b004"
+    ],
+    "viewport": [
+      1500,
+      1800
+    ],
+    "browser": "Headless Microsoft Edge via Playwright",
+    "observations": "Сохранены матрицы, пустые ячейки схемы и зеркальность зон. Таблица БР читаема, подписи меньшим размером ниже русских заголовков. Дробная формула имеет видимую черту, знаменатель непосредственно под числителем, примечание вынесено после всей дроби. В проверенных пяти HTML-образцах нет горизонтального переполнения.",
+    "full_russian_visual_review": false,
+    "limits": "Просмотр выборочный: наличие снимка само по себе не считается визуальной вычиткой всех его областей. Полный текст и геометрия всех 11 таблиц проверены технически отдельно."
+  }
+}

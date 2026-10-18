@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-17",
+  "chapter": "C",
+  "pdf_pages": [
+    518,
+    531
+  ],
+  "units": 827,
+  "table_count": 11,
+  "editor_notes": 25,
+  "checks": {
+    "all_rendered_russian_units_match_package": true,
+    "all_table_grids_and_spans_match_database": true,
+    "csv_jsonl_roundtrip": true,
+    "ids_source_hashes_and_original_revision_preserved": true,
+    "other_chapters_and_immutable_database_tables_unchanged": true,
+    "previous_chapters_and_reader_files_unchanged": true,
+    "editor_notes_previous_prefix_preserved": true,
+    "all_14_checked_dump_page_bodies_equal_database_source": true,
+    "numeric_dice_percent_signed_modifier_math_emphasis_and_break_invariants": true,
+    "no_user_approval_assigned": true,
+    "labels_reversible_across_original_table_breaks": true,
+    "scarring_variants_preserved": true,
+    "damage_labels_not_nested": true,
+    "blank_page_531_marker_preserved": true
+  },
+  "checked_source_page_sha256": {
+    "518": "f5b882b2b2d1df5444ef3dc1d8de76a67bc16129337d1d3ff0c76a6e140e2368",
+    "519": "6cc8b995e7be2210b307ceb041a442d463e2412e45ba3317ce756cdb3743968a",
+    "520": "aa1c83c7edb1325bf8bc3c2fcdb3611213c1881197497ff01d47663e5bb924e9",
+    "521": "61a010af1d3b10b4a5b91f8ed1deb97f1b50a13a36e9581bbd054e96ea237c44",
+    "522": "ac5d651038aaeba6980c236fef8061d80b329a2a09cd768cb1d49d019442d532",
+    "523": "488eee19da7f4b2f8869ae7f9d38f693201185ad2140971761b29f59b7f7a061",
+    "524": "c17c6e9350c8652583233b7b8e5bc0b00ef92457a4d6adc3c8b6e0b51eb056bb",
+    "525": "e2d50d77801dacd6c98ca6a2dcc94f3beed8bf2986120de139587cd285603b5a",
+    "526": "6f66ae6c8d76a8e65a3d794d2844d46fa611bb1df0094ae4713a4da64180bde0",
+    "527": "5f3b5d22dad432d431bac50e1c2398f3f73479371a713f0cc47a19bc24795df2",
+    "528": "0f32e18cb4b8a8ef0e2b43703064a27bb27553b2b4ed4e69626e121cb87ec1df",
+    "529": "39550053a714504e2d257cbf2f4ca632a5c3c3c5b068b2f994f61f5853c50763",
+    "530": "e9b32a95b2682e9531671ae15f6d4bcf68f77d18566f68bd00077643b0854794",
+    "531": "48491b79a7aee305d9fa7ba7761f5cd3c911035f9958649418322a0ba0031a5c"
+  },
+  "integrated": true,
+  "documented_source_display_fixes": {},
+  "visual_review": {
+    "date": "2026-10-17",
+    "source_pages_rendered": [
+      519,
+      520,
+      521,
+      522,
+      523,
+      524,
+      525,
+      526,
+      527,
+      528,
+      529,
+      530,
+      531
+    ],
+    "source_overview_inspected": [
+      520,
+      521,
+      522,
+      523,
+      524,
+      525,
+      526,
+      527,
+      528,
+      529,
+      530
+    ],
+    "source_pages_inspected_in_detail": [
+      519,
+      522,
+      523,
+      528,
+      530
+    ],
+    "rendered_overview_inspected": [
+      520,
+      521,
+      522,
+      523,
+      524,
+      525,
+      526,
+      527,
+      528,
+      529,
+      530
+    ],
+    "rendered_details_inspected": [
+      "519 prose",
+      "522 row 1–5, both halves",
+      "528 row 1–5, both halves",
+      "530 row 1–5, both halves"
+    ],
+    "metrics": "visual_metrics.json",
+    "viewport_width": 2400,
+    "result": "11 полных таблиц 9×8 без обрезания, перекрытий или горизонтального переполнения; различие подписи термина и меньших английских заголовков сохранено.",
+    "limitations": "Обзор всех 11 таблиц и шесть подробных фрагментов не равнозначны визуальному чтению каждой ячейки. Смысл сверен отдельно по тексту. Печатная PDF-вёрстка перевода не создавалась.",
+    "reader_metrics": "reader_visual_metrics.json",
+    "reader_viewport_width": 1500,
+    "reader_text_width": 1080,
+    "reader_images_inspected": [
+      "visual-reader-520.png",
+      "visual-reader-530-row4.png"
+    ],
+    "reader_tables_all_fit": true
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "date": "2026-10-17",
+  "chapter": "08",
+  "pdf_pages": [
+    334,
+    427
+  ],
+  "id_first": "rr.p0334.b001",
+  "id_last": "rr.p0427.b018",
+  "translated_units": 4906,
+  "chapter_complete": true,
+  "status": "reviewed_by_Codex",
+  "user_approved": false,
+  "database_changed": true,
+  "editor_notes": 76,
+  "headings": 255,
+  "bilingual_header_cells": 331,
+  "tables": 79,
+  "table_geometry": {
+    "rr.p0336.t01": {
+      "rows": 22,
+      "columns": 4,
+      "source_cells": 88,
+      "missing_empty_positions": 0
+    },
+    "rr.p0338.t01": {
+      "rows": 51,
+      "columns": 2,
+      "source_cells": 95,
+      "missing_empty_positions": 0
+    },
+    "rr.p0339.t01": {
+      "rows": 19,
+      "columns": 2,
+      "source_cells": 36,
+      "missing_empty_positions": 0
+    },
+    "rr.p0340.t01": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 12,
+      "missing_empty_positions": 0
+    },
+    "rr.p0340.t02": {
+      "rows": 4,
+      "columns": 4,
+      "source_cells": 16,
+      "missing_empty_positions": 0
+    },
+    "rr.p0341.t01": {
+      "rows": 4,
+      "columns": 2,
+      "source_cells": 8,
+      "missing_empty_positions": 0
+    },
+    "rr.p0342.t01": {
+      "rows": 7,
+      "columns": 2,
+      "source_cells": 14,
+      "missing_empty_positions": 0
+    },
+    "rr.p0343.t01": {
+      "rows": 5,
+      "columns": 2,
+      "source_cells": 10,
+      "missing_empty_positions": 0
+    },
+    "rr.p0343.t02": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 12,
+      "missing_empty_positions": 0
+    },
+    "rr.p0344.t01": {
+      "rows": 4,
+      "columns": 4,
+      "source_cells": 16,
+      "missing_empty_positions": 0
+    },
+    "rr.p0345.t01": {
+      "rows": 8,
+      "columns": 8,
+      "source_cells": 64,
+      "missing_empty_positions": 0
+    },
+    "rr.p0345.t02": {
+      "rows": 7,
+      "columns": 4,
+      "source_cells": 28,
+      "missing_empty_positions": 0
+    },
+    "rr.p0346.t01": {
+      "rows": 11,
+      "columns": 11,
+      "source_cells": 121,
+      "missing_empty_positions": 0
+    },
+    "rr.p0346.t02": {
+      "rows": 10,
+      "columns": 11,
+      "source_cells": 110,
+      "missing_empty_positions": 0
+    },
+    "rr.p0346.t03": {
+      "rows": 10,
+      "columns": 11,
+      "source_cells": 110,
+      "missing_empty_positions": 0
+    },
+    "rr.p0346.t04": {
+      "rows": 10,
+      "columns": 11,
+      "source_cells": 110,
+      "missing_empty_positions": 0
+    },
+    "rr.p0348.t01": {
+      "rows": 12,
+      "columns": 2,
+      "source_cells": 24,
+      "missing_empty_positions": 0
+    },
+    "rr.p0348.t02": {
+      "rows": 8,
+      "columns": 2,
+      "source_cells": 16,
+      "missing_empty_positions": 0
+    },
+    "rr.p0349.t01": {
+      "rows": 9,
+      "columns": 2,
+      "source_cells": 18,
+      "missing_empty_positions": 0
+    },
+    "rr.p0349.t02": {
+      "rows": 13,
+      "columns": 2,
+      "source_cells": 26,
+      "missing_empty_positions": 0
+    },
+    "rr.p0350.t01": {
+      "rows": 16,
+      "columns": 16,
+      "source_cells": 256,
+      "missing_empty_positions": 0
+    },
+    "rr.p0350.t02": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 12,
+      "missing_empty_positions": 0
+    },
+    "rr.p0351.t01": {
+      "rows": 16,
+      "columns": 2,
+      "source_cells": 32,
+      "missing_empty_positions": 0
+    },
+    "rr.p0352.t01": {
+      "rows": 10,
+      "columns": 2,
+      "source_cells": 20,
+      "missing_empty_positions": 0
+    },
+    "rr.p0353.t01": {
+      "rows": 7,
+      "columns": 2,
+      "source_cells": 14,
+      "missing_empty_positions": 0
+    },
+    "rr.p0354.t01": {
+      "rows": 7,
+      "columns": 3,
+      "source_cells": 21,
+      "missing_empty_positions": 0
+    },
+    "rr.p0354.t02": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 12,
+      "missing_empty_positions": 0
+    },
+    "rr.p0354.t03": {
+      "rows": 15,
+      "columns": 3,
+      "source_cells": 45,
+      "missing_empty_positions": 0
+    },
+    "rr.p0358.t01": {
+      "rows": 6,
+      "columns": 3,
+      "source_cells": 18,
+      "missing_empty_positions": 0
+    },
+    "rr.p0358.t02": {
+      "rows": 6,
+      "columns": 4,
+      "source_cells": 24,
+      "missing_empty_positions": 0
+    },
+    "rr.p0359.t01": {
+      "rows": 10,
+      "columns": 6,
+      "source_cells": 60,
+      "missing_empty_positions": 0
+    },
+    "rr.p0359.t02": {
+      "rows": 21,
+      "columns": 2,
+      "source_cells": 42,
+      "missing_empty_positions": 0
+    },
+    "rr.p0360.t01": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 12,
+      "missing_empty_positions": 0
+    },
+    "rr.p0360.t02": {
+      "rows": 21,
+      "columns": 2,
+      "source_cells": 42,
+      "missing_empty_positions": 0
+    },
+    "rr.p0362.t01": {
+      "rows": 7,
+      "columns": 4,
+      "source_cells": 28,
+      "missing_empty_positions": 0
+    },
+    "rr.p0363.t01": {
+      "rows": 16,
+      "columns": 3,
+      "source_cells": 48,
+      "missing_empty_positions": 0
+    },
+    "rr.p0363.t02": {
+      "rows": 10,
+      "columns": 2,
+      "source_cells": 20,
+      "missing_empty_positions": 0
+    },
+    "rr.p0364.t01": {
+      "rows": 4,
+      "columns": 5,
+      "source_cells": 20,
+      "missing_empty_positions": 0
+    },
+    "rr.p0368.t01": {
+      "rows": 5,
+      "columns": 2,
+      "source_cells": 10,
+      "missing_empty_positions": 0
+    },
+    "rr.p0369.t01": {
+      "rows": 10,
+      "columns": 2,
+      "source_cells": 20,
+      "missing_empty_positions": 0
+    },
+    "rr.p0369.t02": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 12,
+      "missing_empty_positions": 0
+    },
+    "rr.p0370.t01": {
+      "rows": 12,
+      "columns": 4,
+      "source_cells": 48,
+      "missing_empty_positions": 0
+    },
+    "rr.p0371.t01": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 12,
+      "missing_empty_positions": 0
+    },
+    "rr.p0372.t01": {
+      "rows": 7,
+      "columns": 6,
+      "source_cells": 42,
+      "missing_empty_positions": 0
+    },
+    "rr.p0374.t01": {
+      "rows": 6,
+      "columns": 3,
+      "source_cells": 18,
+      "missing_empty_positions": 0
+    },
+    "rr.p0375.t01": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 12,
+      "missing_empty_positions": 0
+    },
+    "rr.p0376.t01": {
+      "rows": 31,
+      "columns": 10,
+      "source_cells": 310,
+      "missing_empty_positions": 0
+    },
+    "rr.p0378.t01": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 12,
+      "missing_empty_positions": 0
+    },
+    "rr.p0379.t01": {
+      "rows": 14,
+      "columns": 5,
+      "source_cells": 70,
+      "missing_empty_positions": 0
+    },
+    "rr.p0381.t01": {
+      "rows": 14,
+      "columns": 2,
+      "source_cells": 28,
+      "missing_empty_positions": 0
+    },
+    "rr.p0381.t02": {
+      "rows": 7,
+      "columns": 3,
+      "source_cells": 21,
+      "missing_empty_positions": 0
+    },
+    "rr.p0381.t03": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 12,
+      "missing_empty_positions": 0
+    },
+    "rr.p0382.t01": {
+      "rows": 32,
+      "columns": 4,
+      "source_cells": 126,
+      "missing_empty_positions": 1
+    },
+    "rr.p0382.t02": {
+      "rows": 4,
+      "columns": 3,
+      "source_cells": 12,
+      "missing_empty_positions": 0
+    },
+    "rr.p0385.t01": {
+      "rows": 7,
+      "columns": 2,
+      "source_cells": 14,
+      "missing_empty_positions": 0
+    },
+    "rr.p0386.t01": {
+      "rows": 21,
+      "columns": 8,
+      "source_cells": 161,
+      "missing_empty_positions": 0
+    },
+    "rr.p0390.t01": {
+      "rows": 16,
+      "columns": 3,
+      "source_cells": 48,
+      "missing_empty_positions": 0
+    },
+    "rr.p0393.t01": {
+      "rows": 19,
+      "columns": 4,
+      "source_cells": 76,
+      "missing_empty_positions": 0
+    },
+    "rr.p0399.t01": {
+      "rows": 5,
+      "columns": 2,
+      "source_cells": 10,
+      "missing_empty_positions": 0
+    },
+    "rr.p0401.t01": {
+      "rows": 4,
+      "columns": 5,
+      "source_cells": 20,
+      "missing_empty_positions": 0
+    },
+    "rr.p0403.t01": {
+      "rows": 13,
+      "columns": 4,
+      "source_cells": 52,
+      "missing_empty_positions": 0
+    },
+    "rr.p0404.t01": {
+      "rows": 11,
+      "columns": 2,
+      "source_cells": 22,
+      "missing_empty_positions": 0
+    },
+    "rr.p0410.t01": {
+      "rows": 5,
+      "columns": 2,
+      "source_cells": 10,
+      "missing_empty_positions": 0
+    },
+    "rr.p0411.t01": {
+      "rows": 4,
+      "columns": 4,
+      "source_cells": 16,
+      "missing_empty_positions": 0
+    },
+    "rr.p0411.t02": {
+      "rows": 4,
+      "columns": 4,
+      "source_cells": 16,
+      "missing_empty_positions": 0
+    },
+    "rr.p0411.t03": {
+      "rows": 8,
+      "columns": 4,
+      "source_cells": 32,
+      "missing_empty_positions": 0
+    },
+    "rr.p0414.t01": {
+      "rows": 11,
+      "columns": 4,
+      "source_cells": 44,
+      "missing_empty_positions": 0
+    },
+    "rr.p0415.t01": {
+      "rows": 11,
+      "columns": 4,
+      "source_cells": 44,
+      "missing_empty_positions": 0
+    },
+    "rr.p0416.t01": {
+      "rows": 11,
+      "columns": 4,
+      "source_cells": 44,
+      "missing_empty_positions": 0
+    },
+    "rr.p0417.t01": {
+      "rows": 11,
+      "columns": 4,
+      "source_cells": 44,
+      "missing_empty_positions": 0
+    },
+    "rr.p0418.t01": {
+      "rows": 11,
+      "columns": 4,
+      "source_cells": 44,
+      "missing_empty_positions": 0
+    },
+    "rr.p0419.t01": {
+      "rows": 11,
+      "columns": 4,
+      "source_cells": 44,
+      "missing_empty_positions": 0
+    },
+    "rr.p0420.t01": {
+      "rows": 21,
+      "columns": 2,
+      "source_cells": 42,
+      "missing_empty_positions": 0
+    },
+    "rr.p0421.t01": {
+      "rows": 21,
+      "columns": 2,
+      "source_cells": 42,
+      "missing_empty_positions": 0
+    },
+    "rr.p0422.t01": {
+      "rows": 21,
+      "columns": 2,
+      "source_cells": 42,
+      "missing_empty_positions": 0
+    },
+    "rr.p0423.t01": {
+      "rows": 10,
+      "columns": 2,
+      "source_cells": 20,
+      "missing_empty_positions": 0
+    },
+    "rr.p0424.t01": {
+      "rows": 6,
+      "columns": 2,
+      "source_cells": 12,
+      "missing_empty_positions": 0
+    },
+    "rr.p0425.t01": {
+      "rows": 15,
+      "columns": 2,
+      "source_cells": 30,
+      "missing_empty_positions": 0
+    },
+    "rr.p0427.t01": {
+      "rows": 4,
+      "columns": 2,
+      "source_cells": 8,
+      "missing_empty_positions": 0
+    }
+  },
+  "mechanical_exceptions": [],
+  "checks": {
+    "immutable_english_sha_and_original_revision": true,
+    "numeric_multisets": true,
+    "emphasis_with_documented_exceptions": true,
+    "table_spans_after_independent_html_parse": true,
+    "all_ids_in_order_and_unique": true,
+    "csv_jsonl_roundtrip": true,
+    "russian_package_without_english_labels": true,
+    "rendered_unit_text_matches_package": true,
+    "dice_percentages_and_signed_modifiers": true,
+    "protected_previous_chapter_files_unchanged": true,
+    "integrated_russian_and_status_match_package": true,
+    "other_chapters_unchanged_after_integration": true
+  },
+  "pdf_visual_review": "См. semantic_review.json и отчёты диапазонов; полная визуальная проверка не заявляется.",
+  "markdown_visual_review": false,
+  "display_corrections": {
+    "rr.p0353.b011 + rr.p0353.b013": "Один заголовок FOUNDING SETTLEMENTS, оба исходных ID/текста сохранены; порядок отображения восстановлен по изображению PDF353.",
+    "rr.p0425.b001 / rr.p0425.b003": "Полные английские заголовки восстановлены по изображению PDF425.",
+    "rr.p0345.t02.r001.c01": "TITLE по изображению PDF345 вместо извлечённого TIITTLLEE."
+  },
+  "rendered_headings": 254,
+  "database_translations": 23797
+}

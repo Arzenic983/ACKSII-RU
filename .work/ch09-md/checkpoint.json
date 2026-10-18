@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-17",
+  "book": "ACKS II Revised Rulebook",
+  "chapter": "09",
+  "chapter_pdf_pages": [
+    428,
+    447
+  ],
+  "chapter_units": 3179,
+  "translated_units": 3179,
+  "translated_pdf_pages": [
+    428,
+    447
+  ],
+  "first_id": "rr.p0428.b001",
+  "last_id": "rr.p0446.t01.r037.c08",
+  "next_id": null,
+  "status": "reviewed_by_Codex",
+  "source_revision": 0,
+  "database_imported": true,
+  "previous_commit": "cdf4081",
+  "automation_id": "acks-ii-9",
+  "resume_local_time": "2026-10-17T08:05:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "working_terms": "leader — предводитель; commander — командир; division — соединение; unit — подразделение. Ни один новый термин не утверждён человеком.",
+  "continuation": "Глава9 переведена, проверена, импортирована и включена в общий файл1–9. Повторно не импортировать пакетrevision0. Следующая глава10 Манёвры PDF448–461 покаpending. После сшивки поручены коммит и push.",
+  "source_extraction_issue": "PDF447 указан в диапазоне главы, но не содержит единиц в SQLite. При полной сборке изучить изображение страницы и сохранить её физическую границу; не выдумывать текст/ID.",
+  "checks": "33 отрендеренные единицы совпадают с пакетом; числа, кости, проценты, знаки, HTML-геометрия таблицы9x2 и CSV/JSONL проверены. Полная SQLite и все прежние Markdown-файлы неизменны.",
+  "resumed": true,
+  "push_authorized": true,
+  "database_revision": 1,
+  "chapter_complete": true,
+  "automation_fired": true,
+  "next_chapter": "10",
+  "reader": "ACKSII/Перевод Markdown/ACKS II — Начало и главы 1–9.md"
+}

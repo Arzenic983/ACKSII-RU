@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "term_en": "Judge",
+    "term_ru": "Арбитр",
+    "abbreviation_ru": null,
+    "category": "Системные термины (несортированных)",
+    "status": "project_glossary",
+    "raw_entry": "Judge - Арбитр. ",
+    "source_id": "glossary_docx",
+    "source_locator": "body.17",
+    "variants": [],
+    "aliases": [
+      "Judge"
+    ]
+  },
+  {
+    "id": 130,
+    "term_en": "Blast",
+    "term_ru": "от разрушений",
+    "abbreviation_ru": null,
+    "category": "Saving throw - Спасбросок",
+    "status": "project_glossary",
+    "raw_entry": "Blast - от разрушений",
+    "source_id": "glossary_docx",
+    "source_locator": "body.171",
+    "variants": [],
+    "aliases": [
+      "Blast"
+    ]
+  },
+  {
+    "id": 133,
+    "term_en": "Realm",
+    "term_ru": "Владение",
+    "abbreviation_ru": null,
+    "category": "Места",
+    "status": "project_glossary",
+    "raw_entry": "Realm - Владение",
+    "source_id": "glossary_docx",
+    "source_locator": "body.176",
+    "variants": [],
+    "aliases": [
+      "Realm"
+    ]
+  },
+  {
+    "id": 134,
+    "term_en": "Domain",
+    "term_ru": "Домен",
+    "abbreviation_ru": null,
+    "category": "Места",
+    "status": "project_glossary",
+    "raw_entry": "Domain - Домен",
+    "source_id": "glossary_docx",
+    "source_locator": "body.177",
+    "variants": [],
+    "aliases": [
+      "Domain"
+    ]
+  },
+  {
+    "id": 184,
+    "term_en": "huge",
+    "term_ru": "Огромные",
+    "abbreviation_ru": null,
+    "category": "Размер",
+    "status": "project_glossary",
+    "raw_entry": "huge - Огромные",
+    "source_id": "glossary_docx",
+    "source_locator": "body.226",
+    "variants": [],
+    "aliases": [
+      "huge"
+    ]
+  },
+  {
+    "id": 185,
+    "term_en": "gigantic",
+    "term_ru": "Гигантский",
+    "abbreviation_ru": null,
+    "category": "Размер",
+    "status": "project_glossary",
+    "raw_entry": "gigantic - Гигантский",
+    "source_id": "glossary_docx",
+    "source_locator": "body.227",
+    "variants": [],
+    "aliases": [
+      "gigantic"
+    ]
+  },
+  {
+    "id": 186,
+    "term_en": "colossal",
+    "term_ru": "Колоссальные",
+    "abbreviation_ru": null,
+    "category": "Размер",
+    "status": "project_glossary",
+    "raw_entry": "colossal - Колоссальные",
+    "source_id": "glossary_docx",
+    "source_locator": "body.228",
+    "variants": [],
+    "aliases": [
+      "colossal"
+    ]
+  },
+  {
+    "id": 189,
+    "term_en": "Henchmen",
+    "term_ru": "Приспешник",
+    "abbreviation_ru": null,
+    "category": "НПС",
+    "status": "project_glossary",
+    "raw_entry": "Henchmen - Приспешник",
+    "source_id": "glossary_docx",
+    "source_locator": "body.232",
+    "variants": [],
+    "aliases": [
+      "Henchmen"
+    ]
+  },
+  {
+    "id": 190,
+    "term_en": "Mercenary",
+    "term_ru": "Наемник",
+    "abbreviation_ru": null,
+    "category": "НПС",
+    "status": "project_glossary",
+    "raw_entry": "Mercenary - Наемник",
+    "source_id": "glossary_docx",
+    "source_locator": "body.233",
+    "variants": [],
+    "aliases": [
+      "Mercenary"
+    ]
+  },
+  {
+    "id": 251,
+    "term_en": "Engineering",
+    "term_ru": "Инженерное дело",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Engineering (G) - Инженерное дело",
+    "source_id": "glossary_docx",
+    "source_locator": "body.297",
+    "variants": [],
+    "aliases": [
+      "Engineering"
+    ]
+  },
+  {
+    "id": 270,
+    "term_en": "Leadership",
+    "term_ru": "Лидерство",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Leadership (G) - Лидерство",
+    "source_id": "glossary_docx",
+    "source_locator": "body.316",
+    "variants": [],
+    "aliases": [
+      "Leadership"
+    ]
+  },
+  {
+    "id": 274,
+    "term_en": "Loremastery",
+    "term_ru": "Мифография",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "user_confirmed",
+    "raw_entry": "Loremastery - Мифография",
+    "source_id": "glossary_docx",
+    "source_locator": "body.320",
+    "variants": [],
+    "aliases": [
+      "Loremastery"
+    ]
+  },
+  {
+    "id": 283,
+    "term_en": "Military Strategy",
+    "term_ru": "Военная стратегия",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Military Strategy (G) - Военная стратегия",
+    "source_id": "glossary_docx",
+    "source_locator": "body.329",
+    "variants": [],
+    "aliases": [
+      "Military Strategy"
+    ]
+  },
+  {
+    "id": 290,
+    "term_en": "Naturalism",
+    "term_ru": "Природоведение",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "user_confirmed",
+    "raw_entry": "Naturalism (G) - Природоведение",
+    "source_id": "glossary_docx",
+    "source_locator": "body.336",
+    "variants": [],
+    "aliases": [
+      "Naturalism"
+    ]
+  },
+  {
+    "id": 319,
+    "term_en": "Siege Engineering",
+    "term_ru": "Осадное дело",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Siege Engineering (G) - Осадное дело",
+    "source_id": "glossary_docx",
+    "source_locator": "body.365",
+    "variants": [],
+    "aliases": [
+      "Siege Engineering"
+    ]
+  },
+  {
+    "id": 323,
+    "term_en": "Sneaking",
+    "term_ru": "Подкрадывание",
+    "abbreviation_ru": null,
+    "category": "▶ Навыки",
+    "status": "project_glossary",
+    "raw_entry": "Sneaking - Подкрадывание",
+    "source_id": "glossary_docx",
+    "source_locator": "body.369",
+    "variants": [],
+    "aliases": [
+      "Sneaking"
+    ]
+  },
+  {
+    "id": 359,
+    "term_en": "Disordered",
+    "term_ru": "В беспорядке",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Disordered - В беспорядке",
+    "source_id": "glossary_docx",
+    "source_locator": "body.407",
+    "variants": [],
+    "aliases": [
+      "Disordered"
+    ]
+  },
+  {
+    "id": 367,
+    "term_en": "Faltering",
+    "term_ru": "Нерешительный",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Faltering - Нерешительный",
+    "source_id": "glossary_docx",
+    "source_locator": "body.415",
+    "variants": [],
+    "aliases": [
+      "Faltering"
+    ]
+  },
+  {
+    "id": 393,
+    "term_en": "Sneaking",
+    "term_ru": "Крадущийся",
+    "abbreviation_ru": null,
+    "category": "◈ Состояния",
+    "status": "project_glossary",
+    "raw_entry": "Sneaking - Крадущийся",
+    "source_id": "glossary_docx",
+    "source_locator": "body.441",
+    "variants": [],
+    "aliases": [
+      "Sneaking"
+    ]
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "id": "rr.p0268.t01",
+    "pdf_page": 268,
+    "chapter_id": "06",
+    "block_order": 2,
+    "row_count": 6,
+    "column_count": 4,
+    "source_markup": "| SOUND | QUIET ENVIRONMENT | NORMAL ENVIRONMENT | LOUD ENVIRONMENT |\n| --- | --- | --- | --- |\n| Exploring, Quiet Spellcasting, Sneaking\\*, Whispering | NA / 10’ | NA / 5’ | NA / 2.5’ |\n| Spellcasting, Talking, Walking | 10’ / 80’ | 5’ / 20’ | 2.5’ / 10’ |\n| Fighting, Hustling, Shouting, Singing | 90’ / 720’ | 45’ / 180’ | 30’ / 120’ |\n| Blast Spell | 180’ / 1200’ | 90’ / 360’ | 45’ / 180’ |\n| Deafening Blast Spell | 4 miles / 15 miles | 1 mile / 4 miles | 1200’ / 1 mile |"
+  },
+  {
+    "id": "rr.p0268.t02",
+    "pdf_page": 268,
+    "chapter_id": "06",
+    "block_order": 4,
+    "row_count": 8,
+    "column_count": 4,
+    "source_markup": "| SEARCHING & LISTENING | HASTY SEARCH | METHODICAL SEARCH | LISTEN |\n| --- | --- | --- | --- |\n| Time Required | 1 round or exploration movement | 1 turn | 1 round, once per turn |\n| Area Investigated | 5’ reach, or 10’ reach with pole | 5’ reach, or 10’ reach with pole | Door or intersection |\n| Using Adventuring | Not permitted | 18+ | 18+ |\n| Using Adventuring + Alertness | Not permitted | 14+ | 14+ |\n| Using Searching/Listening | By class level | By class level, +4 bonus | By class level |\n| Successful Throw | Feature discovered | Featured discovered | Sound heard |\n| Failed Throw | Nothing discovered, cannot repeat | Nothing discovered, try again | Nothing heard, try again |"
+  },
+  {
+    "id": "rr.p0268.t03",
+    "pdf_page": 268,
+    "chapter_id": "06",
+    "block_order": 11,
+    "row_count": 8,
+    "column_count": 4,
+    "source_markup": "| DOOR | AC | SHP | NOTES |\n| --- | --- | --- | --- |\n| Iron-banded Stone Door (10’ × 10’ × 3.5’, 50,000 lbs) | 6 | 25 | Harmed as stone structure |\n| Iron-banded Stone Door (8’ × 3’ × 6.25”, 3200 lbs) | 6 | 2 | Harmed as stone structure |\n| Solid Iron Door (6’8” × 2’6” × 2”, 400 lbs) | 6 | 1 | Harmed as stone structure |\n| Iron Trap Door (30” × 30” × 2”, 200 lbs) | 6 | 1 | Harmed as stone structure |\n| Iron-Banded Wooden Door (6’8” × 2’6” × 2”, 150 lbs) | 3 | 1 | Broken down in 3 turns with axe or harmed as wood structure |\n| Wooden Door, (6’8” × 2’6” × 1.25”, 50 lbs) | 1 | 1 | Broken down in 1 turn with axe or harmed as wood structure |\n| Lead Glass Window (24” × 46” x.25” and 25lbs or less) | 0 | - | Broken open in 1 round with any weapon |"
+  },
+  {
+    "id": "rr.p0268.t04",
+    "pdf_page": 268,
+    "chapter_id": "06",
+    "block_order": 13,
+    "row_count": 8,
+    "column_count": 6,
+    "source_markup": "| OPENING DOORS | USE KEY | HASTILY PICK | METHODICALLY PICK | BATTER DOWN | BASH OPEN |\n| --- | --- | --- | --- | --- | --- |\n| Time Required | 1 action | 1 round | 1 turn | 1 – 3 turns | 1 round |\n| Throw Required | None | Lockpicking | Lockpicking, +4 bonus | None | Dungeonbashing |\n| Successful Throw | N/A | Open lock | Open lock | N/A | Door opens |\n| Failed Throw | N/A | Cannot hastily pick | Failed to pick, try again | N/A | Failed to bash, try again |\n| Botch (2 - 3) | N/A | Lock jammed | N/A | N/A | N/A |\n| Botched Throw (1) | N/A | Lock jammed | Lock jammed | N/A | Suffer 1 [mundane bludgeoning] damage, try again |\n| Equipment Required | Key | Thieves’ tools | Thieves’ tools | Axe | Crowbar (optional, +2) |"
+  },
+  {
+    "id": "rr.p0269.t01",
+    "pdf_page": 269,
+    "chapter_id": "06",
+    "block_order": 3,
+    "row_count": 8,
+    "column_count": 3,
+    "source_markup": "| DISABLING TRAPS | HASTY TRAPBREAKING | METHODICAL TRAPBREAKING |\n| --- | --- | --- |\n| Time Required | 1 round | 1 turn |\n| Using Adventuring | Not permitted | 18+ |\n| Using Trapbreaking | By class level | By class level, +4 bonus |\n| Successful Throw | Trap disarmed or discharged | Trap disarmed or discharged |\n| Failed Throw | Trap not disarmed, cannot repeat | Trap not disarmed, try again |\n| Botched Throw (2-3) | Trap triggered | N/A |\n| Botched Throw (1) | Trap triggered | Trap triggered |"
+  },
+  {
+    "id": "rr.p0270.t01",
+    "pdf_page": 270,
+    "chapter_id": "06",
+    "block_order": 7,
+    "row_count": 9,
+    "column_count": 4,
+    "source_markup": "| SPELUNKING | CLIMB (EASY) | CLIMB (SHEER SURFACE) | RAPPEL |\n| --- | --- | --- | --- |\n| Movement Type | Ascend/descend | Ascend/descend | Descend only |\n| Throw Required | One throw per 100’ | One throw per 100’ | One throw per 100’ |\n| Using Adventuring | 8+ | Not permitted | Not permitted |\n| Using Climbing/Mountaineering | By class level | By class level | By class level |\n| Successful Throw | Climb @ 1/3 Combat Speed | Climb @ 1/3 Combat Speed | Rappel @ Run Speed |\n| Failed Throw | No progress for 1 round | Fall unless double proficient with<br>mountaineering gear | Rappel @ Combat Speed |\n| Botched Throw (1) | Fall unless double proficient with<br>mountaineering gear | Fall | Fall unless double proficient with<br>mountaineering gear |\n| Vulnerable in Combat | No | Yes | Yes |"
+  },
+  {
+    "id": "rr.p0270.t02",
+    "pdf_page": 270,
+    "chapter_id": "06",
+    "block_order": 8,
+    "row_count": 9,
+    "column_count": 4,
+    "source_markup": "| SPELUNKING | CRAWLING TRAVERSE | BALANCING TRAVERSE<br>(NARROW) | BALANCING TRAVERSE<br>(PRECARIOUS) |\n| --- | --- | --- | --- |\n| Movement Type | Horizontal only | Horizontal only | Horizontal only |\n| Throw Required | One throw per 100’ | One throw per 100’ | One throw per 100’ |\n| Using Adventuring | 8+ | 8+ | Not permitted |\n| Using Climbing/Mountaineering | By class level | By class level | By class level |\n| Successful Throw | Traverse @ 1/3 Combat Speed | Traverse @ 1/3 Combat Speed | Traverse @ 1/3 Combat Speed |\n| Failed Throw | No progress 1 one round | No progress for 1 round | Fall unless proficient in both<br>Climbing and Cat Burglary |\n| Botched Throw (1) | Fall unless double proficient<br>(mountaineering gear implied) | Fall unless proficient in both<br>Climbing and Cat Burglary | Fall |\n| Vulnerable in Combat | Yes | Yes | Yes |"
+  },
+  {
+    "id": "rr.p0273.t01",
+    "pdf_page": 273,
+    "chapter_id": "06",
+    "block_order": 2,
+    "row_count": 3,
+    "column_count": 4,
+    "source_markup": "| PROFICIENCY | EFFECT ON DEX | VERTICAL LEAP | HORIZONTAL JUMP |\n| --- | --- | --- | --- |\n| Adventuring | None | DEX Bonus + 1 | DEX + 1d6 – encumbrance |\n| Acrobatics | Increase by class level, max 24 | DEX Bonus + 1 | DEX + 1d6 – encumbrance |"
+  },
+  {
+    "id": "rr.p0274.t01",
+    "pdf_page": 274,
+    "chapter_id": "06",
+    "block_order": 13,
+    "row_count": 6,
+    "column_count": 2,
+    "source_markup": "| TERRAIN | SPEED MULTIPLIER |\n| --- | --- |\n| Grassland, scrubland | ×1 |\n| Barrens, desert, hills, forest | ×2/3 |\n| Jungle, mountain, swamp | ×1/2 |\n| Road | ×3/2 (×2 for drivers) |\n| Mud/Snow | ×1/2 |"
+  },
+  {
+    "id": "rr.p0274.t02",
+    "pdf_page": 274,
+    "chapter_id": "06",
+    "block_order": 18,
+    "row_count": 13,
+    "column_count": 4,
+    "source_markup": "| EXPLORATION SPEED<br>(FEET PER TURN) | EXPEDITION SPEED<br>(MILES PER DAY) | EXPEDITION SPEED<br>(HEXES PER DAY) | EXPEDITION SPEED<br>(MILES PER HOUR) |\n| --- | --- | --- | --- |\n| 30’ | 6 | 1 | 0.75 |\n| 60’ | 12 | 2 | 1.5 |\n| 90’ | 18 | 3 | 2.25 |\n| 120’ | 24 | 4 | 3 |\n| 150’ | 30 | 5 | 3.75 |\n| 180’ | 36 | 6 | 4.5 |\n| 210’ | 42 | 7 | 5.25 |\n| 240’ | 48 | 8 | 6 |\n| 270’ | 54 | 9 | 6.75 |\n| 300’ | 60 | 10 | 7.5 |\n| 330’ | 66 | 11 | 8.25 |\n| 360’ | 72 | 12 | 9 |"
+  },
+  {
+    "id": "rr.p0275.t01",
+    "pdf_page": 275,
+    "chapter_id": "06",
+    "block_order": 14,
+    "row_count": 8,
+    "column_count": 5,
+    "source_markup": "| FEATURE PERCEIVED | DAYLIGHT | FULL MOONLIGHT | HALF MOONLIGHT | STARLIGHT |\n| --- | --- | --- | --- | --- |\n| Terrain\\* | 3 miles | 1.5 miles | 4,000’ | 2,000’ |\n| Fire\\* | 3 miles | 3 miles | 3 miles | 3 miles |\n| Humanoid (1 - 9) | 600’ | 300’ | 150’ | 75’ |\n| Party/Gang (10 - 30) | 900’ | 450’ | 225’ | 110’ |\n| Platoon (31 - 60) | 1,200’ | 600’ | 300’ | 150’ |\n| Company (61 - 240) | 1,800’ | 900’ | 450’ | 225’ |\n| Battalion (241+) | 3,600’ | 1,800’ | 900’ | 450’ |"
+  },
+  {
+    "id": "rr.p0276.t01",
+    "pdf_page": 276,
+    "chapter_id": "06",
+    "block_order": 3,
+    "row_count": 18,
+    "column_count": 2,
+    "source_markup": "| EXPEDITION MOVEMENT | SEARCHING |\n| --- | --- |\n| 11 miles or less | 18+ |\n| 12 - 23 miles | 17+ |\n| 24 - 35 miles | 16+ |\n| 36 - 47 miles | 15+ |\n| 48 - 59 miles | 14+ |\n| 60 - 71 miles | 13+ |\n| 72 - 83 miles | 12+ |\n| 84 - 95 miles | 11+ |\n| 96 - 107 miles | 10+ |\n| 108 – 119 miles | 9+ |\n| 120 - 131 miles | 8+ |\n| 132 - 143 miles | 7+ |\n| 144 - 155 miles | 6+ |\n| 156 - 167 miles | 5+ |\n| 168 - 179 miles | 4+ |\n| 180 – 191 miles | 3+ |\n| 192 miles or more | 2+ |"
+  },
+  {
+    "id": "rr.p0277.t01",
+    "pdf_page": 277,
+    "chapter_id": "06",
+    "block_order": 14,
+    "row_count": 12,
+    "column_count": 2,
+    "source_markup": "| TERRAIN | NAVIGATION |\n| --- | --- |\n| Barrens (any) | 6+ |\n| Desert (any) | 6+ |\n| Forest (any) | 8+ |\n| Grassland (any) | 6+ |\n| Hills (any) | 8+ |\n| Jungle (any) | 14+ |\n| Mountains (any) | 6+ |\n| Scrubland (low, sparse) | 6+ |\n| Scrubland (high, dense) | 8+ |\n| Swamp (marshy, scrubby) | 10+ |\n| Swamp (forested) | 14+ |"
+  },
+  {
+    "id": "rr.p0278.t01",
+    "pdf_page": 278,
+    "chapter_id": "06",
+    "block_order": 3,
+    "row_count": 12,
+    "column_count": 4,
+    "source_markup": "| ANIMAL | NORMAL<br>LOAD | DAILY FOOD | DAILY<br>WATER |\n| --- | --- | --- | --- |\n| Camel | 30 st | 3 st | 6 st\\* |\n| Dog, hunting | 2 st | 0.2 st | 0.4 st |\n| Dog, war | 6 st | 0.6 st | 1.2 st |\n| Donkey | 15 st | 1.5 st\\* | 3 st |\n| Elephant | 180 st | 18 st | 36 st |\n| Horse, Heavy | 40 st | 4 st | 8 st |\n| Horse, Light | 20 st | 2 st | 4 st |\n| Horse, Medium | 30 st | 3 st | 6 st |\n| Horse, Steppe | 25 st | 2 st\\* | 4 st |\n| Mule | 25 st | 2.5 st | 5 st |\n| Ox | 45 st | 4.5 st\\* | 9 st |"
+  },
+  {
+    "id": "rr.p0283.t01",
+    "pdf_page": 283,
+    "chapter_id": "06",
+    "block_order": 8,
+    "row_count": 18,
+    "column_count": 2,
+    "source_markup": "| TERRAIN TYPE | MAX (AVERAGE)<br>ENCOUNTER DISTANCE |\n| --- | --- |\n| Barrens (any) | 4d6 × 30’ (420’) |\n| Desert (rocky) | 6d20 × 30’ (1890’) |\n| Desert (sandy) | 4d6 × 30’ (420’) |\n| Forest (deciduous) | 5d8 × 3’ (68’) |\n| Forest (taiga) | 3d6 × 15’ (157’) |\n| Grassland (other) | 4d6 × 30’ (420’) |\n| Grassland (steppe) | 6d20 × 30’ (1890’) |\n| Hills (forested) | 5d8 × 3’ (68’) |\n| Hills (rocky/terraced) | 4d6 × 30’ (420’) |\n| Jungle (any) | 5d4 × 3’ (38’) |\n| Mountains (forested) | 5d8 × 3’ (68’) |\n| Mountains (rocky/snowy/terraced) | 4d6 × 30’ (420’) |\n| Scrubland (low, sparse) | 4d6 × 30’ (420’) |\n| Scrubland (high, dense) | 3d6 × 15’ (157’) |\n| Swamp (marshy) | 3d6 × 15’ (157’) |\n| Swamp (scrubby) | 5d8 × 3’ (68’) |\n| Swamp (forested) | 5d4 × 3’ (38’) |"
+  },
+  {
+    "id": "rr.p0284.t01",
+    "pdf_page": 284,
+    "chapter_id": "06",
+    "block_order": 2,
+    "row_count": 6,
+    "column_count": 5,
+    "source_markup": "<table>\n<tr><th rowspan=\"2\">ADVENTURERS</th><th colspan=\"4\">MONSTERS</th></tr>\n<tr><td>FORE, LOS</td><td>FORE</td><td>LOS</td><td>NONE</td></tr>\n<tr><td>FORE, LOS</td><td>Monsters not surprised<br>Adventurers not surprised<br>Adventurers cannot evade</td><td>Monsters roll surprise (+1)<br>Adventurers not surprised<br>Adventurers can evade</td><td>Monsters roll surprise<br>Adventurers not surprised<br>Adventurers can evade</td><td>Monsters roll surprise (-1)<br>Adventurers not surprised<br>Adventurers can always evade</td></tr>\n<tr><td>FORE</td><td>Monsters not surprised<br>Adventurers roll surprise (+1)<br>Adventurers cannot evade</td><td>Monsters roll surprise (+1)<br>Adventurers roll surprise (+1)<br>Adventurers can evade</td><td>Monsters roll surprise<br>Adventurers roll surprise (+1)<br>Adventurers can evade</td><td>Monsters roll surprise (-1)<br>Adventurers roll surprise (+1)<br>Adventurers can evade</td></tr>\n<tr><td>LOS</td><td>Monsters not surprised<br>Adventurers roll surprise<br>Adventurers cannot evade</td><td>Monsters roll surprise (+1)<br>Adventurers roll surprise<br>Adventurers can evade</td><td>Monsters roll surprise<br>Adventurers roll surprise<br>Adventurers can evade</td><td>Monsters roll surprise (-1)<br>Adventurers roll surprise<br>Adventurers can evade</td></tr>\n<tr><td>NONE</td><td>Monsters not surprised<br>Adventurers roll surprise (-1)<br>Adventurers cannot evade</td><td>Monsters roll surprise (+1)<br>Adventurers roll surprise (-1)<br>Adventurers cannot evade</td><td>Monsters roll surprise<br>Adventurers rolls surprise (-1)<br>Adventurers cannot evade</td><td>No encounter</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0284.t02",
+    "pdf_page": 284,
+    "chapter_id": "06",
+    "block_order": 13,
+    "row_count": 3,
+    "column_count": 2,
+    "source_markup": "| ADJUSTED DIE ROLL | RESULT |\n| --- | --- |\n| 2- | Surprised |\n| 3 – 6+ | Attentive |"
+  },
+  {
+    "id": "rr.p0286.t01",
+    "pdf_page": 286,
+    "chapter_id": "06",
+    "block_order": 18,
+    "row_count": 19,
+    "column_count": 6,
+    "source_markup": "<table>\n<tr><th rowspan=\"2\">TERRAIN TYPE</th><th colspan=\"5\">PARTY SIZE</th></tr>\n<tr><td>6-</td><td>7 to 14</td><td>15 to 30</td><td>31 to 60</td><td>61+</td></tr>\n<tr><td>Barrens (any)</td><td>12+</td><td>14+</td><td>16+</td><td>18+</td><td>20+</td></tr>\n<tr><td>Desert (rocky)</td><td>16+</td><td>18+</td><td>20+</td><td>22+</td><td>24+</td></tr>\n<tr><td>Desert (sandy)</td><td>12+</td><td>14+</td><td>16+</td><td>18+</td><td>20+</td></tr>\n<tr><td>Forest (deciduous)</td><td>2+</td><td>4+</td><td>6+</td><td>8+</td><td>10+</td></tr>\n<tr><td>Forest (taiga)</td><td>5+</td><td>7+</td><td>9+</td><td>11+</td><td>13+</td></tr>\n<tr><td>Grassland (other)</td><td>9+</td><td>11+</td><td>13+</td><td>15+</td><td>17+</td></tr>\n<tr><td>Grassland (steppe)</td><td>16+</td><td>18+</td><td>20+</td><td>22+</td><td>24+</td></tr>\n<tr><td>Hills (forested)</td><td>5+</td><td>7+</td><td>9+</td><td>11+</td><td>13+</td></tr>\n<tr><td>Hills (rocky)</td><td>12+</td><td>14+</td><td>16+</td><td>18+</td><td>20+</td></tr>\n<tr><td>Jungle (any)</td><td>2+</td><td>4+</td><td>6+</td><td>8+</td><td>10+</td></tr>\n<tr><td>Mountains (forested)</td><td>5+</td><td>7+</td><td>9+</td><td>11+</td><td>13+</td></tr>\n<tr><td>Mountains (rocky)</td><td>12+</td><td>14+</td><td>16+</td><td>18+</td><td>20+</td></tr>\n<tr><td>Scrubland (sparse)</td><td>12+</td><td>14+</td><td>16+</td><td>18+</td><td>20+</td></tr>\n<tr><td>Scrubland (dense)</td><td>9+</td><td>11+</td><td>13+</td><td>15+</td><td>17+</td></tr>\n<tr><td>Swamp (marshy)</td><td>9+</td><td>11+</td><td>13+</td><td>15+</td><td>17+</td></tr>\n<tr><td>Swamp (scrubby)</td><td>5+</td><td>7+</td><td>9+</td><td>11+</td><td>13+</td></tr>\n<tr><td>Swamp (forested)</td><td>2+</td><td>4+</td><td>6+</td><td>8+</td><td>10+</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0288.t01",
+    "pdf_page": 288,
+    "chapter_id": "06",
+    "block_order": 8,
+    "row_count": 6,
+    "column_count": 2,
+    "source_markup": "| ADJUSTED DIE ROLL | RESULT |\n| --- | --- |\n| 2- | Hostile, attacks |\n| 3 – 5 | Unfriendly, may attack |\n| 6 – 8 | Neutral, uncertain |\n| 9 – 11 | Indifferent, uninterested |\n| 12+ | Friendly, helpful |"
+  },
+  {
+    "id": "rr.p0288.t02",
+    "pdf_page": 288,
+    "chapter_id": "06",
+    "block_order": 17,
+    "row_count": 6,
+    "column_count": 2,
+    "source_markup": "| NUMBER OF ATTEMPTS | TIME REQUIRED |\n| --- | --- |\n| 1st Attempt to Influence | 1 round (1 minute) |\n| 2nd Attempt to Influence | 1 turn (10 minutes) |\n| 3rd Attempt to Influence | 6 turns (1 hour) |\n| 4th Attempt to Influence | 8 hours (1 work-day) |\n| 5th+ Attempts to Influence | 5 work-days (1 week) |"
+  },
+  {
+    "id": "rr.p0289.t01",
+    "pdf_page": 289,
+    "chapter_id": "06",
+    "block_order": 1,
+    "row_count": 6,
+    "column_count": 3,
+    "source_markup": "| REACTION<br>ROLL | INITIAL INTERACTION | ATTEMPT TO INFLUENCE |\n| --- | --- | --- |\n| 2 | Hostile, attacks | Shift 2 attitudes towards Hostile |\n| 3 – 5 | Unfriendly, may attack | Shift 1 attitude towards Hostile |\n| 6 – 8 | Neutral, uncertain | Shift 1 attitude towards Neutral |\n| 9 – 11 | Indifferent, uninterested | Shift 1 attitude towards Friendly |\n| 12 | Friendly, helpful | Shift 2 attitudes towards Friendly |"
+  },
+  {
+    "id": "rr.p0289.t02",
+    "pdf_page": 289,
+    "chapter_id": "06",
+    "block_order": 7,
+    "row_count": 3,
+    "column_count": 4,
+    "source_markup": "| CHARACTER<br>PROFICIENT? | +1 BONUS | +2 BONUS | +3 BONUS |\n| --- | --- | --- | --- |\n| Proficient | 1 day | 1 week | 1 month |\n| Non-Proficient | 1 week | 1 month | 1 year |"
+  },
+  {
+    "id": "rr.p0294.t01",
+    "pdf_page": 294,
+    "chapter_id": "06",
+    "block_order": 10,
+    "row_count": 7,
+    "column_count": 7,
+    "source_markup": "| ENGAGING CREATURE SIZE | SMALL<br>OPPONENT | MAN-SIZED<br>OPPONENT | LARGE<br>OPPONENT | HUGE<br>OPPONENT | GIGANTIC<br>OPPONENT | COLOSSAL<br>OPPONENT |\n| --- | --- | --- | --- | --- | --- | --- |\n| Small | 1 creature | 1 creature | 2 creatures | 2 creatures | 3 creatures | 4 creatures |\n| Man-Sized | 1 creature | 1 creature | 2 creatures | 2 creatures | 3 creatures | 4 creatures |\n| Large | 1 creature | 1 creature | 1 creature | 1 creature | 2 creatures | 3 creatures |\n| Huge | 1 creature | 1 creature | 1 creature | 1 creature | 1 creature | 2 creatures |\n| Gigantic | 1 creature | 1 creature | 1 creature | 1 creature | 1 creature | 2 creatures |\n| Colossal | 1 creature | 1 creature | 1 creature | 1 creature | 1 creature | 1 creature |"
+  },
+  {
+    "id": "rr.p0298.t01",
+    "pdf_page": 298,
+    "chapter_id": "06",
+    "block_order": 2,
+    "row_count": 23,
+    "column_count": 5,
+    "source_markup": "| MONSTER HD | FIGHTER LEVEL | CRUSADER/THIEF LEVEL | MAGE LEVEL | ATTACK THROW VALUE |\n| --- | --- | --- | --- | --- |\n| 1/2 or less | 0\\* | 0\\* | 0\\* | 12+ |\n| 1-1 | 0 | 0 | 0 | 11+ |\n| 1 | 1 | 1 to 2 | 1 to 3 | 10+ |\n| 2 | 2 to 3 | 3 to 4 | 4 to 6 | 9+ |\n| 3 | 4 | 5 to 6 | 7 to 9 | 8+ |\n| 4 | 5 to 6 | 7 to 8 | 10 to 12 | 7+ |\n| 5 | 7 | 9 to 10 | 13 to 14 | 6+ |\n| 6 | 8 to 9 | 11 to 12 | - | 5+ |\n| 7 | 10 | 13 to 14 | - | 4+ |\n| 8 | 11 to 12 | - | - | 3+ |\n| 9 | 13 | - | - | 2+ |\n| 10 | 14 | - | - | 1+ |\n| 11 | - | - | - | 0+ |\n| 12 | - | - | - | -1+ |\n| 13 | - | - | - | -2+ |\n| 14 | - | - | - | -3+ |\n| 15 | - | - | - | -4+ |\n| 16 | - | - | - | -5+ |\n| 17 | - | - | - | -6+ |\n| 18 | - | - | - | -7+ |\n| 19 | - | - | - | -8+ |\n| 20+ | - | - | - | -9+ |"
+  },
+  {
+    "id": "rr.p0299.t01",
+    "pdf_page": 299,
+    "chapter_id": "06",
+    "block_order": 4,
+    "row_count": 20,
+    "column_count": 4,
+    "source_markup": "<table>\n<tr><th rowspan=\"2\">WEAPON</th><th>SHORT<br>RANGE</th><th>MEDIUM<br>RANGE</th><th>LONG<br>RANGE</th></tr>\n<tr><td><em>0</em></td><td><em>-2</em></td><td><em>-5</em></td></tr>\n<tr><td>Arbalest</td><td>Up to 180’</td><td>…to 360’</td><td>…to 480’</td></tr>\n<tr><td>Axe (thrown)</td><td>Up to 15’</td><td>…to 30’</td><td>…to 45’</td></tr>\n<tr><td>Bola</td><td>Up to 15’</td><td>…to 30’</td><td>…to 45’</td></tr>\n<tr><td>Bow, Composite</td><td>Up to 120’</td><td>…to 240’</td><td>…to 360’</td></tr>\n<tr><td>Bow, Long</td><td>Up to 120’</td><td>…to 240’</td><td>…to 360’</td></tr>\n<tr><td>Bow, Short</td><td>Up to 75’</td><td>…to 150’</td><td>…to 300’</td></tr>\n<tr><td>Crossbow</td><td>Up to 140’</td><td>…to 280’</td><td>…to 420’</td></tr>\n<tr><td>Dagger (thrown)</td><td>Up to 15’</td><td>…to 30’</td><td>…to 45’</td></tr>\n<tr><td>Dart</td><td>Up to 15’</td><td>…to 30’</td><td>…to 45’</td></tr>\n<tr><td>Holy water</td><td>Up to 15’</td><td>…to 45’</td><td>…to 60’</td></tr>\n<tr><td>Javelin</td><td>Up to 30’</td><td>…to 60’</td><td>…to 120’</td></tr>\n<tr><td>Knife (thrown)</td><td>Up to 15’</td><td>…to 30’</td><td>…to 45’</td></tr>\n<tr><td>Oil (thrown)</td><td>Up to 15’</td><td>…to 45’</td><td>…to 60’</td></tr>\n<tr><td>Sling</td><td>Up to 60’</td><td>…to 120’</td><td>…to 240’</td></tr>\n<tr><td>Sling-Staff</td><td>Up to 75’</td><td>…to 150’</td><td>…to 300’</td></tr>\n<tr><td>Spear</td><td>Up to 30’</td><td>…to 60’</td><td>…to 120’</td></tr>\n<tr><td>Torch</td><td>Up to 15’</td><td>…to 30’</td><td>…to 45’</td></tr>\n<tr><td>Warhammer (thrown)</td><td>Up to 15’</td><td>…to 30’</td><td>…to 45’</td></tr>\n</table>"
+  },
+  {
+    "id": "rr.p0306.t01",
+    "pdf_page": 306,
+    "chapter_id": "06",
+    "block_order": 4,
+    "row_count": 18,
+    "column_count": 6,
+    "source_markup": "| LEVEL | PARALYSIS | DEATH | BLAST | IMPLEMENTS | SPELLS |\n| --- | --- | --- | --- | --- | --- |\n| 0 | 14+ | 15+ | 16+ | 17+ | 18+ |\n| 1 | 13+ | 14+ | 15+ | 16+ | 17+ |\n| 2 – 3 | 12+ | 13+ | 14+ | 15+ | 16+ |\n| 4 | 11+ | 12+ | 13+ | 14+ | 15+ |\n| 5 – 6 | 10+ | 11+ | 12+ | 13+ | 14+ |\n| 7 | 9+ | 10+ | 11+ | 12+ | 13+ |\n| 8 – 9 | 8+ | 9+ | 10+ | 11+ | 12+ |\n| 10 | 7+ | 8+ | 9+ | 10+ | 11+ |\n| 11 – 12 | 6+ | 7+ | 8+ | 9+ | 10+ |\n| 13 | 5+ | 6+ | 7+ | 8+ | 9+ |\n| 14 – 15 | 4+ | 5+ | 6+ | 7+ | 8+ |\n| 16 | 3+ | 4+ | 5+ | 6+ | 7+ |\n| 17 – 18 | 2+ | 3+ | 4+ | 5+ | 6+ |\n| 19 | 2+ | 2+ | 3+ | 4+ | 5+ |\n| 20 – 21 | 2+ | 2+ | 2+ | 3+ | 4+ |\n| 22 | 2+ | 2+ | 2+ | 2+ | 3+ |\n| 23+ | 2+ | 2+ | 2+ | 2+ | 2+ |"
+  },
+  {
+    "id": "rr.p0306.t02",
+    "pdf_page": 306,
+    "chapter_id": "06",
+    "block_order": 6,
+    "row_count": 8,
+    "column_count": 6,
+    "source_markup": "| LEVEL | PARALYSIS | DEATH | BLAST | IMPLEMENTS | SPELLS |\n| --- | --- | --- | --- | --- | --- |\n| 1 – 2 | 13+ | 10+ | 16+ | 13+ | 15+ |\n| 3 – 4 | 12+ | 9+ | 15+ | 12+ | 14+ |\n| 5 – 6 | 11+ | 8+ | 14+ | 11+ | 13+ |\n| 7 – 8 | 10+ | 7+ | 13+ | 10+ | 12+ |\n| 9 – 10 | 9+ | 6+ | 12+ | 9+ | 11+ |\n| 11 – 12 | 8+ | 5+ | 11+ | 8+ | 10+ |\n| 13 – 14 | 7+ | 4+ | 10+ | 7+ | 9+ |"
+  },
+  {
+    "id": "rr.p0306.t03",
+    "pdf_page": 306,
+    "chapter_id": "06",
+    "block_order": 8,
+    "row_count": 8,
+    "column_count": 6,
+    "source_markup": "| LEVEL | PARALYSIS | DEATH | BLAST | IMPLEMENTS | SPELLS |\n| --- | --- | --- | --- | --- | --- |\n| 1 – 2 | 13+ | 13+ | 13+ | 14+ | 15+ |\n| 3 – 4 | 12+ | 12+ | 12+ | 13+ | 14+ |\n| 5 – 6 | 11+ | 11+ | 11+ | 12+ | 13+ |\n| 7 – 8 | 10+ | 10+ | 10+ | 11+ | 12+ |\n| 9 – 10 | 9+ | 9+ | 9+ | 10+ | 11+ |\n| 11 – 12 | 8+ | 8+ | 8+ | 9+ | 10+ |\n| 13 – 14 | 7+ | 7+ | 7+ | 8+ | 9+ |"
+  },
+  {
+    "id": "rr.p0306.t04",
+    "pdf_page": 306,
+    "chapter_id": "06",
+    "block_order": 10,
+    "row_count": 6,
+    "column_count": 6,
+    "source_markup": "| LEVEL | PARALYSIS | DEATH | BLAST | IMPLEMENTS | SPELLS |\n| --- | --- | --- | --- | --- | --- |\n| 1 – 3 | 13+ | 13+ | 15+ | 11+ | 12+ |\n| 4 – 6 | 12+ | 12+ | 14+ | 10+ | 11+ |\n| 7 – 9 | 11+ | 11+ | 13+ | 9+ | 10+ |\n| 10 – 12 | 10+ | 10+ | 12+ | 8+ | 9+ |\n| 13 – 14 | 9+ | 9+ | 11+ | 7+ | 8+ |"
+  },
+  {
+    "id": "rr.p0309.t01",
+    "pdf_page": 309,
+    "chapter_id": "06",
+    "block_order": 16,
+    "row_count": 6,
+    "column_count": 2,
+    "source_markup": "| ADJUSTED DIE ROLL | RESULT |\n| --- | --- |\n| 2- | Frightened Retreat |\n| 3 – 5 | Morale Faltering |\n| 6 – 8 | Fight On |\n| 9 – 11 | Advance and Pursue |\n| 12+ | Victory or Death |"
+  },
+  {
+    "id": "rr.p0310.t01",
+    "pdf_page": 310,
+    "chapter_id": "06",
+    "block_order": 2,
+    "row_count": 4,
+    "column_count": 4,
+    "source_markup": "|  | MOUNT MOVED | MOUNT STATIONARY | MOUNT CHARGED |\n| --- | --- | --- | --- |\n| **Rider** | Can attack if passenger<br>and mount don’t | Can attack if mount doesn’t | Can attack |\n| **Passenger** | Can attack if rider and mount don’t | Can attack if mount doesn’t | Can attack |\n| **Mount** | Can attack if rider and passenger don’t | Can attack if rider and passenger don’t;<br>Can move after rider’s missile attack | Can usually attack if war-trained |"
+  },
+  {
+    "id": "rr.p0311.t01",
+    "pdf_page": 311,
+    "chapter_id": "06",
+    "block_order": 2,
+    "row_count": 4,
+    "column_count": 3,
+    "source_markup": "|  | VEHICLE DIDN’T CHARGE | VEHICLE CHARGED |\n| --- | --- | --- |\n| **Driver** | Can attack | Cannot attack |\n| **Passenger** | Can attack | Can melee attack |\n| **Transporters** | Can attack if carrying vehicle on back | Can melee attack if carrying on back or pulling vehicle |"
+  },
+  {
+    "id": "rr.p0312.t01",
+    "pdf_page": 312,
+    "chapter_id": "06",
+    "block_order": 18,
+    "row_count": 30,
+    "column_count": 3,
+    "source_markup": "| MONSTER HD | BASE XP | BONUS XP/ABILITY |\n| --- | --- | --- |\n| Less than 1 | 5 | 1 |\n| 1 | 10 | 3 |\n| 1+ | 15 | 6 |\n| 2 | 20 | 9 |\n| 2+ | 35 | 12 |\n| 3 | 50 | 15 |\n| 3+ | 65 | 35 |\n| 4 | 80 | 55 |\n| 4+ | 140 | 75 |\n| 5 | 200 | 150 |\n| 5+ | 260 | 200 |\n| 6 | 320 | 250 |\n| 6+ | 380 | 300 |\n| 7 | 440 | 350 |\n| 7+ | 500 | 400 |\n| 8 | 600 | 500 |\n| 9 | 700 | 600 |\n| 10 | 850 | 700 |\n| 11 | 1,000 | 800 |\n| 12 | 1,200 | 900 |\n| 13 | 1,400 | 1,000 |\n| 14 | 1,600 | 1,100 |\n| 15 | 1,800 | 1,200 |\n| 16 | 2,000 | 1,300 |\n| 17 | 2,200 | 1,400 |\n| 18 | 2,400 | 1,500 |\n| 19 | 2,600 | 1,600 |\n| 20 | 2,800 | 1,800 |\n| 21\\* | 3,000 | 2,000 |"
+  }
+]

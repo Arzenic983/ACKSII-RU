@@ -1,0 +1,164 @@
+{
+  "book": "ACKS II Revised Rulebook",
+  "chapter_id": "08",
+  "physical_pdf_pages": [
+    386,
+    407
+  ],
+  "date": "2026-10-17",
+  "first_id": "rr.p0386.b001",
+  "last_id": "rr.p0407.b024",
+  "units": 831,
+  "by_kind": {
+    "heading": 63,
+    "paragraph": 293,
+    "table_cell": 389,
+    "verse": 1,
+    "list_item": 85
+  },
+  "completeness": {
+    "all_source_ids_translated": true,
+    "missing_ids": [],
+    "extra_ids": [],
+    "blank_translations": []
+  },
+  "source_snapshot_sha256": "71c8c0724960e2da844ab46b60a3c38e9b31e34aa1988c2bb363a6fba03a4e45",
+  "source_verification": "Все id/chapter_id/english/source_sha256/revision сверены с текущей SQLite в режиме mode=ro. SHA-256 английского текста пересчитан. Источник и база не изменялись.",
+  "semantic_review": "Переведены и повторно сопоставлены с английскими единицами все 831 единица диапазона. Сверены условия, исключения, способы оплаты исследований, пороги, риск, длительности, ограничения видов предметов, характеристики конструктов/гибридов/нежити и эффекты ритуалов. Исходные несогласованности сохранены с 14 примечаниями.",
+  "numeric_review": {
+    "ordered_numeric_tokens_equal": true,
+    "dice_signs_percentages_preserved": true,
+    "thousands_separators_normalized_for_comparison": true,
+    "editorial_english_labels_excluded": true,
+    "raw_asterisk_counts_equal": true,
+    "escaped_author_asterisk_counts_equal": true
+  },
+  "tables": [
+    {
+      "id": "rr.p0386.t01",
+      "rows": 21,
+      "columns": 8,
+      "translation_cells": 161,
+      "covered_positions": 168,
+      "unrepresented_empty_positions": 0
+    },
+    {
+      "id": "rr.p0390.t01",
+      "rows": 16,
+      "columns": 3,
+      "translation_cells": 48,
+      "covered_positions": 48,
+      "unrepresented_empty_positions": 0
+    },
+    {
+      "id": "rr.p0393.t01",
+      "rows": 19,
+      "columns": 4,
+      "translation_cells": 76,
+      "covered_positions": 76,
+      "unrepresented_empty_positions": 0
+    },
+    {
+      "id": "rr.p0399.t01",
+      "rows": 5,
+      "columns": 2,
+      "translation_cells": 10,
+      "covered_positions": 10,
+      "unrepresented_empty_positions": 0
+    },
+    {
+      "id": "rr.p0401.t01",
+      "rows": 4,
+      "columns": 5,
+      "translation_cells": 20,
+      "covered_positions": 20,
+      "unrepresented_empty_positions": 0
+    },
+    {
+      "id": "rr.p0403.t01",
+      "rows": 13,
+      "columns": 4,
+      "translation_cells": 52,
+      "covered_positions": 52,
+      "unrepresented_empty_positions": 0
+    },
+    {
+      "id": "rr.p0404.t01",
+      "rows": 11,
+      "columns": 2,
+      "translation_cells": 22,
+      "covered_positions": 22,
+      "unrepresented_empty_positions": 0
+    }
+  ],
+  "table_check": "HTML таблиц для структурной проверки построен с исходными координатами и объединениями. Независимый HTMLParser подтвердил координаты всех непустых ячеек и сохранение пустых позиций. Это не визуальная проверка Markdown.",
+  "bilingual_table_headers": {
+    "all_uppercase_source_text_headers_have_small_english": true,
+    "ids": [
+      "rr.p0386.t01.r001.c01",
+      "rr.p0386.t01.r001.c08",
+      "rr.p0386.t01.r002.c01",
+      "rr.p0386.t01.r002.c02",
+      "rr.p0386.t01.r002.c03",
+      "rr.p0386.t01.r002.c04",
+      "rr.p0386.t01.r002.c05",
+      "rr.p0390.t01.r001.c01",
+      "rr.p0390.t01.r001.c02",
+      "rr.p0390.t01.r001.c03",
+      "rr.p0393.t01.r001.c01",
+      "rr.p0393.t01.r001.c02",
+      "rr.p0393.t01.r001.c03",
+      "rr.p0393.t01.r001.c04",
+      "rr.p0399.t01.r001.c01",
+      "rr.p0399.t01.r001.c02",
+      "rr.p0401.t01.r001.c01",
+      "rr.p0401.t01.r001.c02",
+      "rr.p0401.t01.r001.c03",
+      "rr.p0401.t01.r001.c04",
+      "rr.p0401.t01.r001.c05",
+      "rr.p0403.t01.r001.c02",
+      "rr.p0403.t01.r001.c03",
+      "rr.p0403.t01.r001.c04",
+      "rr.p0404.t01.r001.c02"
+    ]
+  },
+  "glossary_review": "Сверены Глоссарий.md, релевантные записи glossary.json, bilingual_terms.md и термины главы 5. Slumber — Дремота; Darts — метательные стрелки; Monstrosity — Чудовищное создание. Arcane spellcaster — Тайный заклинатель, ARCANE — ТАЙНОЕ; Arcane power — Магическая сила. Новые формы term_map.json рабочие.",
+  "source_pdf_images_viewed": [
+    386,
+    393,
+    395,
+    403,
+    404,
+    407
+  ],
+  "visual_review_scope": "Точечно просмотрены полные изображения указанных физических PDF-страниц: таблицы, спорные числа, формулы и связи текста. Все 22 страницы оригинала визуально не вычитывались; визуальная проверка собранного русского Markdown не выполнялась.",
+  "notes_count": 14,
+  "notes_ids": [
+    "rr.p0386.b008",
+    "rr.p0386.t01.r001.c06",
+    "rr.p0386.t01.r008.c01",
+    "rr.p0386.t01.r013.c05",
+    "rr.p0388.b004",
+    "rr.p0389.b007",
+    "rr.p0390.b009",
+    "rr.p0391.b001",
+    "rr.p0395.b013",
+    "rr.p0398.b011",
+    "rr.p0399.b001",
+    "rr.p0401.b009",
+    "rr.p0402.b007",
+    "rr.p0407.b009"
+  ],
+  "human_approval": false,
+  "restrictions": [
+    "Только собственный подпакет .work/ch08-md/parts/p386_407/",
+    "Общие Markdown/CSV/JSONL/glossary/SQLite не изменялись",
+    "Коммит и импорт не выполнялись",
+    "Независимая вычитка другим агентом остаётся возможным дополнительным этапом"
+  ],
+  "rebuild_commands": [
+    "python .work/ch08-md/parts/p386_407/build_part.py",
+    "python .work/ch08-md/parts/p386_407/check_part.py",
+    "python .work/ch08-md/parts/p386_407/review_part.py"
+  ]
+}

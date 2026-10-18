@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-17",
+  "sources": {
+    "ACKSII/Глоссарий.md": "2065d5a3fdc063d30e0c50d316d34456b72268f3ba98ff310e9eff4a60f38ddc",
+    "ACKSII/База перевода/glossary.json": "1e6b128e349be9073c93387286363aea92c4dee614a877962d33b1c520027c8c",
+    "ACKSII/База перевода/bilingual_terms.md": "fe0f5a7ad7c30026b06881496649341a722775c176e2834f04747a37b39e482b"
+  },
+  "matched_project_entries": [
+    {
+      "english": "Attributes",
+      "russian": "Атрибуты",
+      "category": "Системные термины (несортированных)",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Proficiencies",
+      "russian": "Навыки",
+      "category": "Системные термины (несортированных)",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Stone",
+      "russian": "Стоун",
+      "category": "Системные термины (несортированных)",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Hit Points",
+      "russian": "Очки Здоровья",
+      "category": "Системные термины (несортированных)",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Mortal Wounds",
+      "russian": "смертельные раны",
+      "category": "Системные термины (несортированных)",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Listening",
+      "russian": "подслушивание",
+      "category": "Class Power Способности класса (стартовые и дополнительные)",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Paralysis",
+      "russian": "от паралича",
+      "category": "Saving throw - Спасбросок",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Death",
+      "russian": "от смерти",
+      "category": "Saving throw - Спасбросок",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Blast",
+      "russian": "от разрушений",
+      "category": "Saving throw - Спасбросок",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Implements",
+      "russian": "от артефактов",
+      "category": "Saving throw - Спасбросок",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Spells",
+      "russian": "от заклинаний",
+      "category": "Saving throw - Спасбросок",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Realm",
+      "russian": "Владение",
+      "category": "Места",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Domain",
+      "russian": "Домен",
+      "category": "Места",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Cleave",
+      "russian": "рассечение",
+      "category": "Особенности",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Hireling",
+      "russian": "Спутник",
+      "category": "НПС",
+      "status": "project_glossary"
+    },
+    {
+      "english": "Listening",
+      "russian": "Подслушивание",
+      "category": "▶ Навыки",
+      "status": "project_glossary"
+    }
+  ],
+  "working_terms": {
+    "Healing Rate": "Темп исцеления",
+    "Follower": "Последователь",
+    "Stronghold": "крепость (общее название)",
+    "Pouch": "Поясная сумка",
+    "ST": "СТ",
+    "SPD": "СКР",
+    "ENC": "НАГ"
+  },
+  "context_decisions": {
+    "Morale": "мораль Домена; боевой дух в карточке существа",
+    "Domain / Realm": "Домен / Владение",
+    "PP / EP": "ПМ / ЭМ",
+    "#AT": "Число атак"
+  },
+  "glossary_database_unchanged": true,
+  "human_approval": false
+}

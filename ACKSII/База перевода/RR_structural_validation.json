@@ -1,0 +1,318 @@
+{
+  "date": "2026-10-18",
+  "database": {
+    "integrity": "ok",
+    "foreign_key_errors": 0,
+    "history_errors": 0,
+    "search_errors": 0,
+    "english_hash_errors": 0,
+    "units": 30624,
+    "translations": 30624
+  },
+  "chapter_csv_missing": [],
+  "chapter_csv_differences": [],
+  "exports_match_database": true,
+  "EN_checked_pages_equal_database": 550,
+  "chapters": [
+    {
+      "id": "front_matter",
+      "file": "ACKSII\\Перевод Markdown\\00 Начало.md",
+      "pdf_pages": [
+        1,
+        13
+      ],
+      "unit_range": [
+        "rr.p0001.b001",
+        "rr.p0013.b006"
+      ],
+      "units": 1331,
+      "tables": 6,
+      "empty_cells_without_id": 0,
+      "notes": 12
+    },
+    {
+      "id": "01",
+      "file": "ACKSII\\Перевод Markdown\\01 Персонажи.md",
+      "pdf_pages": [
+        14,
+        23
+      ],
+      "unit_range": [
+        "rr.p0014.b001",
+        "rr.p0023.b012"
+      ],
+      "units": 358,
+      "tables": 9,
+      "empty_cells_without_id": 0,
+      "notes": 25
+    },
+    {
+      "id": "02",
+      "file": "ACKSII\\Перевод Markdown\\02 Классы.md",
+      "pdf_pages": [
+        24,
+        101
+      ],
+      "unit_range": [
+        "rr.p0024.b001",
+        "rr.p0101.b007"
+      ],
+      "units": 5963,
+      "tables": 74,
+      "empty_cells_without_id": 0,
+      "notes": 64
+    },
+    {
+      "id": "03",
+      "file": "ACKSII\\Перевод Markdown\\03 Навыки.md",
+      "pdf_pages": [
+        102,
+        123
+      ],
+      "unit_range": [
+        "rr.p0102.b001",
+        "rr.p0123.b019"
+      ],
+      "units": 704,
+      "tables": 10,
+      "empty_cells_without_id": 158,
+      "notes": 27
+    },
+    {
+      "id": "04",
+      "file": "ACKSII\\Перевод Markdown\\04 Снаряжение.md",
+      "pdf_pages": [
+        124,
+        179
+      ],
+      "unit_range": [
+        "rr.p0124.b001",
+        "rr.p0179.b020"
+      ],
+      "units": 4566,
+      "tables": 52,
+      "empty_cells_without_id": 84,
+      "notes": 34
+    },
+    {
+      "id": "05",
+      "file": "ACKSII\\Перевод Markdown\\05 Заклинания.md",
+      "pdf_pages": [
+        180,
+        263
+      ],
+      "unit_range": [
+        "rr.p0180.b001",
+        "rr.p0263.b024"
+      ],
+      "units": 2861,
+      "tables": 24,
+      "empty_cells_without_id": 13,
+      "notes": 280
+    },
+    {
+      "id": "06",
+      "file": "ACKSII\\Перевод Markdown\\06 Приключения.md",
+      "pdf_pages": [
+        264,
+        315
+      ],
+      "unit_range": [
+        "rr.p0264.b001",
+        "rr.p0315.b013"
+      ],
+      "units": 2144,
+      "tables": 33,
+      "empty_cells_without_id": 2,
+      "notes": 51
+    },
+    {
+      "id": "07",
+      "file": "ACKSII\\Перевод Markdown\\07 Плавания.md",
+      "pdf_pages": [
+        316,
+        333
+      ],
+      "unit_range": [
+        "rr.p0316.b001",
+        "rr.p0333.t01.r017.c02"
+      ],
+      "units": 964,
+      "tables": 13,
+      "empty_cells_without_id": 1,
+      "notes": 17
+    },
+    {
+      "id": "08",
+      "file": "ACKSII\\Перевод Markdown\\08 Кампании.md",
+      "pdf_pages": [
+        334,
+        427
+      ],
+      "unit_range": [
+        "rr.p0334.b001",
+        "rr.p0427.b018"
+      ],
+      "units": 4906,
+      "tables": 79,
+      "empty_cells_without_id": 1,
+      "notes": 78
+    },
+    {
+      "id": "09",
+      "file": "ACKSII\\Перевод Markdown\\09 Армии.md",
+      "pdf_pages": [
+        428,
+        447
+      ],
+      "unit_range": [
+        "rr.p0428.b001",
+        "rr.p0446.t01.r037.c08"
+      ],
+      "units": 3179,
+      "tables": 17,
+      "empty_cells_without_id": 170,
+      "notes": 17
+    },
+    {
+      "id": "10",
+      "file": "ACKSII\\Перевод Markdown\\10 Манёвры.md",
+      "pdf_pages": [
+        448,
+        461
+      ],
+      "unit_range": [
+        "rr.p0448.b001",
+        "rr.p0461.b018"
+      ],
+      "units": 521,
+      "tables": 14,
+      "empty_cells_without_id": 9,
+      "notes": 21
+    },
+    {
+      "id": "11",
+      "file": "ACKSII\\Перевод Markdown\\11 Сражения.md",
+      "pdf_pages": [
+        462,
+        473
+      ],
+      "unit_range": [
+        "rr.p0462.b001",
+        "rr.p0473.b013"
+      ],
+      "units": 618,
+      "tables": 11,
+      "empty_cells_without_id": 6,
+      "notes": 17
+    },
+    {
+      "id": "12",
+      "file": "ACKSII\\Перевод Markdown\\12 Осады.md",
+      "pdf_pages": [
+        474,
+        487
+      ],
+      "unit_range": [
+        "rr.p0474.b001",
+        "rr.p0487.t01.r015.c02"
+      ],
+      "units": 809,
+      "tables": 9,
+      "empty_cells_without_id": 6,
+      "notes": 21
+    },
+    {
+      "id": "A",
+      "file": "ACKSII\\Перевод Markdown\\A Сеттинг.md",
+      "pdf_pages": [
+        488,
+        507
+      ],
+      "unit_range": [
+        "rr.p0488.b001",
+        "rr.p0507.b005"
+      ],
+      "units": 344,
+      "tables": 2,
+      "empty_cells_without_id": 0,
+      "notes": 20
+    },
+    {
+      "id": "B",
+      "file": "ACKSII\\Перевод Markdown\\B Состояния.md",
+      "pdf_pages": [
+        508,
+        517
+      ],
+      "unit_range": [
+        "rr.p0508.b001",
+        "rr.p0517.b012"
+      ],
+      "units": 283,
+      "tables": 0,
+      "empty_cells_without_id": 0,
+      "notes": 20
+    },
+    {
+      "id": "C",
+      "file": "ACKSII\\Перевод Markdown\\C Раны и страдания.md",
+      "pdf_pages": [
+        518,
+        531
+      ],
+      "unit_range": [
+        "rr.p0518.b001",
+        "rr.p0530.t01.r009.c08"
+      ],
+      "units": 827,
+      "tables": 11,
+      "empty_cells_without_id": 0,
+      "notes": 25
+    },
+    {
+      "id": "D",
+      "file": "ACKSII\\Перевод Markdown\\D Материалы.md",
+      "pdf_pages": [
+        532,
+        537
+      ],
+      "unit_range": [
+        "rr.p0532.b001",
+        "rr.p0537.b011"
+      ],
+      "units": 163,
+      "tables": 6,
+      "empty_cells_without_id": 17,
+      "notes": 12
+    },
+    {
+      "id": "E",
+      "file": "ACKSII\\Перевод Markdown\\E Предметный указатель.md",
+      "pdf_pages": [
+        538,
+        550
+      ],
+      "unit_range": [
+        "rr.p0538.b001",
+        "rr.p0550.b002"
+      ],
+      "units": 83,
+      "tables": 0,
+      "empty_cells_without_id": 0,
+      "notes": 10
+    }
+  ],
+  "render_comparison_candidates": 0,
+  "documented_render_additions": [
+    {
+      "id": "rr.p0320.b013",
+      "source_sha256": "c2e548eb371d54d5c91f71f15fc0e6e360a6f069165b8de962729238f0227da7",
+      "extra_visible_text": "Подписи схемы: ветер [Wind]; крутой бейдевинд [Close Hauled] ×1/3; галфвинд [Beam Reach] ×1/2; бакштаг [Broad Reach] ×2/3; фордевинд [Run] ×1; лавировка [Tacking] ×2/9. Угол между направлением против ветра и каждым курсом крутого бейдевинда [Close Hauled] — 30°.",
+      "reason": "Русская легенда исходного изображения схемы; все 5 множителей и угол сверены с изображением PDF 320. Текст базовой единицы сохранён полностью."
+    }
+  ],
+  "tables_geometry_verified": 370,
+  "notes_in_full_chapters": 751,
+  "limits": "Структурная проверка и нормализованное сопоставление отображаемого текста не являются новой полной смысловой или визуальной вычиткой."
+}

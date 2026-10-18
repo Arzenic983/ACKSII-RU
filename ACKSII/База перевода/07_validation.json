@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-16",
+  "chapter": "07",
+  "scope": "PDF 316–333; rr.p0316.b001–rr.p0333.t01.r017.c02",
+  "translated_units": 964,
+  "chapter_units": 964,
+  "next_unit": null,
+  "status": "reviewed_by_Codex",
+  "checks": {
+    "source_fields_and_revision_match_readonly_database": true,
+    "source_sha256": true,
+    "numeric_tokens_normalizing_thousands_separators": true,
+    "emphasis_markers_match_source": true,
+    "author_note_markers_match_source": true,
+    "previous_translations_preserved": true,
+    "csv_jsonl_roundtrip": true,
+    "markdown_unit_order": true,
+    "unique_anchors": true,
+    "english_heading_lines": 65,
+    "markdown_and_package_text_match_without_english_labels": true,
+    "table_coordinates_and_spans_after_html_parse": true,
+    "rendered_unit_text_matches_database": true,
+    "other_chapters_unchanged_after_integration": true,
+    "integrated_russian_and_status_match_package": true,
+    "source_unit_count": 964,
+    "dice_percentages_and_signed_modifiers": true
+  },
+  "database_changed": true,
+  "tables_in_fragment": 13,
+  "table_geometry": {
+    "rr.p0317.t01": {
+      "rows": 8,
+      "columns": 9,
+      "source_cells": 72,
+      "missing_empty_positions": 0
+    },
+    "rr.p0319.t01": {
+      "rows": 22,
+      "columns": 14,
+      "source_cells": 297,
+      "missing_empty_positions": 1
+    },
+    "rr.p0320.t01": {
+      "rows": 10,
+      "columns": 2,
+      "source_cells": 20,
+      "missing_empty_positions": 0
+    },
+    "rr.p0321.t01": {
+      "rows": 7,
+      "columns": 6,
+      "source_cells": 42,
+      "missing_empty_positions": 0
+    },
+    "rr.p0322.t01": {
+      "rows": 6,
+      "columns": 5,
+      "source_cells": 30,
+      "missing_empty_positions": 0
+    },
+    "rr.p0322.t02": {
+      "rows": 4,
+      "columns": 2,
+      "source_cells": 8,
+      "missing_empty_positions": 0
+    },
+    "rr.p0325.t01": {
+      "rows": 7,
+      "columns": 2,
+      "source_cells": 14,
+      "missing_empty_positions": 0
+    },
+    "rr.p0325.t02": {
+      "rows": 14,
+      "columns": 4,
+      "source_cells": 56,
+      "missing_empty_positions": 0
+    },
+    "rr.p0326.t01": {
+      "rows": 17,
+      "columns": 2,
+      "source_cells": 34,
+      "missing_empty_positions": 0
+    },
+    "rr.p0330.t01": {
+      "rows": 10,
+      "columns": 5,
+      "source_cells": 50,
+      "missing_empty_positions": 0
+    },
+    "rr.p0330.t02": {
+      "rows": 10,
+      "columns": 2,
+      "source_cells": 20,
+      "missing_empty_positions": 0
+    },
+    "rr.p0332.t01": {
+      "rows": 7,
+      "columns": 2,
+      "source_cells": 14,
+      "missing_empty_positions": 0
+    },
+    "rr.p0333.t01": {
+      "rows": 17,
+      "columns": 2,
+      "source_cells": 34,
+      "missing_empty_positions": 0
+    }
+  },
+  "editor_notes": 17,
+  "chapter_complete": true,
+  "pdf_visual_review": {
+    "source_pdf_pages_inspected": [
+      319,
+      320,
+      321,
+      333
+    ],
+    "scope": "Изображения таблиц судов, курсов относительно ветра, ветра и осадки; полный PDF и все экраны Markdown не вычитывались."
+  },
+  "markdown_visual_review": false,
+  "database_translations": 18891
+}

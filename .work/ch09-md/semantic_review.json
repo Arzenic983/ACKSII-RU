@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-17",
+  "complete_semantic_review_by_Codex": true,
+  "basis": "Первичная смысловая сверка всех словесных единиц переводчиками; независимые отчёты и редакторская интеграция. Числовые копии сверены технически.",
+  "primary_reports": [
+    ".work\\ch09-md\\parts\\p430\\review.json",
+    ".work\\ch09-md\\parts\\p431_434\\review.json",
+    ".work\\ch09-md\\parts\\p435_438\\review.json",
+    ".work\\ch09-md\\parts\\p439_446\\review.json"
+  ],
+  "independent_reports": [
+    ".work\\ch09-md\\parts\\p431_434\\review_435_438.json",
+    ".work\\ch09-md\\parts\\p435_438\\review_439_446.json",
+    ".work\\ch09-md\\parts\\p439_446\\review_428_434.json"
+  ],
+  "independent_review_limitations": "Независимо сверены все словесные единицы PDF428–446. Чистые числовые копии охвачены полным техническим сравнением; это вычитка ИИ, без утверждения человеком.",
+  "root_corrections": "root_review.json",
+  "russian_full_visual_review": false,
+  "human_approval": false,
+  "independent_review_completed_after_user_limit_reset": true,
+  "russian_visual_samples": [
+    430,
+    442,
+    444,
+    446
+  ]
+}

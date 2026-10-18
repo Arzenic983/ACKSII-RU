@@ -71,10 +71,10 @@
     "title_ru": "Приключения",
     "first_pdf_page": 264,
     "last_pdf_page": 315,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 2144,
-    "translated_units": 0,
-    "pending_units": 2144
+    "translated_units": 2144,
+    "pending_units": 0
   },
   {
     "id": "07",
@@ -82,10 +82,10 @@
     "title_ru": "Плавания",
     "first_pdf_page": 316,
     "last_pdf_page": 333,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 964,
-    "translated_units": 0,
-    "pending_units": 964
+    "translated_units": 964,
+    "pending_units": 0
   },
   {
     "id": "08",
@@ -93,10 +93,10 @@
     "title_ru": "Кампании",
     "first_pdf_page": 334,
     "last_pdf_page": 427,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 4906,
-    "translated_units": 0,
-    "pending_units": 4906
+    "translated_units": 4906,
+    "pending_units": 0
   },
   {
     "id": "09",
@@ -104,10 +104,10 @@
     "title_ru": "Армии",
     "first_pdf_page": 428,
     "last_pdf_page": 447,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 3179,
-    "translated_units": 0,
-    "pending_units": 3179
+    "translated_units": 3179,
+    "pending_units": 0
   },
   {
     "id": "10",
@@ -115,10 +115,10 @@
     "title_ru": "Манёвры",
     "first_pdf_page": 448,
     "last_pdf_page": 461,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 521,
-    "translated_units": 0,
-    "pending_units": 521
+    "translated_units": 521,
+    "pending_units": 0
   },
   {
     "id": "11",
@@ -126,10 +126,10 @@
     "title_ru": "Сражения",
     "first_pdf_page": 462,
     "last_pdf_page": 473,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 618,
-    "translated_units": 0,
-    "pending_units": 618
+    "translated_units": 618,
+    "pending_units": 0
   },
   {
     "id": "12",
@@ -137,10 +137,10 @@
     "title_ru": "Осады",
     "first_pdf_page": 474,
     "last_pdf_page": 487,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 809,
-    "translated_units": 0,
-    "pending_units": 809
+    "translated_units": 809,
+    "pending_units": 0
   },
   {
     "id": "A",
@@ -148,10 +148,10 @@
     "title_ru": "Сеттинг",
     "first_pdf_page": 488,
     "last_pdf_page": 507,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 344,
-    "translated_units": 0,
-    "pending_units": 344
+    "translated_units": 344,
+    "pending_units": 0
   },
   {
     "id": "B",
@@ -159,10 +159,10 @@
     "title_ru": "Состояния",
     "first_pdf_page": 508,
     "last_pdf_page": 517,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 283,
-    "translated_units": 0,
-    "pending_units": 283
+    "translated_units": 283,
+    "pending_units": 0
   },
   {
     "id": "C",
@@ -170,10 +170,10 @@
     "title_ru": "Раны и страдания",
     "first_pdf_page": 518,
     "last_pdf_page": 531,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 827,
-    "translated_units": 0,
-    "pending_units": 827
+    "translated_units": 827,
+    "pending_units": 0
   },
   {
     "id": "D",
@@ -181,10 +181,10 @@
     "title_ru": "Материалы",
     "first_pdf_page": 532,
     "last_pdf_page": 537,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 163,
-    "translated_units": 0,
-    "pending_units": 163
+    "translated_units": 163,
+    "pending_units": 0
   },
   {
     "id": "E",
@@ -192,9 +192,9 @@
     "title_ru": "Предметный указатель",
     "first_pdf_page": 538,
     "last_pdf_page": 550,
-    "review_state": "pending",
+    "review_state": "reviewed_by_Codex",
     "source_units": 83,
-    "translated_units": 0,
-    "pending_units": 83
+    "translated_units": 83,
+    "pending_units": 0
   }
 ]

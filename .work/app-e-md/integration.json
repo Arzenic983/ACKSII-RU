@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-17",
+  "chapter": "E",
+  "units": 83,
+  "package_revision": 0,
+  "database_revision": 1,
+  "official_importer": "database_tools.py import-chapter",
+  "backup": "before_appendixE.sqlite.tmp",
+  "verify": "passed",
+  "other_chapters_and_sources_unchanged": true,
+  "translated_total": 30624
+}

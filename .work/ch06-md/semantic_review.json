@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-16",
+  "book": "Revised Rulebook",
+  "pdf_pages": [264, 315],
+  "reviewer": "Codex",
+  "reviewed_prose_units": 671,
+  "source_headings": 175,
+  "tables": 33,
+  "method": "Последовательная сверка английских единиц, исправление выровненных черновиков и новый перевод пропусков; отдельная сверка терминов, чисел, геометрии таблиц и межглавных ссылок.",
+  "complete_semantic_review_by_Codex": true,
+  "independent_second_reviewer": false,
+  "user_approved": false,
+  "pdf_images_inspected": [270, 278, 303],
+  "complete_visual_review": false
+}

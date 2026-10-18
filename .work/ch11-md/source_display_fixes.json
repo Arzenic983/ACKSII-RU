@@ -1,0 +1,4 @@
+{
+  "rr.p0465.t01.r001.c01": {"english_display": "Troop Type", "original": "TROOP TTYPE", "evidence": "PDF 465 image inspected; source English untouched"},
+  "rr.p0465.t01.r003.c05": {"numeric_source": "0.5", "original": "0. 5", "evidence": "PDF 465 image inspected; actual value 0.5, spurious extraction space removed in Russian"}
+}
